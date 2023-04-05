@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TranslationTable_XML xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <entry>
+    <key>SlateScientist5_Were the structures on Dark Bramble always there?</key>
+    <value>闇のイバラの構造物は以前からずっとあったのか？</value>
+  </entry>
+  <entry>
+    <key>ScientistAnswerNEW_Well... yeah.</key>
+    <value>えぇと、...ああ。</value>
+  </entry>
+  <entry>
+    <key>ScientistAnswerNEW_You know the little Anglerfish in the Museum? It got caught on the landing gear of one of our ships when it was flying close to get a good look at the structures, remember?</key>
+    <value>博物館にある小型のアンコウは知っているよな？ アイツは、あの構造物をよく見ようと近くを飛行していたときに探査艇の着陸装置に引っかかったんだが、...覚えているよな？</value>
+  </entry>
+  <entry>
+    <key>ScientistAnswerNEW_...I think you need to wake up a bit from your pre-launch campout. Do a couple of jumps, maybe.</key>
+    <value>...私が思うに、出発前のキャンプから少し目を覚ます必要があるな。ジャンプを2回くらいしてみたらどうだ？</value>
+  </entry>
+  <table_shipLog>
+    <key>Where a Nomai named ’Datura’ first landed on Dark Bramble and set up camp.</key>
+    <value>Daturaという名のNomaiが闇のイバラで最初に着陸し、キャンプ場とした場所。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Datura also discovered that Anglerfish are blind.</key>
+    <value>Daturaはアンコウの目が見えないことも発見した。</value>
+  </table_shipLog>
+</TranslationTable_XML>
