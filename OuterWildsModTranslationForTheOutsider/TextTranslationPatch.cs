@@ -22,29 +22,29 @@ namespace TranslationForTheOutsider {
                 xmlDoc.LoadXml(ReadAndRemoveByteOrderMarkFromPath(path));
                 var translationTableNode = xmlDoc.SelectSingleNode("TranslationTable_XML");
 
-                foreach(var item in __instance.m_table.theTable) {
-                    TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"theTable's 1st key: {item.Key}, value: {item.Value}");
-                    break;
-                }
-
-                foreach(var item in __instance.m_table.theTable) {
-                    if(item.Key.Contains("This anglerfish specimen was found attached")) {
-                        TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"This anglerfish ... key: {item.Key}, value: {item.Value}");
-                        break;
-                    }
-                }
-
-                foreach(var item in __instance.m_table.theShipLogTable) {
-                    TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"theShipLogTable's 1st key: {item.Key}, value: {item.Value}");
-                    break;
-                }
+//                foreach(var item in __instance.m_table.theTable) {
+//                    TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"theTable's 1st key: {item.Key}, value: {item.Value}");
+//                    break;
+//                }
+//
+//                foreach(var item in __instance.m_table.theTable) {
+//                    if(item.Key.Contains("This anglerfish specimen was found attached")) {
+//                        TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"This anglerfish ... key: {item.Key}, value: {item.Value}");
+//                        break;
+//                    }
+//                }
+//
+//                foreach(var item in __instance.m_table.theShipLogTable) {
+//                    TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"theShipLogTable's 1st key: {item.Key}, value: {item.Value}");
+//                    break;
+//                }
 
                 foreach(XmlNode node in translationTableNode.SelectNodes("entry")) {
                     var key = node.SelectSingleNode("key").InnerText;
                     var value = node.SelectSingleNode("value").InnerText;
 
                     __instance.m_table.theTable[key] = value;
-                    TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"key: {key}, value: {value}");
+                    //TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"key: {key}, value: {value}");
                 }
 
                 foreach(XmlNode node in translationTableNode.SelectNodes("table_shipLog")) {
@@ -52,7 +52,7 @@ namespace TranslationForTheOutsider {
                     var value = node.SelectSingleNode("value").InnerText;
 
                     __instance.m_table.theShipLogTable[key] = value;
-                    TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"key: {key}, value: {value}");
+                    //TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"key: {key}, value: {value}");
                 }
             }
         }
@@ -63,11 +63,18 @@ namespace TranslationForTheOutsider {
             if(__instance.m_table.Get(key) == null) {
                 TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"key not contained in m_table: {key}");
             }
-            //if(key.Contains("Dark")) {
-                //TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"key containing `Dark`: {key}");
-            //}
             return true;
         }
+
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(TextTranslation), nameof(TextTranslation._Translate_ShipLog))]
+        public static bool TextTranslation_Translate_ShipLog_Prefix(string key, TextTranslation __instance) {
+            if(__instance.m_table.GetShipLog(key) == null) {
+                TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"key not contained in m_table(ship): {key}");
+            }
+            return true;
+        }
+
 
         public static string ReadAndRemoveByteOrderMarkFromPath(string path) {
             // this code is from https://github.com/xen-42/outer-wilds-localization-utility/blob/6cf4eb784c06237820d318b4ce22ac30da4acac1/LocalizationUtility/Patches/TextTranslationPatches.cs#L198-L209

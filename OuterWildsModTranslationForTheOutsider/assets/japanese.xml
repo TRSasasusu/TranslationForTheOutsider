@@ -17,11 +17,87 @@
     <value>...私が思うに、出発前のキャンプから少し目を覚ます必要があるな。ジャンプを2回くらいしてみたらどうだ？</value>
   </entry>
   <table_shipLog>
-    <key>Where a Nomai named ’Datura’ first landed on Dark Bramble and set up camp.</key>
+    <key>Eye of the Universe</key>
+    <value>宇宙の眼</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Cliffside Home</key>
+    <value>崖上の家</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Northern Observatory</key>
+    <value>北部観測所</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Study Tower</key>
+    <value>研究塔</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Top of the Tower</key>
+    <value>塔の頂上</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Bramble Village</key>
+    <value>イバラの村</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Secret Room</key>
+    <value>隠された部屋</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Secluded Structure</key>
+    <value>密閉された構造物</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Inside the Structure</key>
+    <value>構造物の内側</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Shuttle Crusher</key>
+    <value>シャトル破砕機</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Projection Pool House</key>
+    <value>プロジェクションプールの家</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Hunting Blind</key>
+    <value>狩り場</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>The Collector Mural</key>
+    <value>蒐集者の壁画</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Initial Campsite</key>
+    <value>初期のキャンプ場</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Bramble Power Station</key>
+    <value>イバラの動力ステーション</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Initial CampsiteWhere a Nomai named ’Datura’ first landed on Dark Bramble and set up camp.</key>
     <value>Daturaという名のNomaiが闇のイバラで最初に着陸し、キャンプ場とした場所。</value>
   </table_shipLog>
   <table_shipLog>
-    <key>Datura also discovered that Anglerfish are blind.</key>
+    <key>Initial CampsiteFeldspar left a recording here saying they explored around and had ’some ideas’ on how to get into places, and offers his help if I want it.</key>
+    <value>Feldsparは周辺を探索して、いくつかの場所へ入るための「アイデア」があり、望むなら助言をしよう、という記録を残した。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Hunting BlindDatura went exploring the depths of Dark Bramble. Partly to find... food.</key>
+    <value>Daturaは闇のイバラの内部を探索した。その目的は...食料を探すことだった。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Hunting BlindDatura also discovered that Anglerfish are blind.</key>
     <value>Daturaはアンコウの目が見えないことも発見した。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Hunting BlindOn telling the discovery to Yarrow, he was interested at first, but the conversation turned into a big argument.</key>
+    <value>その発見をYarrowに話すとはじめは興味を持ってくれたが、話は次第に大きな論争へと至ってしまった。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Hunting BlindDatura found the remains of the Nomai of Escape Pod 3, and his clan’s leader, Escall.</key>
+    <value>Daturaは脱出ポッド3のNomaiと、彼の一族のリーダーであるEscallの遺体を発見した。</value>
   </table_shipLog>
 </TranslationTable_XML>
