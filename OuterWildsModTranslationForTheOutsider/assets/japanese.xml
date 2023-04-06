@@ -16,6 +16,10 @@
     <key>ScientistAnswerNEW_...I think you need to wake up a bit from your pre-launch campout. Do a couple of jumps, maybe.</key>
     <value>...私が思うに、出発前のキャンプから少し目を覚ます必要があるな。ジャンプを2回くらいしてみたらどうだ？</value>
   </entry>
+  <entry>
+    <key>DATURA: Wooooooo! Finally finished building this stupid space station!</key>
+    <value>DATURA: うおーーーー！ついにこのバカげた宇宙ステーションを作り上げたぞ！</value>
+  </entry>
   <table_shipLog>
     <key>Eye of the Universe</key>
     <value>宇宙の眼</value>
@@ -34,7 +38,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Top of the Tower</key>
-    <value>塔の頂上</value>
+    <value>塔の最上部</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble Village</key>
@@ -66,15 +70,31 @@
   </table_shipLog>
   <table_shipLog>
     <key>The Collector Mural</key>
-    <value>蒐集者の壁画</value>
+    <value>拾集者の壁画</value>
   </table_shipLog>
   <table_shipLog>
     <key>Initial Campsite</key>
-    <value>初期のキャンプ場</value>
+    <value>初期キャンプ場</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble Power Station</key>
-    <value>イバラの動力ステーション</value>
+    <value>イバラ動力ステーション</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Bramble Power StationA power station that uses Bramble Seeds to connect all locations on Dark Bramble to a power source.</key>
+    <value>イバラの種を利用し、闇のイバラのすべての拠点を動力源に接続するステーション。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Bramble Power StationAccording to a Nomai computer, the ’Gravity Stability System’ has been disabled by a recent Coronal Mass Ejection from the sun that hit Dark Bramble.</key>
+    <value>Nomaiのコンピュータによると、闇のイバラを最近襲った太陽からのコロナ質量放出により、重力安定化システムが無効化された。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Bramble Power StationI used a switch to turn off power to one of the locations.</key>
+    <value>私はスイッチで1か所の動力を切った。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Bramble Power StationI fired a scout through a bramble seed and it exited out of another on Dark Bramble.</key>
+    <value>イバラの種に偵察機を発射したところ、闇のイバラの別の場所に出た。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Initial CampsiteWhere a Nomai named ’Datura’ first landed on Dark Bramble and set up camp.</key>
@@ -82,7 +102,11 @@
   </table_shipLog>
   <table_shipLog>
     <key>Initial CampsiteFeldspar left a recording here saying they explored around and had ’some ideas’ on how to get into places, and offers his help if I want it.</key>
-    <value>Feldsparは周辺を探索して、いくつかの場所へ入るための「アイデア」があり、望むなら助言をしよう、という記録を残した。</value>
+    <value>Feldsparは周辺を探索した。そして、いくつかの場所へ入るための「アイデア」があり、望むなら助言をするという記録を残した。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Hunting BlindDatura, needing a food supply, considered eating... the Anglerfish.</key>
+    <value>食料を必要とするDaturaは、...アンコウを食べることを考えた。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Hunting BlindDatura went exploring the depths of Dark Bramble. Partly to find... food.</key>
@@ -99,5 +123,113 @@
   <table_shipLog>
     <key>Hunting BlindDatura found the remains of the Nomai of Escape Pod 3, and his clan’s leader, Escall.</key>
     <value>Daturaは脱出ポッド3のNomaiと、彼の一族のリーダーであるEscallの遺体を発見した。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Shuttle CrusherDatura landed on Dark Bramble in a shuttle, which he didn’t know what to do with.</key>
+    <value>シャトルで闇のイバラに降り立ったDaturaは、シャトルをどうするか悩んだ。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Shuttle CrusherA Nomai called Datura created this to destroy his shuttle. After damaging the shuttle, its alarm went off, and exploded a while after.</key>
+    <value>Daturaという名のNomaiが、自分のシャトルを破壊するために作ったものだ。シャトルに損傷を与えた後、警報が響き渡り、しばらくして爆発した。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Shuttle CrusherSomeone referred to as ’Friend’ also wanted to destroy their ship. After damaging their ship, its alarm went off too. Datura remembered that he should just stand back and wait until it exploded.</key>
+    <value>Friendと呼ばれる人物も、自らの船を破壊しようとしていた。その船に損傷を与えると、同じく警報が発せられた。Daturaは、このまま爆発するまで待機していれば良いのだと思い出した。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Shuttle CrusherI used a switch to activate the crusher.</key>
+    <value>私はスイッチで破砕機を作動させた。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Shuttle CrusherIn a recording, Datura told his daughter Solanum about the Vessel crash.</key>
+    <value>DaturaがむすめのSolanumに船の墜落のことを話している記録が残されていた。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Bramble VillageDatura built a shelter for himself at the south pole.</key>
+    <value>Daturaは南極に自分のための居住地を作った。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Bramble VillageDatura teached Friend the Nomai language, and they teached him art.</key>
+    <value>DaturaはFriendにNomaiの言語を教え、Friendは彼に芸術を教えた。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Bramble VillageDatura argued at Yarrow that they should be finding a way to leave this star system. Datura, promising Filix he would return, left to Dark Bramble to find the Vessel.</key>
+    <value>DaturaはYarrowに、この星系を離れる方法を探すべきだと主張した。DaturaはFilixに必ず戻ると約束し、船を見つけるために闇のイバラへ向かった。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Bramble VillageDatura is pessimistic about the Eye, and believes it will destroy the universe if someone interacts with it.</key>
+    <value>Daturaは宇宙の眼について悲観的であり、誰かが眼に触れれば宇宙が破壊されると信じている。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Bramble VillageFriend is optimistic about the Eye, and believes it is the creator of universes.</key>
+    <value>Friendは宇宙の眼について楽観的であり、眼は宇宙の創造者であると信じている。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Bramble VillageIn Friend’s House, I found a staircase that leads down abruptly to a painting of a terrestrial world, with a blue ringed gas giant in the sky.</key>
+    <value>Friendの家にて、空に環を持つガス惑星が描かれている地上世界の壁画に向かって不意に伸びている階段を見つけた。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Secret RoomA secret room in Friend’s House contains an image revealing a hidden path behind a jellyfish surrounded by ice.</key>
+    <value>Friendの家の隠された部屋には、氷に囲まれたクラゲの奥の秘められた道を示す映像がある。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Secluded StructureA secret room in Friend’s House contains an image revealing a hidden path behind a jellyfish surrounded by ice.</key>
+    <value>Friendの家の隠された部屋には、氷に囲まれたクラゲの奥の秘められた道を示す映像がある。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Secret RoomDatura and Friend discussed their theories about the Eye, and suggested that they may both be partially true.</key>
+    <value>DaturaとFriendは宇宙の眼についてのそれぞれの説を議論し、どちらも部分的に真実である可能性を示唆した。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Secluded StructureThe entrance to this building appears to have been sealed. Datura theorised that only an explosion could create an opening.</key>
+    <value>この建物の入口は封じられているようだ。Daturaは、爆発でも起こらなければ開口部は作れないと考えた。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Secluded StructureIf I want to return here, I should use the Mark Location on HUD feature, like Slate told me about.</key>
+    <value>ここに戻りたいなら、Slateに教えてもらったようにHUDに位置をマークする機能を使うべきだろう。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Inside the StructureI found the remains of Friend... holding an artifact next to a green fire.</key>
+    <value>Friendの遺体を見つけた...。みどり色の火のそばで遺物を持っていた。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Inside the StructureDatura was curious what Friend was hiding from him and sneaked here. He found an artifact and green fire, tripped and knocked himself out, awaking on what appeared to be a different planet.</key>
+    <value>DaturaはFriendが何を隠しているのか気になり、ここに忍び込んだ。彼は遺物とみどり色の火を見つけ、つまずいて気を失うと、別の惑星のような場所で目覚めた。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Inside the StructureDatura came across Friend’s elders, and accidentally rang an alarm bell which woke one up.</key>
+    <value>DaturaはFriendの長老に出くわした。また、誤ってベルを響かせ1人を目覚めさせてしまった。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Inside the StructureHe was awoken by Friend, with some others having arrived on Dark Bramble.</key>
+    <value>彼はFriendに起こされた。そこには闇のイバラに到着した流れ者の住人達がいた。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Inside the StructureThey separated them from each other, containing Friend by sealing the entrance.</key>
+    <value>彼らは互いに引き離され、Friendは入口を閉ざされて封印された。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Cliffside HomeI found... the remains of Friend, holding an artifact next to a green fire.</key>
+    <value>Friendの遺体を見つけた...。みどり色の火のそばで遺物を持っていた。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Cliffside HomeI met Friend! They had to communicate using the Nomai language, as I can’t translate theirs.</key>
+    <value>Friendに会った！私が流れ者の言語を翻訳できないため、FriendはNomaiの言語を用いて意思伝通をしてくれた。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Cliffside HomeFor one of the security measures, Datura used a quantum shard to effect the Northern Observatory’s door, so I must not be looking at the door when entering.</key>
+    <value>セキュリティ対策の1つとして、Daturaは北部観測所の扉に量子のかけらを利用している。ゆえに、入るときは扉を見てはいけない。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Cliffside HomeThe Prisoner released the Eye’s signal briefly and was contained in the simulation. He was planned to be released into just the simulation with the others.</key>
+    <value>囚人は眼の信号を一時的に解放し、それから模擬現実に収容された。いずれは囚人も他の住人達と一緒に、模擬現実内ではあるものの解放される予定だった。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Cliffside HomeBy the time the Nomai arrived, Friend’s elders had ’decayed’ into the simulation. Only a small group of the youngest were still alive outside.</key>
+    <value>Nomaiが到着したときには、Friendの長老達は模擬現実内で朽ち果てた状態になっていた。外で生きているのは、ごく一部の最も若い住人達だけだった。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>The Collector MuralA mysterious planet that spewed out a deadly substance that was contained in water worlds and comets.</key>
+    <value>水の世界や彗星に含まれる致死性の物質を噴出した謎の惑星。</value>
   </table_shipLog>
 </TranslationTable_XML>
