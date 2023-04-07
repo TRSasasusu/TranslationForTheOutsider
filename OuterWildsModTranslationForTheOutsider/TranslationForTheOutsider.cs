@@ -18,10 +18,7 @@ namespace TranslationForTheOutsider {
 
         private void Start() {
             // Starting here, you'll have access to OWML's mod helper.
-            ModHelper.Console.WriteLine($"My mod {nameof(TranslationForTheOutsider)} is loaded!", MessageType.Success);
-
-            //var api = ModHelper.Interaction.TryGetModApi<ILocalizationAPI>("xen.LocalizationUtility");
-            //api.RegisterLanguage(this, "Japanese", "assets/japanese.xml");
+            ModHelper.Console.WriteLine($"{nameof(TranslationForTheOutsider)} is loaded!", MessageType.Success);
 
             // Example of accessing game code.
             LoadManager.OnCompleteSceneLoad += (scene, loadScene) => {

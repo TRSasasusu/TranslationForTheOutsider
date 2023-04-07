@@ -18,7 +18,7 @@
   </entry>
   <entry>
     <key>DATURA: Wooooooo! Finally finished building this stupid space station!</key>
-    <value>DATURA: うおーーーー！ついにこのバカげた宇宙ステーションを作り上げたぞ！</value>
+    <value>DATURA: うおーーーー！ ついにこのバカげた宇宙ステーションを作り上げたぞ！</value>
   </entry>
   <table_shipLog>
     <key>Eye of the Universe</key>
@@ -70,7 +70,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>The Collector Mural</key>
-    <value>拾集者の壁画</value>
+    <value>収拾者の壁画</value>
   </table_shipLog>
   <table_shipLog>
     <key>Initial Campsite</key>
@@ -145,6 +145,54 @@
     <value>DaturaがむすめのSolanumに船の墜落のことを話している記録が残されていた。</value>
   </table_shipLog>
   <table_shipLog>
+    <key>Projection Pool HouseA structure next to the Study Tower appears to have broken off and fallen into the planet somewhere.</key>
+    <value>研究塔に隣接した建物の橋が折れ、この惑星のどこかに落下しているように見える。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Projection Pool HouseDatura built a projection pool on an island west of his landing site to be able to talk to his wife and daughter.</key>
+    <value>Daturaはパートナーやむすめと話ができるよう、着陸地点の西にある島にプロジェクションプールを作った。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Projection Pool HouseDatura tried to leave Dark Bramble, but both shuttles were in use at that time.</key>
+    <value>Daturaは闇のイバラから発とうとしたが、そのときシャトルは2台とも使用中だった。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Projection Pool HouseDatura asked Bells to tell Solanum there was no need to rush, and to tell Filix that he was sorry and would see her again soon.</key>
+    <value>DaturaはBellsに、Solanumには急ぐ必要はない、Filixには申し訳ない、すぐにまた会える、と伝えてほしいと頼んだ。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Projection Pool HouseIn a damaged stone, Datura called the others to warn them about something. But, they already knew about it.</key>
+    <value>損傷したプロジェクションストーンにて、Daturaは何かを警告するために他のNomaiを呼んだ。しかし、彼らは既にそのことを知っているようだった。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Projection Pool HouseIn the undamaged stone, Datura tried to warn the others about the Interloper. But, they already knew about it.</key>
+    <value>損傷していないプロジェクションストーンにて、Daturaは侵入者について他のNomaiに警告しようとした。しかし、彼らは既にそのことを知っているようだった。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Projection Pool HouseDatura and Solanum planned to meet after he had finished something, and after she had returned from the Quantum Moon.</key>
+    <value>Daturaが何かを終え、そしてSolanumが量子の月から帰ってきた後に2人は合流するつもりだった。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Study TowerA Nomai named Datura discovered a spherical region in space where the stars flickered occasionally.</key>
+    <value>Daturaという名のNomaiは、時折星が明滅する球状の領域が宇宙空間に存在することを発見した。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Study TowerUpon meeting a being from another species, Datura helped build them a house at the South Pole.</key>
+    <value>異種族と出会ったDaturaは、南極に家を建てる手伝いをした。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Study TowerDatura discovered something that disturbed him, but he had to go his Observatory to confirm it.</key>
+    <value>Daturaは気になることを発見したが、それを確認するために観測所へ向かわなければならなかった。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Top of the TowerDatura added a second security measure to his Observatory. The door will remain shut if another space ship is on Dark Bramble’s surface.</key>
+    <value>Daturaは観測所に2つ目のセキュリティ対策を施した。闇のイバラの地表に他の宇宙船がある場合、その扉は閉じたままとなる。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Bramble VillageUpon meeting a being from another species, Datura helped build them a house at the South Pole.</key>
+    <value>異種族と出会ったDaturaは、南極に家を建てる手伝いをした。</value>
+  </table_shipLog>
+  <table_shipLog>
     <key>Bramble VillageDatura built a shelter for himself at the south pole.</key>
     <value>Daturaは南極に自分のための居住地を作った。</value>
   </table_shipLog>
@@ -214,7 +262,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeI met Friend! They had to communicate using the Nomai language, as I can’t translate theirs.</key>
-    <value>Friendに会った！私が流れ者の言語を翻訳できないため、FriendはNomaiの言語を用いて意思伝通をしてくれた。</value>
+    <value>Friendに会った！私が流れ者の言語を翻訳できないため、FriendはNomaiの言語を用いて意思伝達をしてくれた。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeFor one of the security measures, Datura used a quantum shard to effect the Northern Observatory’s door, so I must not be looking at the door when entering.</key>
@@ -229,7 +277,27 @@
     <value>Nomaiが到着したときには、Friendの長老達は模擬現実内で朽ち果てた状態になっていた。外で生きているのは、ごく一部の最も若い住人達だけだった。</value>
   </table_shipLog>
   <table_shipLog>
+    <key>The Collector MuralDatura mentioned something called ’The Collector,’ but didn’t elaborate.</key>
+    <value>Daturaは収拾者と呼ばれるものに言及したが、詳しくは語らなかった。</value>
+  </table_shipLog>
+  <table_shipLog>
     <key>The Collector MuralA mysterious planet that spewed out a deadly substance that was contained in water worlds and comets.</key>
     <value>水の世界や彗星に含まれる致死性の物質を噴出した謎の惑星。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Northern ObservatoryDatura discovered something that disturbed him, but he had to go his Observatory to confirm it.</key>
+    <value>Daturaは気になることを発見したが、それを確認するために観測所へ向かわなければならなかった。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Northern ObservatoryI found Datura’s body...</key>
+    <value>Daturaの遺体を発見した...。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Northern ObservatoryAt his projection pool, Datura attempted to warn the others of the Interloper, but they already knew about it.</key>
+    <value>プロジェクションプールでは、Daturaは他のNomaiに侵入者のことを警告しようとしたが、彼らは既にそのことを知っているようだった。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Northern ObservatoryDatura was able to get Solanum to be at the Quantum Moon’s sixth location as the Interloper arrived.</key>
+    <value>Daturaは、侵入者が到着したときに、Solanumがちょうど量子の月の第6の場所にいるように仕向けることができた。</value>
   </table_shipLog>
 </TranslationTable_XML>
