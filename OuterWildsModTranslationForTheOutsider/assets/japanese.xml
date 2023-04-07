@@ -17,8 +17,76 @@
     <value>...私が思うに、出発前のキャンプから少し目を覚ます必要があるな。ジャンプを2回くらいしてみたらどうだ？</value>
   </entry>
   <entry>
+    <key>FeldsparRecording_Trip 4, entry #... who cares. Crashes: 2. Boring crashes: 0.</key>
+    <value>トリップ4、エントリーNo…誰が気にする？墜落:2 うんざりするような墜落:0</value>
+  </entry>
+  <entry>
+    <key>FeldsparRecording_Well Dark Bramble, here I am! Saw what I though were two crashed ships over there, but it sorta looks intentional?</key>
+    <value>そう、闇のイバラ、ここに私はいる！ 向こうに壊れた2つの船が見えたが、あれはどうやら意図的なものに見えるな？</value>
+  </entry>
+  <entry>
+    <key>FeldsparRecording_One looks Nomaian but the other one I’ve got no clue.</key>
+    <value>1つはNomaiのものだが、もう1つはさっぱりわからない。</value>
+  </entry>
+  <entry>
+    <key>FeldsparRecording_I had a wander around, using these walkways. It’s quite peaceful, ignoring the Dark Bramble-y-ness of it all.</key>
+    <value>ここの歩道を使ってぶらついてみた。なかなか平和な感じじゃないか、闇のイバラっぽさを無視すれば。</value>
+  </entry>
+  <entry>
+    <key>FeldsparRecording_Some places I couldn’t get into - I have some ideas, so if anyone is listening to this and wants some help, come chat with me.</key>
+    <value>いくつか入れなかった場所があるものの-アイデアがある。もしこれを聴いていて、何か助言が欲しいなら私を訪ねるといい。</value>
+  </entry>
+  <entry>
+    <key>FeldsparRecording_...After I return, that is. Well, unless you’re as mad as I am, and want to come find me inside Dark Bramble!</key>
+    <value>…私が戻った後、にはなる。まあ、お前が私と同じように狂っていて、闇のイバラ内部で私を見つけに来るのでなければな！</value>
+  </entry>
+  <entry>
+    <key>FeldsparRecording_Anyway, off inside I go! To adventure!</key>
+    <value>とにかく、私は中へ行く！冒険へ！</value>
+  </entry>
+  <entry>
     <key>DATURA: Wooooooo! Finally finished building this stupid space station!</key>
     <value>DATURA: うおーーーー！ ついにこのバカげた宇宙ステーションを作り上げたぞ！</value>
+  </entry>
+  <entry>
+    <key>DATURA: Landed! Dark Bramble. Kinda cool. Kinda... spooky.</key>
+    <value>DATURA: 着陸した！ 闇のイバラ、ちょっと格好いい。ちょっと...不気味な感じ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Hmm. There’s nothing edible here. I brought some supplies, the ice will be good for water, but these brambles (I imagine) will only be useful as a building material...</key>
+    <value>DATURA: ふむ。ここには食べられるものがない。いくらか蓄えは持ってきていて、氷は水として使えるだろうが、イバラは(想像するに)建材としてしか使えないだろう...。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Well... This planet does have... anglerfish... in it... doesn’t it?</key>
+    <value>DATURA: まぁ...この星には...アンコウが...いる...んだろう？</value>
+  </entry>
+  <entry>
+    <key>DATURA: Not sure what I’m going to do with my shuttle. Suppose I’ll camp here for now. It’s actually quite nice! In this air pocket, anyway. Weird trees.</key>
+    <value>DATURA: シャトルをどうするかは決めていない。とりあえずここでキャンプしてみるか。実に良い感じだ！ このエアポケットではね。変な木がある。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Ugh. Yarrow... I know your intentions are good, but maybe it’s time to give up the obsession with the Eye. You know, the whole ’letting go’ thing everyone goes on about.</key>
+    <value>DATURA: うぅ、Yarrow...。気持ちはわかるが、そろそろ眼への執着を捨てたらどうだろう。君も知っているだろう、皆が言う「手放す」ということを。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Jetpacking around this planet is quite fun! I should keep a couple eyes on my fuel, though.</key>
+    <value>DATURA: この惑星をジェットパックで移動するのはとても楽しい！ だが、燃料の残りを「2つの」目で見続ける必要がある。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Last night, I had a dream of bridges connecting up all the ice islands... They were burning. And I was burning. But if I stay here a while, a non-burning variant could be useful.</key>
+    <value>DATURA: 昨晩、氷の島々を橋で繋ぐ夢を見た...。それは燃えていた。そして、俺も燃えていた。だが、しばらくここにいるならば燃えない変種が役に立つかもしれない。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Ahhh, this planet reminds me of one I went to with Filix. Gusty Gardens... Oh yeah, and Cosmic Cove! And...! Those... Those were good times.</key>
+    <value>DATURA: あぁ、この惑星はかつてFilixと行ったところを思い出させる。突風の庭園...。そうそう、宇宙の湾も！それから...！ あの頃は...あの頃は良い時代だった。</value>
+  </entry>
+  <entry>
+    <key>DATURA: But here I am on Dark Bramble! ...alone. ...Ugh, I have to focus. I’m on a mission!</key>
+    <value>DATURA: だが俺はここ闇のイバラにいる！ ...独りで。...うっ、集中しなくては。俺には使命がある！</value>
+  </entry>
+  <entry>
+    <key>Here lies my first house. Murdered by Giant’s Deep.</key>
+    <value>ここに私の最初の家がある。巨人の大海に大破させられた。</value>
   </entry>
   <table_shipLog>
     <key>Eye of the Universe</key>
