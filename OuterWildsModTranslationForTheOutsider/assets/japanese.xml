@@ -88,6 +88,38 @@
     <key>Here lies my first house. Murdered by Giant’s Deep.</key>
     <value>ここに私の最初の家がある。巨人の大海に大破させられた。</value>
   </entry>
+  <entry>
+    <key>DATURA: Hello? Yarrow! There’s-</key>
+    <value>DATURA:もしもし？Yarrow！そこに―</value>
+  </entry>
+  <entry>
+    <key>YARROW: Oh... hello. Hypothesis: Our failure with the Sun Station brought you here to ridicule me.</key>
+    <value>YARROW:あぁ…もしもし。仮説:太陽ステーションでの失敗をきっかけに私を嘲笑いに来たのだろう。</value>
+  </entry>
+  <entry>
+    <key><color=brown>SPIRE</color>: Uh... Hypothesis: it would be beneficial to you both if neither of you called each other anymore.</key>
+    <value><color=brown>SPIRE</color>:うっ…仮説:もうお互いに通話しない方が2人のためになると思う。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I... Yarrow, are you alright? Yarrow? Hey, wait!</key>
+    <value>DATURA:私は…Yarrow、大丈夫か？Yarrow？おい、待てよ！</value>
+  </entry>
+  <entry>
+    <key><color=brown>SPIRE</color>: Oh, see you later, Yarrow! Don’t worry, we’ll figure it out! I believe in us! ...So, Datura, what is the true intent of your call?</key>
+    <value><color=brown>SPIRE</color>:あっ、またね、Yarrow！心配しないで、私たちは解決してみせる！そう信じてる！…それで、Datura、この通話の本当の目的は何ですか？</value>
+  </entry>
+  <entry>
+    <key>DATURA: Uh, th-there’s a comet coming! And it’s filled with-!</key>
+    <value>DATURA:うぅ、す、彗星が来るんだ！しかも、その彗星には―！</value>
+  </entry>
+  <entry>
+    <key><color=brown>SPIRE</color>: Oh, you observed the comet too? You and me both! We’ve actually already sent a shuttle to go check it out. But thanks anyway, Datura.</key>
+    <value><color=brown>SPIRE</color>:ああ、彗星も観測したんですね？私も同じくです！実はもうシャトルを送って確認に行ってるところなんです。でも、とにかくありがとう、Datura。</value>
+  </entry>
+  <entry>
+    <key><color=brown>SPIRE</color>: Well, I’m gonna catch up to Yarrow to see if he’s alright. See ya around! Don’t be a stranger, now!</key>
+    <value><color=brown>SPIRE</color>:さて、私はYarrowを捕まえて彼が大丈夫か確認してくるよ。ではまたね！よそよそしくなるな、ということ！</value>
+  </entry>
   <table_shipLog>
     <key>Eye of the Universe</key>
     <value>宇宙の眼</value>
