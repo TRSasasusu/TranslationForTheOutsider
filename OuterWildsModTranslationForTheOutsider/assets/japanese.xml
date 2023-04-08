@@ -53,12 +53,48 @@
     <key>Bramble Village</key>
     <value>イバラの村</value>
   </entry>
+  <entry>
+    <key>Initial Campsite and Shuttle Crusher</key>
+    <value>初期キャンプ場とシャトル破砕機</value>
+  </entry>
   <!-- Misc: End -->
-  <!-- Initial Campsite: 1st House: Start -->
+  <!-- Secret Poem: Start -->
+  <entry>
+    <key>FRIEND: Failure of communication,</key>
+    <value>FRIEND:意思伝達の失敗、</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Made worse by long duration.</key>
+    <value>FRIEND:長い期間を経て悪化の一途を辿る。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: In our minds, meaning of words undergo mutation,</key>
+    <value>FRIEND:私たちの心の中で、言葉の意味は変化を遂げていき、</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Until we live in worlds of fabrication.</key>
+    <value>FRIEND:偽りの世界で生きていくまで。</value>
+  </entry>
+  <!-- Secret Poem: End (You can check hidden meaning of this poem in `darkbundle` file.) -->
+  <!-- Bramble Station: Start -->
   <entry>
     <key>DATURA: Wooooooo! Finally finished building this stupid space station!</key>
     <value>DATURA:うおーーーー！ついにこのバカげた宇宙ステーションを作り上げたぞ！</value>
   </entry>
+  <entry>
+    <key>DATURA: Couldn’t have done it without you Friend! (And your ship!)</key>
+    <value>君がいなかったらできなかったことだ、Friend！(あと君の船もだ！)</value>
+  </entry>
+  <entry>
+    <key>DATURA: These seed things are great! Saved having to build giant long cables everywhere.</key>
+    <value>DATURA:この種というやつは素晴らしい！とてつもなく長いケーブルをあちこちに作らなくて済むようになった。</value>
+  </entry>
+  <entry>
+    <key>DATURA: It’s pretty cool, huh?</key>
+    <value>DATURA:なかなか格好いいじゃないか？</value>
+  </entry>
+  <!-- Bramble Station: End -->
+  <!-- Initial Campsite: 1st House: Start -->
   <entry>
     <key>DATURA: Landed! Dark Bramble. Kinda cool. Kinda... spooky.</key>
     <value>DATURA:着陸した！闇のイバラ、ちょっと格好いい。ちょっと…不気味な感じ。</value>
@@ -100,6 +136,20 @@
     <value>ここに最初の家がある。巨人の大海に大破させられたのだ。</value>
   </entry>
   <!-- Initial Campsite: 1st House: End -->
+  <!-- Initial Campsite: Three Panels: Start -->
+  <entry>
+    <key>DATURA: Right, the shuttle is just sitting here, and I can’t send it back without sending ME back, so...</key>
+    <value>DATURA:さて、シャトルはここに置かれていて、俺が乗らないことには送り返せない。それなら…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I’m gonna smash it to bits! It’ll be... symbolic.</key>
+    <value>DATURA:粉々に砕いてやる！それは、…象徴的なことなんだ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: You know, to say: I will not return until I have accomplished what I set out to do!</key>
+    <value>DATURA:何しろ、次のように言うためだ:俺は、自分がやろうとしたことを成し遂げるまで帰らない！</value>
+  </entry>
+  <!-- Initial Campsite: Three Panels: End -->
   <!-- Study Tower: Disturbing: Start -->
   <entry>
     <key>DATURA: Well this is a potentially disturbing discovery...</key>
@@ -273,6 +323,10 @@
     <value>イバラの種に偵察機を発射したところ、闇のイバラの別の場所に出た。</value>
   </table_shipLog>
   <table_shipLog>
+    <key>Initial CampsiteA campsite next to the Shuttle Crusher that I didn’t explore.</key>
+    <value>シャトル破砕機の隣にあるキャンプ場をまだ探索していない。</value>
+  </table_shipLog>
+  <table_shipLog>
     <key>Initial CampsiteWhere a Nomai named ’Datura’ first landed on Dark Bramble and set up camp.</key>
     <value>Daturaという名のNomaiが闇のイバラで最初に着陸し、キャンプ場とした場所。</value>
   </table_shipLog>
@@ -286,7 +340,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Hunting BlindDatura went exploring the depths of Dark Bramble. Partly to find... food.</key>
-    <value>Daturaは闇のイバラの内部を探索した。その目的は...食料を探すことだった。</value>
+    <value>Daturaは闇のイバラの内部を探索した。その目的は…食料を探すことだった。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Hunting BlindDatura also discovered that Anglerfish are blind.</key>
@@ -361,6 +415,14 @@
     <value>Daturaは気になることを発見したが、それを確認するために観測所へ向かわなければならなかった。</value>
   </table_shipLog>
   <table_shipLog>
+    <key>Top of the TowerThe stairs to the top of the Study Tower have collapsed.</key>
+    <value>研究塔の最上部への階段は崩壊している。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Top of the TowerI can see a wall with Nomai text through the window.</key>
+    <value>窓からNomaiの文字が書かれた壁が見える。</value>
+  </table_shipLog>
+  <table_shipLog>
     <key>Top of the TowerDatura added a second security measure to his Observatory. The door will remain shut if another space ship is on Dark Bramble’s surface.</key>
     <value>Daturaは観測所に2つ目のセキュリティ対策を施した。闇のイバラの地表に他の宇宙船がある場合、その扉は閉じたままとなる。</value>
   </table_shipLog>
@@ -414,7 +476,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureI found the remains of Friend... holding an artifact next to a green fire.</key>
-    <value>Friendの遺体を見つけた...。みどり色の火のそばで遺物を持っていた。</value>
+    <value>Friendの遺体を見つけた…。みどり色の火のそばで遺物を持っていた。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureDatura was curious what Friend was hiding from him and sneaked here. He found an artifact and green fire, tripped and knocked himself out, awaking on what appeared to be a different planet.</key>
@@ -434,7 +496,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeI found... the remains of Friend, holding an artifact next to a green fire.</key>
-    <value>Friendの遺体を見つけた...。みどり色の火のそばで遺物を持っていた。</value>
+    <value>Friendの遺体を見つけた…。みどり色の火のそばで遺物を持っていた。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeI met Friend! They had to communicate using the Nomai language, as I can’t translate theirs.</key>
@@ -461,12 +523,16 @@
     <value>水の世界や彗星に含まれる致死性の物質を噴出した謎の惑星。</value>
   </table_shipLog>
   <table_shipLog>
+    <key>Northern ObservatoryThere’s an Observatory on Dark Bramble’s north pole with two security measures keeping the door shut.</key>
+    <value>闇のイバラの北極に観測所があり、2つのセキュリティ対策により扉は閉じられている。</value>
+  </table_shipLog>
+  <table_shipLog>
     <key>Northern ObservatoryDatura discovered something that disturbed him, but he had to go his Observatory to confirm it.</key>
     <value>Daturaは気になることを発見したが、それを確認するために観測所へ向かわなければならなかった。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Northern ObservatoryI found Datura’s body...</key>
-    <value>Daturaの遺体を発見した...。</value>
+    <value>Daturaの遺体を発見した…。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Northern ObservatoryAt his projection pool, Datura attempted to warn the others of the Interloper, but they already knew about it.</key>
