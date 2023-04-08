@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <TranslationTable_XML xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- Misc: Start -->
   <entry>
     <key>SlateScientist5_Were the structures on Dark Bramble always there?</key>
     <value>闇のイバラの構造物は以前からずっとあったのか？</value>
@@ -10,7 +11,7 @@
   </entry>
   <entry>
     <key>ScientistAnswerNEW_You know the little Anglerfish in the Museum? It got caught on the landing gear of one of our ships when it was flying close to get a good look at the structures, remember?</key>
-    <value>博物館にある小型のアンコウは知っているよな？ アイツは、あの構造物をよく見ようと近くを飛行していたときに探査艇の着陸装置に引っかかったんだが、...覚えているよな？</value>
+    <value>博物館にある小型のアンコウは知っているよな？アイツは、あの構造物をよく見ようと近くを飛行していたときに探査艇の着陸装置に引っかかったんだが、...覚えているよな？</value>
   </entry>
   <entry>
     <key>ScientistAnswerNEW_...I think you need to wake up a bit from your pre-launch campout. Do a couple of jumps, maybe.</key>
@@ -22,7 +23,7 @@
   </entry>
   <entry>
     <key>FeldsparRecording_Well Dark Bramble, here I am! Saw what I though were two crashed ships over there, but it sorta looks intentional?</key>
-    <value>そう、闇のイバラ、ここに私はいる！ 向こうに壊れた2つの船が見えたが、あれはどうやら意図的なものに見えるな？</value>
+    <value>そう、闇のイバラ、ここに私はいる！向こうに壊れた2つの船が見えたが、あれはどうやら意図的なものに見えるな？</value>
   </entry>
   <entry>
     <key>FeldsparRecording_One looks Nomaian but the other one I’ve got no clue.</key>
@@ -34,7 +35,7 @@
   </entry>
   <entry>
     <key>FeldsparRecording_Some places I couldn’t get into - I have some ideas, so if anyone is listening to this and wants some help, come chat with me.</key>
-    <value>いくつか入れなかった場所があるものの-アイデアがある。もしこれを聴いていて、何か助言が欲しいなら私を訪ねるといい。</value>
+    <value>いくつか入れなかった場所があるものの―アイデアがある。もしこれを聞いていて、何か助言が欲しいなら私を訪ねるといい。</value>
   </entry>
   <entry>
     <key>FeldsparRecording_...After I return, that is. Well, unless you’re as mad as I am, and want to come find me inside Dark Bramble!</key>
@@ -45,49 +46,123 @@
     <value>とにかく、私は中へ行く！冒険へ！</value>
   </entry>
   <entry>
+    <key>Projection Pool House</key>
+    <value>プロジェクションプールの家</value>
+  </entry>
+  <entry>
+    <key>Bramble Village</key>
+    <value>イバラの村</value>
+  </entry>
+  <!-- Misc: End -->
+  <!-- Initial Campsite: 1st House: Start -->
+  <entry>
     <key>DATURA: Wooooooo! Finally finished building this stupid space station!</key>
-    <value>DATURA: うおーーーー！ ついにこのバカげた宇宙ステーションを作り上げたぞ！</value>
+    <value>DATURA:うおーーーー！ついにこのバカげた宇宙ステーションを作り上げたぞ！</value>
   </entry>
   <entry>
     <key>DATURA: Landed! Dark Bramble. Kinda cool. Kinda... spooky.</key>
-    <value>DATURA: 着陸した！ 闇のイバラ、ちょっと格好いい。ちょっと...不気味な感じ。</value>
+    <value>DATURA:着陸した！闇のイバラ、ちょっと格好いい。ちょっと…不気味な感じ。</value>
   </entry>
   <entry>
     <key>DATURA: Hmm. There’s nothing edible here. I brought some supplies, the ice will be good for water, but these brambles (I imagine) will only be useful as a building material...</key>
-    <value>DATURA: ふむ。ここには食べられるものがない。いくらか蓄えは持ってきていて、氷は水として使えるだろうが、イバラは(想像するに)建材としてしか使えないだろう...。</value>
+    <value>DATURA:ふむ。ここには食べられるものがない。いくらか備えは持ってきていて、氷は水として使えるだろうが、イバラは(想像するに)建材としてしか使えないだろう…。</value>
   </entry>
   <entry>
     <key>DATURA: Well... This planet does have... anglerfish... in it... doesn’t it?</key>
-    <value>DATURA: まぁ...この星には...アンコウが...いる...んだろう？</value>
+    <value>DATURA:まぁ…この星には…アンコウが…いる…んだろう？</value>
   </entry>
   <entry>
     <key>DATURA: Not sure what I’m going to do with my shuttle. Suppose I’ll camp here for now. It’s actually quite nice! In this air pocket, anyway. Weird trees.</key>
-    <value>DATURA: シャトルをどうするかは決めていない。とりあえずここでキャンプしてみるか。実に良い感じだ！ このエアポケットではね。変な木がある。</value>
+    <value>DATURA:シャトルをどうするかは決めていない。とりあえずここでキャンプしてみるか。実に良い感じだ！このエアポケットではね。変な木がある。</value>
   </entry>
   <entry>
     <key>DATURA: Ugh. Yarrow... I know your intentions are good, but maybe it’s time to give up the obsession with the Eye. You know, the whole ’letting go’ thing everyone goes on about.</key>
-    <value>DATURA: うぅ、Yarrow...。気持ちはわかるが、そろそろ眼への執着を捨てたらどうだろう。君も知っているだろう、皆が言う「手放す」ということを。</value>
+    <value>DATURA:うぅ、Yarrow…。気持ちはわかるが、そろそろ眼への執着を捨てたらどうだろう。君も知っているだろう、皆が言う「手放す」ということを。</value>
   </entry>
   <entry>
     <key>DATURA: Jetpacking around this planet is quite fun! I should keep a couple eyes on my fuel, though.</key>
-    <value>DATURA: この惑星をジェットパックで移動するのはとても楽しい！ だが、燃料の残りを「2つの」目で見続ける必要がある。</value>
+    <value>DATURA:この惑星をジェットパックで移動するのはとても楽しい！だが、燃料の残りを「2つ」の目は常に見続ける必要がある。</value>
   </entry>
   <entry>
     <key>DATURA: Last night, I had a dream of bridges connecting up all the ice islands... They were burning. And I was burning. But if I stay here a while, a non-burning variant could be useful.</key>
-    <value>DATURA: 昨晩、氷の島々を橋で繋ぐ夢を見た...。それは燃えていた。そして、俺も燃えていた。だが、しばらくここにいるならば燃えない変種が役に立つかもしれない。</value>
+    <value>DATURA:昨晩、氷の島々を橋で繋ぐ夢を見た…。それは燃えていた。そして、俺も燃えていた。だが、しばらくここにいるならば燃えない変種が役に立つかもしれない。</value>
   </entry>
   <entry>
     <key>DATURA: Ahhh, this planet reminds me of one I went to with Filix. Gusty Gardens... Oh yeah, and Cosmic Cove! And...! Those... Those were good times.</key>
-    <value>DATURA: あぁ、この惑星はかつてFilixと行ったところを思い出させる。突風の庭園...。そうそう、宇宙の湾も！それから...！ あの頃は...あの頃は良い時代だった。</value>
+    <value>DATURA:あぁ、この惑星はかつてFilixと行ったところを思い出させる。突風の庭園…。そうそう、宇宙の入りえも！それから…！ あの頃は…あの頃は良い時代だった。</value>
   </entry>
   <entry>
     <key>DATURA: But here I am on Dark Bramble! ...alone. ...Ugh, I have to focus. I’m on a mission!</key>
-    <value>DATURA: だが俺はここ闇のイバラにいる！ ...独りで。...うっ、集中しなくては。俺には使命がある！</value>
+    <value>DATURA:だが俺はここ闇のイバラにいる！…独りで。…うっ、集中しなくては。俺には使命がある！</value>
   </entry>
   <entry>
     <key>Here lies my first house. Murdered by Giant’s Deep.</key>
-    <value>ここに私の最初の家がある。巨人の大海に大破させられた。</value>
+    <value>ここに最初の家がある。巨人の大海に大破させられたのだ。</value>
   </entry>
+  <!-- Initial Campsite: 1st House: End -->
+  <!-- Study Tower: Disturbing: Start -->
+  <entry>
+    <key>DATURA: Well this is a potentially disturbing discovery...</key>
+    <value>DATURA:ふむ、これは気になる発見かもしれない…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I’ll have to see if I can confirm it in my &lt;color=orange&gt;Observatory&lt;/color&gt;... If this is what I think it is...</key>
+    <value>DATURA:&lt;color=orange&gt;観測所&lt;/color&gt;で確認してみなくては…。もしもこれが俺の思うものなら…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: No, surely it isn’t. It’s fine. Everything’s fine.</key>
+    <value>DATURA:いや、きっとそんなことはない。問題ない。何も問題ないんだ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...I should call my daughter...</key>
+    <value>DATURA:…むすめに通話するべきだな…。</value>
+  </entry>
+  <!-- Study Tower: Disturbing: End -->
+  <!-- Study Tower: Spherical Region: Start -->
+  <entry>
+    <key>DATURA: After crashing on Ember Twin, I saw... something strange up in space. I kept it to myself as no-one else seemed to notice it. Too distracted on, uh, surviving, I suppose.</key>
+    <value>DATURA:燃え盛る双子星に墜落した後、俺は…宇宙で何か奇妙なものを見た。誰も気づかなかったからか胸の内に秘めるだけにしていた。おそらく、ああ、生き残ることに集中しすぎたんだろう。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I’ve been attempting to locate what I saw. And hey, if I locate the Eye, then we can all return to our living quarters prematurely!</key>
+    <value>DATURA:あのとき見たものを探そうとしている。そう、もし眼が見つかれば、皆早々に本来の居住区に帰れるからな！</value>
+  </entry>
+  <entry>
+    <key>DATURA: An update: I’ve found it?! There’s a spherical region in space where the stars occasionally... flicker. As if those stars are... fake?</key>
+    <value>DATURA:最新情報:発見した？！宇宙空間に球状の領域があり、そこで星が時折…明滅している。その星はまるで…偽物？</value>
+  </entry>
+  <!-- Study Tower: Spherical Region: End -->
+  <!-- Study Tower: Meet Friend: Start -->
+  <entry>
+    <key>DATURA: WOAH! It appears we are not alone in this star system! Someone has just arrived here.</key>
+    <value>DATURA:ワオッ！この星系には俺たちだけしかいないわけではないらしい！誰かがここにちょうど来たようだ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: They sat on the walkway, and I sat with them, trying my best to comfort them - a happy person doesn’t come to Dark Bramble.</key>
+    <value>DATURA:その人物はここの歩道に座っていた。俺はともに座り、できる限りなぐさめようとした―闇のイバラに来たのは幸せな者ではなかったのだ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: It’s... nice to have company.</key>
+    <value>DATURA:そう…仲間がいるのは嬉しいことだ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I’m not sure how much we have in common, but I hope we can be friends.</key>
+    <value>DATURA:どこまで俺たちに共通点があるかはわからないが、友人になれたら良いと思っている。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Update: Seems like they’re staying for a while! I’ll start building a house for them at the &lt;color=orange&gt;South Pole&lt;/color&gt;.</key>
+    <value>DATURA:最新情報:どうやらしばらく留まるようだ！&lt;color=orange&gt;南極&lt;/color&gt;にさっそく家を作ろうと思う。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Before my clan crashed here, I had read about their species. If we could understand eachother’s languages, I’d love to hear their encounter with &lt;color=lightblue&gt;The Collector&lt;/color&gt; from their perspective.</key>
+    <value>DATURA:俺たちの一族がここに墜落する前に、彼らの種族について読んだことがある。もし言葉が通じるなら、彼らの視点での&lt;color=lightblue&gt;収拾者&lt;/color&gt;との遭遇について聞いてみたいところだ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: If it’s not a touchy subject, of course.</key>
+    <value>DATURA:もちろん、もしも触れられないような内容でなければだけれど。</value>
+  </entry>
+  <!-- Study Tower: Meet Friend: End -->
+  <!-- Projection Pool House: Ash Projection Stone: Start -->
   <entry>
     <key>DATURA: Hello? Yarrow! There’s-</key>
     <value>DATURA:もしもし？Yarrow！そこに―</value>
@@ -97,29 +172,30 @@
     <value>YARROW:あぁ…もしもし。仮説:太陽ステーションでの失敗をきっかけに私を嘲笑いに来たのだろう。</value>
   </entry>
   <entry>
-    <key><color=brown>SPIRE</color>: Uh... Hypothesis: it would be beneficial to you both if neither of you called each other anymore.</key>
-    <value><color=brown>SPIRE</color>:うっ…仮説:もうお互いに通話しない方が2人のためになると思う。</value>
+    <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Uh... Hypothesis: it would be beneficial to you both if neither of you called each other anymore.</key>
+    <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:うっ…仮説:もうお互いに通話しない方が2人のためになると思う。</value>
   </entry>
   <entry>
     <key>DATURA: I... Yarrow, are you alright? Yarrow? Hey, wait!</key>
     <value>DATURA:私は…Yarrow、大丈夫か？Yarrow？おい、待てよ！</value>
   </entry>
   <entry>
-    <key><color=brown>SPIRE</color>: Oh, see you later, Yarrow! Don’t worry, we’ll figure it out! I believe in us! ...So, Datura, what is the true intent of your call?</key>
-    <value><color=brown>SPIRE</color>:あっ、またね、Yarrow！心配しないで、私たちは解決してみせる！そう信じてる！…それで、Datura、この通話の本当の目的は何ですか？</value>
+    <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, see you later, Yarrow! Don’t worry, we’ll figure it out! I believe in us! ...So, Datura, what is the true intent of your call?</key>
+    <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:あっ、またね、Yarrow！心配しないで、私たちは解決してみせる！そう信じてる！…それで、Datura、この通話の本当の目的は何ですか？</value>
   </entry>
   <entry>
     <key>DATURA: Uh, th-there’s a comet coming! And it’s filled with-!</key>
     <value>DATURA:うぅ、す、彗星が来るんだ！しかも、その彗星には―！</value>
   </entry>
   <entry>
-    <key><color=brown>SPIRE</color>: Oh, you observed the comet too? You and me both! We’ve actually already sent a shuttle to go check it out. But thanks anyway, Datura.</key>
-    <value><color=brown>SPIRE</color>:ああ、彗星も観測したんですね？私も同じくです！実はもうシャトルを送って確認に行ってるところなんです。でも、とにかくありがとう、Datura。</value>
+    <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, you observed the comet too? You and me both! We’ve actually already sent a shuttle to go check it out. But thanks anyway, Datura.</key>
+    <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:ああ、彗星も観測したんですね？私も同じくです！実はもうシャトルを送って確認に行ってるところなんです。でも、とにかくありがとう、Datura。</value>
   </entry>
   <entry>
-    <key><color=brown>SPIRE</color>: Well, I’m gonna catch up to Yarrow to see if he’s alright. See ya around! Don’t be a stranger, now!</key>
-    <value><color=brown>SPIRE</color>:さて、私はYarrowを捕まえて彼が大丈夫か確認してくるよ。ではまたね！よそよそしくなるな、ということ！</value>
+    <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Well, I’m gonna catch up to Yarrow to see if he’s alright. See ya around! Don’t be a stranger, now!</key>
+    <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:さて、私はYarrowを捕まえて彼が大丈夫か確認してくるよ。ではまたね！よそよそしくなるな、ということ！</value>
   </entry>
+  <!-- Projection Pool House: Ash Projection Stone: End -->
   <table_shipLog>
     <key>Eye of the Universe</key>
     <value>宇宙の眼</value>
