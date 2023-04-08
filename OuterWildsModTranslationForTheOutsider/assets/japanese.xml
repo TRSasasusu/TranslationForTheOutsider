@@ -69,6 +69,10 @@
     <key>Initial Campsite and Shuttle Crusher</key>
     <value>初期キャンプ場とシャトル破砕機</value>
   </entry>
+  <entry>
+    <key>Anglerfish Hunting Blind</key>
+    <value>アンコウハントの隠れ家</value>
+  </entry>
   <!-- Misc: End -->
   <!-- Secret Poem: Start -->
   <entry>
@@ -77,7 +81,7 @@
   </entry>
   <entry>
     <key>FRIEND: Made worse by long duration.</key>
-    <value>FRIEND:長い期間を経て悪化の一途を辿る。</value>
+    <value>FRIEND:長い期間を経て悪化の一途をたどる。</value>
   </entry>
   <entry>
     <key>FRIEND: In our minds, meaning of words undergo mutation,</key>
@@ -160,7 +164,7 @@
     <value>ここに最初の家がある。巨人の大海に大破させられたのだ。</value>
   </entry>
   <!-- Initial Campsite: 1st House: End -->
-  <!-- Initial Campsite: Three Panels: Start -->
+  <!-- Shuttle Crusher: Three Panels: Start -->
   <entry>
     <key>DATURA: Right, the shuttle is just sitting here, and I can’t send it back without sending ME back, so...</key>
     <value>DATURA:さて、シャトルはここに置かれていて、俺が乗らないことには送り返せない。それなら…。</value>
@@ -179,7 +183,7 @@
   </entry>
   <entry>
     <key>DATURA: I used this smashy smashy device on the shuttle: which dented it, and set off the shuttle’s alarm, which was, well, alarming.</key>
-    <value>DATURA:シャトルにこのスマッシュ、スマッシュな装置を使用した:シャトルはへこみ、警報が、そう、警報が作動した。</value>
+    <value>DATURA:シャトルにこのスマッシュ、スマッシュな装置を使用した:シャトルはへこみ警報が、そう、警報が作動した。</value>
   </entry>
   <entry>
     <key>DATURA: And the warp core fell out, so I went over to grab it - might be useful, I thought. But after returning to the shelter here to use the device a second time, the shuttle blew up!</key>
@@ -201,13 +205,145 @@
     <key>DATURA: They told me that they were trying to recall it from the <![CDATA[<color=lightblue>Gravity Cannon</color>]]>, but the switch they had added wasn’t working for some reason, and told me to check if there was something up with my shuttle... Hahaha... Uh... Whoops...</key>
     <value>DATURA:重力砲からそのシャトルを呼び戻そうとしたものの、その追加したスイッチがなぜか機能しなかったようで、俺にシャトルに何か異常がないか確認するようにとのことだった…。ははは…。うぅ、おっと…。</value>
   </entry>
-  <!-- Initial Campsite: Three Panels: End -->
-  <!-- Initial Campsite: Crush Ship of Friend: Start -->
+  <!-- Shuttle Crusher: Three Panels: End -->
+  <!-- Shuttle Crusher: Crush Ship of Friend: Start -->
   <entry>
     <key>DATURA: Aha! It would seem Friend enjoys some symbolism too!</key>
     <value>DATURA:なるほど！Friendもあの象徴的なものを楽しむときが来たようだ！</value>
   </entry>
-  <!-- Initial Campsite: Crush Ship of Friend: End -->
+  <entry>
+    <key>DATURA: Friend asked why I've written and am writing my thoughts and leaving them around the place. I told them it's kinda a Nomai thing.</key>
+    <value>DATURA:Friendがなぜ俺が自分の考えを書いて、あちこちに置いているのかと聞いてきた。これはNomaiのある種の風習なんだ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Nomai are <![CDATA[<i>]]>(or are supposed to be)<![CDATA[</i>]]> nomads, so I suppose it's a way of telling other Nomai clans ’HA HA! We were here first!’</key>
+    <value>DATURA:Nomaiはnomads、遊牧民である<![CDATA[<i>]]>(はず)<![CDATA[</i>]]>なので、おそらく他のNomai部族に「はは！俺たちが先に来たんだよ！」と言うためだったのではないかと思っている。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Or warn them of dangers or cool stuff or something.</key>
+    <value>DATURA:もしくは危険なものとか格好いいものとか、そういうものを警告するためか。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Welp, time to destroy another ship! I used the machine just the once, which damaged their ship and caused the ship's alarm to go off. Remembering last time, I waited.</key>
+    <value>DATURA:さぁ、別の船を破壊する時間だ！俺は一度だけあの機械を使ってアイツの船に損傷を与え、船の警報を響かせた。そうして前回のことを思い出しながら、待つことにした。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Friend was a bit confused why I wasn't using the device again, but I assured them I knew what I was doing. We waited... and waited... then, bang! Their ship exploded too. Then they understood.</key>
+    <value>DATURA:Friendはなぜ俺が再び装置を使わないのか少し困惑していたが、俺は問題ないと断言した。俺たちは待っていた…、待っていた…、そしてバーンと音がした！アイツの船も爆発した。こうして何を待っていたのか理解してくれた。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Friend used to go off to their clan occasionally. Perhaps building a house here made it so they don't need to? Anyway, I'm glad you're here, Friend.</key>
+    <value>DATURA:以前は、Friendは時々自分の一族のもとへ帰っていた。それがここに家を建てたことで、その必要がなくなったのだろうか？ともあれ、君がここにいてくれて嬉しいよ、Friend。</value>
+  </entry>
+  <!-- Shuttle Crusher: Crush Ship of Friend: End -->
+  <!-- Shuttle Crusher: Call to Solanum: Start -->
+  <entry>
+    <key>DATURA: Hey little one! You’ll be off to the school on Brittle Hollow soon! (With no railings above a black hole.) I imagine you’ll be glad to get away from all this sand, eh?</key>
+    <value>DATURA:もしもし、私の可愛いむすめよ！もうすぐ脆い空洞の学校へ移動する頃か！(ブラックホールの上に手すりがないけど。)砂だらけのところから離れられるのは嬉しいだろうね？</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: Yeah, but I don’t like that Mom is going to be the teacher!</key>
+    <value>SOLANUM:うん、でもママが先生になるのは嫌だなぁ！</value>
+  </entry>
+  <entry>
+    <key>DATURA: Hahaha. Sometimes I wonder if Filix is intentionally doing this to you. Hypothesis: much embarrassment awaits you.</key>
+    <value>DATURA:ははは。Filixはわざとこうしてるんじゃないかなぁと思うことがあるよ。仮説:たくさんの恥ずかしさがSolanumを待っている。</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: Nooooooo! ...oh! I just remembered! I wanted to ask you about some things... The Eye? What is it? I keep hearing about it.</key>
+    <value>SOLANUM:嫌だぁーーーー！…あ！そうそう思い出したんだけど！ちょっと聞きたいことがあって…、眼？あれは何？ずっと聞こうと思ってて。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Oh, uh. Right. Well, let’s see... Filix detected a signal on the Vessel - a signal from something older than the universe. Spooky. And we can’t find the signal anymore, so... I mean that’s it really.</key>
+    <value>DATURA:あ、あー。そうだな、ふむ…。Filixは`船`である信号を検知した‐その信号は宇宙よりも古いというものだった。気味が悪いものだ。そして、その信号はもう見つかっていない。だから、…つまり、本当にそれだけなんだ。</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: The Vessel. That was the other thing! What happened to the Vessel?</key>
+    <value>SOLANUM:`船`。また別のものが出てきた！`船`はどうしてるの？</value>
+  </entry>
+  <entry>
+    <key>DATURA: Oh... Darling, that’s... not a happy story. Another time, maybe.</key>
+    <value>DATURA:あぁ…、可愛いむすめよ、それは…幸せなお話ではないよ。また、今度にしようか。</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: Aw! But I’m curious!</key>
+    <value>SOLANUM:ああ！でも気になる！</value>
+  </entry>
+  <entry>
+    <key>DATURA: You’re curious, are you? Well, alright. But don’t tell your mother I didn’t warn you.</key>
+    <value>DATURA:興味津々、かぁ。まあ、いいか。でも、お母さんには内緒にしておくように。</value>
+  </entry>
+  <entry>
+    <key>DATURA: So! I suppose I’ll tell it from my perspective. Ahem! I was once a crew member of: the Vessel - a moon-sized space ship capable of warping anywhere.</key>
+    <value>DATURA:では！俺の目線で語ることにしよう。オホン！俺はかつて`船`のクルーだった‐これはどこにでもワープができる月サイズの宇宙船だったんだ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I was reading in the library, when suddenly we warp! But, on our arrival there was a horrible screeching sound! We had crashed. I try to look for your mother, but I am forced onto an Escape Pod.</key>
+    <value>DATURA:俺は図書室で本を読んでいた、そしたら突然ワープしたんだ！だが、到着した瞬間、ものすごい金切り声がした！墜落したんだ。お母さんを探そうとしたけれど、俺は脱出ポッドに押し込められた。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I landed on Ember Twin, and Filix landed on Brittle Hollow. Both groups had to rebuild to survive.</key>
+    <value>DATURA:俺は燃え盛る双子星に、そしてFilixは脆い空洞に降り立った。2つのグループは双方ともに生き残るため再建を迫られた。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Many years passed until finally, a shuttle was sent from Brittle Hollow, and we were reunited. Us on Ember Twin were then told why we crashed, and about the Eye. After that, the... failed efforts to find the Eye began.</key>
+    <value>DATURA:それから長い年月が経ち、ついに脆い空洞からシャトルが送られてきて、俺たちは再会することができた。そして墜落の理由と、眼のことを聞かされた。その後、眼を探すための…、失敗の日々が始まった。</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: Did everyone get to an escape pod?!</key>
+    <value>SOLANUM:みんな脱出ポッドに乗れたの？！</value>
+  </entry>
+  <entry>
+    <key>DATURA: Uh... not quite everyone. Only three of the five escape pods were launched.</key>
+    <value>DATURA:うぅ…、全員というわけではない。5つの脱出ポッドのうち、たった3つしか発射されなかった。</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: Three? What happened to the third one?</key>
+    <value>SOLANUM:3つ？3つ目はどうしたの？</value>
+  </entry>
+  <entry>
+    <key>DATURA: Yeah, it... never got out of Dark Bramble.</key>
+    <value>DATURA:ああ、それは…、闇のイバラから抜け出せなかったんだ。</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: Are they alright?</key>
+    <value>SOLANUM:大丈夫なの？</value>
+  </entry>
+  <entry>
+    <key>DATURA: Uh, maybe! We haven’t been able to contact them yet, if they are still al... alright.</key>
+    <value>DATURA:ああ、多分！まだ連絡はとれてないが、もしまだ大…、大丈夫なら。</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: Oh...</key>
+    <value>SOLANUM:あぁ…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Well... I did warn you.</key>
+    <value>DATURA:えぇと…、約束は覚えているね？</value>
+  </entry>
+  <entry>
+    <key>FILIX: What are you two talking about?</key>
+    <value>FILIX:2人とも何を話してるの？</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: Dad told me about how everyone died on the Vessel.</key>
+    <value>SOLANUM:パパから、`船`でみんな死んじゃったって話を聞いたよ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Solanum! I did not say that!</key>
+    <value>DATURE:Solanum！そんなことは言ってない！</value>
+  </entry>
+  <!-- Shuttle Crusher: Call to Solanum: End -->
+  <!-- Anglerfish Hunting Blind: Outside: Start -->
+  <entry>
+    <key>Note to self: make tractor beams more accurate to save on jetpack fuel.</key>
+    <value>自分へのメモ:ジェットパックの燃料を節約するために、トラクタービームの精度を上げること。</value>
+  </entry>
+  <entry>
+    <key>Anglerfish Hunting Blind\\n(See, Cycad? I can make puns too!)</key>
+    <value>アンコウハント&lt;i&gt;ウ&lt;/i&gt;の隠れ家\\n(見てるか、Cycad？俺だってダジャレが言えるんだぞ！)</value>
+  </entry>
+  <!-- Anglerfish Hunting Blind: Outside: End -->
   <!-- Study Tower: Disturbing: Start -->
   <entry>
     <key>DATURA: Well this is a potentially disturbing discovery...</key>
@@ -350,7 +486,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Hunting Blind</key>
-    <value>狩り場</value>
+    <value>ハントの隠れ家</value>
   </table_shipLog>
   <table_shipLog>
     <key>The Collector Mural</key>
