@@ -1,5 +1,4 @@
 ﻿using HarmonyLib;
-using System;
 using System.IO;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using OWML.ModHelper;
 using System.Xml;
+using UnityEngine;
 
 namespace TranslationForTheOutsider {
     [HarmonyPatch]
@@ -59,12 +59,122 @@ namespace TranslationForTheOutsider {
 
         [HarmonyPrefix]
         [HarmonyPatch(typeof(TextTranslation), nameof(TextTranslation._Translate))]
-        public static bool TextTranslation_Translate_Prefix(string key, TextTranslation __instance) {
-            if(__instance.m_table.Get(key) == null) {
+        public static void TextTranslation_Translate_Prefix(string key, TextTranslation __instance) {
+            if(__instance.m_table == null) {
+                return;
+            }
+            var text = __instance.m_table.Get(key);
+            if(text == null) {
                 TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"key not contained in m_table: {key}");
             }
-            return true;
         }
+
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(TextTranslation), nameof(TextTranslation._Translate))]
+        public static void TextTranslation_Translate_Postfix(string key, TextTranslation __instance, ref string __result) {
+            if(__instance.m_language != TextTranslation.Language.JAPANESE) { // After adding othre languages, change this.
+                return;
+            }
+
+            var text = __result;
+            if (__instance.m_language == TextTranslation.Language.JAPANESE) {
+                text = text.Replace("宇宙の眼", "<color=lightblue>宇宙の眼</color>");
+                text = text.Replace("眼", "<color=lightblue>眼</color>");
+
+                text = text.Replace("脆い空洞", "<color=lightblue>脆い空洞</color>");
+                text = text.Replace("燃え盛る双子星", "<color=lightblue>燃え盛る双子星</color>");
+
+                text = text.Replace("闇のイバラ", "<color=lightblue>闇のイバラ</color>");
+                text = text.Replace("`船`", "<color=lightblue>船</color>");
+
+                text = text.Replace("DATURA", "<color=lightblue>DATURA</color>");
+                text = text.Replace("Datura", "<color=lightblue>Datura</color>");
+                text = text.Replace("FRIEND", "<color=lime>FRIEND</color>");
+                text = text.Replace("Friend", "<color=lime>Friend</color>");
+            }
+
+            if (text.Contains("#####")) {
+                int errorLength = Random.Range(5, 11);
+                string hash = "";
+                for (int i = 0; i < errorLength; i++) hash += '#';
+
+                text = text.Replace("#####", $"[<color=red>{hash}</color>]");
+
+                string l = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!?";
+                string newText = "";
+                for (int i = 0; i < text.Length; i++) {
+                    char c = text[i];
+                    if (c == '#') newText += l[Random.Range(0, l.Length)];
+                    else newText += c;
+                }
+
+                text = newText;
+            }
+
+            __result = text;
+        }
+
+//        [HarmonyPrefix]
+//        [HarmonyPatch(typeof(TextTranslation), nameof(TextTranslation._Translate))]
+//        public static bool TextTranslation_Translate_Prefix(string key, TextTranslation __instance, ref string __result) {
+//            if(__instance.m_language != TextTranslation.Language.JAPANESE) { // After adding othre languages, change this.
+//                return true;
+//            }
+//            if(__instance.m_table == null) {
+//                return true;
+//            }
+//            var text = __instance.m_table.Get(key);
+//            if(text == null) {
+//                TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"key not contained in m_table: {key}");
+//                return true;
+//            }
+//
+//            text = text.Replace("\\\\n", "\n");
+//            if (__instance.m_language == TextTranslation.Language.KOREAN) {
+//                text = text.Replace(" ", "\u3000");
+//            }
+//
+//            if (__instance.m_language == TextTranslation.Language.JAPANESE) {
+//                text = text.Replace("宇宙の眼", "<color=lightblue>宇宙の眼</color>");
+//                text = text.Replace("眼", "<color=lightblue>眼</color>");
+//
+//                text = text.Replace("脆い空洞", "<color=lightblue>脆い空洞</color>");
+//                text = text.Replace("燃え盛る双子星", "<color=lightblue>燃え盛る双子星</color>");
+//
+//                text = text.Replace("闇のイバラ", "<color=lightblue>闇のイバラ</color>");
+//                text = text.Replace("`船`", "<color=lightblue>船</color>");
+//
+//                text = text.Replace("DATURA", "<color=lightblue>DATURA</color>");
+//                text = text.Replace("Datura", "<color=lightblue>Datura</color>");
+//                text = text.Replace("FRIEND", "<color=lime>FRIEND</color>");
+//                text = text.Replace("Friend", "<color=lime>Friend</color>");
+//            }
+//
+//            if (text.Contains("#####")) {
+//                int errorLength = Random.Range(5, 11);
+//                string hash = "";
+//                for (int i = 0; i < errorLength; i++) hash += '#';
+//
+//                text = text.Replace("#####", $"[<color=red>{hash}</color>]");
+//
+//                string l = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!?";
+//                string newText = "";
+//                for (int i = 0; i < text.Length; i++) {
+//                    char c = text[i];
+//                    if (c == '#') newText += l[Random.Range(0, l.Length)];
+//                    else newText += c;
+//                }
+//
+//                text = newText;
+//            }
+//
+//            var split = text.Split('_');
+//            text = split[split.Length - 1];
+//
+//            __result = text;
+//
+//            return false;
+//        }
 
         [HarmonyPrefix]
         [HarmonyPatch(typeof(TextTranslation), nameof(TextTranslation._Translate_ShipLog))]
