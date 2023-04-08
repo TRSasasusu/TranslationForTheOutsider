@@ -255,7 +255,7 @@
   </entry>
   <entry>
     <key>DATURA: Oh, uh. Right. Well, let’s see... Filix detected a signal on the Vessel - a signal from something older than the universe. Spooky. And we can’t find the signal anymore, so... I mean that’s it really.</key>
-    <value>DATURA:あ、あー。そうだな、ふむ…。Filixは`船`である信号を検知した‐その信号は宇宙よりも古いというものだった。気味が悪いものだ。そして、その信号はもう見つかっていない。だから、…つまり、本当にそれだけなんだ。</value>
+    <value>DATURA:あ、あー。そうだな、ふむ…。Filixは`船`である信号を検知した―その信号は宇宙よりも古いというものだった。気味が悪いものだ。そして、その信号はもう見つかっていない。だから、…つまり、本当にそれだけなんだ。</value>
   </entry>
   <entry>
     <key>SOLANUM: The Vessel. That was the other thing! What happened to the Vessel?</key>
@@ -275,7 +275,7 @@
   </entry>
   <entry>
     <key>DATURA: So! I suppose I’ll tell it from my perspective. Ahem! I was once a crew member of: the Vessel - a moon-sized space ship capable of warping anywhere.</key>
-    <value>DATURA:では！俺の目線で語ることにしよう。オホン！俺はかつて`船`のクルーだった‐これはどこにでもワープができる月サイズの宇宙船だったんだ。</value>
+    <value>DATURA:では！俺の目線で語ることにしよう。オホン！俺はかつて`船`のクルーだった―これはどこにでもワープができる月サイズの宇宙船だったんだ。</value>
   </entry>
   <entry>
     <key>DATURA: I was reading in the library, when suddenly we warp! But, on our arrival there was a horrible screeching sound! We had crashed. I try to look for your mother, but I am forced onto an Escape Pod.</key>
@@ -344,6 +344,102 @@
     <value>アンコウハント&lt;i&gt;ウ&lt;/i&gt;の隠れ家\\n(見てるか、Cycad？俺だってダジャレが言えるんだぞ！)</value>
   </entry>
   <!-- Anglerfish Hunting Blind: Outside: End -->
+  <!-- Anglerfish Hunting Blind: 1st Wall: Start -->
+  <entry>
+    <key>DATURA: In this building I’m hoping to catch an Anglerfish, because I’m hungry. And losing my sanity.</key>
+    <value>DATURA:この建物ではアンコウを捕まえたい、なぜって空腹なんだ。それに正気を失いかけている。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I’ve repurposed the warp core from my shuttle to warp ME! Just in case an... Ju-Just in case.</key>
+    <value>DATURA:シャトルのワープコアを俺のワープに再利用した！万が一、…そう、万が一に備えて。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Update: I’ve caught one! A small one, but I’ve caught one!</key>
+    <value>DATURA:最新情報:1匹捕まえた！小さいやつだが、それでも捕まえてやったんだ！</value>
+  </entry>
+  <entry>
+    <key>DATURA: Can’t wait to bring some of this to my shelter at the &lt;color=orange&gt;South Pole&lt;/color&gt;!</key>
+    <value>DATURA:&lt;color=orange&gt;南極&lt;/color&gt;の居住地に持っていくのが待ちきれない！</value>
+  </entry>
+  <entry>
+    <key>DATURA: It would seem sneaking around them works. They appear to be blind!</key>
+    <value>DATURA:奴らの近くで音を立てなければ見つからないようだ。つまり目が見えないということだ！</value>
+  </entry>
+  <entry>
+    <key>DATURA: This is an amazing discovery! I must tell the others immediately! Surely, they’ll have to consider my idea now!</key>
+    <value>DATURA:これはすごい発見だ！すぐに皆に伝えなくては！きっと、今なら俺のアイデアを検討してくれるはずだ！</value>
+  </entry>
+  <!-- Anglerfish Hunting Blind: 1st Wall: End -->
+  <!-- Anglerfish Hunting Blind: Mouth of Anglerfish: Start -->
+  <entry>
+    <key>DATURA: I’ve finally collected enough courage to start exploring this planet’s insides! To adventure!</key>
+    <value>DATURA:この惑星内部を探索する勇気がやっと出てきた！冒険へ！</value>
+  </entry>
+  <entry>
+    <key>DATURA: Update: Well... I found... Escape Pod 3. I followed the lights they left to a seed... surrounded by Nomai. Who were all... no longer with us.</key>
+    <value>DATURA:最新情報:さて…。見つけたんだ…、脱出ポッド3を。残された光をたどっていくと…、Nomaiたちに囲まれた種があった。彼らはもう…、いない。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Escall (our ’leader’) was with them. I expected to feel anger upon seeing him again... But...</key>
+    <value>DATURA:Escall(俺たちのリーダー)も一緒だった。再会して憤りを覚えるかと思っていたが…。しかし…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I wonder... how he felt. Surrounded by his dying crew, knowing he had failed his entire clan, in his rush to warp to the Eye.</key>
+    <value>DATURA:彼は、彼はどんな気持ちだったんだろう。死にかけのクルーに囲まれ、そして彼らは皆、Escallが眼へのワープを急ぐあまりこの一族全体を壊滅させたのだと知っていた。</value>
+  </entry>
+  <entry>
+    <key>DATURA: And there was nothing he could do, but wait... and die.</key>
+    <value>DATURA:彼にできることはもう何もなく、ただ待つだけ…、そして死ぬだけだった。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I... feel sorry for him.</key>
+    <value>DATURA:俺は…、彼に同情を覚えている。</value>
+  </entry>
+  <!-- Anglerfish Hunting Blind: Mouth of Anglerfish: End -->
+  <!-- Anglerfish Hunting Blind: Near Warp Pad: Start -->
+  <entry>
+    <key>DATURA: Warp Pad! And a simple one! ...Yarrow, why are you and Root planning to waste so much time and resources building giant towers for EACH warp pad?!</key>
+    <value>DATURA:ワープ床！シンプルなものだ！…Yarrow、なぜお前とRootは、ワープ床ごとに巨大な塔を建てて、多くの時間と資源を無駄にするつもりなんだ？！</value>
+  </entry>
+  <entry>
+    <key>DATURA: One tower is enough!</key>
+    <value>DATURA:塔は1つで十分だろう！</value>
+  </entry>
+  <entry>
+    <key>DATURA: Well... I won’t admit this to him... but... It is a cool idea.</key>
+    <value>DATURA:まあ…、本人には認めないが…、格好いいとは思う。</value>
+  </entry>
+  <!-- Anglerfish Hunting Blind: Near Warp Pad: End -->
+  <!-- Anglerfish Hunting Blind: Scroll Near Warp Pad: Start -->
+  <entry>
+    <key>DATURA: Okay. I went to tell the others of my discovery, but when putting the projection stone in, I see... Yarrow.</key>
+    <value>DATURA:よし。この発見を皆に伝えようとプロジェクションストーンを置いたら、Yarrowか。</value>
+  </entry>
+  <entry>
+    <key>DATURA: So I tell him, and he was actually quite interested - enthused even. I argued we should use this knowledge to reach the Vessel, which he surprisingly agreed with. This conversation was going suspiciously well.</key>
+    <value>DATURA:それで彼に伝えたら、Yarrowは実に興味を持ってくれて―感激すらしていた。俺はこの知識を使って`船`に行くべきだと主張したところ、意外にも彼は同意してくれた。この会話は怪しげなほどうまくいっていた。</value>
+  </entry>
+  <entry>
+    <key>DATURA: However, then he explained to me some Supernova-Time-Travel-complete nonsense plan he and Ramie were considering, which required an advanced warp core (which the Vessel has).</key>
+    <value>DATURA:ところが、それから彼はRamieと検討している超新星タイムトラベルというまったくもってナンセンスな計画を説明し、それには先進的ワープコア(`船`にあるものだ)が必要だと言った。</value>
+  </entry>
+  <entry>
+    <key>DATURA: The conversation went downhill rather quickly from there... After arguing a while, he ended the call.</key>
+    <value>DATURA:そこからの会話はすぐさま下火となった…。しばらく言い合った後、通話は終了させられた。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...Yarrow, I promise: One day, we’ll have a decent conversation. Or at least a neutral one.</key>
+    <value>DATURA:…Yarrow、約束しよう:いつか、俺たちはまともな会話ができるようになる。少なくとも、中立的な会話なら。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Update: Filix sweetly called to inform me: Melorae and Coleus also figured out: the whole blindness thing from the Ember Twin fossil, and she thought this knowledge would help me out. Aww. Thanks, dear.</key>
+    <value>DATURA:最新情報:Filixが親切に通話で知らせてくれた:MeloraeとColeusも発見したのだ:燃え盛る双子星にある化石からアンコウの目が見えないことを、そして彼女はこの知識が俺の助けになると考えてくれたそうだ。あうう。ありがとう、Filix。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Hypothesis: Yarrow did not tell anyone I discovered it first! Boo! Hahaha... (I hope he is... alright. He seemed quite distressed by the end of our call.)</key>
+    <value>DATURA:仮説:Yarrowは俺が最初に発見したことを誰にも伝えていない！ブー！ははは…。(大丈夫…、かな。通話が終わる頃にはYarrowはかなり苦しそうだった。)</value>
+  </entry>
+  <!-- Anglerfish Hunting Blind: Scroll Near Warp Pad: End -->
   <!-- Study Tower: Disturbing: Start -->
   <entry>
     <key>DATURA: Well this is a potentially disturbing discovery...</key>
