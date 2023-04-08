@@ -46,6 +46,18 @@
     <value>とにかく、私は中へ行く！冒険へ！</value>
   </entry>
   <entry>
+    <key>Bramble Power Station</key>
+    <value>イバラ動力ステーション</value>
+  </entry>
+  <entry>
+    <key>Northern Observatory</key>
+    <value>北部観測所</value>
+  </entry>
+  <entry>
+    <key>Study Tower and Projection Pool House</key>
+    <value>研究塔とプロジェクションプールの家</value>
+  </entry>
+  <entry>
     <key>Projection Pool House</key>
     <value>プロジェクションプールの家</value>
   </entry>
@@ -83,7 +95,7 @@
   </entry>
   <entry>
     <key>DATURA: Couldn’t have done it without you Friend! (And your ship!)</key>
-    <value>君がいなかったらできなかったことだ、Friend！(あと君の船もだ！)</value>
+    <value>DATURA:君がいなかったらできなかったことだ、Friend！(あと君の船もだ！)</value>
   </entry>
   <entry>
     <key>DATURA: These seed things are great! Saved having to build giant long cables everywhere.</key>
@@ -92,6 +104,18 @@
   <entry>
     <key>DATURA: It’s pretty cool, huh?</key>
     <value>DATURA:なかなか格好いいじゃないか？</value>
+  </entry>
+  <entry>
+    <key>&lt;color=orange&gt;WARNING:&lt;/color&gt; Coronal Mass Ejection!</key>
+    <value>&lt;color=orange&gt;注意:&lt;/color&gt;コロナ質量放出！</value>
+  </entry>
+  <entry>
+    <key>&lt;color=red&gt;ERROR:&lt;/color&gt; Gravity Stability System has been damaged!</key>
+    <value>&lt;color=red&gt;エラー:&lt;/color&gt;重力安定化システムが損傷しています！</value>
+  </entry>
+  <entry>
+    <key>&lt;color=orange&gt;WARNING:&lt;/color&gt; Giant's Deep approaching in &lt;TimeMinutesGDApproach&gt; MINUTES, &lt;TimeSecondsGDApproach&gt; SECONDS!</key>
+    <value>&lt;color=orange&gt;注意:&lt;/color&gt;巨人の大海が接近するまで&lt;TimeMinutesGDApproach&gt;分&lt;TimeSecondsGDApproach&gt;秒！</value>
   </entry>
   <!-- Bramble Station: End -->
   <!-- Initial Campsite: 1st House: Start -->
@@ -149,7 +173,41 @@
     <key>DATURA: You know, to say: I will not return until I have accomplished what I set out to do!</key>
     <value>DATURA:何しろ、次のように言うためだ:俺は、自分がやろうとしたことを成し遂げるまで帰らない！</value>
   </entry>
+  <entry>
+    <key>DATURA: Update: So... I did it, I suppose.</key>
+    <value>DATURA:最新情報:そして…、やれてしまった、ようだ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I used this smashy smashy device on the shuttle: which dented it, and set off the shuttle’s alarm, which was, well, alarming.</key>
+    <value>DATURA:シャトルにこのスマッシュ、スマッシュな装置を使用した:シャトルはへこみ、警報が、そう、警報が作動した。</value>
+  </entry>
+  <entry>
+    <key>DATURA: And the warp core fell out, so I went over to grab it - might be useful, I thought. But after returning to the shelter here to use the device a second time, the shuttle blew up!</key>
+    <value>DATURA:するとワープコアが落ちたので取りに行った―役に立つかもしれないと思った。だが、装置を再び使おうとシェルターに戻ったところで、シャトルが吹っ飛んでしまった！</value>
+  </entry>
+  <entry>
+    <key>DATURA: Mission accomplished. But also wow, I almost died! I should be more careful...</key>
+    <value>DATURA:ミッションは達成した。しかし、もう少しで死ぬところだった！もっと気をつけないと…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Update... again: I’ve set up a Projection Pool on the ice island west from here, so I can talk to Filix and my daughter.</key>
+    <value>DATURA:最新情報…再び:ここから西にある氷の島にプロジェクションプールを設置し、Filixやむすめと話せるようにした。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...But instead, Bells and Pye called, informing me the <![CDATA[<color=lightblue>Gravity Cannons</color>]]> were improved a bit since I left - they, too, realised the issue of my shuttle being stuck here.</key>
+    <value>DATURA:…しかし代わりに、BellsとPyeが通話をしてきて、俺が去った後に<![CDATA[<color=lightblue>重力砲</color>]]>が少し改良されたことを教えてくれた―彼らもまた、シャトルがここで待機したままになっている問題に気づいていた。</value>
+  </entry>
+  <entry>
+    <key>DATURA: They told me that they were trying to recall it from the <![CDATA[<color=lightblue>Gravity Cannon</color>]]>, but the switch they had added wasn’t working for some reason, and told me to check if there was something up with my shuttle... Hahaha... Uh... Whoops...</key>
+    <value>DATURA:重力砲からそのシャトルを呼び戻そうとしたものの、その追加したスイッチがなぜか機能しなかったようで、俺にシャトルに何か異常がないか確認するようにとのことだった…。ははは…。うぅ、おっと…。</value>
+  </entry>
   <!-- Initial Campsite: Three Panels: End -->
+  <!-- Initial Campsite: Crush Ship of Friend: Start -->
+  <entry>
+    <key>DATURA: Aha! It would seem Friend enjoys some symbolism too!</key>
+    <value>DATURA:なるほど！Friendもあの象徴的なものを楽しむときが来たようだ！</value>
+  </entry>
+  <!-- Initial Campsite: Crush Ship of Friend: End -->
   <!-- Study Tower: Disturbing: Start -->
   <entry>
     <key>DATURA: Well this is a potentially disturbing discovery...</key>
@@ -541,5 +599,13 @@
   <table_shipLog>
     <key>Northern ObservatoryDatura was able to get Solanum to be at the Quantum Moon’s sixth location as the Interloper arrived.</key>
     <value>Daturaは、侵入者が到着したときに、Solanumがちょうど量子の月の第6の場所にいるように仕向けることができた。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Eye of the UniverseThe Eye. Is it a creator or a destroyer of universes? ...Do I want to find out?</key>
+    <value>宇宙の眼。それは果たして宇宙の創造者なのか、それとも破壊者なのか？…私はそれを見極めようか？</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Eye of the UniverseIf you are reading this, I assume you have gotten inside the Northern Observatory and have seen the new ending at the Eye. Thank you so much for playing The Outsider! I hope you enjoyed it!</key>
+    <value>もしこれを読んでいるなら、北部観測所内部に入り、そして宇宙の眼で新たなエンディングを見たのでしょう。 Thank you so much for playing The Outsider! I hope you enjoyed it!</value>
   </table_shipLog>
 </TranslationTable_XML>
