@@ -666,6 +666,112 @@
     <value>DATURA:ここに…、闇のイバラの小さな模型を、君のために作ったんだ(君が望むなら)。Daturaより。</value>
   </entry>
   <!-- Bramble Village: Friend House: End -->
+  <!-- Bramble Village: Datura Eye: Start -->
+  <entry>
+    <key>DATURA: I’ll say it. The Eye is... not my favourite thing in the universe.</key>
+    <value>DATURA:言っておくよ。眼は…、この宇宙の中で最も好きなものではない。</value>
+  </entry>
+  <entry>
+    <key>DATURA: It is why we are trapped in this star system. And continue to be trapped, thanks to my clan searching for it instead of a way out of here.</key>
+    <value>DATURA:コイツのせいで俺たちはこの星系に閉じ込められているんだ。そして、一族が脱出する方法を探す代わりにこれを探し続けるせいで、これからも囚われ続けることになる。</value>
+  </entry>
+  <entry>
+    <key>DATURA: To me, Yarrow and Ramie are Annona want-to-bes, attempting to make a discovery equivalent to his warp technology.</key>
+    <value>DATURA:俺に言わせれば、YarrowとRamieはAnnonaのワープ技術に匹敵する発見をして、まるで彼のようになりたがっているように見える。</value>
+  </entry>
+  <entry>
+    <key>DATURA: All we know is that it is older than the universe. Believing it is anything good or worthwhile is pure speculation.</key>
+    <value>DATURA:わかっているのは宇宙よりも古いということだけだ。それが何か良いもの、価値あるものと信じるのは、純粋な推測に過ぎない。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Friend revealed to me a disturbing discovery their clan made: the Eye DESTROYS THE ENTIRE UNIVERSE when interacting with it.</key>
+    <value>DATURA:Friendはアイツの一族がした重大な発見を教えてくれたんだ:&lt;i&gt;眼は宇宙全体を破壊する&lt;/i&gt;、触れた瞬間にな。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Friend’s... other friend deeply believed the Eye was good, and wrote off this discovery, disabling their Eye Signal Blocker thing.</key>
+    <value>DATURA:Friendの…、別の友人は眼は良いものだと深く信じていて、この発見に目を背け、眼信号妨害装置を無効化してしまった。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Fortunately, it was reactivated, and he was locked away in a vault or something. Friend says he had good intentions, but...</key>
+    <value>DATURA:幸いにもその装置は再び有効化され、その人物は保管庫か何かに閉じ込められた。Friendはこれが善意からだったと言うが…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...that brief signal he released. Filix heard it. Escall ordered the warp and now... we’re all trapped here, because of him. ...Good intentions aren’t good enough.</key>
+    <value>DATURA:…その短時間の信号は発せられたんだ。Filixはこれを受信し、Escallはワープを命じ…、俺たちはこうしてここに囚われている。その人物のせいで、だ。…善意と言うには十分ではない。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Sometimes... I wish I could be like Friend and... Yarrow, and just be able to see the Eye how they see it... Why am I the only one not interested in it? Is there... something wrong with me?</key>
+    <value>DATURA:時々…。俺がFriendや…、Yarrowのようになって、彼らと同じように眼を見ることができたら…、と思うことがある。どうして俺だけが眼に興味を持てないんだ。俺は…どこかおかしいのか？</value>
+  </entry>
+  <!-- Bramble Village: Datura Eye: End -->
+  <!-- Bramble Village: Friend Eye: Start -->
+  <entry>
+    <key>FRIEND: The Eye. On first discovery, all was known was it was older than the universe. Similar to Nomai, us curious beings made a big sacrifice to reach it.</key>
+    <value>FRIEND:眼。最初に発見されたとき、知られていたのは宇宙よりも古いということだけだった。Nomaiと似たように、好奇心旺盛な私たちはそこにたどり着くために大きな犠牲を払った。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: During the journey, a big known theory on our ’Vessel’ (as Datura would say) was the Eye created this universe.</key>
+    <value>FRIEND:その旅の間、私たちの`船`(Daturaが言うところの)では、眼がこの宇宙を創ったという説が大きく知られていた。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Suppose this was not the first time. Hypothesis: could the Eye create the universe again every time it dies?</key>
+    <value>FRIEND:これが初回ではなかったとする。仮説:眼は宇宙が死ぬたびに毎回宇宙を創っているのか？</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Once we arrived at the Eye... One saw a vision of it destroying the universe after one interacts with it.</key>
+    <value>FRIEND:そうして眼に着いたとき…。眼に触れると、眼は宇宙を破壊するというビジョンを見た。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Most were horrified and devastated - their new purpose became hiding the Eye away to protect our universe.</key>
+    <value>FRIEND:ほとんどの者たちが恐怖し打ちのめされた―そして、私たちの宇宙を守るために眼を隠すことが新たな目的となった。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: My other friend and I did not believe the Eye was to be feared. We still believe it is a creator. Suppose the vision was misinterpreted, or wrong, or unfinished?</key>
+    <value>FRIEND:もう一人の友人と私は、眼は恐れるべきものではないと信じていた。眼は創造者であると私たちは信じ続けています。おそらく、あのビジョンは誤って解釈されているか、間違っているか、続きがあるか、ということなのではないか？</value>
+  </entry>
+  <entry>
+    <key>FRIEND: The others had been burnt on the inside, and did not wish to be burnt again, so they ignored us, and told us to move on and stop ’holding onto the past’...</key>
+    <value>FRIEND:他の者たちは深く傷つき再度傷つくことを望まなかったので、私たちを無視し、そして過去にしがみつくのはやめて前に進みなさいと言った…。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: I know it in my heart: the Eye is good. I believe there is more to its story than they wish to know.</key>
+    <value>FRIEND:私は胸の内で思っている:眼は良いものだ。その物語には、彼らが知りたがった以上のものがあると信じている。</value>
+  </entry>
+  <!-- Bramble Village: Friend Eye: End -->
+  <!-- Bramble Village: Both Eye: Start -->
+  <entry>
+    <key>DATURA: Friend and I have been discussing the Eye, to try to figure out its deal.</key>
+    <value>DATURA:Friendと眼について議論して、その内実を明らかにしようとした。</value>
+  </entry>
+  <entry>
+    <key>DATURA: So! It is older than the universe, and someone from Friend’s clan had a vision showing it would destroy the universe, if anyone touched it or whatever.</key>
+    <value>DATURA:つまり！眼は宇宙より古く、Friendの一族の誰かが見たビジョンによると、コイツに触れたら宇宙が滅びるとかいうとんでもないもので。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: But one has to wonder how this universe was created then, if the Eye destroyed the previous universe? Perhaps it also created this one?</key>
+    <value>FRIEND:だけど、それならこの宇宙はどうやって創られたのだろう。もし眼が前回の宇宙を破壊したのであれば？もしかしたら、この宇宙もまた眼が創ったのかもしれない？</value>
+  </entry>
+  <entry>
+    <key>DATURA: Yarrow and the others believe the Eye is quantum, so, if that’s true, I suppose it would be fitting for the Eye to be in a superposition of both good and bad, eh?</key>
+    <value>DATURA:Yarrowたちは、眼は量子であると考えている。もしそうだとすると、言ってしまえば、眼は良いものと悪いものの重ね合わせ状態にある、とかか？</value>
+  </entry>
+  <entry>
+    <key>FRIEND: ...but does this not mean that blocking the Eye’s signal is wrong?</key>
+    <value>FRIEND:…それなら、眼の信号を遮断することはいけないのか、そうでないのか…？</value>
+  </entry>
+  <entry>
+    <key>DATURA: Hmm... that’s difficult to answer. You wouldn’t want the location of the universe reset button being blasted for all to hear, would you?</key>
+    <value>DATURA:ふむ…、それは難しい質問だ。ただ、宇宙のリセットボタンの場所を皆に聞こえるように喧伝されたら困るだろう？</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Well, we can not keep it locked it away either because we are afraid to die, so-.</key>
+    <value>FRIEND:うーん、死ぬのが怖いからと言って鍵をかけたままにしておくのも、だから―</value>
+  </entry>
+  <entry>
+    <key>DATURA: I’m not afraid to die - death is just extremely uninteresting to me. And this universe isn’t over yet. So, let’s not be afraid to live, now, Friend.</key>
+    <value>DATURA:俺は死を恐れていない―死は俺にとって極めて興味のないものだ。それにこの宇宙はまだ終わっていない。だから、生きることを恐れずに今を生きよう、Friend。</value>
+  </entry>
+  <!-- Bramble Village: Both Eye: End -->
   <!-- Projection Pool House: Ash Projection Stone: Start -->
   <entry>
     <key>DATURA: Hello? Yarrow! There’s-</key>
