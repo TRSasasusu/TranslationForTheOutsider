@@ -502,6 +502,16 @@
     <value>DATURA:もちろん、もしも触れられないような内容でなければだけれど。</value>
   </entry>
   <!-- Study Tower: Meet Friend: End -->
+  <!-- Bramble Village: Misc: Start -->
+  <entry>
+    <key>Eye Shack</key>
+    <value>眼の小屋</value>
+  </entry>
+  <entry>
+    <key>Welcome back, friend!</key>
+    <value>おかえり、友よ！</value>
+  </entry>
+  <!-- Bramble Village: Misc: End -->
   <!-- Bramble Village: Art House: Start -->
   <entry>
     <key>Art House</key>
@@ -544,6 +554,118 @@
     <value>FRIEND:え？</value>
   </entry>
   <!-- Bramble Village: Art House: End -->
+  <!-- Bramble Village: Datura House: Start -->
+  <entry>
+    <key>Datura's House</key>
+    <value>Daturaの家</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Found quantum rock in ice!</key>
+    <value>FRIEND:量子の岩を氷から見つけた！</value>
+  </entry>
+  <entry>
+    <key>FRIEND: For you. From Friend.</key>
+    <value>FRIEND:あなたのために。Friendより。</value>
+  </entry>
+  <entry>
+    <key>DATURA: -record this. Hypothesis: I’ll need to listen back on this. So: You’re STILL looking for the Eye?</key>
+    <value>DATURA:―記録しておく。仮説:後で聞き返すことになる。さて:お前はまだ眼を探しているのか？</value>
+  </entry>
+  <entry>
+    <key>YARROW: ...Please... I really don’t enjoy arguments...</key>
+    <value>YARROW:…頼む…、私はもうこの議論を楽しむことはできないんだ…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Hey, don’t walk away! We’ve been stuck here for so long! Filix and I have a child now. This is no place to grow up. We need to change our efforts to getting out of here!</key>
+    <value>DATURA:おい、行くなよ！俺たちはもうずっと長い間ここに閉じ込められてきた！Filixと俺の間には今や子供もいる。ここは成長させるような場所じゃない。ここから脱出する方向に努力の向きを変えるべきだ！</value>
+  </entry>
+  <entry>
+    <key>YARROW: ...We will. Once we’ve found the Eye, we’ll begin constructing a new Vessel. ...Just a little longer.</key>
+    <value>YARROW:…そうしよう。眼を見つけたら、新しい`船`の建造に取り掛かろう。…もう少しだけ待ってくれ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: But we’d need a Vessel to get to the Eye anyway! So, why don’t we build a Vessel first? Then, we could come back with other clans.</key>
+    <value>DATURA:だが、眼に行くにはいずれにせよ`船`が必要だろう！だから、まずは`船`を作ろうぜ？そうすれば、他の部族とともに戻ってこられる。</value>
+  </entry>
+  <entry>
+    <key>DATURA: And it would be nice to not be trapped: Nomai are supposed to explore the universe! That’s... like our whole thing!</key>
+    <value>DATURA:それに、閉じ込められないのは良いことだ:Nomaiは宇宙を探索するものだ！それが…、俺たちのあるべき姿なんだ！</value>
+  </entry>
+  <entry>
+    <key>YARROW: I know! ...I know. It’s just... finding the Eye ...is very important to us... All the Nomai who lost their lives coming here... We must find the Eye so they were not... all lost over nothing...</key>
+    <value>YARROW:わかっている！…わかっているんだ。ただ…、眼を見つけることは…、私たちにとって非常に重要なことなんだ…。ここへ来るまでに命を落としたすべてのNomaiたち…。私たちは必ず眼を見つけなくては…、すべてが無意味になってしまう…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...Right. I understand. ...Well, I’ll figure a way out of here myself, then. I suppose I’ll... find the old Vessel.</key>
+    <value>DATURA:…そうか。わかったよ。…それなら、俺は自力でここから脱出する方法を考えよう。そうだな…、古い`船`を見つけてやろう。</value>
+  </entry>
+  <entry>
+    <key>YARROW: ...How do you plan to do that? It’s... in Dark Bramble.</key>
+    <value>YARROW:…どうするつもりなんだ？あれは…闇のイバラにある。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Then I... will go to Dark Bramble.</key>
+    <value>DATURA:それなら俺は…闇のイバラに向かおう。</value>
+  </entry>
+  <entry>
+    <key>FILIX: What?</key>
+    <value>FILIX:何ですって？</value>
+  </entry>
+  <entry>
+    <key>YARROW: Hmm? Woah! Uh, Filix! You’re the one who discovered the Eye’s signal on the Vessel, correct? ...Wow! It’s an honor to meet you! I’m-</key>
+    <value>YARROW:ん？うぉー！えぇと、Filix！あの`船`で眼の信号を発見したのはあなたですね？…おお、お会いできて光栄です！私は―</value>
+  </entry>
+  <entry>
+    <key>FILIX: Yarrow, is it? Clary has told me of you. Do you mind standing over there? I need to speak with my partner.</key>
+    <value>FILIX:Yarrowね？Claryからあなたのことは聞いたわ。ちょっと向こうに行っててくれない？夫と話がしたいの。</value>
+  </entry>
+  <entry>
+    <key>YARROW: ...Oh. ...uh, okay. Well, just shout if you need me. (...Clary talked about me?)</key>
+    <value>YARROW:…おぉ…わ、わかった。じゃあ何かあったら大声で呼んでね。(…Claryがわたしのことを話してくれたのか？)</value>
+  </entry>
+  <entry>
+    <key>FILIX: Thank you. ...Datura... We’ve already been apart for so long...</key>
+    <value>FILIX:ありがとう。…Datura…。私たちは既に長いこと離れ離れになったことがあるわ…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...I know, and this hurts me just as much, but if no-one else is finding a way out of here... Well, do you want to come with me?</key>
+    <value>DATURA:…わかっている、それに俺も同じくらい辛い。でも誰もここから脱出する方法を見つけていないなら…。なあ、俺と一緒に来ないか？</value>
+  </entry>
+  <entry>
+    <key>FILIX: I... can’t. I’m needed with search projects, Privet is my apprentice now, I’m a teacher at the new School District... and what about Solanum - our daughter? You can’t expect me to do all this alone...</key>
+    <value>FILIX:私には…できないわ。私は探索プロジェクトで必要とされてるし、Privetも今や私の弟子であり、私は新しい学区の教師にもなった…。それにSolanumは―私たちのむすめはどうするの？私独りで全部できると思わないでよ…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: You can. I believe in you! And... I need you to believe in me, too. Please. I’ll... make one of those projection pools! It’ll be like I’m still here!</key>
+    <value>DATURA:君ならできる。そう信じている！そして…、君も俺を信じてほしい。頼むよ。そうだ…、プロジェクションプールを作ろう！そうすれば俺がまるでここにいるかのようになる！</value>
+  </entry>
+  <entry>
+    <key>FILIX: ...(No it won’t.)</key>
+    <value>FILIX:…(そんなわけないじゃない。)</value>
+  </entry>
+  <entry>
+    <key>DATURA: It’ll be alright. Come here. ...Here’s how it’ll go: I’ll set up a base on the planet, I’ll search for the Vessel, and once I’ve found it, I’ll come back.</key>
+    <value>DATURA:大丈夫だ。こっちに来て。…こうするんだ:あの惑星に基地を作り、`船`を探し、そして見つけ次第戻ってくる。</value>
+  </entry>
+  <entry>
+    <key>FILIX: ...Promise you will come back?</key>
+    <value>FILIX:…必ず戻ってくると約束できる？</value>
+  </entry>
+  <entry>
+    <key>DATURA: Of course. I promise.</key>
+    <value>DATURA:もちろんだ。約束する。</value>
+  </entry>
+  <!-- Bramble Village: Datura House: End -->
+  <!-- Bramble Village: Friend House: Start -->
+  <entry>
+    <key>Friend's House</key>
+    <value>Friendの家</value>
+  </entry>
+  <entry>
+    <key>DATURA: Here’s a... little model of Dark Bramble, I made for you (if you want it). From Datura.</key>
+    <value>DATURA:ここに…、闇のイバラの小さな模型を、君のために作ったんだ(君が望むなら)。Daturaより。</value>
+  </entry>
+  <!-- Bramble Village: Friend House: End -->
   <!-- Projection Pool House: Ash Projection Stone: Start -->
   <entry>
     <key>DATURA: Hello? Yarrow! There’s-</key>
