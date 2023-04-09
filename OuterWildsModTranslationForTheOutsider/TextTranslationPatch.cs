@@ -77,7 +77,12 @@ namespace TranslationForTheOutsider {
             }
 
             var text = __result;
+
             if (__instance.m_language == TextTranslation.Language.JAPANESE) {
+                if(text == "闇のイバラの構造物は以前からずっとあったのか？") {
+                    return;
+                }
+
                 text = text.Replace("宇宙の眼", "<color=lightblue>宇宙の眼</color>");
                 text = text.Replace("眼", "<color=lightblue>眼</color>");
 

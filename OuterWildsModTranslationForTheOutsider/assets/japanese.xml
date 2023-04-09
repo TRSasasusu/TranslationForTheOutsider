@@ -7,15 +7,15 @@
   </entry>
   <entry>
     <key>ScientistAnswerNEW_Well... yeah.</key>
-    <value>えぇと、...ああ。</value>
+    <value>えぇと、…ああ。</value>
   </entry>
   <entry>
     <key>ScientistAnswerNEW_You know the little Anglerfish in the Museum? It got caught on the landing gear of one of our ships when it was flying close to get a good look at the structures, remember?</key>
-    <value>博物館にある小型のアンコウは知っているよな？アイツは、あの構造物をよく見ようと近くを飛行していたときに探査艇の着陸装置に引っかかったんだが、...覚えているよな？</value>
+    <value>博物館にある小型のアンコウは知っているよな？アイツは、あの構造物をよく見ようと近くを飛行していたときに探査艇の着陸装置に引っかかったんだが、…覚えているよな？</value>
   </entry>
   <entry>
     <key>ScientistAnswerNEW_...I think you need to wake up a bit from your pre-launch campout. Do a couple of jumps, maybe.</key>
-    <value>...私が思うに、出発前のキャンプから少し目を覚ます必要があるな。ジャンプを2回くらいしてみたらどうだ？</value>
+    <value>…私が思うに、出発前のキャンプから少し目を覚ます必要がある。ジャンプを2回くらいしてみたらどうだ？</value>
   </entry>
   <entry>
     <key>FeldsparRecording_Trip 4, entry #... who cares. Crashes: 2. Boring crashes: 0.</key>
@@ -783,15 +783,15 @@
   </entry>
   <entry>
     <key>DATURA: ...I shouldn’t have come here. This is your secret room and I should’ve respected that. ...Friend? Are you... there? ...At least knock on the door so I know!</key>
-    <value>DATURA:…俺はここに来るべきじゃなかった。ここは君の隠していた部屋なんだからそれを尊重すべきだったんだ。…Friend？そこに…いるのか？…せめて扉をノックしてくれればわかるんだが！</value>
+    <value>DATURA:…俺はここに来るべきじゃなかった。ここは君の隠していた部屋なんだからそれに敬意を払うべきだったんだ。…Friend？そこに…いるのか？…せめて扉をノックしてくれればわかるんだが！</value>
   </entry>
   <entry>
     <key>DATURA: ...? Nothing... Maybe they’re asleep. (...Sheesh, look at this metal door and cage... They really don’t want me getting in there again, huh.)</key>
-    <value>DATURA:…？何も聞こえない…。眠っているのかもしれない。(…くそ、この金属製の扉に檻を見ろよ…。やつらは俺に二度と入ってほしくないということかよ。)</value>
+    <value>DATURA:…？何も聞こえない…。眠っているのかもしれない。(…くそ、この鉄のような扉に牢を見ろよ…。やつらは俺に二度と入ってほしくないということかよ。)</value>
   </entry>
   <entry>
     <key>DATURA: (Well, I can’t chop my way in... Unless... Ow! Stupid metal... Uh, I need like a... like an explosion or something to blast this stupid door down.)</key>
-    <value>DATURA:(まあ、チョップして入るわけにも…。そうでなければ…。痛っ！バカな金属め…。ふむ、このバカな扉をぶっ壊すには爆発か何かが必要だな。)</value>
+    <value>DATURA:(まあ、チョップして入るわけにも…。そうでなければ…。痛っ！バカな鉄め…。ふむ、このバカな扉をぶっ壊すには爆発か何かが必要だな。)</value>
   </entry>
   <entry>
     <key>DATURA: (But how would I make an explosion...? And a... safe one? Is there even such a thing?)</key>
@@ -1123,7 +1123,7 @@
   <!-- Northern Observatory: Outside: Start -->
   <entry>
     <key>DATURA: Lami! If you’re reading this, then I assume you and your friends have returned to come snooping once again.</key>
-    <value>DATURA:Lami！これを読んでいるということは、お前たちは再び詮索に来たということだろう。</value>
+    <value>DATURA:Lami！これを読んでいるということは、お前たちは再び探りに来たということだろう。</value>
   </entry>
   <entry>
     <key>DATURA: Sorry, but you’re out of luck! I now have TWO security measures to prevent you teens from getting in here!</key>
@@ -1131,12 +1131,16 @@
   </entry>
   <entry>
     <key>DATURA: I know we encourage ’being curious’ and all, but this is not acceptable behaviour! So... Ahaha, I’ve always wanted to say this: Get off my lawn!</key>
-    <value>DATURA:好奇心を持つこと、これを推奨しているのはわかっている。だが、これは許される行動ではない！だから…、あはは、ずっとこう言うつもりだった:俺の庭から出ていけ！</value>
+    <value>DATURA:好奇心を持つこと、これを勧めているのはわかっている。だが、これは許される行動ではない！だから…、あはは、ずっとこう言うつもりだった:俺の家から出ていけ！</value>
   </entry>
   <!-- Northern Observatory: Outside: End -->
   <table_shipLog>
     <key>Eye of the Universe</key>
     <value>宇宙の眼</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Green Fire</key>
+    <value>みどり色の炎</value>
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside Home</key>
@@ -1268,7 +1272,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Hunting BlindDatura, needing a food supply, considered eating... the Anglerfish.</key>
-    <value>食料を必要とするDaturaは、...アンコウを食べることを考えた。</value>
+    <value>食料を必要とするDaturaは、…アンコウを食べることを考えた。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Hunting BlindDatura went exploring the depths of Dark Bramble. Partly to find... food.</key>
