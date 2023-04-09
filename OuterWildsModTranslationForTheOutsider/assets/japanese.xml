@@ -772,6 +772,96 @@
     <value>DATURA:俺は死を恐れていない―死は俺にとって極めて興味のないものだ。それにこの宇宙はまだ終わっていない。だから、生きることを恐れずに今を生きよう、Friend。</value>
   </entry>
   <!-- Bramble Village: Both Eye: End -->
+  <!-- Projection Pool House: Solanum Stone: Start -->
+  <entry>
+    <key>SOLANUM: Dad? Where have you been? You haven’t called for so long! We were worried something happened to you.</key>
+    <value>SOLANUM:パパ？どこ行ってたの？ずっと通話もなかったし！何かあったんじゃないかって心配してたんだよ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Sorry, Sol, I’ve been... going through... some things. So... Your pilgrimage to the Quantum Moon is soon, right?</key>
+    <value>DATURA:すまない、Sol、ちょっと…、色々あって…。それで…、量子の月への巡礼はもうすぐ、なのか？</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: ...Yeah...</key>
+    <value>SOLANUM:…ええ…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...Are you excited?</key>
+    <value>DATURA:…楽しみじゃないのか？</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: Well... It’s just... ...Why are you still over there? You found the Vessel. That was your mission, wasn’t it? So, why haven’t you... come back? Do you just... do you just... hate me?</key>
+    <value>SOLANUM:えぇと…、あのね…。…どうしてパパはまだそこにいるの？`船`はもう見つけたんだし、それがパパの目的だったんだよね？違う？どうして…戻ってこないの？もしかして、…私を嫌いになった…？</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...Darling. No, of course not. ...It’s not you... It’s... the other Nomai. We don’t really get along well and... I’m... I’m afraid of them... and the things they’ll say to (and about) me when I return.</key>
+    <value>DATURA:あぁ、可愛いむすめよ、違う、決してそんなことはない。…Solanumではなく、そう、他のNomaiだ。俺たちはあまりうまくやれてなくて…、俺は…、彼らが怖いんだ。俺が帰ったら何を言われるか…。</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: ...They’re not monsters, Dad. Are you sure it’s ’the other Nomai’ you are afraid of? Or... is it just me, Filix and Yarrow you’re worried about?</key>
+    <value>SOLANUM:…みんな怪物じゃないんだよ、パパ。パパが恐れているのは本当に他のNomaiみんななの？それとも…、私とFilix、そしてYarrowだけが心配ごとなんじゃないの？</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...</key>
+    <value>DATURA:…。</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: Because... you have a lot more in common with the other Nomai than you think.</key>
+    <value>SOLANUM:だって…、パパが思うよりもずっと他のNomaiと共通点はたくさんあるんだよ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...I do?</key>
+    <value>DATURA:…俺と？</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: Time has caused many Nomai’s passion for the Eye search to deteriorate. Most of us wish to leave now, same as you.</key>
+    <value>SOLANUM:時が経つにつれて、たくさんのNomaiの眼探しへの情熱は冷めていってる。私たちの多くはパパと同じように、今すぐここを去りたいと願ってる。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...Wait, really?</key>
+    <value>DATURA:…待ってくれ、それは本当なのか？</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: Yes! So, please, Dad. Leave that place. There is going to be a vote soon to decide if we should continue to pursue the Eye, or instead find a way out of this star system.</key>
+    <value>SOLANUM:ええ！だからお願い、パパ。その場所を離れて。近々投票があるの。このまま眼を追い続けるか、それともこの星系を脱出する方法を探すかを決めるための。</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: The <![CDATA[<color=orange>Sun Station</color>]]> and ’Time Loop’ plan has divided this clan, and it’s failure has demotivated it. Hypothesis: we will leave this star system soon.</key>
+    <value>SOLANUM:<![CDATA[<color=orange>太陽ステーション</color>]]>と&lt;i&gt;タイムループ&lt;/i&gt;計画はこの部族を二分していたけど、その失敗はやる気を大きく削がせた。仮説:私たちは間もなくこの星系を去るでしょう。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Wow. So when’s this happening? I’ve just got one little thing to finish up here, and then I’ll be there.</key>
+    <value>DATURA:わお、それはいつやるんだ？ここでちょっと用事を済ませたら、もう行こうと思う。</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: Ah, it’s... soon after my pilgrimage to the Quantum Moon, actually.</key>
+    <value>SOLANUM:えっと、…実は、私の量子の月の巡礼が終わったらすぐなの。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I see. Well, suppose I’ll be waiting for you at the <![CDATA[<color=lightblue>Gravity Cannon</color>]]> when you return, then? You can tell me all about your Quantum Moon trip!</key>
+    <value>DATURA:なるほど。じゃあ、Solanumが帰る頃には<![CDATA[<color=lightblue>重力砲</color>]]>で待っているようにしよう。量子の月への旅行からの土産話を楽しみにしてるよ！</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: Uh... Sounds good! Though, I thought you wouldn’t care about the Quantum Moon.</key>
+    <value>SOLANUM:うん、いいわね！でも、パパは量子の月には興味ないと思ってた。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Eh. My problem is with the Eye. The Quantum Moon is alright in my book.</key>
+    <value>DATURA:あー。問題は眼だけなんだ。量子の月は何も問題ない。</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: I see. I’ll spare you no details! Well, see you then, <![CDATA[<color=lightblue>Dad-tura</color>]]>! Say hi to your imaginary friend for me!</key>
+    <value>SOLANUM:わかったわ。詳細は割愛するけどね！それじゃ、またね、<![CDATA[<color=lightblue>Dad-tura</color>]]>！パパのイマジナリーフレンドにもよろしくね！</value>
+  </entry>
+  <entry>
+    <key>DATURA: See you- Friend is their name and they’re not imaginary! ...See you then, darling. Love you!</key>
+    <value>DATURA:それじゃ―Friendはその名前も存在も架空じゃない！…それじゃあね、俺の可愛いむすめよ。愛してるよ！</value>
+  </entry>
+  <entry>
+    <key>SOLANUM: ...Love you too, Dad.</key>
+    <value>SOLANUM:…私も愛してるわ、パパ。</value>
+  </entry>
+  <!-- Projection Pool House: Solanum Stone: End -->
   <!-- Projection Pool House: Ash Projection Stone: Start -->
   <entry>
     <key>DATURA: Hello? Yarrow! There’s-</key>
