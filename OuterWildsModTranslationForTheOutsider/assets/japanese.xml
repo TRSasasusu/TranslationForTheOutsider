@@ -539,7 +539,7 @@
   </entry>
   <entry>
     <key>DATURA: Though, judging by my painting here, I have a lot to learn!</key>
-    <value>DATURA:とはいえ、俺のこの絵を見る限り、まだまだ勉強する必要があるな！</value>
+    <value>DATURA:とはいえ、俺のこの作品を見る限り、まだまだ学ぶ必要があるな！</value>
   </entry>
   <entry>
     <key>FRIEND: Talking is hard for me same. Not only you learning!</key>
@@ -707,7 +707,7 @@
   <!-- Bramble Village: Friend Eye: Start -->
   <entry>
     <key>FRIEND: The Eye. On first discovery, all was known was it was older than the universe. Similar to Nomai, us curious beings made a big sacrifice to reach it.</key>
-    <value>FRIEND:眼。最初に発見されたとき、知られていたのは宇宙よりも古いということだけだった。Nomaiと似たように、好奇心旺盛な私たちはそこにたどり着くために大きな犠牲を払った。</value>
+    <value>FRIEND:眼。最初に発見されたとき、知られていたのは宇宙よりも古いということだけだった。Nomaiと似たように、好奇心豊かな私たちはそこにたどり着くために大きな犠牲を払った。</value>
   </entry>
   <entry>
     <key>FRIEND: During the journey, a big known theory on our ’Vessel’ (as Datura would say) was the Eye created this universe.</key>
@@ -727,7 +727,7 @@
   </entry>
   <entry>
     <key>FRIEND: My other friend and I did not believe the Eye was to be feared. We still believe it is a creator. Suppose the vision was misinterpreted, or wrong, or unfinished?</key>
-    <value>FRIEND:もう一人の友人と私は、眼は恐れるべきものではないと信じていた。眼は創造者であると私たちは信じ続けています。おそらく、あのビジョンは誤って解釈されているか、間違っているか、続きがあるか、ということなのではないか？</value>
+    <value>FRIEND:もう一人の友人と私は、眼は恐れるべきものではないと信じていた。眼は創造者であると私たちは信じ続けている。おそらく、あのビジョンは誤って解釈されているか、間違っているか、続きがあるか、ということなのではないか？</value>
   </entry>
   <entry>
     <key>FRIEND: The others had been burnt on the inside, and did not wish to be burnt again, so they ignored us, and told us to move on and stop ’holding onto the past’...</key>
@@ -823,7 +823,7 @@
   </entry>
   <entry>
     <key>SOLANUM: Yes! So, please, Dad. Leave that place. There is going to be a vote soon to decide if we should continue to pursue the Eye, or instead find a way out of this star system.</key>
-    <value>SOLANUM:ええ！だからお願い、パパ。その場所を離れて。近々投票があるの。このまま眼を追い続けるか、それともこの星系を脱出する方法を探すかを決めるための。</value>
+    <value>SOLANUM:ええ！だからお願い、パパ。その場所を離れて。近々決議があるの。このまま眼を追い続けるか、それともこの星系を脱出する方法を探すかを決めるための。</value>
   </entry>
   <entry>
     <key>SOLANUM: The <![CDATA[<color=orange>Sun Station</color>]]> and ’Time Loop’ plan has divided this clan, and it’s failure has demotivated it. Hypothesis: we will leave this star system soon.</key>
@@ -855,7 +855,7 @@
   </entry>
   <entry>
     <key>DATURA: See you- Friend is their name and they’re not imaginary! ...See you then, darling. Love you!</key>
-    <value>DATURA:それじゃ―Friendはその名前も存在も架空じゃない！…それじゃあね、俺の可愛いむすめよ。愛してるよ！</value>
+    <value>DATURA:それじゃ―Friendはその名前も存在も空想じゃない！…それじゃあね、俺の可愛いむすめよ。愛してるよ！</value>
   </entry>
   <entry>
     <key>SOLANUM: ...Love you too, Dad.</key>
@@ -864,38 +864,132 @@
   <!-- Projection Pool House: Solanum Stone: End -->
   <!-- Projection Pool House: Ash Projection Stone: Start -->
   <entry>
+    <key><![CDATA[<color=red>ERROR:</color>]]> This stone has been damaged! Some text has been corrupted.</key>
+    <value><![CDATA[<color=red>エラー:</color>]]>このストーンは損傷しています！一部のテキストは破損しています。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Hello? Yarrow! #####</key>
+    <value>DATURA:もしもし？Yarrow！#####</value>
+  </entry>
+  <entry>
     <key>DATURA: Hello? Yarrow! There’s-</key>
     <value>DATURA:もしもし？Yarrow！そこに―</value>
+  </entry>
+  <entry>
+    <key>YARROW: Oh... #####. Hypothesis: Our failure with the Sun Station ##### you here to ridicule me.</key>
+    <value>YARROW:あぁ…#####。仮説:太陽ステーションでの失敗#####私を嘲笑いに来たのだろう。</value>
   </entry>
   <entry>
     <key>YARROW: Oh... hello. Hypothesis: Our failure with the Sun Station brought you here to ridicule me.</key>
     <value>YARROW:あぁ…もしもし。仮説:太陽ステーションでの失敗をきっかけに私を嘲笑いに来たのだろう。</value>
   </entry>
   <entry>
+    <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Uh... Hypothesis: ##### would be beneficial to you both if neither of you called each other anymore.</key>
+    <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:うっ…仮説:もうお互いに通話しない#####が2人のためになると思う。</value>
+  </entry>
+  <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Uh... Hypothesis: it would be beneficial to you both if neither of you called each other anymore.</key>
     <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:うっ…仮説:もうお互いに通話しない方が2人のためになると思う。</value>
   </entry>
   <entry>
+    <key>DATURA: #####... Yarrow, are you alright? Yarrow? ##### wait!</key>
+    <value>DATURA:#####は…。Yarrow、大丈夫か？Yarrow？#####待てよ！</value>
+  </entry>
+  <entry>
     <key>DATURA: I... Yarrow, are you alright? Yarrow? Hey, wait!</key>
-    <value>DATURA:私は…Yarrow、大丈夫か？Yarrow？おい、待てよ！</value>
+    <value>DATURA:俺は…。Yarrow、大丈夫か？Yarrow？おい、待てよ！</value>
+  </entry>
+  <entry>
+    <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, see you later, Yarrow! ##### worry, we’ll figure it out! I believe in us! ...So, Datura, what ##### intent of your call?</key>
+    <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:あっ、またね、Yarrow！心配#####、私たちは解決してみせる！そう信じてる！…それで、Datura、この通話#####目的は何ですか？</value>
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, see you later, Yarrow! Don’t worry, we’ll figure it out! I believe in us! ...So, Datura, what is the true intent of your call?</key>
     <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:あっ、またね、Yarrow！心配しないで、私たちは解決してみせる！そう信じてる！…それで、Datura、この通話の本当の目的は何ですか？</value>
   </entry>
   <entry>
+    <key>DATURA: Uh, th-there’s #####! And it’s #####-!</key>
+    <value>DATURA:うぅ、#####だ！しかも、#####―！</value>
+  </entry>
+  <entry>
     <key>DATURA: Uh, th-there’s a comet coming! And it’s filled with-!</key>
     <value>DATURA:うぅ、す、彗星が来るんだ！しかも、その彗星には―！</value>
+  </entry>
+  <entry>
+    <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, you observed ##### too? You and me both! We’ve actually already ##### ##### check #####. ##### thanks anyway, Datura.</key>
+    <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:ああ、#####も観測したんですね？私も同じくです！実はもう#####確認#####。#####とにかくありがとう、Datura。</value>
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, you observed the comet too? You and me both! We’ve actually already sent a shuttle to go check it out. But thanks anyway, Datura.</key>
     <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:ああ、彗星も観測したんですね？私も同じくです！実はもうシャトルを送って確認に行ってるところなんです。でも、とにかくありがとう、Datura。</value>
   </entry>
   <entry>
+    <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Well, ##### gonna catch up to Yarrow to see if he’s alright. #####! Don’t be a stranger, now!</key>
+    <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:さて、#####Yarrowを捕まえて彼が大丈夫か確認してくるよ。#####！よそよそしくなるな、ということ！</value>
+  </entry>
+  <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Well, I’m gonna catch up to Yarrow to see if he’s alright. See ya around! Don’t be a stranger, now!</key>
     <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:さて、私はYarrowを捕まえて彼が大丈夫か確認してくるよ。ではまたね！よそよそしくなるな、ということ！</value>
   </entry>
   <!-- Projection Pool House: Ash Projection Stone: End -->
+  <!-- Projection Pool House: Bells Stone: Start -->
+  <entry>
+    <key>DATURA: BELLS!</key>
+    <value>DATURA:BELLS！</value>
+  </entry>
+  <entry>
+    <key>BELLS: Oh! Yes? What is it?</key>
+    <value>DELLS:おお！もしもし？どうした？</value>
+  </entry>
+  <entry>
+    <key>DATURA: Wait, let me just... Uh, can I be picked up and brought to Brittle Hollow, like, now... ish?</key>
+    <value>DATURA:待って、ちょっと…。あぁ、俺を脆い空洞に連れていってくれないか、今、すぐに…。</value>
+  </entry>
+  <entry>
+    <key>BELLS: Now? Uh, bad timing for that, I’m afraid. Pye and her pals are off in the Ember Twin shuttle and, uh, your daughter recently went on her quantum pilgrimage.</key>
+    <value>BELLS:今？あー、残念だがタイミングが悪いな。Pyeとその友だちは燃え盛る双子星のシャトルで出かけたし、それに、君のむすめはついさっき量子の巡礼に出かけたところだ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Already?! But... we planned for us to meet at the Gravity Cannon when she returned...</key>
+    <value>DATURA:もう？！でも、彼女が帰ってきたら重力砲で会う予定だったんだけど…。</value>
+  </entry>
+  <entry>
+    <key>BELLS: Aww. Well, she did seem very eager to go as soon as possible; she even attempted to leave before she had visited the Tower of Quantum Knowledge! Perhaps she was eager to reunite?</key>
+    <value>BELLS:あー。なるほど、彼女は非常に急いでいるように見えた。量子知識の塔を訪れる前にここを発とうとさえしていましたし！もしかしたら、彼女は再会を本当に熱望していたのかもしれませんね？</value>
+  </entry>
+  <entry>
+    <key>BELLS: Hey, if you want, I can relay a message for you when she arrives at the north pole. First-timers are supposed to call me before going to the sixth location; once they go, we lose communications.</key>
+    <value>BELLS:そうだ、もし良かったら、彼女が北極に到着したときにメッセージを中継しようか。初めて巡礼する者は第6の場所に行く前に俺に通信をすることになっている。ひとたび行けば、通信は途絶えるからね。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Oh, yes please. Uh... Tell her I hope she has fun, and that I love her, and that she... uh... should really take her time at the sixth location to take it all in... Perhaps mention the shuttle situation, so she knows there’s no need to rush.</key>
+    <value>DATURA:あぁ、はい、お願いしたい。うぅ…。彼女には、楽しんでほしい、愛してる、そして…、うぅ…、第6の場所は本当にゆっくり自分の時間を過ごすように見ていってほしいと…。シャトルの件も話して、急ぐ必要なんてないと。</value>
+  </entry>
+  <entry>
+    <key>BELLS: Alright.</key>
+    <value>BELLS:了解した。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...And uh, afterwards, how quickly can you get a message to Filix?</key>
+    <value>DATURA:…それから、あぁ、その後、Filixにすぐにメッセージを伝えられるか？</value>
+  </entry>
+  <entry>
+    <key>BELLS: Hmmm, she’s teaching at the Brittle Hollow school, yes? So: reasonably quickly. What’s your message?</key>
+    <value>BELLS:うーん、彼女は脆い空洞の学校で教えているところですね。だから:それなりに早くできる。メッセージは何だ？</value>
+  </entry>
+  <entry>
+    <key>DATURA: Just tell her... I’m sorry... for... everything. And... we’ll be together again soon.</key>
+    <value>DATURA:ただ彼女に伝えてくれ…、すまない…、すべてにおいて。そして…、またすぐに一緒になれる、と。</value>
+  </entry>
+  <entry>
+    <key>BELLS: Okay, will do. ...Any other messages, Datura?</key>
+    <value>BELLS:了解、伝えておく。…他に何かメッセージはあるか、Datura？</value>
+  </entry>
+  <entry>
+    <key>DATURA: Haha, uh, no. That’s all. ...Thanks, Bells.</key>
+    <value>DATURA:はは、あー、ない。これで全部だ。…ありがとう、Bells。</value>
+  </entry>
+  <!-- Projection Pool House: Bells Stone: End -->
   <!-- Northern Observatory: Outside: Start -->
   <entry>
     <key>DATURA: Lami! If you’re reading this, then I assume you and your friends have returned to come snooping once again.</key>
