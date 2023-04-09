@@ -502,6 +502,48 @@
     <value>DATURA:もちろん、もしも触れられないような内容でなければだけれど。</value>
   </entry>
   <!-- Study Tower: Meet Friend: End -->
+  <!-- Bramble Village: Art House: Start -->
+  <entry>
+    <key>Art House</key>
+    <value>芸術の家</value>
+  </entry>
+  <entry>
+    <key>FRIEND: This is home.</key>
+    <value>FRIEND:これが家。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Feeling lost. I did not finish it. This is good enough.</key>
+    <value>FRIEND:迷いを感じながら。完成させなかった。これで十分。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Curious star system here. More curious beings. I wish others were not decayed, and could meet you.</key>
+    <value>FRIEND:好奇心をそそるものがこの星系にある。もっと好奇心を持つものたちがいる。他の住人たちが朽ち果てず、あなたに会えたらよかったのに。</value>
+  </entry>
+  <entry>
+    <key>DATURA: This thing we have going is... going quite well, I think!</key>
+    <value>DATURA:俺たちがやっていることは…、とてもうまくいっていると思う！</value>
+  </entry>
+  <entry>
+    <key>DATURA: I teach Friend the Nomai language so we can talk to each other, and they teach me art, as it appears to be very important to their species.</key>
+    <value>DATURA:俺はFriendにNomaiの言語を教えて互いに会話ができるようにしている。一方でアイツは俺に芸術を教えてくれる。これはその種族にとってとても重要なものらしい。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Though, judging by my painting here, I have a lot to learn!</key>
+    <value>DATURA:とはいえ、俺のこの絵を見る限り、まだまだ勉強する必要があるな！</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Talking is hard for me same. Not only you learning!</key>
+    <value>FRIEND:私も話すのは難しい。あなただけが学んでるわけじゃない！</value>
+  </entry>
+  <entry>
+    <key>DATURA: Does one have a lot to learn, or does another have a lot to teach?</key>
+    <value>DATURA:学ぶべきが多いのか、それとも教えるべきが多いのか？</value>
+  </entry>
+  <entry>
+    <key>FRIEND: What?</key>
+    <value>FRIEND:え？</value>
+  </entry>
+  <!-- Bramble Village: Art House: End -->
   <!-- Projection Pool House: Ash Projection Stone: Start -->
   <entry>
     <key>DATURA: Hello? Yarrow! There’s-</key>
@@ -536,6 +578,20 @@
     <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:さて、私はYarrowを捕まえて彼が大丈夫か確認してくるよ。ではまたね！よそよそしくなるな、ということ！</value>
   </entry>
   <!-- Projection Pool House: Ash Projection Stone: End -->
+  <!-- Northern Observatory: Outside: Start -->
+  <entry>
+    <key>DATURA: Lami! If you’re reading this, then I assume you and your friends have returned to come snooping once again.</key>
+    <value>DATURA:Lami！これを読んでいるということは、お前たちは再び詮索に来たということだろう。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Sorry, but you’re out of luck! I now have TWO security measures to prevent you teens from getting in here!</key>
+    <value>DATURA:残念だが運が悪かったな！俺は今、2つのセキュリティ対策を施してお前たち悪ガキどもが入ってこれないようにしている！</value>
+  </entry>
+  <entry>
+    <key>DATURA: I know we encourage ’being curious’ and all, but this is not acceptable behaviour! So... Ahaha, I’ve always wanted to say this: Get off my lawn!</key>
+    <value>DATURA:好奇心を持つこと、これを推奨しているのはわかっている。だが、これは許される行動ではない！だから…、あはは、ずっとこう言うつもりだった:俺の庭から出ていけ！</value>
+  </entry>
+  <!-- Northern Observatory: Outside: End -->
   <table_shipLog>
     <key>Eye of the Universe</key>
     <value>宇宙の眼</value>
