@@ -723,6 +723,10 @@
     <value>崖上の家</value>
   </table_shipLog>
   <table_shipLog>
+    <key>Observatory</key>
+    <value>観測所</value>
+  </table_shipLog>
+  <table_shipLog>
     <key>Northern Observatory</key>
     <value>北部観測所</value>
   </table_shipLog>
@@ -735,36 +739,76 @@
     <value>塔の最上部</value>
   </table_shipLog>
   <table_shipLog>
+    <key>South Pole Settlement</key>
+    <value>南極の居住区</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>South Pole Shelter</key>
+    <value>南極の居住地</value>
+  </table_shipLog>
+  <table_shipLog>
     <key>Bramble Village</key>
     <value>イバラの村</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Painting</key>
+    <value>壁画</value>
   </table_shipLog>
   <table_shipLog>
     <key>Secret Room</key>
     <value>隠された部屋</value>
   </table_shipLog>
   <table_shipLog>
+    <key>Hidden Path</key>
+    <value>秘められた道</value>
+  </table_shipLog>
+  <table_shipLog>
     <key>Secluded Structure</key>
     <value>密閉された構造物</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Sealed Entrance</key>
+    <value>封じられた入口</value>
   </table_shipLog>
   <table_shipLog>
     <key>Inside the Structure</key>
     <value>構造物の内側</value>
   </table_shipLog>
   <table_shipLog>
+    <key>Shuttle</key>
+    <value>シャトル</value>
+  </table_shipLog>
+  <table_shipLog>
     <key>Shuttle Crusher</key>
     <value>シャトル破砕機</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Missing Projection Pool</key>
+    <value>失われたプロジェクションプール</value>
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool House</key>
     <value>プロジェクションプールの家</value>
   </table_shipLog>
   <table_shipLog>
+    <key>Anglerfish Hunting</key>
+    <value>アンコウ狩り</value>
+  </table_shipLog>
+  <table_shipLog>
     <key>Hunting Blind</key>
     <value>ハントの隠れ家</value>
   </table_shipLog>
   <table_shipLog>
+    <key>The Collector</key>
+    <value>収拾者</value>
+  </table_shipLog>
+  <table_shipLog>
     <key>The Collector Mural</key>
     <value>収拾者の壁画</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Campsite</key>
+    <value>キャンプ場</value>
   </table_shipLog>
   <table_shipLog>
     <key>Initial Campsite</key>
@@ -941,6 +985,10 @@
   <table_shipLog>
     <key>Secluded StructureIf I want to return here, I should use the Mark Location on HUD feature, like Slate told me about.</key>
     <value>ここに戻りたいなら、Slateに教えてもらったようにHUDに位置をマークする機能を使うべきだろう。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Inside the StructureThe entrance to this building appears to have been sealed. Datura theorised that only an explosion could create an opening.</key>
+    <value>この建物の入口は封じられているようだ。Daturaは、爆発でも起こらなければ開口部は作れないと考えた。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureI found the remains of Friend... holding an artifact next to a green fire.</key>
