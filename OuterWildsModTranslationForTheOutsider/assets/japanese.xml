@@ -772,6 +772,136 @@
     <value>DATURA:俺は死を恐れていない―死は俺にとって極めて興味のないものだ。それにこの宇宙はまだ終わっていない。だから、生きることを恐れずに今を生きよう、Friend。</value>
   </entry>
   <!-- Bramble Village: Both Eye: End -->
+  <!-- Sealed Structure: Outside: Start -->
+  <entry>
+    <key>DATURA: Friend, I’m back - the others left! Can you hear me?! I’m gonna leave a recording here for you!</key>
+    <value>DATURA:Friend、戻ったぞ―他の者たちは去っていった！聞こえるか？！君に向けて記録を残しておくよ！</value>
+  </entry>
+  <entry>
+    <key>DATURA: Friend... I’m really sorry.</key>
+    <value>DATURA:Friend…。本当に申し訳なかった。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...I shouldn’t have come here. This is your secret room and I should’ve respected that. ...Friend? Are you... there? ...At least knock on the door so I know!</key>
+    <value>DATURA:…俺はここに来るべきじゃなかった。ここは君の隠していた部屋なんだからそれを尊重すべきだったんだ。…Friend？そこに…いるのか？…せめて扉をノックしてくれればわかるんだが！</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...? Nothing... Maybe they’re asleep. (...Sheesh, look at this metal door and cage... They really don’t want me getting in there again, huh.)</key>
+    <value>DATURA:…？何も聞こえない…。眠っているのかもしれない。(…くそ、この金属製の扉に檻を見ろよ…。やつらは俺に二度と入ってほしくないということかよ。)</value>
+  </entry>
+  <entry>
+    <key>DATURA: (Well, I can’t chop my way in... Unless... Ow! Stupid metal... Uh, I need like a... like an explosion or something to blast this stupid door down.)</key>
+    <value>DATURA:(まあ、チョップして入るわけにも…。そうでなければ…。痛っ！バカな金属め…。ふむ、このバカな扉をぶっ壊すには爆発か何かが必要だな。)</value>
+  </entry>
+  <entry>
+    <key>DATURA: (But how would I make an explosion...? And a... safe one? Is there even such a thing?)</key>
+    <value>DATURA:(だがどうやって爆発を起こせば良い…？しかも…安全な方法で？そんなものあるのか？)</value>
+  </entry>
+  <entry>
+    <key>DATURA: Ugh... my stupid curiosity... Ironic, is it not?</key>
+    <value>DATURA:うぅー…。俺の下らない好奇心め…。皮肉なもんじゃないか。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...Whoops, forgot to stop recording.</key>
+    <value>DATURA:…おっと、録音を止め忘れていた。</value>
+  </entry>
+  <!-- Sealed Structure: Outside: End -->
+  <!-- Sealed Structure: Inside: Start -->
+  <entry>
+    <key>DATURA: ...Okay... recording now... I’m keeping quiet because... some ’friends’ are here... talking with Friend.</key>
+    <value>DATURA:…よし…録音できている…。俺は今静かにしている…、数人の&lt;i&gt;友人たち&lt;/i&gt;がここで…Friendと話しているからだ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: So... I need to process what I just went through...</key>
+    <value>DATURA:それで…、ここまでのことを整理すると…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Uh, I... was curious where Friend disappears off to sometimes... and it lead me here. There was no door... so I walked in.</key>
+    <value>DATURA:あー…、Friendが時々いなくなる場所が気になって…、ここにたどり着いたんだ。扉はなくて、…中に入った。</value>
+  </entry>
+  <entry>
+    <key>DATURA: At first, I thought it was merely a nice quiet place for them to hang out, and get some alone time.</key>
+    <value>DATURA:最初は、アイツが一人で過ごすための静かで素敵な場所だと思ったんだ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: But... I picked up a weird lantern-resembling object from the ground before... tripping on the metal ledge there... and I suppose I got knocked unconscious?</key>
+    <value>DATURA:でも…ランタンのようなものを拾ったあと、そこの金属の出っ張りにつまづいて…、おそらく俺は意識を失ったのか？</value>
+  </entry>
+  <entry>
+    <key>DATURA: I woke up (or started dreaming?) almost immediately in... Friend’s house. ...but it wasn’t Friend’s house. It was a... copy... on some other planet, with a ringed planet in the sunsetting sky.</key>
+    <value>DATURA:俺は目を覚まして(いや、夢を見始めたのか？)ほとんどすぐは…Friendの家にいた。…だが、それはFriendの家ではなく、…そう、コピーだ…、どこか別の星の、夕焼け空に環状の惑星が見えるところだ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: It weirded me out, so I exited, and walked across a bridge into another building where... there were a lot of Friend’s elders.</key>
+    <value>DATURA:気味が悪かったので、俺は出ていった。そして橋を渡って別の建物に入るとそこには…、Friendの長老たちが大勢いた。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Upon seeing me, they were surprised, startled... but not hostile... at least. Still, I attempted to remain out of their way.</key>
+    <value>DATURA:俺を見て彼らは驚き、ぎょっとしていた。…だが、敵意はなかった…少なくとも。それでも、彼らの邪魔にならないよう気をつけた。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I decided to wander around the planet before night fell, took a raft to an area with buildings surrounding a giant hole, went over to have a look at it, but... suddenly red lights began flashing.</key>
+    <value>DATURA:夜が更ける前にこの惑星を散策しようと思った。イカダで巨大な穴を囲むように建物がある場所へ行った。その穴を見に行ったところ、…突然、赤い光が点滅しだしたんだ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: On a balcony, I saw one of Friend’s kind cover their ears, before yelling out and disappearing into the air.</key>
+    <value>DATURA:バルコニーでFriendの仲間の一人が耳を塞ぎ、大声で叫びながら宙に消えていくのを見た。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I don’t know what I did, but I definitely did something wrong, as the rest immediately began hunting me down.</key>
+    <value>DATURA:何をしたのかはわからないが、間違いなく何か悪いことをしてしまったのだろう。残った者たちがすぐに俺を捕らえようとしてきたから。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Panicking, I was able to escape by taking a raft to a hidden, old (burned?) structure to hide at... I sat down, closed my eyes... and... waited...</key>
+    <value>DATURA:パニックになった。俺はイカダで隠れた古い(燃えた？)建造物に行き、身を潜めた…。座って目を閉じ…、そして…、ひたすら待った…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...</key>
+    <value>DATURA:…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...A... while later... Friend wakes me up. ...I hugged them tightly, wanting to tell them I’m sorry... but looking over, I see: Friend’s ’still alive’ friends (whatever they meant by that).</key>
+    <value>DATURA:……しばらくして…、Friendに起こされた。…悪かったと言いたくて、強く抱きしめたが…が、見渡すと:Friendの&lt;i&gt;まだ生きている&lt;/i&gt;友人たち(どういう意味なのかは知らないが)がいた。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I’m just... worried I did something really bad. ...I didn’t intend to... I hope I can tell Friend-</key>
+    <value>DATURA:俺はただ…、本当に悪いことをしたと思っている。…意図的でなかったにせよ…。Friendに伝えられれば良いのだけれど―</value>
+  </entry>
+  <entry>
+    <key>DATURA: Uh... One of them is... approaching me. ...uh, hello there? Is that a projection-</key>
+    <value>DATURA:あぁ…。彼らのうちの一人が…、近づいてくる。…えっと、こんにちは？あれはプロジェクションか何かか―</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...</key>
+    <value>DATURA:…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Oh... what? You’re gonna lock them away? Ha, is that your solution for everything, or something? ...uh, hey! Let go of me! Ah! Friend! I-!</key>
+    <value>DATURA:あ…え？アイツを閉じ込めるのか？は、そんなので解決しようというのか？…お、おい！俺を離せ！待て！Friend！俺が―！</value>
+  </entry>
+  <!-- Sealed Structure: Inside: End -->
+  <!-- Sealed Structure: Inside from Friend: Start -->
+  <entry>
+    <key>FRIEND: ...Goodbye, friends. ...This will be my home for a little while, it seems. ...Oh, Datura, Datura. Getting yourself into trouble as always! Hahaha.</key>
+    <value>FRIEND:…さようなら、友人たちよ。…ここが、そう、少しの間だけ、私の家となるようだ。…ああぁ、Datura、Datura。相変わらず面倒なことに巻き込まれるね！ははは。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: I hope he knows I am not mad at him. My friends are just attempting to appease our decayed elders (who have decided this).</key>
+    <value>FRIEND:私があなたに対して怒ってはいないということをわかってほしい。私の友人たちは朽ち果てた長老たち(これを決めた者たち)を宥めようとしているだけなんだ。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: I should get to sleep. They will all be waiting for me. Hypothesis: I will see you again, Datura. Worry not.</key>
+    <value>FRIEND:そろそろ眠ろうかな。みんな私を待っているはずだから。仮説:また会えるよ、Datura。心配しないで。</value>
+  </entry>
+  <entry>
+    <key>...</key>
+    <value>…</value>
+  </entry>
+  <entry>
+    <key>NO AUDIO DETECTED FOR 10 MINUTES, STOPPING RECORDING</key>
+    <value>10分間音声が検出されませんでした。録音を停止します。</value>
+  </entry>
+  <!-- Sealed Structure: Inside from Friend: End -->
   <!-- Projection Pool House: Solanum Stone: Start -->
   <entry>
     <key>SOLANUM: Dad? Where have you been? You haven’t called for so long! We were worried something happened to you.</key>
