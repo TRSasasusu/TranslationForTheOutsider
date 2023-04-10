@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TranslationForTheOutsider", "OuterWildsModTranslationForTheOutsider\TranslationForTheOutsider.csproj", "{9D0D8FCE-0601-47C8-8352-C91792EE7F78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TranslationForTheOutsider", "TranslationForTheOutsider\TranslationForTheOutsider.csproj", "{9D0D8FCE-0601-47C8-8352-C91792EE7F78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

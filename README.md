@@ -14,4 +14,4 @@ The sample is here: [English Slate](fig/screenshot_slate_english.png) -> [Japane
 
 ## Other Languages
 
-Please make `OuterWildsModTranslationForTheOutsider/assets/<language>.xml` and its pull requests. I will add it into next releases.
+Please make `TranslationForTheOutsider/assets/<language>.xml` and its pull requests. I will add it into next releases.
