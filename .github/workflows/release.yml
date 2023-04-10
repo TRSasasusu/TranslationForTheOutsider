@@ -12,7 +12,7 @@ on:
 
 env:
     PROJ_USERNAME: orclecle
-    PROJ_NAME: OuterWildsModTranslationForTheOutsider
+    PROJ_NAME: TranslationForTheOutsider
 
 jobs:
     pre_job:
