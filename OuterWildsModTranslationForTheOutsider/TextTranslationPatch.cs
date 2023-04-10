@@ -11,6 +11,8 @@ using UnityEngine;
 namespace TranslationForTheOutsider {
     [HarmonyPatch]
     public static class TextTranslationPatch {
+        static bool _no_postfix_translate;
+
         [HarmonyPostfix]
         [HarmonyPatch(typeof(TextTranslation), nameof(TextTranslation.SetLanguage))]
         public static void TextTranslation_SetLanguage_Postfix(ref TextTranslation.Language lang, TextTranslation __instance) {
@@ -60,7 +62,9 @@ namespace TranslationForTheOutsider {
         [HarmonyPrefix]
         [HarmonyPatch(typeof(TextTranslation), nameof(TextTranslation._Translate))]
         public static void TextTranslation_Translate_Prefix(string key, TextTranslation __instance) {
-            if(__instance.m_table == null) {
+            _no_postfix_translate = key.Contains("_"); // See https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/blob/17149bad3786f9aa68aed9eaf8ec94e62ee5ba7e/TheOutsider/OuterWildsHandling/OWPatches.cs#L119
+
+            if (__instance.m_table == null) {
                 return;
             }
             var text = __instance.m_table.Get(key);
@@ -72,6 +76,9 @@ namespace TranslationForTheOutsider {
         [HarmonyPostfix]
         [HarmonyPatch(typeof(TextTranslation), nameof(TextTranslation._Translate))]
         public static void TextTranslation_Translate_Postfix(string key, TextTranslation __instance, ref string __result) {
+            if(_no_postfix_translate) {
+                return;
+            }
             if(__instance.m_language != TextTranslation.Language.JAPANESE) { // After adding othre languages, change this.
                 return;
             }
@@ -79,10 +86,6 @@ namespace TranslationForTheOutsider {
             var text = __result;
 
             if (__instance.m_language == TextTranslation.Language.JAPANESE) {
-                if(text == "闇のイバラの構造物は以前からずっとあったのか？") {
-                    return;
-                }
-
                 text = text.Replace("宇宙の眼", "<color=lightblue>宇宙の眼</color>");
                 text = text.Replace("眼", "<color=lightblue>眼</color>");
 
