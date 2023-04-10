@@ -787,11 +787,11 @@
   </entry>
   <entry>
     <key>DATURA: ...? Nothing... Maybe they’re asleep. (...Sheesh, look at this metal door and cage... They really don’t want me getting in there again, huh.)</key>
-    <value>DATURA:…？何も聞こえない…。眠っているのかもしれない。(…くそ、この鉄のような扉に牢を見ろよ…。やつらは俺に二度と入ってほしくないということかよ。)</value>
+    <value>DATURA:…？何も聞こえない…。眠っているのかもしれない。(…くそ、この鋼鉄のような扉に牢を見ろよ…。やつらは俺に二度と入ってほしくないということかよ。)</value>
   </entry>
   <entry>
     <key>DATURA: (Well, I can’t chop my way in... Unless... Ow! Stupid metal... Uh, I need like a... like an explosion or something to blast this stupid door down.)</key>
-    <value>DATURA:(まあ、チョップして入るわけにも…。そうでなければ…。痛っ！バカな鉄め…。ふむ、このバカな扉をぶっ壊すには爆発か何かが必要だな。)</value>
+    <value>DATURA:(まあ、チョップして入るわけにも…。そうでなければ…。痛っ！バカな合金め…。ふむ、このバカな扉をぶっ壊すには爆発か何かが必要だな。)</value>
   </entry>
   <entry>
     <key>DATURA: (But how would I make an explosion...? And a... safe one? Is there even such a thing?)</key>
@@ -902,6 +902,214 @@
     <value>10分間音声が検出されませんでした。録音を停止します。</value>
   </entry>
   <!-- Sealed Structure: Inside from Friend: End -->
+  <!-- Dream Friend House: Explain Me: Start -->
+  <entry>
+    <key>FRIEND: You are in my home star system! (A simulation of it.)</key>
+    <value>FRIEND:あなたは私の故郷の星系にいる！(模擬現実だけれどね。)</value>
+  </entry>
+  <entry>
+    <key>FRIEND: I am curious: how are you here? Are you from the outside star system? Or are you from elsewhere, like us?</key>
+    <value>FRIEND:私は興味がある:あなたはどうやってここに来た？外に広がるあの星系から？それとも私たちのように、どこか別の場所から？</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Please make yourself at home! And stay for as long a while as you like. ...I would avoid the others, however.</key>
+    <value>FRIEND:どうぞご自由に過ごしてほしい！そして、好きなだけ長くここにいて良い。…ただ、他の者たちに会うのは控えた方が良いと思う。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: This was built for one to be a while, as we searched for a new home. However, over time, more and more of us (our elders) decayed irreversibly into this simulation.</key>
+    <value>FRIEND:ここは、私たちが新しい家を探すまでの間に過ごせる場所として作られた。だけれど、時間が経つにつれて、多くの、より多くの者たち(年長者たち)がこの模擬現実の中に不可逆的に朽ち果てていった。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: There were very few of us left alive outside (mostly the youngest), when the Nomai arrived.</key>
+    <value>FRIEND:Nomaiが来たときには、外で生きている者たちはごくわずかしかいなかった(ほとんどが最も若い者たち)</value>
+  </entry>
+  <entry>
+    <key>FRIEND: After, our decayed elders suggested we silently observe the Nomai to ensure the Eye was not found.</key>
+    <value>FRIEND:すると朽ち果てた長老たちは、眼が見つからないようにNomaiを密かに観察することを私たちに指示した。</value>
+  </entry>
+  <!-- Dream Friend House: Explain Me: End -->
+  <!-- Dream Friend House: Datura and Prisoner: Start -->
+  <entry>
+    <key>FRIEND: Datura did not like the sound of our Prisoner, seeing how he released the Eye’s signal despite hearing of the vision of the Eye destroying the universe.</key>
+    <value>FRIEND:Daturaは私たちの囚人を好ましく思っていなかった。眼が宇宙を破壊するというビジョンを見たにもかかわらず、眼の信号を解放したのだから。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: One thing they have in common (and one I wish they did not) is becoming big fluffy bundles of anger due to the Eye.</key>
+    <value>FRIEND:2人に共通すること(そして、そうでなければ良いのにと思うこと)は、眼のせいで大きなふわふわとした怒りの塊となること。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Our Prisoner believed with unbreakable confidence that the Eye was pure good. Seeing the others hide it away, he viewed them as fearful, evil, and... idiotic.</key>
+    <value>FRIEND:囚人は、眼は純粋な善であると揺るぎない信念を持って信じていた。他の者たちが眼を隠しているのを見て、彼らは恐ろしく、邪悪で、そして…愚かしく思っていた。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Him and I told them we were not afraid of the Eye... But I suppose it is easy to call others afraid, and say they are not able to accept the truth, despite you not knowing everything either.</key>
+    <value>FRIEND:私と2人で眼は恐れるものではないとみんなに伝えたのだけれど…。でも、自分だってすべてを知っているわけではないのに、他人を怖がりだとか真実を受け入れられないんだとか言うのは簡単なことだったんだろう。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Datura did not care much for the Eye. A while away from his clan built up an anger towards them - he had a big falling out with a Nomai... Yarrow, I believe.</key>
+    <value>FRIEND:Daturaは眼をあまり気にかけていなかった。一族からしばらく離れていたこともあり、彼らに対する怒りが募っていた―あるNomaiと大きな喧嘩をしていた、あれは確かYarrowだった。</value>
+  </entry>
+  <!-- Dream Friend House: Datura and Prisoner: End -->
+  <!-- Dream Friend House: You and Prisoner: Start -->
+  <entry>
+    <key>FRIEND: A long while ago, the one we call our Prisoner used to be my friend.</key>
+    <value>FRIEND:もう長いこと前、囚人と呼ばれている者はかつて私の友人だった。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: He would tell me how he wished to ’set the wrongs of our elders right’ by releasing the Eye’s signal... I didn’t realise he was serious!</key>
+    <value>FRIEND:言っていたんだ。眼の信号を解放して、&lt;i&gt;長老たちの犯した過ちを正したい&lt;/i&gt;のだと…。まさか本気だとは思わなかったんだ！</value>
+  </entry>
+  <entry>
+    <key>FRIEND: ...I miss him.</key>
+    <value>FRIEND:…もう会えなくて、寂しいよ。</value>
+  </entry>
+  <!-- Dream Friend House: You and Prisoner: End -->
+  <!-- Dream Friend House: Explain Datura: Start -->
+  <entry>
+    <key>FRIEND: Hahaha, you explain him to me! He was a good friend to me, but not always to his clan... or to himself.</key>
+    <value>FRIEND:ははは、彼のことを私に説明してほしいんだね！Daturaは私にとって良き友人だった。でも、彼の一族にとっては…あるいは彼にとっても、必ずしもそうではなかった。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Part of me wishes he escaped this star system, but I know... it is improbable.</key>
+    <value>FRIEND:彼がこの星系から脱出できたのを願う気持ちもあるけれど、わかってる…、それは叶わなかったんだと。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: A long while has passed since I was with him on Dark Bramble. ...However, this might seem strange: it still feels recent, somehow.</key>
+    <value>FRIEND:闇のイバラで彼とともに過ごしてからもう長い年月が経った。…それなのに、奇妙に思われるかもしれないけれど:それはまだ、ずっと最近のように感じるんだ。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Hypothesis: you can only make so many unique memories here. After a long enough while, the days and months and... thousands of years... all blend together.</key>
+    <value>FRIEND:仮説:ここでしか作れない思い出がたくさんあるはず。でも、十分な時間が経つと、日々や月々、そして…、何千年という年月が…、すべて混ざり合ってしまう。</value>
+  </entry>
+  <!-- Dream Friend House: Explain Datura: End -->
+  <!-- Dream Friend House: You and Me: Start -->
+  <entry>
+    <key>FRIEND: Hello there! You are a curious being.</key>
+    <value>FRIEND:こんにちは！あなたは好奇心を持った存在に見えるよ。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: It is nice to meet you! A long while has passed since anyone new has come here. I am glad that translator device of yours made it over!</key>
+    <value>FRIEND:会えて嬉しいよ！新しい人物がここに来るのはずいぶんと久しぶりだ。あなたの翻訳機が無事に届いて良かった！</value>
+  </entry>
+  <entry>
+    <key>FRIEND: The simulation is strange with what it decides to bring over. Perhaps all my Nomai writing made the simulation recognise the device?</key>
+    <value>FRIEND:この模擬現実は、何を持ち込めると決めているのか不思議。もしかして、私が書いたNomaiの文字によってその装置が認識されたのかな？</value>
+  </entry>
+  <!-- Dream Friend House: You and Me: End -->
+  <!-- Dream Friend House: Explain Prisoner: Start -->
+  <entry>
+    <key>FRIEND: A friend of mine let out the Eye’s signal, and was decayed and imprisoned in this simulation.</key>
+    <value>FRIEND:私のある友人は眼の信号を解放し、それでこの模擬現実へ幽閉され朽ち果てていった。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: A long while passed and, when the Nomai arrived, all of our elders had decayed into this simulation, with just the youngest still left alive outside.</key>
+    <value>FRIEND:長い年月が経ち、Nomaiが到着したときには、私たちの年長者は皆この模擬現実へと朽ち果てていて、一番若い者たちだけがまだ外で生きていた。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Hearing of the Nomai’s arrival, our decayed elders... burned the remaining archived codes for our Prisoner’s vault.</key>
+    <value>FRIEND:Nomaiの来訪を耳にした朽ち果てた長老たちは…、囚人の保管庫の残されていたパスコードを焼き払った。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: I planned to free him! And the others outside wanted to help! We are not all monsters, I hope you can believe. But... we discovered there was nothing we could do now.</key>
+    <value>FRIEND:私は解放してやるつもりだった！それに外にいる他の者たちだって手伝いたいと言っていた！私たちはみんなが怪物なのではない、信じてほしい。だけれど…、もうどうしようもないとわかってしまったんだ。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: The controls raising our Prisoner’s submerged structure out of our Vessel’s water were destroyed, by one of our elders at some point.</key>
+    <value>FRIEND:囚人の構造物を`船`の水中から引き上げる制御装置は、ある時点で長老の一人によって破壊されていた。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Raising it outside also raises the simulated version of the structure, allowing access to the underground from within the simulation (and letting our Prisoner leave to join the rest of the decayed when freed).</key>
+    <value>FRIEND:これを引き上げれば模擬現実内の構造物も上昇するので、そこから地下へアクセスできるようになるんだ。模擬現実の中だけれどね。(そして、解放された囚人は他の朽ち果てた者たちとともに過ごせるようになる。)</value>
+  </entry>
+  <entry>
+    <key>FRIEND: So, even if we freed him from his Vault, he would still be trapped underground. ...And so... I never saw him again.</key>
+    <value>FRIEND:だから、もう、たとえ保管庫から解放されたとしても、地下から出ることはもう叶わないんだ。…そして、…もう二度と会えることはなかった。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: I try not to think about what he has gone through. ...This is not easy for me to say, but I hope he has... I hope he is no longer alive. The alternative seems much worse.</key>
+    <value>FRIEND:どんな目に遭ったのかはもう考えないようにしている。…あまり言いたくないことだけれど、私は、囚人はもう生きていない方が良いと思う。そうでなければ、あまりに酷いだろう。</value>
+  </entry>
+  <!-- Dream Friend House: Explain Prisoner: End -->
+  <!-- Dream Friend House: You and Datura: Start -->
+  <entry>
+    <key>FRIEND: ...Datura. We met for similar but opposite reasons.</key>
+    <value>FRIEND:…Datura。私たちは似ているようで、正反対の理由で出会った。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: After my other friend was imprisoned, I felt very burnt inside... and I ran. Fortunately, Datura was quite welcoming!</key>
+    <value>FRIEND:私の別の友人が投獄された後、私は心が引き裂かれそうな思いで…逃げ出した。幸いなことに、Daturaは優しく迎えてくれた！</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Sometimes, I wish we had ran away. Us together into the galaxy! But... it was only a thought.</key>
+    <value>FRIEND:時々、彼と一緒に遠くへ行きたくなることがあった。2人で、銀河の彼方へ！でも…、それは思うだけに留めていた。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Our opposing views on the Eye was surprisingly not an issue between us. (Hypothesis: Datura’s true issues were with something else?)</key>
+    <value>FRIEND:眼に対する反対の見方は、意外にも私たちの間で問題にならなかった。(仮説:Daturaの本当の悩みは別のところにあった？)</value>
+  </entry>
+  <entry>
+    <key>FRIEND: He was, however, quite disappointed to hear our Vessel was not able to travel intergalactically. (Not the escape pod he was hoping for!)</key>
+    <value>FRIEND:だけれど彼は、私たちの`船`がインターギャラクティックに移動できるものではないと聞いてとてもがっかりしていた。(求めていたのは脱出ポッドではなかった！)</value>
+  </entry>
+  <!-- Dream Friend House: You and Datura: End -->
+  <!-- Dream Friend House: Explain You: Start -->
+  <entry>
+    <key>FRIEND: Hello there! My name is Friend. ...That is what Datura called me before I understood his language.</key>
+    <value>FRIEND:こんにちは！私の名前はFriend。…これは、私がDaturaの言葉を理解する前に彼がそう呼んだものなんだ。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: When Datura explained to me what ’friend’ meant and asked for my ’real’ name, I told him ’Friend’ was fine. My old name never fit me anyway, I felt.</key>
+    <value>FRIEND:Daturaから&lt;i&gt;friend&lt;/i&gt;の意味を説明されて、そして&lt;i&gt;本当の&lt;/i&gt;名前を聞かれた。それでも私は&lt;i&gt;Friend&lt;/i&gt;で良いと答えた。どうせ昔の名前なんてもう似合わないのだし、と思って。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: We travelled here in search of the Eye of the universe and... I wish we never discovered it. The Eye has only burnt us...</key>
+    <value>FRIEND:私たちは宇宙の眼を求めて旅をしてきた…。でも、見つけなければ良かったんだと思う。眼はただ私たちを焼き尽くしただけだった…。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: This simulation is now our home. We are all spooky ghosts! My elders decayed willingly, but the youngest died mysteriously, and simultaneously.</key>
+    <value>FRIEND:この模擬現実は今や、私たちの家。私たちみんな不気味な幽霊だ！年長者たちは喜んで朽ち果てていったが、最も若い者たちは不思議なことに、同時に死んだ。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: I wish I could understand your language! What happened? Did something happen to the Nomai too?</key>
+    <value>FRIEND:あなたの言葉が理解できたら良いのに！何があったの？Nomaiにも何かあったの？</value>
+  </entry>
+  <!-- Dream Friend House: Explain You: End -->
+  <!-- Dream Friend House: Datura and Me: Start -->
+  <entry>
+    <key>FRIEND: Have you been exploring our structures on the surface of Dark Bramble?</key>
+    <value>FRIEND:闇のイバラの地表にある私たちの建物は探検したかな？</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Have you found Datura? Or... his body? When he wasn’t searching around inside Dark Bramble, he was usually in his Study Tower or Observatory (I helped build).</key>
+    <value>FRIEND:Daturaは見つけた？もしくは…、彼の亡骸を？Daturaは闇のイバラ内部を探索していないときは、たいてい研究塔か観測所(私が建設を手伝った)にいるんだ。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Oh, it has a security measure, I remember that! An overly curious young Nomai occasionally visited him. (I wonder why Solanum never visited?)</key>
+    <value>FRIEND:ああ、セキュリティ対策があるんだった。そういえば！好奇心あふれる若いNomaiが時折訪ねてきていた。(Solanumはどうして一度も訪れなかったのだろう？)</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Anyway, he used my quantum shard gift to effect the Observatory’s door, so to enter, you must not be looking at the door.</key>
+    <value>FRIEND:ともかく、彼は私の贈った量子のかけらを観測所の扉に使ってくれていた。だから、入るときには扉を見てはいけないんだ。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: The planet used to be whole! Can you imagine? On our Vessel, we did not notice it broke until a while after it had!</key>
+    <value>FRIEND:昔はあの惑星は丸かったんだ！想像できる？私たちの`船`では、あれが壊れてしばらくしてからようやく気づいたんだ！</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Datura hypothesized the Eye’s signal bounced around in Dark Bramble before reaching the Nomai - why they warped there instead?</key>
+    <value>FRIEND:Daturaは、眼の信号がNomaiに届く前に闇のイバラで反響していたのではと仮定していた―なぜ彼らは代わりにそこへワープしたのか、ということについて。</value>
+  </entry>
+  <!-- Dream Friend House: Datura and Me: End -->
+  <!-- Dream Friend House: Me and Prisoner: Start -->
+  <entry>
+    <key>FRIEND: I feel like I should be more excited - you might be able to free my friend!</key>
+    <value>FRIEND:もっと興奮しても良いような気がする―だって、あなたが私の友人を解放してくれるかもしれない！</value>
+  </entry>
+  <entry>
+    <key>FRIEND: But, in one way or another, I know he is no longer with us...</key>
+    <value>FRIEND:でも、もうどうにかしたって、いなくなってしまったことはわかってるんだ…。</value>
+  </entry>
+  <!-- Dream Friend House: Me and Prisoner: End -->
   <!-- Projection Pool House: Solanum Stone: Start -->
   <entry>
     <key>SOLANUM: Dad? Where have you been? You haven’t called for so long! We were worried something happened to you.</key>
