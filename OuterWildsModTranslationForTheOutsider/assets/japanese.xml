@@ -502,6 +502,20 @@
     <value>DATURA:もちろん、もしも触れられないような内容でなければだけれど。</value>
   </entry>
   <!-- Study Tower: Meet Friend: End -->
+  <!-- Top of Tower: Start -->
+  <entry>
+    <key>DATURA: Lami got in my <![CDATA[<color=orange>Observatory</color>]]> again!</key>
+    <value>DATURA:またLamiが私の<![CDATA[<color=orange>観測所</color>]]>に入ってきた！</value>
+  </entry>
+  <entry>
+    <key>DATURA: Ah, I know! I’ll add a detector that locks the door, if another ship (other than ours) is on Dark Bramble’s surface!</key>
+    <value>DATURA:ああ、そうだ！闇のイバラの地表に他の船(俺たちのを除いて)がいると扉をロックする検知器を追加してやろう！</value>
+  </entry>
+  <entry>
+    <key>DATURA: Unless you want to jump down from orbit, Lami, I think I’ve won this game!</key>
+    <value>DATURA:軌道上から飛び降りでもしない限りは、Lami、この勝負は俺の勝ちということだ！</value>
+  </entry>
+  <!-- Top of Tower: End -->
   <!-- Bramble Village: Misc: Start -->
   <entry>
     <key>Eye Shack</key>
