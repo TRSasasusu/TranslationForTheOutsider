@@ -275,7 +275,7 @@
   </entry>
   <entry>
     <key>FoundSomethingNew1_(Nah, that would be dumb.)</key>
-    <value>(いや、そんな考えをするのは馬鹿げているな。)</value>
+    <value>(いや、そんな考えをしてしまうのは馬鹿げているな。)</value>
   </entry>
   <entry>
     <key>FoundSomething1_“The ship is fragile! It can break! You can’t subject it to extreme conditions!” Not like I was trying to land on the Sun Station, now, was I?</key>
@@ -300,6 +300,10 @@
   <entry>
     <key>FeldsparCore_...Well, you'll know when to stop.</key>
     <value>…まあ、止まるべき場所はわかるか。</value>
+  </entry>
+  <entry>
+    <key>Feldspar5a_My story goes like this. I’d just finished exploring the core of Giant’s Deep, and I wanted to try my hand at Dark Bramble, seeing as no one had ever been inside before.</key>
+    <value>つまりはこういうことだ。巨人の大海の探査を終えて、闇のイバラで腕試ししようと思ったんだ。まだ誰も内部には行ったことがないみたいだったし。</value>
   </entry>
   <entry>
     <key>Bramble Power Station</key>
@@ -1057,7 +1061,7 @@
   </entry>
   <entry>
     <key>DATURA: ...? Nothing... Maybe they’re asleep. (...Sheesh, look at this metal door and cage... They really don’t want me getting in there again, huh.)</key>
-    <value>DATURA:…？何も聞こえない…。眠っているのかもしれない。(…くそ、この鋼鉄のような扉に牢を見ろよ…。やつらは俺に二度と入ってほしくないということかよ。)</value>
+    <value>DATURA:…？何も聞こえない…。眠っているのかもしれない。(…くそ、この鉄のような扉にオリを見ろよ…。やつらは俺に二度と入ってほしくないということかよ。)</value>
   </entry>
   <entry>
     <key>DATURA: (Well, I can’t chop my way in... Unless... Ow! Stupid metal... Uh, I need like a... like an explosion or something to blast this stupid door down.)</key>
@@ -1612,6 +1616,90 @@
     <value>DATURA:好奇心を持つこと、これを勧めているのはわかっている。だが、これは許される行動ではない！だから…、あはは、ずっとこう言うつもりだった:俺の家から出ていけ！</value>
   </entry>
   <!-- Northern Observatory: Outside: End -->
+  <!-- Northern Observatory: Computer: Start -->
+  <entry>
+    <key><![CDATA[<color=orange>DETECTED SPACECRAFT:</color>]]>\\nNomai Shuttle <![CDATA[<color=red>(Destroyed)</color>]]>\\nFriend’s Ship <![CDATA[<color=red>(Destroyed)</color>]]></key>
+    <value><![CDATA[<color=orange>検知された宇宙船:</color>]]>\\nNomaiシャトル<![CDATA[<color=red>(破壊済み)</color>]]>\\nFriendの船<![CDATA[<color=red>(破壊済み)</color>]]></value>
+  </entry>
+  <entry>
+    <key><![CDATA[<color=orange>SPACECRAFT COUNT:</color>]]> 2\\nDoor is unlocked.</key>
+    <value><![CDATA[<color=orange>宇宙船の数:</color>]]>2\\n扉は開放されています。</value>
+  </entry>
+  <!-- Northern Observatory: Computer: End -->
+  <!-- Northern Observatory: Collector: Start -->
+  <entry>
+    <key>FRIEND: Is this your newest painting? Pretty! This is <![CDATA[<color=lightblue>The Collector</color>]]>, is it not?</key>
+    <value>FRIEND:これは新作だね？きれい！<![CDATA[<color=lightblue>収拾者</color>]]>、だよね？</value>
+  </entry>
+  <entry>
+    <key>DATURA: Yes, indeed it is! I was hoping you would recognise it.</key>
+    <value>DATURA:ああ、確かにそうだ！わかってくれたらと思ってたんだ。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: How do you know of it? That is quite curious!</key>
+    <value>FRIEND:どうしてそれを知っているの？とても興味がある！</value>
+  </entry>
+  <entry>
+    <key>DATURA: Well, it was big intergalactic news. Bramble planets (like this one) are somewhat known, but this was a mysterious threat magnitudes larger, that many desired to know the cause of, to prevent potential future tragedies.</key>
+    <value>DATURA:そうだな、これは銀河をまたにかける大事件だった。イバラの惑星(ここみたいな)はある程度知られているが、この謎の危険の深刻さは桁違いで、未来の悲劇を防ぐために何が引き起こしたのかを多くの者が知りたがった。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: I see. Was it ever discovered where <![CDATA[<color=lightblue>The Collector</color>]]> came from or how it formed, then?</key>
+    <value>FRIEND:なるほど。となると、<![CDATA[<color=lightblue>収拾者</color>]]>がどこから来て、どうやってできたのかわかったの？</value>
+  </entry>
+  <entry>
+    <key>DATURA: Not that I’m aware of, I’m afraid. But... I was wanting to ask you: What was it like, from your perspective? When the <![CDATA[<color=lightblue>The Collector</color>]]> arrived?</key>
+    <value>DATURA:俺の知る限りでは、まだだ。だが…、君に聞きたいことがあったんだ:君から見て、こいつはどういうものだった？<![CDATA[<color=lightblue>収拾者</color>]]>がやって来たときは？</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Well, I was a young child. I noticed strange feelings spreading in the faces of my elders, as if they had knowledge they wished to hide from me and the others!</key>
+    <value>FRIEND:そうだねぇ、私はまだ幼い子どもだった。あるとき、年長者たちの顔に奇妙な感情が広がっているのに気づいたんだ。まるで、私や他に隠したい知識があるかのようだった！</value>
+  </entry>
+  <entry>
+    <key>DATURA: Some things never change, I suppose. Uh, sorry, please continue.</key>
+    <value>DATURA:ずっと変わらないものなんだな。あぁ、すまない、続けてくれ。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Hahaha. So, my other friend got his parent to explain: There was a planet on the other side of the galaxy! A bad planet.</key>
+    <value>FRIEND:ははは。それで、私の友人が親に説明してもらったんだ:銀河の反対側にはある惑星が存在する！悪い星だ。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: It had began... evaporating and... moving towards us, releasing a deadly substance into this galaxy (like a toxic gas!) as it drifted through it.</key>
+    <value>FRIEND:それは蒸発し始め…私たちに向かって動き出し…、そして、この銀河を漂いながら致死性のある物質(有害ガスのような！)を放出していたんだ。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: At the time, my species was pre-interstellar, and, unable to combat this threat, sent out a distress signal, with fragmented hope that someone out there could help!</key>
+    <value>FRIEND:当時、私たちの種族はまだ星間飛行技術を持っていなかった。そしてこの危機に対抗することもできず、救難信号を送ったんだ。誰かが助けてくれるというわずかな希望を持って！</value>
+  </entry>
+  <entry>
+    <key>FRIEND: But the planet drew nearer! And threatened to destroy us, and all life in this galaxy.</key>
+    <value>FRIEND:だけれどその惑星は迫ってきた！私たちや、この銀河に生きるすべての生命を滅ぼそうと。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Ah, and then, their distress signal was heard by (who else but) a wandering Nomai Vessel, correct?</key>
+    <value>DATURA:あー、そして、その救難信号を受け取ったのが(他でもない)放浪していたNomaiの`船`だった、というわけか？</value>
+  </entry>
+  <entry>
+    <key>FRIEND: What? I did not know that!</key>
+    <value>FRIEND:えっ？それは知らなかった！</value>
+  </entry>
+  <entry>
+    <key>DATURA: Ha, that’s likely because, <![CDATA[<i>]]>unlike my clan<![CDATA[</i>]]>, this clan actually sent out a message inviting others to come and help, before warping over alongside them.</key>
+    <value>DATURA:ああ、&lt;i&gt;俺の部族と違って&lt;/i&gt;、この部族はちゃんと手伝いに来るよう他にメッセージを送って一緒にワープしてるから、だろうな。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: I see. Anyway, after we were gotten to safety, the substance was discovered to expand when hot, but tightly compact in cold conditions! And was effectively neutralized by water.</key>
+    <value>FRIEND:そういうことか。とにかく、私たちが無事救出された後、その物質は熱いときには膨張し、冷たいときには強く圧縮されることがわかった！そして、水によって効果的に無害化されることもわかった。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Then, we waited and watched as several interstellar species, working together, kindly contained <![CDATA[<color=lightblue>The Collector</color>]]> by collecting the strange matter into various water worlds and comets.</key>
+    <value>FRIEND:それから、いくつかの星間種族が親切にも協力して、奇妙な物質を拾い集め様々な水の世界や彗星に収めることで<![CDATA[<color=lightblue>収拾者</color>]]>を封じ込めるのを、私たちは見つつ待っていた。</value>
+  </entry>
+  <entry>
+    <key>FRIEND: Then everyone, including us, all went home. Not a long while after, the Eye started sending out it’s signal. I wonder if it saw-</key>
+    <value>FRIEND:そして私たちを含め、みんなが家に帰った。程なくして、眼が信号を発し始めた。もしかすると見てたのかな―</value>
+  </entry>
+  <!-- Northern Observatory: Collector: End -->
   <table_shipLog>
     <key>Eye of the Universe</key>
     <value>宇宙の眼</value>
