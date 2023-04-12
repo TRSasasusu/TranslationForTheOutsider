@@ -15,7 +15,7 @@
   </entry>
   <entry>
     <key>ScientistAnswerNEW_...I think you need to wake up a bit from your pre-launch campout. Do a couple of jumps, maybe.</key>
-    <value>…私が思うに、出発前のキャンプから少し目を覚ます必要がある。ジャンプを2、3回してみたらどうだ？</value>
+    <value>…私が思うに、出発前のキャンプから少し目を覚ます必要がある。2、3回くらいジャンプしてみたらどうだ？</value>
   </entry>
   <entry>
     <key>FeldsparRecording_Trip 4, entry #... who cares. Crashes: 2. Boring crashes: 0.</key>
@@ -188,6 +188,118 @@
   <entry>
     <key>FigureSomethingOutResponseD2_Yeah, catch ya later, hatchling. Sorry I couldn’t be of more help.</key>
     <value>あぁ、また後でな、ひよっ子。すまない、助けになれなくて。</value>
+  </entry>
+  <entry>
+    <key>FigureSomethingOut1_That’s the stupid-looking tall structure, isn’t it?</key>
+    <value>あのバカみたいな背の高い建物、のことだよな？</value>
+  </entry>
+  <entry>
+    <key>FigureSomethingOut1_Ah yes, the stairs have collapsed, right? Well, then you’ll need to find something else to get you up through the staircase, won’t you?</key>
+    <value>ああそうだ、階段が崩れていたんだったよな？それなら、まるで階段で上るかのようにできる何か別のものを探さなくちゃならない、ということだな？</value>
+  </entry>
+  <entry>
+    <key>FigureSomethingOutResponseB_Yup.</key>
+    <value>そういうことだ。</value>
+  </entry>
+  <entry>
+    <key>FeldsparFigureSomethingOutResponseB_Thanks, Feldspar.</key>
+    <value>ありがとう、Feldspar。</value>
+  </entry>
+  <entry>
+    <key>FeldsparFigureSomethingOutResponseB_That’s not very helpful.</key>
+    <value>それではあまり助けになってない。</value>
+  </entry>
+  <entry>
+    <key>FigureSomethingOutResponseB1_You’re welcome, hatchling.</key>
+    <value>どういたしまして、ひよっ子。</value>
+  </entry>
+  <entry>
+    <key>FigureSomethingOutResponseB2_It is, you just don’t know it yet.</key>
+    <value>それは、お前がまだ気づいてないだけだよ。</value>
+  </entry>
+  <entry>
+    <key>FigureSomethingOut2_The what?</key>
+    <value>何だ？</value>
+  </entry>
+  <entry>
+    <key>FigureSomethingOut2_Oh, it fell in here, did it? Well then you’re not going to find it by randomly wandering around this place...</key>
+    <value>あ、ここに落ちていたのか？それならこの辺を適当にうろうろしても見つかりそうにないな…。</value>
+  </entry>
+  <entry>
+    <key>FigureSomethingOut2_So, do what you did to find me! ...Though, I doubt it’s sending out a signal like I am, so... that might be a problem.</key>
+    <value>なら、私を見つけたのと同じことをすれば良い！…もっとも、私のように信号を発しているとは思えないので、…それは問題たりうるかもしれないな。</value>
+  </entry>
+  <entry>
+    <key>FigureSomethingOut2_Hey, you’re smart. You’ll figure something out.</key>
+    <value>なあに、お前は賢い。解決できるはずさ。</value>
+  </entry>
+  <entry>
+    <key>FigureSomethingOut3_Ha, you found that too? Well, if you payed attention, you might have noticed that the door is actually on Dark Bramble’s surface.</key>
+    <value>はは、お前も見つけたのか？よく見れば、あの扉は実は闇のイバラの地表にあるんだと気づけたかもしれないな。</value>
+  </entry>
+  <entry>
+    <key>FigureSomethingOut3_So, maybe the solution... lies on the surface.</key>
+    <value>それなら解決策は…やはり地表にあるかもしれない。</value>
+  </entry>
+  <entry>
+    <key>FigureSomethingOutCancel_Alright. It’s always more fun that way, anyway, so good call.</key>
+    <value>なるほど。そちらの方が楽しいのは常なんだ。とにかく、良い判断だ。</value>
+  </entry>
+  <entry>
+    <key>FeldsparFoundSomethingMenu_I found a way to the top of the Study Tower, and...</key>
+    <value>研究塔の最上部へ行く方法を見つけた、そして…</value>
+  </entry>
+  <entry>
+    <key>FoundSomethingNew1_... Uhuh. ... Oh. ... Huh?</key>
+    <value>…うんうん。…ああ。…はあ？</value>
+  </entry>
+  <entry>
+    <key>FoundSomethingNew1_Wait wait wait. Giant's Deep tore it off the surface, and you rode the tower on over?!</key>
+    <value>待て待て待て。巨人の大海が塔を地表から引きちぎるのに乗じて、そのまま上まで飛び上がっただと？！</value>
+  </entry>
+  <entry>
+    <key>FoundSomethingNew1_Damn. Are you trying to out-Feldspar me? Well done, hatchling, proud of you.</key>
+    <value>くそっ。Feldspar超えを目指そうというのか？よくやった、ひよっ子、お前を誇りに思うよ。</value>
+  </entry>
+  <entry>
+    <key>FoundSomethingNew1_(Hmm... now what could I do to top that maneuver?)</key>
+    <value>(ううむ…、この作戦を上回るにはどうすればいい？)</value>
+  </entry>
+  <entry>
+    <key>FoundSomethingNew1_(Oh, I know! I could land on that Sun Station thing!)</key>
+    <value>(ああ、そうだ！あの太陽ステーションに着陸してやればいい！)</value>
+  </entry>
+  <entry>
+    <key>FoundSomethingNew1_(...)</key>
+    <value>(…)</value>
+  </entry>
+  <entry>
+    <key>FoundSomethingNew1_(Nah, that would be dumb.)</key>
+    <value>(いや、そんな考えをするのは馬鹿げているな。)</value>
+  </entry>
+  <entry>
+    <key>FoundSomething1_“The ship is fragile! It can break! You can’t subject it to extreme conditions!” Not like I was trying to land on the Sun Station, now, was I?</key>
+    <value>&lt;i&gt;探査艇は脆い！壊れる！極限状態で使うことはできない！&lt;/i&gt;別に太陽ステーションに着陸しようとしたわけでもないのになあ？</value>
+  </entry>
+  <entry>
+    <key>FeldsparExplore_Your scout tracker will tell you the scout is in two places at once, but I don’t think that’s... wrong, exactly, because space doesn’t work right in here. That seed looks small, see? But inside... Well...</key>
+    <value>探査機追跡機は、探査機が同時に2カ所にあることを示すだろう。だが、それが…厳密に言って間違っているとは思わない。ここでは空間が正しく機能していないからね。あの種は小さく見えるだろう？でも中は…そうだな…。</value>
+  </entry>
+  <entry>
+    <key>FeldsparExplore_I’ve had a lot of time to think about this, and my theory is that these seeds really hate the fabric of spacetime.</key>
+    <value>そのことを考える時間はたっぷりあった。そしてああいう種は時空構造というものをひどく嫌っているっていう仮説を立てた。</value>
+  </entry>
+  <entry>
+    <key>FeldsparExplore_Good luck exploring Dark Bramble!</key>
+    <value>気をつけて闇のイバラを探検するんだ！</value>
+  </entry>
+  <entry>
+    <key>FeldsparCore_If I were you, I’d go take a walk and see where it ends. But, stop before the uh...</key>
+    <value>私だったら、どこまで続いてるのか見に行ってみるけどな。だが、その前に止まって、ああ…。</value>
+  </entry>
+  <entry>
+    <key>FeldsparCore_...Well, you'll know when to stop.</key>
+    <value>…まあ、止まるべき場所はわかるか。</value>
   </entry>
   <entry>
     <key>Bramble Power Station</key>
