@@ -1685,7 +1685,7 @@
   </entry>
   <entry>
     <key>DATURA: Ha, that’s likely because, <![CDATA[<i>]]>unlike my clan<![CDATA[</i>]]>, this clan actually sent out a message inviting others to come and help, before warping over alongside them.</key>
-    <value>DATURA:ああ、&lt;i&gt;俺の部族と違って&lt;/i&gt;、この部族はちゃんと手伝いに来るよう他にメッセージを送って一緒にワープしてるから、だろうな。</value>
+    <value>DATURA:ああ、&lt;i&gt;俺の部族と違って&lt;/i&gt;、この部族はちゃんと手伝いに来るよう他にメッセージを送って一緒にワープしたからな。</value>
   </entry>
   <entry>
     <key>FRIEND: I see. Anyway, after we were gotten to safety, the substance was discovered to expand when hot, but tightly compact in cold conditions! And was effectively neutralized by water.</key>
@@ -1700,6 +1700,178 @@
     <value>FRIEND:そして私たちを含め、みんなが家に帰った。程なくして、眼が信号を発し始めた。もしかすると見てたのかな―</value>
   </entry>
   <!-- Northern Observatory: Collector: End -->
+  <!-- Northern Observatory: Find: Start -->
+  <entry>
+    <key>DATURA: Okay! Had a call with Solanum. Hope she and Filix are doing alright... So... let’s take a look through this telescope, and see what... this thing... is.</key>
+    <value>DATURA:良かった！Solanumと通話して。あの子もFilixも元気にしてるようだった…。さて…望遠レンズで見てみるか…あれは…何なんだろうなあ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...Ha... Glad I have that recording. It’s nice to hear Friend’s voice again.</key>
+    <value>DATURA:…はぁ…。あの録音をしていて良かった。今でもFriendの声が聞けるよ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I remember thinking it was odd that once <![CDATA[<color=lightblue>The Collector</color>]]> was defeated, Friend’s elders decided to return home to their moon instead of leaving with the others.</key>
+    <value>DATURA:思ったことがあるんだ。<![CDATA[<color=lightblue>収拾者</color>]]>に勝利した後、Friendの長老たちが他の種族とともに発つのではなく、自分たちの衛星に帰るのを選んだのはおかしいんじゃないかと。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I think they were given (if they ever did wish to leave) schematics on how to build various kinds of spacecraft and machines, as is customary when encountering a pre-interstellar species.</key>
+    <value>DATURA:恒星間文明以前の種族に出会ったときの慣例として、(もしその場を離れたいのならば)様々な宇宙船や機械の作り方の図面を彼らは渡されたはずなんだ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...However, I don’t know if launching civilizations several centuries worth of technological innovation forward (before they are ready for it) is a good idea.</key>
+    <value>DATURA:…もっとも、数百年分の技術進歩により得られるはずのものを前倒しで文明が受け取ること(その準備が整う前に)が良いアイデアなのかはわからないが。</value>
+  </entry>
+  <entry>
+    <key>DATURA: The temptation to let the technology consume everything - your world and yourself - is just too great.</key>
+    <value>DATURA:技術によりすべてを支配する誘惑は―世界と、そして自分自身さえも―あまりにも大きい。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...Friend’s elders learned this the hard way... it would seem.</key>
+    <value>DATURA:…Friendの長老たちはこのことを厳しい形で…学んだのだろう。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...Ah! There it is! Now, to take a picture...</key>
+    <value>DATURA:…お！あれだ！さて、写真を撮ろう…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...Oh no.</key>
+    <value>DATURA:…ばかな。</value>
+  </entry>
+  <!-- Northern Observatory: Find: End -->
+  <!-- Northern Observatory: After Find: Start -->
+  <entry>
+    <key>DATURA: Oh no. No no no no. Please no.</key>
+    <value>DATURA:ばかな。やめろやめろやめろ。嘘だと言ってくれ。</value>
+  </entry>
+  <entry>
+    <key>DATURA: It can’t be...</key>
+    <value>DATURA:あり得ないはずなんだ…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Okay, okay... I’m freaking out! When this thing gets too close to the Sun...</key>
+    <value>DATURA:落ち着け、落ち着け…。俺はパニックになっている！もしこいつが太陽に近づきでもしたら…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I... I have to warn the others immediately! To... To the Projection Pool!</key>
+    <value>DATURA:俺は…、今すぐ皆に伝えなければ！プ、プロジェクションプール！</value>
+  </entry>
+  <!-- Northern Observatory: After Find: End -->
+  <!-- Northern Observatory: At PPH: Start -->
+  <entry>
+    <key>DATURA: Okay... I’m recording this at my Projection Pool now. I tried to warn the others of the comet, but... they already knew about it.</key>
+    <value>DATURA:ああ…。俺は今プロジェクションプールで録音している。彗星のことを皆に伝えようとした、が…、皆はもう知ってると言っていた。</value>
+  </entry>
+  <entry>
+    <key>DATURA: And... I knew Yarrow and I didn’t have the best relationship... but I suppose I didn’t realise how badly I’ve messed it up between us... He... didn’t even look at me in the eyes.</key>
+    <value>DATURA:そして…。Yarrowと俺の関係が良くないことはわかっていたが…、ここまでひどいとは思わなかったんだ。Yarrowは…俺の目を見ようともしなかった。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Would it... even have changed anything, if I was able to warn them properly? Or would it have only caused panic and distress in their final moments? Maybe it’s for the best I wasn’t able, then.</key>
+    <value>DATURA:もし、ちゃんと警告できていたら…何か変わったのだろうか？ただ、最期の瞬間にパニックを起こさせて苦しめるだけだったんじゃないのか？それなら、できなくて、良かったのかもしれない。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Oh... I can just about see it. The comet... ...We’re all about to die...</key>
+    <value>DATURA:あぁ…。見えてきた。彗星だ…。…俺たちは間もなく皆死ぬんだ…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I promised Filix I would see her again...</key>
+    <value>DATURA:Filixにまた会えると約束したのにな…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...I missed Solanum growing up. ...And for what? When I got to the Vessel, it was wounded, perhaps not beyond repair but...</key>
+    <value>DATURA:…Solanumの成長を見てやれなかった。…どうしてだ？俺が`船`にたどり着いたとき、あれは傷ついていた。直せないほどではなかった。なら…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...</key>
+    <value>DATURA:…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...wait. Hold on!</key>
+    <value>DATURA:…待て。まだだ！</value>
+  </entry>
+  <entry>
+    <key>DATURA: Maybe... Brittle Hollow projection stone... C’mon... Please be there...</key>
+    <value>DATURA:そう…脆い空洞のプロジェクションストーン…。頼む、そこにいてくれ…。</value>
+  </entry>
+  <entry> <!-- here two line is the same as in PPH Bells stone -->
+    <key>DATURA: Wait, let me just... Uh, can I be picked up and-</key>
+    <value>DATURA:待って、ちょっと…。あぁ、俺を―</value>
+  </entry>
+  <!-- Northern Observatory: At PPH: End -->
+  <!-- Northern Observatory: On Body: Start -->
+  <entry>
+    <key>DATURA: Okay... I’m back at the Observatory now.</key>
+    <value>DATURA:あぁ…。俺は今、観測所に戻ってきた。</value>
+  </entry>
+  <entry>
+    <key>DATURA: The comet... is here. I tried to get off this planet, to at least be with my family... but the shuttles were already both in use.</key>
+    <value>DATURA:彗星は…もう。俺はこの星を出ようとした、せめて家族とともにと思って…だけどシャトルは2台とも使用中だった。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I still can’t see the Quantum Moon... Solanum must still be waiting at the sixth location, like I asked Bells to ask her to do. ...That’s... good.</key>
+    <value>DATURA:量子の月が見つけられない…。Solanumはまだ第6の場所で過ごしているはずだ。Bellsにそう伝えさせたから…。それは…、よかった。</value>
+  </entry>
+  <entry>
+    <key>DATURA: At least... At least someone will... ...oh... no... no!</key>
+    <value>DATURA:少なくとも…、少なくとも誰かが…。…ああ…嫌だ…どうしてだ！</value>
+  </entry>
+  <entry>
+    <key>DATURA: Did I... Did I do the wrong thing?</key>
+    <value>DATURA:俺は…俺は間違ったのか？</value>
+  </entry>
+  <entry>
+    <key>DATURA: We are all going to die... but Solanum...</key>
+    <value>DATURA:皆死ぬ…。だけどSolanumは…、</value>
+  </entry>
+  <entry>
+    <key>DATURA: When she comes back from the Quantum Moon... everyone will be dead! ...She’ll be all alone...</key>
+    <value>DATURA:あの子が量子の月から戻ったら…、みんな死んでいる！…あの子は、独りだ…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: This... This isn’t what I wanted! I just... I just wanted to save her. ...To save... someone!</key>
+    <value>DATURA:こんな…、こんなこと望んじゃいなかった！俺はただ…あの子を守りたかったんだ…。…皆を守るために！</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...Why can’t I do anything right?! I broke my promise with Filix; I messed it up with Friend; and maybe, if I had just gotten along with Yarrow, it might not have all ended like this...</key>
+    <value>DATURA:…どうして俺は何も正しくできない？！俺はFilixとの約束を破った！俺はFriendをひどい目にあわせた。Yarrowともうまくやれていれば、こんな終わり方にはならなかったかもしれない…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: And, now... Solanum... I’ve failed you... I’ve failed... everyone.</key>
+    <value>DATURA:そして今は…。Solanum…。俺のせいで君は…。俺のせいで…、みんな…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: Solanum... If there’s a chance you are reading this: get the Warp Core from Ash Twin, go to the Vessel and leave this place!</key>
+    <value>DATURA:Solanum…、もしもこれを聞いているなら:灰の双子星からワープコアを手に入れるんだ。それから`船`へ向かい、こんな場所から立ち去るんだ！</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...I’m sorry! I never wanted to leave you alone like this!</key>
+    <value>DATURA:…すまなかった！こんな風に君を一人きりにするつもりは決してなかったんだ！</value>
+  </entry>
+  <entry>
+    <key>DATURA: I... never wanted to leave you alone.</key>
+    <value>DATURA:俺は…君を独りにしたくなかった。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...I wish I had stayed. I wish I didn’t... waste all this time...</key>
+    <value>DATURA:…行かなきゃ良かった。俺は…なんて時間を無駄にしたんだ…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I... just wanted to do the right thing. ...I didn’t intend to... intend...</key>
+    <value>DATURA:俺は…ただ、正しいことをしたかっただけなんだ。…そんなつもりは…そんな…</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...That’s... not enough, is it? ...As I once said: Good intentions aren’t good enough...</key>
+    <value>DATURA:…それでは…十分でなかった？…いつか俺は言った:善意と言うには十分ではない…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I’m sorry, everyone. For letting you all down...</key>
+    <value>DATURA:すまない、みんな。失望させたよな…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: I’m sorry... I wasn’t... ...better...</key>
+    <value>DATURA:すまない…。俺が……もっと…</value>
+  </entry> <!-- same as in Friend but... -->
+  <!-- Northern Observatory: On Body: End -->
   <table_shipLog>
     <key>Eye of the Universe</key>
     <value>宇宙の眼</value>
@@ -1814,11 +1986,11 @@
   </table_shipLog>
   <table_shipLog>
     <key>Bramble Power StationAccording to a Nomai computer, the ’Gravity Stability System’ has been disabled by a recent Coronal Mass Ejection from the sun that hit Dark Bramble.</key>
-    <value>Nomaiのコンピュータによると、闇のイバラを最近襲った太陽からのコロナ質量放出により、重力安定化システムが無効化された。</value>
+    <value>Nomaiのコンピュータによると、闇のイバラを最近襲った太陽からのコロナ質量放出により重力安定化システムが無効化された。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble Power StationI used a switch to turn off power to one of the locations.</key>
-    <value>私はスイッチで1か所の動力を切った。</value>
+    <value>私はスイッチで1カ所の動力を切った。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble Power StationI fired a scout through a bramble seed and it exited out of another on Dark Bramble.</key>
@@ -1862,11 +2034,11 @@
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherA Nomai called Datura created this to destroy his shuttle. After damaging the shuttle, its alarm went off, and exploded a while after.</key>
-    <value>Daturaという名のNomaiが、自分のシャトルを破壊するために作ったものだ。シャトルに損傷を与えた後、警報が響き渡り、しばらくして爆発した。</value>
+    <value>Daturaという名のNomaiが、自分のシャトルを破壊するために作ったものだ。シャトルに損傷を与えた後、警報が響き渡りしばらくして爆発した。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherSomeone referred to as ’Friend’ also wanted to destroy their ship. After damaging their ship, its alarm went off too. Datura remembered that he should just stand back and wait until it exploded.</key>
-    <value>Friendと呼ばれる人物も、自らの船を破壊しようとしていた。その船に損傷を与えると、同じく警報が発せられた。Daturaは、このまま爆発するまで待機していれば良いのだと思い出した。</value>
+    <value>Friendと呼ばれる人物も、自らの船を破壊しようとしていた。その船に損傷を与えると同じく警報が発せられた。Daturaは、このまま爆発するまで待機していれば良いのだと思い出した。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherI used a switch to activate the crusher.</key>
