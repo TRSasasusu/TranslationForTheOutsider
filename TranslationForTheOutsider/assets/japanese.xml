@@ -1099,11 +1099,11 @@
   </entry>
   <entry>
     <key>DATURA: But... I picked up a weird lantern-resembling object from the ground before... tripping on the metal ledge there... and I suppose I got knocked unconscious?</key>
-    <value>DATURA:でも…ランタンのようなものを拾ったあと、そこの金属の出っ張りにつまづいて…、おそらく俺は意識を失ったのか？</value>
+    <value>DATURA:でも…ランタンのようなものを拾ったあと、そこの鉄製の出っ張りにつまづいて…、おそらく俺は意識を失ったのか？</value>
   </entry>
   <entry>
     <key>DATURA: I woke up (or started dreaming?) almost immediately in... Friend’s house. ...but it wasn’t Friend’s house. It was a... copy... on some other planet, with a ringed planet in the sunsetting sky.</key>
-    <value>DATURA:俺は目を覚まして(いや、夢を見始めたのか？)ほとんどすぐは…Friendの家にいた。…だが、それはFriendの家ではなく、…そう、コピーだ…、どこか別の星の、夕焼け空に環状の惑星が見えるところだ。</value>
+    <value>DATURA:俺は目を覚まして(いや、夢を見始めたのか？)ほとんどすぐは…Friendの家にいた。…だが、それはFriendの家ではなく、…そう、コピーだ…、どこか別の星の、日暮れ頃の赤い空に環状の惑星が見えるところだ。</value>
   </entry>
   <entry>
     <key>DATURA: It weirded me out, so I exited, and walked across a bridge into another building where... there were a lot of Friend’s elders.</key>
@@ -1119,7 +1119,7 @@
   </entry>
   <entry>
     <key>DATURA: On a balcony, I saw one of Friend’s kind cover their ears, before yelling out and disappearing into the air.</key>
-    <value>DATURA:バルコニーでFriendの仲間の一人が耳を塞ぎ、大声で叫びながら宙に消えていくのを見た。</value>
+    <value>DATURA:バルコニーでFriendの仲間の一人が耳をふさぎ、大声で叫びながら宙に消えていくのを見た。</value>
   </entry>
   <entry>
     <key>DATURA: I don’t know what I did, but I definitely did something wrong, as the rest immediately began hunting me down.</key>
@@ -1161,7 +1161,7 @@
   </entry>
   <entry>
     <key>FRIEND: I hope he knows I am not mad at him. My friends are just attempting to appease our decayed elders (who have decided this).</key>
-    <value>FRIEND:私があなたに対して怒ってはいないということをわかってほしい。私の友人たちは朽ち果てた長老たち(これを決めた者たち)を宥めようとしているだけなんだ。</value>
+    <value>FRIEND:私があなたに対しておこってはいないということをわかってほしい。私の友人たちは朽ち果てた長老たち(これを決めた者たち)をなだめようとしているだけなんだ。</value>
   </entry>
   <entry>
     <key>FRIEND: I should get to sleep. They will all be waiting for me. Hypothesis: I will see you again, Datura. Worry not.</key>
@@ -1176,6 +1176,24 @@
     <value>10分間音声が検出されませんでした。録音を停止します。</value>
   </entry>
   <!-- Sealed Structure: Inside from Friend: End -->
+  <!-- Dream Friend House: Misc: Start -->
+  <entry>
+    <key>Friend1_...</key>
+    <value>…</value>
+  </entry>
+  <entry>
+    <key>FriendFriend1_Are you...?</key>
+    <value>あなたは誰？</value>
+  </entry>
+  <entry>
+    <key>FriendFriend1_Is this...?</key>
+    <value>私たちはどこにいる？</value>
+  </entry>
+  <entry>
+    <key>Friend2_...</key>
+    <value>…</value>
+  </entry>
+  <!-- Dream Friend House: Misc: End -->
   <!-- Dream Friend House: Explain Me: Start -->
   <entry>
     <key>FRIEND: You are in my home star system! (A simulation of it.)</key>
@@ -1209,11 +1227,11 @@
   </entry>
   <entry>
     <key>FRIEND: One thing they have in common (and one I wish they did not) is becoming big fluffy bundles of anger due to the Eye.</key>
-    <value>FRIEND:2人に共通すること(そして、そうでなければ良いのにと思うこと)は、眼のせいで大きなふわふわとした怒りの塊となること。</value>
+    <value>FRIEND:2人に共通すること(そして、そうでなければ良いのにと思うこと)は、眼のせいで大きなふわふわとした憤りの塊となること。</value>
   </entry>
   <entry>
     <key>FRIEND: Our Prisoner believed with unbreakable confidence that the Eye was pure good. Seeing the others hide it away, he viewed them as fearful, evil, and... idiotic.</key>
-    <value>FRIEND:囚人は、眼は純粋な善であると揺るぎない信念を持って信じていた。他の者たちが眼を隠しているのを見て、彼らは恐ろしく、邪悪で、そして…愚かしく思っていた。</value>
+    <value>FRIEND:囚人は、眼は純粋な善であるとゆるぎない信念を持って信じていた。他の者たちが眼を隠しているのを見て、彼らは恐ろしく、邪悪で、そして…おろかしく思っていた。</value>
   </entry>
   <entry>
     <key>FRIEND: Him and I told them we were not afraid of the Eye... But I suppose it is easy to call others afraid, and say they are not able to accept the truth, despite you not knowing everything either.</key>
@@ -1221,7 +1239,7 @@
   </entry>
   <entry>
     <key>FRIEND: Datura did not care much for the Eye. A while away from his clan built up an anger towards them - he had a big falling out with a Nomai... Yarrow, I believe.</key>
-    <value>FRIEND:Daturaは眼をあまり気にかけていなかった。一族からしばらく離れていたこともあり、彼らに対する怒りが募っていた―あるNomaiと大きな喧嘩をしていた、あれは確かYarrowだった。</value>
+    <value>FRIEND:Daturaは眼をあまり気にかけていなかった。一族からしばらく離れていたこともあり、彼らに対する憤りがつのっていた―あるNomaiと大きな口論をしていた、あれは確かYarrowだった。</value>
   </entry>
   <!-- Dream Friend House: Datura and Prisoner: End -->
   <!-- Dream Friend House: You and Prisoner: Start -->
@@ -1249,7 +1267,7 @@
   </entry>
   <entry>
     <key>FRIEND: A long while has passed since I was with him on Dark Bramble. ...However, this might seem strange: it still feels recent, somehow.</key>
-    <value>FRIEND:闇のイバラで彼とともに過ごしてからもう長い年月が経った。…それなのに、奇妙に思われるかもしれないけれど:それはまだ、ずっと最近のように感じるんだ。</value>
+    <value>FRIEND:闇のイバラで彼とともに過ごしてからもう長い年月が経った。…それなのに、奇妙に思われるかもしれないけれど:それはまだ、ずっと最近のことのように感じるんだ。</value>
   </entry>
   <entry>
     <key>FRIEND: Hypothesis: you can only make so many unique memories here. After a long enough while, the days and months and... thousands of years... all blend together.</key>
@@ -1277,7 +1295,7 @@
   </entry>
   <entry>
     <key>FRIEND: A long while passed and, when the Nomai arrived, all of our elders had decayed into this simulation, with just the youngest still left alive outside.</key>
-    <value>FRIEND:長い年月が経ち、Nomaiが到着したときには、私たちの年長者は皆この模擬現実へと朽ち果てていて、一番若い者たちだけがまだ外で生きていた。</value>
+    <value>FRIEND:長い年月が経ち、Nomaiが到着したときには、私たちの年長者はみんなこの模擬現実へと朽ち果てていて、一番若い者たちだけがまだ外で生きていた。</value>
   </entry>
   <entry>
     <key>FRIEND: Hearing of the Nomai’s arrival, our decayed elders... burned the remaining archived codes for our Prisoner’s vault.</key>
@@ -1311,11 +1329,11 @@
   </entry>
   <entry>
     <key>FRIEND: After my other friend was imprisoned, I felt very burnt inside... and I ran. Fortunately, Datura was quite welcoming!</key>
-    <value>FRIEND:私の別の友人が投獄された後、私は心が引き裂かれそうな思いで…逃げ出した。幸いなことに、Daturaは優しく迎えてくれた！</value>
+    <value>FRIEND:私の別の友人が幽閉された後、私は心が引き裂かれそうな思いで…逃げ出した。幸いなことに、Daturaはやさしく迎えてくれた！</value>
   </entry>
   <entry>
     <key>FRIEND: Sometimes, I wish we had ran away. Us together into the galaxy! But... it was only a thought.</key>
-    <value>FRIEND:時々、彼と一緒に遠くへ行きたくなることがあった。2人で、銀河の彼方へ！でも…、それは思うだけに留めていた。</value>
+    <value>FRIEND:時々、彼と一緒に遠くへ行きたくなることがあった。2人で、銀河の彼方へ！でも…、それは思うだけにとどめていた。</value>
   </entry>
   <entry>
     <key>FRIEND: Our opposing views on the Eye was surprisingly not an issue between us. (Hypothesis: Datura’s true issues were with something else?)</key>
