@@ -131,6 +131,29 @@ namespace TranslationForTheOutsider {
             return true;
         }
 
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(NomaiConversationStone), nameof(NomaiConversationStone.GetDisplayName))]
+        public static void NomaiConversationStone_GetDisplayName_Postfix(NomaiConversationStone __instance, ref string __result) {
+            // See https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/blob/17149bad3786f9aa68aed9eaf8ec94e62ee5ba7e/TheOutsider/OuterWildsHandling/OWPatches.cs#L703-L722
+            if (Locator.GetDreamWorldController().IsInDream()) {
+                if(__result == "'Explain' Disc") {
+                    __result = "「説明する」のディスク";
+                }
+                else if(__result == "'Prisoner' Disc") {
+                    __result = "「囚人」のディスク";
+                }
+                else if(__result == "'Friend' Disc") {
+                    __result = "「Friend」のディスク";
+                }
+                else if(__result == "'Me' Disc") {
+                    __result = "「私」のディスク";
+                }
+                else if(__result == "'Datura' Disc") {
+                    __result = "「Datura」のディスク";
+                }
+            }
+        }
+
 
         public static string ReadAndRemoveByteOrderMarkFromPath(string path) {
             // this code is from https://github.com/xen-42/outer-wilds-localization-utility/blob/6cf4eb784c06237820d318b4ce22ac30da4acac1/LocalizationUtility/Patches/TextTranslationPatches.cs#L198-L209
