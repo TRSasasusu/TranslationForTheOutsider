@@ -306,6 +306,70 @@
     <value>つまりはこういうことだ。巨人の大海の探査を終えて、闇のイバラで腕試ししようと思ったんだ。まだ誰も内部には行ったことがないみたいだったし。</value>
   </entry>
   <entry>
+    <key>GabbroGabbroMenu_GABBRO I JUST GOT PULLED OFF OF DARK BRAMBLE.</key>
+    <value>&lt;i&gt;Gabbro、私は今、闇のイバラから引っ張られてここに来たんだ！&lt;/i&gt;</value>
+  </entry>
+  <entry>
+    <key>PulledOffDarkBramble_Hmm? Oh, yeah. Giant's Deep sure earns it's name, huh?</key>
+    <value>んん？ああ、そうだな。巨人の大海は確かにその名に恥じない、ということだな？</value>
+  </entry>
+  <entry>
+    <key>PulledOffDarkBramble_Anyway, here comes the sun.</key>
+    <value>ともかく、太陽も来たようだ。</value>
+  </entry>
+  <entry>
+    <key>PulledOffDarkBramble_See you next loop, time buddy.</key>
+    <value>次のループでまた会おう、相棒。</value>
+  </entry>
+  <entry>
+    <key>HowDoYouStayCalm_The sun is exploding right now, so I could ask the same to you... but seriously, I meditate.</key>
+    <value>もう太陽が爆発してるし、同じことをお前にも聞いてみたいところだが…。いや、真面目な話、瞑想するんだよ。</value>
+  </entry>
+  <entry>
+    <key>MeditateMenu_Want me to teach you? It'll be the next loop before you know it. ...Either way.</key>
+    <value>やり方を教えようか？知らない間に次のループになってるぞ。…どのみちな。</value>
+  </entry>
+  <entry>
+    <key>NoMeditate_Ok. Well, here comes the sun.</key>
+    <value>オーケー。さて、太陽がやってきたようだ。</value>
+  </entry>
+  <entry>
+    <key>WhatAreYouDoing_merge_Uh, maybe I'll tell you next loop? Suns going.</key>
+    <value>あー、多分次のループで話すかも？もう太陽はすぐそこだ。</value>
+  </entry>
+  <entry>
+    <key>WhereToExplore_merge_Here’s something you might like — the sun is about to blow up. I'll talk to you next loop, is that alright?</key>
+    <value>お前が好きそうなことがここにある―太陽がちょうど爆発するところだ。次のループで話そう、いいな？</value>
+  </entry>
+  <entry>
+    <key>ThisPlanet_merge_...Oh, you meant, like, tell you more about it? I gotcha. Well, I'll talk next loop. Sound good?</key>
+    <value>…ああ、なんだ、もっと詳しくということか？わかったよ。じゃあ、次のループで話すから、いいね？</value>
+  </entry>
+  <entry>
+    <key>GabbrosShip_Well, I'll worry about it another loop.</key>
+    <value>まあ、今度のループで心配することにするよ。</value>
+  </entry>
+  <entry>
+    <key>FoundSomethingMenu_Nice, nice. How about you tell me all about it next loop? No need to rush.</key>
+    <value>いいね、いいね。次のループで教えてくれるというのはどうだ？急ぐ必要はないんだから。</value>
+  </entry>
+  <entry>
+    <key>GabbroMain_Hey, it's getting near the end of the loop, huh?</key>
+    <value>おい、そろそろループの終わりが近づいてきたぞ？</value>
+  </entry>
+  <entry>
+    <key>GabbroMain_If it isn’t my time buddy! Come lower your eyelids to die with the sun with me.</key>
+    <value>私の相棒じゃないか！太陽で死に行くなかでともにまぶたを閉じようじゃないか。</value>
+  </entry>
+  <entry>
+    <key>GabbroMain_Heyo, time buddy. It’s a good thing I never get bored of dying by supernova, huh?</key>
+    <value>へいよ、相棒。超新星で死ぬのは飽きないもんだな？</value>
+  </entry>
+  <entry>
+    <key>GabbroMain_A few loops ago, one of these structures falling from the sky fell on my island. Dying like that was kind of unpleasant.</key>
+    <value>2、3ループ前、空からこの小さな島に構造物の一つが落ちてきた。そんな風に死ぬのは嬉しくない。</value>
+  </entry>
+  <entry>
     <key>Bramble Power Station</key>
     <value>イバラ動力ステーション</value>
   </entry>
@@ -405,7 +469,7 @@
   </entry>
   <entry>
     <key>DATURA: Jetpacking around this planet is quite fun! I should keep a couple eyes on my fuel, though.</key>
-    <value>DATURA:この惑星をジェットパックで移動するのはとても楽しい！だが、燃料の残りを「2つ」の目は常に見続ける必要がある。</value>
+    <value>DATURA:この惑星をジェットパックで移動するのはとても楽しい！だが、燃料の残りを&lt;i&gt;2つ&lt;/i&gt;の目は常に見続けるのに使う必要がある。</value>
   </entry>
   <entry>
     <key>DATURA: Last night, I had a dream of bridges connecting up all the ice islands... They were burning. And I was burning. But if I stay here a while, a non-burning variant could be useful.</key>
@@ -751,7 +815,7 @@
   </entry>
   <entry>
     <key>DATURA: Update: Seems like they’re staying for a while! I’ll start building a house for them at the &lt;color=orange&gt;South Pole&lt;/color&gt;.</key>
-    <value>DATURA:最新情報:どうやらしばらく留まるようだ！&lt;color=orange&gt;南極&lt;/color&gt;にさっそく家を作ろうと思う。</value>
+    <value>DATURA:最新情報:どうやらしばらくとどまるようだ！&lt;color=orange&gt;南極&lt;/color&gt;にさっそく家を作ろうと思う。</value>
   </entry>
   <entry>
     <key>DATURA: Before my clan crashed here, I had read about their species. If we could understand eachother’s languages, I’d love to hear their encounter with &lt;color=lightblue&gt;The Collector&lt;/color&gt; from their perspective.</key>
@@ -1581,11 +1645,11 @@
   </entry>
   <entry>
     <key>DATURA: Already?! But... we planned for us to meet at the Gravity Cannon when she returned...</key>
-    <value>DATURA:もう？！でも、彼女が帰ってきたら重力砲で会う予定だったんだけど…。</value>
+    <value>DATURA:もう？！でも、あの子が帰ってきたら重力砲で会う予定だったんだけど…。</value>
   </entry>
   <entry>
     <key>BELLS: Aww. Well, she did seem very eager to go as soon as possible; she even attempted to leave before she had visited the Tower of Quantum Knowledge! Perhaps she was eager to reunite?</key>
-    <value>BELLS:あー。なるほど、彼女は非常に急いでいるように見えた。量子知識の塔を訪れる前にここを発とうとさえしていましたし！もしかしたら、彼女は再会を本当に熱望していたのかもしれませんね？</value>
+    <value>BELLS:あー。なるほど、彼女は非常に急いでいるように見えた。量子知識の塔を訪れる前にここを発とうとさえしていたし！もしかしたら、彼女は再会を本当に熱望していたのかもしれないな？</value>
   </entry>
   <entry>
     <key>BELLS: Hey, if you want, I can relay a message for you when she arrives at the north pole. First-timers are supposed to call me before going to the sixth location; once they go, we lose communications.</key>
@@ -1593,7 +1657,7 @@
   </entry>
   <entry>
     <key>DATURA: Oh, yes please. Uh... Tell her I hope she has fun, and that I love her, and that she... uh... should really take her time at the sixth location to take it all in... Perhaps mention the shuttle situation, so she knows there’s no need to rush.</key>
-    <value>DATURA:あぁ、はい、お願いしたい。うぅ…。彼女には、楽しんでほしい、愛してる、そして…、うぅ…、第6の場所は本当にゆっくり自分の時間を過ごすように見ていってほしいと…。シャトルの件も話して、急ぐ必要なんてないと。</value>
+    <value>DATURA:あぁ、はい、お願いしたい。うぅ…。あの子には、楽しんでほしい、愛してる、そして…、うぅ…、第6の場所は本当にゆっくり自分の時間を過ごすように見ていってほしいと…。シャトルの件も話して、急ぐ必要なんてないと。</value>
   </entry>
   <entry>
     <key>BELLS: Alright.</key>
@@ -1605,7 +1669,7 @@
   </entry>
   <entry>
     <key>BELLS: Hmmm, she’s teaching at the Brittle Hollow school, yes? So: reasonably quickly. What’s your message?</key>
-    <value>BELLS:うーん、彼女は脆い空洞の学校で教えているところですね。だから:それなりに早くできる。メッセージは何だ？</value>
+    <value>BELLS:うーん、彼女は脆い空洞の学校で教えているところだな。だから:それなりに早くできる。メッセージは何だ？</value>
   </entry>
   <entry>
     <key>DATURA: Just tell her... I’m sorry... for... everything. And... we’ll be together again soon.</key>
@@ -1961,6 +2025,10 @@
   <table_shipLog>
     <key>Shuttle Crusher</key>
     <value>シャトル破砕機</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Projection Pool</key>
+    <value>プロジェクションプール</value>
   </table_shipLog>
   <table_shipLog>
     <key>Missing Projection Pool</key>
