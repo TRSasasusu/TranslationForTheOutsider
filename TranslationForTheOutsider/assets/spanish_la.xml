@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<TranslationTable_XML xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- Color Table: Start -->
+  <!--
+  <color_table>
+    <key>Eye</key>
+    <value></value>
+  </color_table>
+  -->
+  <color_table>
+    <key>Brittle Hollow</key>
+    <value>Hondonada Frágil</value>
+  </color_table>
+  <color_table>
+    <key>Ember Twin</key>
+    <value>Gemelo brasa</value>
+  </color_table>
+  <color_table>
+    <key>Dark Bramble</key>
+    <value>Espinoscuro</value>
+  </color_table>
+  <!--
+  <color_table>
+    <key>Vessel</key>
+    <value></value>
+  </color_table>
+  -->
+  <!-- Color Table: End -->
+  <!-- Disc Table: Start -->
+  <!--
+  <disc_table>
+    <key>'Explain' Disc</key>
+    <value></value>
+  </disc_table>
+  <disc_table>
+    <key>'Prisoner' Disc</key>
+    <value></value>
+  </disc_table>
+  <disc_table>
+    <key>'Friend' Disc</key>
+    <value></value>
+  </disc_table>
+  <disc_table>
+    <key>'Me' Disc</key>
+    <value></value>
+  </disc_table>
+  <disc_table>
+    <key>'Datura' Disc</key>
+    <value></value>
+  </disc_table>
+  -->
+  <!-- Disc Table: End -->
+  <!-- Misc: Start -->
+  <!-- If the text has `_`, please translate a text after `_`. -->
+  <entry>
+    <key>SlateScientist5_Were the structures on Dark Bramble always there?</key>
+    <value>¿Las estructuras de Espinoscuro siempre han estado ahí?</value>
+  </entry>
+  <!--
+  <entry>
+    <key>ScientistAnswerNEW_Well... yeah.</key>
+    <value></value>
+  </entry>
+  -->
+</TranslationTable_XML>

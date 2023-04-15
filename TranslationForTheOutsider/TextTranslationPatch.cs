@@ -7,55 +7,65 @@ using System.Threading.Tasks;
 using OWML.ModHelper;
 using System.Xml;
 using UnityEngine;
+using OWML.Utils;
 
 namespace TranslationForTheOutsider {
     [HarmonyPatch]
     public static class TextTranslationPatch {
         static bool _no_postfix_translate;
+        static Dictionary<string, string> _color_table;
+        static Dictionary<string, string> _disc_table;
 
         [HarmonyPostfix]
         [HarmonyPatch(typeof(TextTranslation), nameof(TextTranslation.SetLanguage))]
         public static void TextTranslation_SetLanguage_Postfix(ref TextTranslation.Language lang, TextTranslation __instance) {
-            if(lang == TextTranslation.Language.JAPANESE) {
-                var path = TranslationForTheOutsider.Instance.ModHelper.Manifest.ModFolderPath + "assets/japanese.xml";
-                TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"path to xml file: {path}");
+            _color_table = null;
+            _disc_table = null;
 
-                var xmlDoc = new XmlDocument();
-                xmlDoc.LoadXml(ReadAndRemoveByteOrderMarkFromPath(path));
-                var translationTableNode = xmlDoc.SelectSingleNode("TranslationTable_XML");
+            if(lang == TextTranslation.Language.ENGLISH) {
+                TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"the language is English, so not translated.");
+                return;
+            }
 
-//                foreach(var item in __instance.m_table.theTable) {
-//                    TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"theTable's 1st key: {item.Key}, value: {item.Value}");
-//                    break;
-//                }
-//
-//                foreach(var item in __instance.m_table.theTable) {
-//                    if(item.Key.Contains("This anglerfish specimen was found attached")) {
-//                        TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"This anglerfish ... key: {item.Key}, value: {item.Value}");
-//                        break;
-//                    }
-//                }
-//
-//                foreach(var item in __instance.m_table.theShipLogTable) {
-//                    TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"theShipLogTable's 1st key: {item.Key}, value: {item.Value}");
-//                    break;
-//                }
+            var path = TranslationForTheOutsider.Instance.ModHelper.Manifest.ModFolderPath + $"assets/{lang.GetName().ToLower()}.xml";
+            TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"path to xml file: {path}");
+            if(!File.Exists(path)) {
+                TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"this xml file is not found, so not translated.");
+                return;
+            }
 
-                foreach(XmlNode node in translationTableNode.SelectNodes("entry")) {
-                    var key = node.SelectSingleNode("key").InnerText;
-                    var value = node.SelectSingleNode("value").InnerText;
+            var xmlDoc = new XmlDocument();
+            xmlDoc.LoadXml(ReadAndRemoveByteOrderMarkFromPath(path));
+            var translationTableNode = xmlDoc.SelectSingleNode("TranslationTable_XML");
 
-                    __instance.m_table.theTable[key] = value;
-                    //TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"key: {key}, value: {value}");
-                }
+            foreach(XmlNode node in translationTableNode.SelectNodes("entry")) {
+                var key = node.SelectSingleNode("key").InnerText;
+                var value = node.SelectSingleNode("value").InnerText;
 
-                foreach(XmlNode node in translationTableNode.SelectNodes("table_shipLog")) {
-                    var key = node.SelectSingleNode("key").InnerText;
-                    var value = node.SelectSingleNode("value").InnerText;
+                __instance.m_table.theTable[key] = value;
+                //TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"key: {key}, value: {value}");
+            }
 
-                    __instance.m_table.theShipLogTable[key] = value;
-                    //TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"key: {key}, value: {value}");
-                }
+            foreach(XmlNode node in translationTableNode.SelectNodes("table_shipLog")) {
+                var key = node.SelectSingleNode("key").InnerText;
+                var value = node.SelectSingleNode("value").InnerText;
+
+                __instance.m_table.theShipLogTable[key] = value;
+                //TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"key: {key}, value: {value}");
+            }
+
+            _color_table = new Dictionary<string, string>();
+            foreach(XmlNode node in translationTableNode.SelectNodes("color_table")) {
+                var key = node.SelectSingleNode("key").InnerText;
+                var value = node.SelectSingleNode("value").InnerText;
+                _color_table[key] = value;
+            }
+
+            _disc_table = new Dictionary<string, string>();
+            foreach(XmlNode node in translationTableNode.SelectNodes("disc_table")) {
+                var key = node.SelectSingleNode("key").InnerText;
+                var value = node.SelectSingleNode("value").InnerText;
+                _disc_table[key] = value;
             }
         }
 
@@ -79,26 +89,32 @@ namespace TranslationForTheOutsider {
             if(_no_postfix_translate) {
                 return;
             }
-            if(__instance.m_language != TextTranslation.Language.JAPANESE) { // After adding othre languages, change this.
+
+            if(_color_table == null) {
                 return;
             }
 
             var text = __result;
 
-            if (__instance.m_language == TextTranslation.Language.JAPANESE) {
-                text = text.Replace("宇宙の眼", "<color=lightblue>宇宙の眼</color>");
-                text = text.Replace("眼", "<color=lightblue>眼</color>");
+            text = text.Replace("DATURA", "<color=lightblue>DATURA</color>"); // I think they are Datura and Friend in all languages ;;)
+            text = text.Replace("Datura", "<color=lightblue>Datura</color>");
+            text = text.Replace("FRIEND", "<color=lime>FRIEND</color>");
+            text = text.Replace("Friend", "<color=lime>Friend</color>");
 
-                text = text.Replace("脆い空洞", "<color=lightblue>脆い空洞</color>");
-                text = text.Replace("燃え盛る双子星", "<color=lightblue>燃え盛る双子星</color>");
+            var english_key_color_value_table = new Dictionary<string, string>() {
+                {"Eye", "lightblue"},
+                {"Brittle Hollow", "lightblue"},
+                {"Ember Twin", "lightblue"},
+                {"Dark Bramble", "lightblue"},
+                {"Vessel", "lightblue"},
+            };
 
-                text = text.Replace("闇のイバラ", "<color=lightblue>闇のイバラ</color>");
-                text = text.Replace("`船`", "<color=lightblue>船</color>");
-
-                text = text.Replace("DATURA", "<color=lightblue>DATURA</color>");
-                text = text.Replace("Datura", "<color=lightblue>Datura</color>");
-                text = text.Replace("FRIEND", "<color=lime>FRIEND</color>");
-                text = text.Replace("Friend", "<color=lime>Friend</color>");
+            foreach(var key_value in english_key_color_value_table) {
+                if(!_color_table.ContainsKey(key_value.Key)) {
+                    continue;
+                }
+                var translated_key = _color_table[key_value.Key];
+                text = text.Replace(translated_key, $"<color={key_value.Value}>{translated_key}</color>");
             }
 
             if (text.Contains("#####")) { // this code is from https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/blob/17149bad3786f9aa68aed9eaf8ec94e62ee5ba7e/TheOutsider/OuterWildsHandling/OWPatches.cs#L136
@@ -135,21 +151,16 @@ namespace TranslationForTheOutsider {
         [HarmonyPatch(typeof(NomaiConversationStone), nameof(NomaiConversationStone.GetDisplayName))]
         public static void NomaiConversationStone_GetDisplayName_Postfix(NomaiConversationStone __instance, ref string __result) {
             // See https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/blob/17149bad3786f9aa68aed9eaf8ec94e62ee5ba7e/TheOutsider/OuterWildsHandling/OWPatches.cs#L703-L722
-            if (Locator.GetDreamWorldController().IsInDream()) {
-                if(__result == "'Explain' Disc") {
-                    __result = "「説明する」のディスク";
-                }
-                else if(__result == "'Prisoner' Disc") {
-                    __result = "「囚人」のディスク";
-                }
-                else if(__result == "'Friend' Disc") {
-                    __result = "「Friend」のディスク";
-                }
-                else if(__result == "'Me' Disc") {
-                    __result = "「私」のディスク";
-                }
-                else if(__result == "'Datura' Disc") {
-                    __result = "「Datura」のディスク";
+            if (Locator.GetDreamWorldController().IsInDream() && _disc_table != null) {
+                var english_array = new string[] { "'Explain' Disc", "'Prisoner' Disc", "'Friend' Disc", "'Me' Disc", "'Datura' Disc" };
+                foreach(var english_key in english_array) {
+                    if(__result == english_key) {
+                        if(!_disc_table.ContainsKey(english_key)) {
+                            break;
+                        }
+                        __result = _disc_table[english_key];
+                        break;
+                    }
                 }
             }
         }

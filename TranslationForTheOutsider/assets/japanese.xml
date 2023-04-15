@@ -1,5 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <TranslationTable_XML xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- Color Table: Start -->
+  <color_table>
+    <key>Eye</key>
+    <value>眼</value>
+  </color_table>
+  <color_table>
+    <key>Brittle Hollow</key>
+    <value>脆い空洞</value>
+  </color_table>
+  <color_table>
+    <key>Ember Twin</key>
+    <value>燃え盛る双子星</value>
+  </color_table>
+  <color_table>
+    <key>Dark Bramble</key>
+    <value>闇のイバラ</value>
+  </color_table>
+  <color_table>
+    <key>Vessel</key>
+    <value>`船`</value>
+  </color_table>
+  <!-- Color Table: End -->
+  <!-- Disc Table: Start -->
+  <disc_table> <!-- not disk but disc -->
+    <key>'Explain' Disc</key>
+    <value>「説明する」のディスク</value>
+  </disc_table>
+  <disc_table>
+    <key>'Prisoner' Disc</key>
+    <value>「囚人」のディスク</value>
+  </disc_table>
+  <disc_table>
+    <key>'Friend' Disc</key>
+    <value>「Friend」のディスク</value>
+  </disc_table>
+  <disc_table>
+    <key>'Me' Disc</key>
+    <value>「私」のディスク</value>
+  </disc_table>
+  <disc_table>
+    <key>'Datura' Disc</key>
+    <value>「Datura」のディスク</value>
+  </disc_table>
+  <!-- Disc Table: End -->
   <!-- Misc: Start -->
   <entry>
     <key>SlateScientist5_Were the structures on Dark Bramble always there?</key>
