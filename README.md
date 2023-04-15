@@ -4,7 +4,8 @@ This repository is designed as a UNIVERSAL translation addon for [The Outsider m
 
 The sample is here: [English Slate](fig/screenshot_slate_english.png) -> [Japanese Slate](fig/screenshot_slate_japanese.png) (this is a SPOLER, so I don't display these images directly ;;) )
 
-Making other language translation is welcoming! Please read [Other Languages](#other-languages) for details.
+Now, Japanese translation is only available;
+**Making other language translation is welcoming!** Please read [Other Languages](#other-languages) for details.
 
 ## Installation
 
