@@ -114,7 +114,7 @@ namespace TranslationForTheOutsider {
                     continue;
                 }
                 var translated_key = _color_table[key_value.Key];
-                text = text.Replace(translated_key, $"<color={key_value.Value}>{translated_key}</color>");
+                text = text.Replace(translated_key, $"<color={key_value.Value}>{translated_key.Replace("`", "")}</color>");
             }
 
             if (text.Contains("#####")) { // this code is from https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/blob/17149bad3786f9aa68aed9eaf8ec94e62ee5ba7e/TheOutsider/OuterWildsHandling/OWPatches.cs#L136
