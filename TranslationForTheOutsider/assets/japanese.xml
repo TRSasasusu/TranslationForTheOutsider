@@ -55,7 +55,7 @@
   </entry>
   <entry>
     <key>ScientistAnswerNEW_You know the little Anglerfish in the Museum? It got caught on the landing gear of one of our ships when it was flying close to get a good look at the structures, remember?</key>
-    <value>博物館にある小型のアンコウは知っているよな？アイツは、あの構造物をよく見ようと近くを飛行していたときに探査艇の着陸装置に引っかかったんだが、…覚えているよな？</value>
+    <value>博物館にある小型のアンコウは知っているな？アイツは、あの構造物をよく見ようと近くを飛行していたときに探査艇の着陸装置に引っかかったんだが、…覚えているよな？</value>
   </entry>
   <entry>
     <key>ScientistAnswerNEW_...I think you need to wake up a bit from your pre-launch campout. Do a couple of jumps, maybe.</key>
@@ -509,7 +509,7 @@
   </entry>
   <entry>
     <key>DATURA: Ugh. Yarrow... I know your intentions are good, but maybe it’s time to give up the obsession with the Eye. You know, the whole ’letting go’ thing everyone goes on about.</key>
-    <value>DATURA:うぅ、Yarrow…。気持ちはわかるが、そろそろ眼への執着を捨てたらどうだろう。君も知っているだろう、皆が言う「手放す」ということを。</value>
+    <value>DATURA:うーん、Yarrow…。気持ちはわかるが、そろそろ眼へのこだわりを捨てたらどうだろう。君も知っているだろう、皆が言う「手放す」ということを。</value>
   </entry>
   <entry>
     <key>DATURA: Jetpacking around this planet is quite fun! I should keep a couple eyes on my fuel, though.</key>
@@ -2224,7 +2224,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Top of the TowerI can see a wall with Nomai text through the window.</key>
-    <value>窓からNomaiの文字が書かれた壁が見える。</value>
+    <value>外からNomaiの文字が書かれた壁が見える。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Top of the TowerDatura added a second security measure to his Observatory. The door will remain shut if another space ship is on Dark Bramble’s surface.</key>
@@ -2256,6 +2256,10 @@
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageIn Friend’s House, I found a staircase that leads down abruptly to a painting of a terrestrial world, with a blue ringed gas giant in the sky.</key>
+    <value>Friendの家にて、空に環を持つガス惑星が描かれている地上世界の壁画に向かって不意に伸びている階段を見つけた。</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Secret RoomIn Friend’s House, I found a staircase that leads down abruptly to a painting of a terrestrial world, with a blue ringed gas giant in the sky.</key>
     <value>Friendの家にて、空に環を持つガス惑星が描かれている地上世界の壁画に向かって不意に伸びている階段を見つけた。</value>
   </table_shipLog>
   <table_shipLog>

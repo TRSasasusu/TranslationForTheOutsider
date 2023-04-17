@@ -4,7 +4,8 @@
   "author": "orclecle",
   "name": "Translation for The Outsider",
   "uniqueName": "orclecle.TranslationForTheOutsider",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "owmlVersion": "2.9.0",
-  "dependencies": [ "SBtT.TheOutsider" ]
+  "dependencies": [ "SBtT.TheOutsider" ],
+  "pathsToPreserve": [ "assets/spanish_la.xml" ]
 }

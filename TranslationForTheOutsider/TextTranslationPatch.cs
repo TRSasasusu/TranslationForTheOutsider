@@ -15,12 +15,14 @@ namespace TranslationForTheOutsider {
         static bool _no_postfix_translate;
         static Dictionary<string, string> _color_table;
         static Dictionary<string, string> _disc_table;
+        static string _bramble_power_station;
 
         [HarmonyPostfix]
         [HarmonyPatch(typeof(TextTranslation), nameof(TextTranslation.SetLanguage))]
         public static void TextTranslation_SetLanguage_Postfix(ref TextTranslation.Language lang, TextTranslation __instance) {
             _color_table = null;
             _disc_table = null;
+            _bramble_power_station = null;
 
             if(lang == TextTranslation.Language.ENGLISH) {
                 TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"the language is English, so not translated.");
@@ -44,6 +46,10 @@ namespace TranslationForTheOutsider {
 
                 __instance.m_table.theTable[key] = value;
                 //TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"key: {key}, value: {value}");
+
+                if(_bramble_power_station == null && key == "Bramble Power Station") {
+                    _bramble_power_station = value;
+                }
             }
 
             foreach(XmlNode node in translationTableNode.SelectNodes("table_shipLog")) {
@@ -162,6 +168,14 @@ namespace TranslationForTheOutsider {
                         break;
                     }
                 }
+            }
+        }
+
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(ShipLogAstroObject), nameof(ShipLogAstroObject.GetName))]
+        public static void ShipLogAstroObject_GetName(ShipLogAstroObject __instance, ref string __result) {
+            if(__instance._id == "POWER_STATION" && _bramble_power_station != null) {
+                __result = _bramble_power_station;
             }
         }
 
