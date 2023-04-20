@@ -21,6 +21,22 @@
     <key>Vessel</key>
     <value>`船`</value>
   </color_table>
+  <color_table>
+    <key>DATURA</key>
+    <value>DATURA</value>
+  </color_table>
+  <color_table>
+    <key>Datura</key>
+    <value>Datura</value>
+  </color_table>
+  <color_table>
+    <key>FRIEND</key>
+    <value>FRIEND</value>
+  </color_table>
+  <color_table>
+    <key>Friend</key>
+    <value>Friend</value>
+  </color_table>
   <!-- Color Table: End -->
   <!-- Disc Table: Start -->
   <disc_table> <!-- not disk but disc -->

@@ -102,17 +102,16 @@ namespace TranslationForTheOutsider {
 
             var text = __result;
 
-            text = text.Replace("DATURA", "<color=lightblue>DATURA</color>"); // I think they are Datura and Friend in all languages ;;)
-            text = text.Replace("Datura", "<color=lightblue>Datura</color>");
-            text = text.Replace("FRIEND", "<color=lime>FRIEND</color>");
-            text = text.Replace("Friend", "<color=lime>Friend</color>");
-
             var english_key_color_value_table = new Dictionary<string, string>() {
                 {"Eye", "lightblue"},
                 {"Brittle Hollow", "lightblue"},
                 {"Ember Twin", "lightblue"},
                 {"Dark Bramble", "lightblue"},
                 {"Vessel", "lightblue"},
+                {"DATURA", "lightblue"},
+                {"Datura", "lightblue"},
+                {"FRIEND", "lime"},
+                {"Friend", "lime"},
             };
 
             foreach(var key_value in english_key_color_value_table) {
