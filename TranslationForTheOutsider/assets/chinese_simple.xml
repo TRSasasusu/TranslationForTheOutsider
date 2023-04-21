@@ -3,7 +3,7 @@
   <!-- Color Table: Start -->
   <color_table>
     <key>Eye of the Universe</key>
-    <value>宇宙の眼</value>
+    <value>宇宙之眼</value>
   </color_table>
   <color_table>
     <key>Eye</key>
@@ -11,304 +11,305 @@
   </color_table>
   <color_table>
     <key>Brittle Hollow</key>
-    <value>脆い空洞</value>
+    <value>碎空星</value>
   </color_table>
   <color_table>
     <key>Ember Twin</key>
-    <value>燃え盛る双子星</value>
+    <value>余烬双星</value>
   </color_table>
   <color_table>
     <key>Dark Bramble</key>
-    <value>闇のイバラ</value>
+    <value>黑棘星</value>
   </color_table>
   <color_table>
     <key>Vessel</key>
-    <value>`船`</value>
+    <value>母舰</value>
   </color_table>
   <color_table>
     <key>DATURA</key>
-    <value>DATURA</value>
+    <value>曼陀罗</value>
   </color_table>
   <color_table>
     <key>Datura</key>
-    <value>Datura</value>
+    <value>曼陀罗</value>
   </color_table>
   <color_table>
     <key>FRIEND</key>
-    <value>FRIEND</value>
+    <value>朋友</value>
   </color_table>
   <color_table>
     <key>Friend</key>
-    <value>Friend</value>
+    <value>“朋友”</value>
   </color_table>
   <!-- Color Table: End -->
   <!-- Disc Table: Start -->
   <disc_table> <!-- not disk but disc -->
     <key>'Explain' Disc</key>
-    <value>「説明する」のディスク</value>
+    <value>'说明' 石</value>
   </disc_table>
   <disc_table>
     <key>'Prisoner' Disc</key>
-    <value>「囚人」のディスク</value>
+    <value>'幽禁者' 石</value>
   </disc_table>
   <disc_table>
     <key>'Friend' Disc</key>
-    <value>「Friend」のディスク</value>
+    <value>'朋友' 石</value>
   </disc_table>
   <disc_table>
     <key>'Me' Disc</key>
-    <value>「私」のディスク</value>
+    <value>'我' 石</value>
   </disc_table>
   <disc_table>
     <key>'Datura' Disc</key>
-    <value>「Datura」のディスク</value>
+    <value>'曼陀罗' 石</value>
   </disc_table>
   <!-- Disc Table: End -->
   <!-- Misc: Start -->
   <entry>
     <key>SlateScientist5_Were the structures on Dark Bramble always there?</key>
-    <value>闇のイバラの構造物は以前からずっとあったのか？</value>
+    <value>黑棘星上的建筑一直在那里吗?</value>
   </entry>
   <entry>
     <key>ScientistAnswerNEW_Well... yeah.</key>
-    <value>えぇと…ああ。</value>
+    <value>嗯</value>
   </entry>
   <entry>
     <key>ScientistAnswerNEW_You know the little Anglerfish in the Museum? It got caught on the landing gear of one of our ships when it was flying close to get a good look at the structures, remember?</key>
-    <value>博物館にある小型のアンコウは知っているな？アイツは、あの構造物をよく見ようと近くを飛行していたときに探査艇の着陸装置に引っかかったんだが…覚えているよな？</value>
+    <value>你知道博物馆里的小鮟鱇鱼吗？它被我们的一艘船的起落架卡住了，当时它飞得很近，想看清楚结构，记得吗？</value>
   </entry>
   <entry>
     <key>ScientistAnswerNEW_...I think you need to wake up a bit from your pre-launch campout. Do a couple of jumps, maybe.</key>
-    <value>…私が思うに、出発前のキャンプから少し目を覚ます必要がある。2、3回くらいジャンプしてみたらどうだ？</value>
+    <value>……我认为你需要从发射前的露营中醒来一点。做几个跳跃，也许。</value>
   </entry>
   <entry>
     <key>FeldsparRecording_Trip 4, entry #... who cares. Crashes: 2. Boring crashes: 0.</key>
-    <value>トリップ4、エントリーNo…誰が気にする？墜落:2 うんざりするような墜落:0</value>
+    <value>行程4，条目#…… 谁在乎呢。 撞车次数：2。无聊的撞车次数：0。</value>
   </entry>
   <entry>
     <key>FeldsparRecording_Well Dark Bramble, here I am! Saw what I though were two crashed ships over there, but it sorta looks intentional?</key>
-    <value>そう、闇のイバラ、ここに私はいる！向こうに壊れた2つの船が見えたが、あれはどうやら意図的なものに見えるな？</value>
+    <value>好吧，黑棘星，我来了！我看到了两艘坠毁的飞船，但看起来像是故意的？</value>
   </entry>
   <entry>
     <key>FeldsparRecording_One looks Nomaian but the other one I’ve got no clue.</key>
-    <value>1つはNomaiのものだが、もう1つはさっぱりわからない。</value>
+    <value>一个看起像是挪麦人的，另一个毫无头绪。</value>
   </entry>
   <entry>
     <key>FeldsparRecording_I had a wander around, using these walkways. It’s quite peaceful, ignoring the Dark Bramble-y-ness of it all.</key>
-    <value>ここの歩道を使ってぶらついてみた。なかなか平和な感じじゃないか、闇のイバラっぽさを無視すれば。</value>
+    <value>我在这些走道上闲逛了一番。相当的宁静，只要无视掉弥漫的黑棘星氛围。</value>
   </entry>
   <entry>
     <key>FeldsparRecording_Some places I couldn’t get into - I have some ideas, so if anyone is listening to this and wants some help, come chat with me.</key>
-    <value>いくつか入れなかった場所があるものの―アイデアがある。もしこれを聞いていて、何か助言が欲しいなら私を訪ねるといい。</value>
+    <value>有一些我不能进入的地方——我有个想法，如果有人听着篇文章并需要帮助，请来和我聊天。</value>
   </entry>
   <entry>
     <key>FeldsparRecording_...After I return, that is. Well, unless you’re as mad as I am, and want to come find me inside Dark Bramble!</key>
-    <value>…私が戻った後、にはなる。まあ、お前が私と同じように狂っていて、闇のイバラ内部で私を見つけに来るのでなければな！</value>
+    <value>……当然，你得等我回去以后。除非，你跟我一样癫，想到黑棘星里面来找我！</value>
   </entry>
   <entry>
     <key>FeldsparRecording_Anyway, off inside I go! To adventure!</key>
-    <value>とにかく、私は中へ行く！冒険へ！</value>
+    <value>无论如何，我要进去了！敬冒险！</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar1_Hey, can I ask you something real quick?</key>
-    <value>ちょっと手短に聞きたいことがあるんだけど？</value>
+    <value>嘿，我能快速问你一些事情吗？</value>
   </entry>
   <entry>
     <key>FeldsparSkip_Oh, uh... okay. No time for grand heroic tales, huh?</key>
-    <value>あ、あぁ…わかった。壮大な回想録を語らせてもらう暇はない、か。</value>
+    <value>呃呃...好。没时间讲宏大的英雄故事？</value>
   </entry>
   <entry>
     <key>FeldsparPrimaryMenu_So, whaddya want then, hatchling?</key>
-    <value>それで、何を聞きたいんだ？ひよっ子。</value>
+    <value>有什么事吗，年轻人？</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparPrimaryMenu_Can you help me figure something out?</key>
-    <value>わからないことがあるんだ。助言をくれないか？</value>
+    <value>你能帮我弄清一些事情吗？</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparSecondary_Can you help me figure something out?</key>
-    <value>わからないことがあるんだ。助言をくれないか？</value>
+    <value>你能帮我弄清一些事情吗？</value>
   </entry>
   <entry>
     <key>FigureSomethingOut_Well, I’ll probably answer as cryptically as usual, but sure, hatchling, what is it?</key>
-    <value>まあ、いつも通り私は深遠な答え方しかしないだろうけどな、ひよっ子よ。そうだろう？</value>
+    <value>当然可以，但可以肯定的是我不会直接告诉你答案。所以，年轻人，你有什么问题？</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOut_The Northern Observatory has two security measures and I can’t get in!</key>
-    <value>北部観測所に2つのセキュリティ対策が施されていて入ることができない！</value>
+    <value>北部天文台有两个安全措施导致我不能进入，你有什么办法吗？</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOut_There’s a painting in the Village that I think is hiding a room behind it.</key>
-    <value>村に壁画があるのだが、私の考えではその後ろに隠された部屋があるはずなんだ。</value>
+    <value>荆棘小屋的一个屋子的墙壁上挂着一副画，我猜画的后面有密室。你知道些什么吗？</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOut_How might I get to the top of the Study Tower?</key>
-    <value>研究塔の最上部へ行くにはどうしたら良い？</value>
+    <value>我该如何进入研究塔塔顶？</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOut_How might I find the Projection Pool House?</key>
-    <value>プロジェクションプールの家はどうやって探せば良い？</value>
+    <value>我该如何找到投影池室？</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOut_How might I open the door at the end of the secret path behind the jellyfish?</key>
-    <value>クラゲの後ろから続く秘密の道の先にある扉はどうしたら開くだろうか？</value>
+    <value>我该如何打开水母后面隐藏道路尽头的门？</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOut_Actually, I’ll figure it out on my own.</key>
-    <value>やっぱり、自分で考えてみる。</value>
+    <value>其实，我会自己想办法的。</value>
   </entry>
   <entry>
     <key>FigureSomethingOut0_Hmm... two security measures, eh?</key>
-    <value>ふむ…2つのセキュリティ対策、か？</value>
+    <value>嗯……两个安全措施？呃……</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseA_Well, once you know what they are... then uh... then you can get in.</key>
-    <value>まあ、そいつが何なのかわかれば…あとは…乗り込むだけだな。</value>
+    <value>如果你知道两个安全措施是什么，那么你就可以进去了。</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOutResponseA_...Right.</key>
-    <value>…あぁ。</value>
+    <value>……好吧。</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOutResponseA_And... how do I find out what they are?</key>
-    <value>それで…その正体を知るにはどうすればいい？</value>
+    <value>我该如何知道两个安全措施是什么？</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseA1_Cool. Glad I could be of help.</key>
-    <value>いいね。役に立てたようで良かった。</value>
+    <value>很高兴我能给你提供帮助。</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseA2_Well, I don’t know. Explore! Look around! Ask someone! ...else!</key>
-    <value>ああ、私は知らない。探索するんだ！見て回るんだ！誰かに聞くんだ！…とかか！</value>
+    <value>呃……我也不知道。你应该去探索！发现！或者……去问某人！</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseA2_Try to get somewhere hard to reach. There’s usually good stuff in hard to reach places.</key>
-    <value>たどり着くのが困難なところへ挑戦するんだ。そういうところには大抵、何か良いものがある。</value>
+    <value>或许你可以去一些难以进入的地方。那种地方往往会有意想不到的收获。</value>
   </entry>
   <entry>
     <key>FigureSomethingOut4_Secret room behind a painting? Hmm. Let me think...</key>
-    <value>壁画の後ろに隠された部屋？ふむ。考えてみよう…。</value>
+    <value>一幅画后面的密室？让我想想……</value>
   </entry>
   <entry>
     <key>FigureSomethingOut4_Uhhhmmm.</key>
-    <value>うーーーむ。</value>
+    <value>呃......嗯。</value>
   </entry>
   <entry>
     <key>FigureSomethingOut4_Uuuuuuuuuuuuuuuuuhhhhhhhhhhhhhhhhhhhh.</key>
-    <value>ううぅーーーーーーーーーーーーーーーーー。</value>
+    <value>呃呃呃呃呃呃呃呃呃呃。</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseC_Hhhhhmmmmmmmmmmmm.</key>
-    <value>うむむむむむむむ。</value>
+    <value>呃呃呃嗯嗯嗯嗯嗯嗯嗯嗯嗯。</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOutResponseC_...Nevermind, I’ll... figure it out myself.</key>
-    <value>…もう気にしないで、自力で…考えるから。</value>
+    <value>……没关系，我会……自己想办法。</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOutResponseC_...Yes?</key>
-    <value>…それで？</value>
+    <value>……什么?</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseC1_Ah. Yes. Use that brain of yours.</key>
-    <value>ああ。そうだな。自分の頭を使うのが良い。</value>
+    <value>当然，运用你聪明的大脑。</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseC1_Well, if you need help with anything else, I'll be sitting right here.</key>
-    <value>まぁ、何か助けが必要になれば、私はここに座ってるから。</value>
+    <value>我会一直呆在这里，有什么需要尽管来找我。</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseC2_Uhhhhhhhhhh.</key>
-    <value>ううううううう。</value>
+    <value>呃呃呃呃呃呃呃呃呃。</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseC2_HHHHHHHHMMMMMMMMMMMMMMMMMMMM?????</key>
-    <value>ふうううううむむむむむむむむむむむむむむむ？？？？？</value>
+    <value>呃呃呃呃呃呃嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯？？？？？</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseC2_MMMMMMMMMMMMMMMMM!!!!!!!!!!!!!!!!!!!!</key>
-    <value>むむむむむむむむむむむむむむむむ！！！！！！！！！！！！！！！！！！！！</value>
+    <value>嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯！！！！！！！！！！！！！！！！！！！！</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseC2_...Nah. I got nothing.</key>
-    <value>…ダメだ。何も出てこない。</value>
+    <value>……呃，其实我不知道。</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseD_Someone turned off the ideas lightbulb above my head, I guess.</key>
-    <value>誰かが私の頭の上に光る電球を消したのだろう、おそらく。</value>
+    <value>我猜有人关掉了我头顶的灯泡。</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOutResponseD_...What does that even mean?</key>
-    <value>…それは一体、どういうことだ？</value>
+    <value>……什么意思？</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOutResponseD_Well, thanks anyway.</key>
-    <value>ええと、とにかくありがとう。</value>
+    <value>好吧，无论如何，谢谢你。</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseD1_You tell me, hatchling. You tell me.</key>
-    <value>わからない、ひよっ子。教えてくれ。</value>
+    <value>你该去寻找解决办法，然后告诉我。</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseD2_Yeah, catch ya later, hatchling. Sorry I couldn’t be of more help.</key>
-    <value>あぁ、また後でな、ひよっ子。すまない、助けになれなくて。</value>
+    <value>回头见，年轻人。很抱歉我不能提供更多的帮助。</value>
   </entry>
   <entry>
     <key>FigureSomethingOut1_That’s the stupid-looking tall structure, isn’t it?</key>
-    <value>あのバカみたいな背の高い建物、のことだよな？</value>
+    <value>你说的是那个看起来愚蠢又高大的建筑吗？</value>
   </entry>
   <entry>
     <key>FigureSomethingOut1_Ah yes, the stairs have collapsed, right? Well, then you’ll need to find something else to get you up through the staircase, won’t you?</key>
-    <value>ああそうだ、階段が崩れていたんだったよな？それなら、まるで階段で上るかのようにできる何か別のものを探さなくちゃならない、ということだな？</value>
+    <value>那儿的楼梯塌了是吧？那你得去找别的东西让你从楼梯上去，不是吗？</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseB_Yup.</key>
-    <value>そういうことだ。</value>
+    <value>是的。</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOutResponseB_Thanks, Feldspar.</key>
-    <value>ありがとう、Feldspar。</value>
+    <value>谢谢你，费尔德斯巴。</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOutResponseB_That’s not very helpful.</key>
-    <value>それではあまり助けになってない。</value>
+    <value>这不是很有帮助。</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseB1_You’re welcome, hatchling.</key>
-    <value>どういたしまして、ひよっ子。</value>
+    <value>不客气，年轻人。</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseB2_It is, you just don’t know it yet.</key>
-    <value>それは、お前がまだ気づいてないだけだよ。</value>
+    <value>抱歉，这是我所知道的一切。</value>
   </entry>
   <entry>
     <key>FigureSomethingOut2_The what?</key>
-    <value>何だ？</value>
+    <value>什么？</value>
   </entry>
   <entry>
     <key>FigureSomethingOut2_Oh, it fell in here, did it? Well then you’re not going to find it by randomly wandering around this place...</key>
-    <value>あ、ここに落ちていたのか？それならこの辺を適当にうろうろしても見つかりそうにないな…。</value>
+    <value>哦，投影池的道路被损坏了？或许你可以模拟一下物体的掉落，猜猜它会掉落在哪里。</value>
   </entry>
   <entry>
     <key>FigureSomethingOut2_So, do what you did to find me! ...Though, I doubt it’s sending out a signal like I am, so... that might be a problem.</key>
-    <value>なら、私を見つけたのと同じことをすれば良い！…もっとも、私のように信号を発しているとは思えないので、…それは問題たりうるかもしれないな。</value>
+    <value>根据你的猜想去寻找！想想你当初是如何寻找到我的，像找我一样去寻找它！</value>
   </entry>
   <entry>
     <key>FigureSomethingOut2_Hey, you’re smart. You’ll figure something out.</key>
-    <value>なあに、お前は賢い。解決できるはずさ。</value>
+    <value>你是个聪明的鱼，我相信你能找到办法！</value>
   </entry>
   <entry>
     <key>FigureSomethingOut3_Ha, you found that too? Well, if you payed attention, you might have noticed that the door is actually on Dark Bramble’s surface.</key>
-    <value>はは、お前も見つけたのか？よく見れば、あの扉は実は闇のイバラの地表にあるんだと気づけたかもしれないな。</value>
+    <value>这个你也发现了？好吧，如果你有认真探索的话，你可能已经注意到入口其实是在黑棘星表面上。</value>
   </entry>
   <entry>
     <key>FigureSomethingOut3_So, maybe the solution... lies on the surface.</key>
-    <value>それなら解決策は…やはり地表にあるかもしれない。</value>
+    <value>所以，也许解决方案就在地表上？</value>
   </entry>
   <entry>
     <key>FigureSomethingOutCancel_Alright. It’s always more fun that way, anyway, so good call.</key>
-    <value>なるほど。そちらの方が楽しいのは常なんだ。とにかく、良い判断だ。</value>
+    <value>这是最正确的选择！并且更有挑战性，不是吗？</value>
   </entry>
+  <!--
   <entry>
     <key>FeldsparFoundSomethingMenu_I found a way to the top of the Study Tower, and...</key>
     <value>研究塔の最上部へ行く方法を見つけた、そして…</value>
@@ -433,17 +434,18 @@
     <key>GabbroMain_A few loops ago, one of these structures falling from the sky fell on my island. Dying like that was kind of unpleasant.</key>
     <value>2、3ループ前、空からこの小さな島に構造物の一つが落ちてきた。そんな風に死ぬのは嬉しくない。</value>
   </entry>
+  -->
   <entry>
     <key>Bramble Power Station</key>
-    <value>イバラ動力ステーション</value>
+    <value>荆棘动力站</value>
   </entry>
   <entry>
     <key>Northern Observatory</key>
-    <value>北部観測所</value>
+    <value>北部天文台</value>
   </entry>
   <entry>
     <key>Study Tower and Projection Pool House</key>
-    <value>研究塔とプロジェクションプールの家</value>
+    <value>研究塔和投影池室</value>
   </entry>
   <entry>
     <key>Projection Pool House</key>
@@ -451,63 +453,63 @@
   </entry>
   <entry>
     <key>Bramble Village</key>
-    <value>イバラの村</value>
+    <value>荆棘小屋</value>
   </entry>
   <entry>
     <key>Initial Campsite and Shuttle Crusher</key>
-    <value>初期キャンプ場とシャトル破砕機</value>
+    <value>最初的营地和航天飞机残骸</value>
   </entry>
   <entry>
     <key>Anglerfish Hunting Blind</key>
-    <value>アンコウハントの隠れ家</value>
+    <value>鮟鱇鱼狩猎小屋</value>
   </entry>
   <!-- Misc: End -->
   <!-- Secret Poem: Start -->
   <entry>
     <key>FRIEND: Failure of communication,</key>
-    <value>FRIEND:意思伝達の失敗、</value>
+    <value>朋友：通信故障，</value>
   </entry>
   <entry>
     <key>FRIEND: Made worse by long duration.</key>
-    <value>FRIEND:長い期間を経て悪化の一途をたどる。</value>
+    <value>朋友：因持续时间过长而变得更糟。</value>
   </entry>
   <entry>
     <key>FRIEND: In our minds, meaning of words undergo mutation,</key>
-    <value>FRIEND:私たちの心の中で、言葉の意味は変化を遂げていき、</value>
+    <value>朋友：在我们的头脑中，单词的意义发生了变化，</value>
   </entry>
   <entry>
     <key>FRIEND: Until we live in worlds of fabrication.</key>
-    <value>FRIEND:偽りの世界で生きていくまで。</value>
+    <value>朋友：直到我们生活在虚构的世界里。</value>
   </entry>
   <!-- Secret Poem: End (You can check hidden meaning of this poem in `darkbundle` file.) -->
   <!-- Bramble Station: Start -->
   <entry>
     <key>DATURA: Wooooooo! Finally finished building this stupid space station!</key>
-    <value>DATURA:うおーーーー！ついにこのバカげた宇宙ステーションを作り上げたぞ！</value>
+    <value>曼陀罗：芜湖！终于建完这座愚蠢的太空站了！</value>
   </entry>
   <entry>
     <key>DATURA: Couldn’t have done it without you Friend! (And your ship!)</key>
-    <value>DATURA:君がいなかったらできなかったことだ、Friend！(あと君の船もだ！)</value>
+    <value>曼陀罗：没有你的帮助我是做不到的，“朋友”！（还有你的飞船！）</value>
   </entry>
   <entry>
     <key>DATURA: These seed things are great! Saved having to build giant long cables everywhere.</key>
-    <value>DATURA:この種というやつは素晴らしい！とてつもなく長いケーブルをあちこちに作らなくて済むようになった。</value>
+    <value>曼陀罗：这些种子太棒了！省去了到处拉长电缆的功夫。</value>
   </entry>
   <entry>
     <key>DATURA: It’s pretty cool, huh?</key>
-    <value>DATURA:なかなか格好いいじゃないか？</value>
+    <value>曼陀罗：很酷对吧？</value>
   </entry>
   <entry>
     <key>&lt;color=orange&gt;WARNING:&lt;/color&gt; Coronal Mass Ejection!</key>
-    <value>&lt;color=orange&gt;注意:&lt;/color&gt;コロナ質量放出！</value>
+    <value><![CDATA[<color=orange>警告：</color>]]> 日冕物质抛射！</value>
   </entry>
   <entry>
     <key>&lt;color=red&gt;ERROR:&lt;/color&gt; Gravity Stability System has been damaged!</key>
-    <value>&lt;color=red&gt;エラー:&lt;/color&gt;重力安定化システムが損傷しています！</value>
+    <value><![CDATA[<color=red>错误：</color>]]> 重力稳定系统受损！</value>
   </entry>
   <entry>
     <key>&lt;color=orange&gt;WARNING:&lt;/color&gt; Giant's Deep approaching in &lt;TimeMinutesGDApproach&gt; MINUTES, &lt;TimeSecondsGDApproach&gt; SECONDS!</key>
-    <value>&lt;color=orange&gt;注意:&lt;/color&gt;巨人の大海が接近するまで&lt;TimeMinutesGDApproach&gt;分&lt;TimeSecondsGDApproach&gt;秒！</value>
+    <value><![CDATA[<color=orange>警告：</color>]]> 深巨星在<![CDATA[<TimeMinutesGDApproach>]]>分<![CDATA[<TimeSecondsGDApproach>]]>秒后接近！</value>
   </entry>
   <!-- Bramble Station: End -->
   <!-- Initial Campsite: 1st House: Start -->

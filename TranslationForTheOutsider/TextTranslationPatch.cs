@@ -103,6 +103,7 @@ namespace TranslationForTheOutsider {
             var text = __result;
 
             var english_key_color_value_table = new Dictionary<string, string>() {
+                {"Eye of the Universe", "lightblue"},
                 {"Eye", "lightblue"},
                 {"Brittle Hollow", "lightblue"},
                 {"Ember Twin", "lightblue"},

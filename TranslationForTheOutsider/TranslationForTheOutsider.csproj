@@ -28,6 +28,9 @@
     <Content Include="TranslationForTheOutsider.csproj.user" />
   </ItemGroup>
   <ItemGroup>
+    <None Update="assets\chinese_simple.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="assets\japanese.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
