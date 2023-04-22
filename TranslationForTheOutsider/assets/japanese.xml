@@ -2127,6 +2127,10 @@
     <value>初期キャンプ場</value>
   </table_shipLog>
   <table_shipLog>
+    <key>Other Side of the Seed</key>
+    <value>種の向こう側</value>
+  </table_shipLog>
+  <table_shipLog>
     <key>Bramble Power Station</key>
     <value>イバラ動力ステーション</value>
   </table_shipLog>

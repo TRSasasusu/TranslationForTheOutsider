@@ -2022,23 +2022,23 @@
   <!-- Northern Observatory: On Body: End -->
   <table_shipLog>
     <key>Eye of the Universe</key>
-    <value>宇宙の眼</value>
+    <value>宇宙之眼</value>
   </table_shipLog>
   <table_shipLog>
     <key>Green Fire</key>
-    <value>みどり色の炎</value>
+    <value>青色火焰</value>
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside Home</key>
-    <value>崖上の家</value>
+    <value>悬崖边的建筑</value>
   </table_shipLog>
   <table_shipLog>
     <key>Observatory</key>
-    <value>観測所</value>
+    <value>天文台</value>
   </table_shipLog>
   <table_shipLog>
     <key>Northern Observatory</key>
-    <value>北部観測所</value>
+    <value>北部天文台</value>
   </table_shipLog>
   <table_shipLog>
     <key>Study Tower</key>
@@ -2046,19 +2046,19 @@
   </table_shipLog>
   <table_shipLog>
     <key>Top of the Tower</key>
-    <value>塔の最上部</value>
+    <value>塔顶</value>
   </table_shipLog>
   <table_shipLog>
     <key>South Pole Settlement</key>
-    <value>南極の居住区</value>
+    <value>南极庇护所</value>
   </table_shipLog>
   <table_shipLog>
     <key>South Pole Shelter</key>
-    <value>南極の居住地</value>
+    <value>南极庇护所</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble Village</key>
-    <value>イバラの村</value>
+    <value>荆棘小屋</value>
   </table_shipLog>
   <table_shipLog>
     <key>Painting</key>
@@ -2066,322 +2066,326 @@
   </table_shipLog>
   <table_shipLog>
     <key>Secret Room</key>
-    <value>隠された部屋</value>
+    <value>密室</value>
   </table_shipLog>
   <table_shipLog>
     <key>Hidden Path</key>
-    <value>秘められた道</value>
+    <value>隐藏道路</value>
   </table_shipLog>
   <table_shipLog>
     <key>Secluded Structure</key>
-    <value>密閉された構造物</value>
+    <value>与世隔绝的建筑</value>
   </table_shipLog>
   <table_shipLog>
     <key>Sealed Entrance</key>
-    <value>封じられた入口</value>
+    <value>封锁住的入口</value>
   </table_shipLog>
   <table_shipLog>
     <key>Inside the Structure</key>
-    <value>構造物の内側</value>
+    <value>建筑内部</value>
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle</key>
-    <value>シャトル</value>
+    <value>航天飞机</value>
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle Crusher</key>
-    <value>シャトル破砕機</value>
+    <value>飞船摧毁装置</value>
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool</key>
-    <value>プロジェクションプール</value>
+    <value>投影池</value>
   </table_shipLog>
   <table_shipLog>
     <key>Missing Projection Pool</key>
-    <value>失われたプロジェクションプール</value>
+    <value>缺少的投影池</value>
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool House</key>
-    <value>プロジェクションプールの家</value>
+    <value>投影池室</value>
   </table_shipLog>
   <table_shipLog>
     <key>Anglerfish Hunting</key>
-    <value>アンコウ狩り</value>
+    <value>鮟鱇鱼狩猎</value>
   </table_shipLog>
   <table_shipLog>
     <key>Hunting Blind</key>
-    <value>ハントの隠れ家</value>
+    <value>鮟鱇鱼狩猎小屋</value>
   </table_shipLog>
   <table_shipLog>
     <key>The Collector</key>
-    <value>収拾者</value>
+    <value>收集者</value>
   </table_shipLog>
   <table_shipLog>
     <key>The Collector Mural</key>
-    <value>収拾者の壁画</value>
+    <value>收集者壁画</value>
   </table_shipLog>
   <table_shipLog>
     <key>Campsite</key>
-    <value>キャンプ場</value>
+    <value>营地</value>
   </table_shipLog>
   <table_shipLog>
     <key>Initial Campsite</key>
-    <value>初期キャンプ場</value>
+    <value>最初的营地</value>
+  </table_shipLog>
+  <table_shipLog>
+    <key>Other Side of the Seed</key>
+    <value>种子的另一边</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble Power Station</key>
-    <value>イバラ動力ステーション</value>
+    <value>荆棘动力站</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble Power StationA power station that uses Bramble Seeds to connect all locations on Dark Bramble to a power source.</key>
-    <value>イバラの種を利用し、闇のイバラのすべての拠点を動力源に接続するステーション。</value>
+    <value>发电站使用黑棘种子将所有位置连接到电源。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble Power StationAccording to a Nomai computer, the ’Gravity Stability System’ has been disabled by a recent Coronal Mass Ejection from the sun that hit Dark Bramble.</key>
-    <value>Nomaiのコンピュータによると、闇のイバラを最近襲った太陽からのコロナ質量放出により重力安定化システムが無効化された。</value>
+    <value>根据一台挪麦电脑的信息，重力稳定系统在最近的一次掠过黑棘星的日冕物质抛射中受损。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble Power StationI used a switch to turn off power to one of the locations.</key>
-    <value>私はスイッチで1カ所の動力を切った。</value>
+    <value>我用开关关闭了其中一个地点的电力。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble Power StationI fired a scout through a bramble seed and it exited out of another on Dark Bramble.</key>
-    <value>イバラの種に偵察機を発射したところ、闇のイバラの別の場所に出た。</value>
+    <value>我发射侦察兵穿过了黑棘种子，它从另外的地方出来了。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Initial CampsiteA campsite next to the Shuttle Crusher that I didn’t explore.</key>
-    <value>シャトル破砕機の隣にあるキャンプ場をまだ探索していない。</value>
+    <value>飞船摧毁装置旁边的一个营地。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Initial CampsiteWhere a Nomai named ’Datura’ first landed on Dark Bramble and set up camp.</key>
-    <value>Daturaという名のNomaiが闇のイバラで最初に着陸し、キャンプ場とした場所。</value>
+    <value>一个名叫曼陀罗的挪麦人初次登录黑棘星并建立营地的地方。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Initial CampsiteFeldspar left a recording here saying they explored around and had ’some ideas’ on how to get into places, and offers his help if I want it.</key>
-    <value>Feldsparは周辺を探索した。そして、いくつかの場所へ入るためのアイデアがあり、望むなら助言をするという記録を残した。</value>
+    <value>费尔德斯巴在这里留下了一段录音，说他四处探索，对如何进入某些地方有一些想法，如果我想，他会提供帮助。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Hunting BlindDatura, needing a food supply, considered eating... the Anglerfish.</key>
-    <value>食料を必要とするDaturaは、…アンコウを食べることを考えた。</value>
+    <value>曼陀罗需要食物来源，他打算对鮟鱇鱼下手。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Hunting BlindDatura went exploring the depths of Dark Bramble. Partly to find... food.</key>
-    <value>Daturaは闇のイバラの内部を探索した。その目的は…食料を探すことだった。</value>
+    <value>曼陀罗去探索黑棘星深处，部分原因是为了寻找食物。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Hunting BlindDatura also discovered that Anglerfish are blind.</key>
-    <value>Daturaはアンコウの目が見えないことも発見した。</value>
+    <value>曼陀罗还发现鮟鱇鱼眼睛看不见。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Hunting BlindOn telling the discovery to Yarrow, he was interested at first, but the conversation turned into a big argument.</key>
-    <value>その発見をYarrowに話すとはじめは興味を持ってくれたが、話は次第に大きな論争へと至ってしまった。</value>
+    <value>在将这一发现告诉亚罗时，他起初很感兴趣，但谈话变成了一场大争论。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Hunting BlindDatura found the remains of the Nomai of Escape Pod 3, and his clan’s leader, Escall.</key>
-    <value>Daturaは脱出ポッド3のNomaiと、彼の一族のリーダーであるEscallの遺体を発見した。</value>
+    <value>曼陀罗找到了3号逃生舱上的挪麦人和他的家族领袖艾斯科尔的遗骸。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherDatura landed on Dark Bramble in a shuttle, which he didn’t know what to do with.</key>
-    <value>シャトルで闇のイバラに降り立ったDaturaは、シャトルをどうするか悩んだ。</value>
+    <value>曼陀罗乘坐一架航天飞机降落在黑棘星表面，他不知道该怎么办。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherA Nomai called Datura created this to destroy his shuttle. After damaging the shuttle, its alarm went off, and exploded a while after.</key>
-    <value>Daturaという名のNomaiが、自分のシャトルを破壊するために作ったものだ。シャトルに損傷を与えた後、警報が響き渡りしばらくして爆発した。</value>
+    <value>一个名叫曼陀罗的挪麦人创造了这个来摧毁他的飞船的装置。激活摧毁装置后，飞船会发出警报，并在短时间内发生爆炸。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherSomeone referred to as ’Friend’ also wanted to destroy their ship. After damaging their ship, its alarm went off too. Datura remembered that he should just stand back and wait until it exploded.</key>
-    <value>Friendと呼ばれる人物も、自らの船を破壊しようとしていた。その船に損傷を与えると同じく警報が発せられた。Daturaは、このまま爆発するまで待機していれば良いのだと思い出した。</value>
+    <value>一个被称为朋友的人也想摧毁飞船。在损坏了他们的飞船后，警报也响起了。曼陀罗认为，他应该站的远远的等待飞船爆炸。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherI used a switch to activate the crusher.</key>
-    <value>私はスイッチで破砕機を作動させた。</value>
+    <value>我用一个开关激活了摧毁装置。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherIn a recording, Datura told his daughter Solanum about the Vessel crash.</key>
-    <value>DaturaがむすめのSolanumに船の墜落のことを話している記録が残されていた。</value>
+    <value>在一段录音中，曼陀罗向他的女儿所莱内姆讲述了有关飞船坠毁的事。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool HouseA structure next to the Study Tower appears to have broken off and fallen into the planet somewhere.</key>
-    <value>研究塔に隣接した建物の橋が折れ、この惑星のどこかに落下しているように見える。</value>
+    <value>研究塔旁边建筑物似乎已经断裂并坠落到星球某处。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool HouseDatura built a projection pool on an island west of his landing site to be able to talk to his wife and daughter.</key>
-    <value>Daturaはパートナーやむすめと話ができるよう、着陸地点の西にある島にプロジェクションプールを作った。</value>
+    <value>曼陀罗在着陆点以西的一个岛屿上建造了一个投影池，以便能够与妻子和女儿交谈。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool HouseDatura tried to leave Dark Bramble, but both shuttles were in use at that time.</key>
-    <value>Daturaは闇のイバラから発とうとしたが、そのときシャトルは2台とも使用中だった。</value>
+    <value>曼陀罗试图离开黑棘星，但当时两架航天飞机都在使用中。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool HouseDatura asked Bells to tell Solanum there was no need to rush, and to tell Filix that he was sorry and would see her again soon.</key>
-    <value>DaturaはBellsに、Solanumには急ぐ必要はない、Filixには申し訳ない、すぐにまた会える、と伝えてほしいと頼んだ。</value>
+    <value>曼陀罗让贝尔斯告诉所莱内姆不必着急，并告诉费利克斯他很抱歉并不久后就回去见她。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool HouseIn a damaged stone, Datura called the others to warn them about something. But, they already knew about it.</key>
-    <value>損傷したプロジェクションストーンにて、Daturaは何かを警告するために他のNomaiを呼んだ。しかし、彼らは既にそのことを知っているようだった。</value>
+    <value>在一块受损的投影石上，曼陀罗试图警告他们注意一些东西。但是，他们已经知道这件事了。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool HouseIn the undamaged stone, Datura tried to warn the others about the Interloper. But, they already knew about it.</key>
-    <value>損傷していないプロジェクションストーンにて、Daturaは侵入者について他のNomaiに警告しようとした。しかし、彼らは既にそのことを知っているようだった。</value>
+    <value>在一块块完好投影石上，曼陀罗试图警告他们注意彗星。但是，他们已经知道这件事了。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool HouseDatura and Solanum planned to meet after he had finished something, and after she had returned from the Quantum Moon.</key>
-    <value>Daturaが何かを終え、そしてSolanumが量子の月から帰ってきた後に2人は合流するつもりだった。</value>
+    <value>曼陀罗和所莱内姆计划在他完成一些事情后，在她从量子卫星回来后见面。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Study TowerA Nomai named Datura discovered a spherical region in space where the stars flickered occasionally.</key>
-    <value>Daturaという名のNomaiは、時折星が明滅する球状の領域が宇宙空間に存在することを発見した。</value>
+    <value>一位名叫曼陀罗的挪麦人在太空中发现了一个球形区域，那里的星星偶尔会闪烁。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Study TowerUpon meeting a being from another species, Datura helped build them a house at the South Pole.</key>
-    <value>異種族と出会ったDaturaは、南極に家を建てる手伝いをした。</value>
+    <value>在遇到另一个物种的生物后，曼陀罗帮助他们在南极建造了一座房子。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Study TowerDatura discovered something that disturbed him, but he had to go his Observatory to confirm it.</key>
-    <value>Daturaは気になることを発見したが、それを確認するために観測所へ向かわなければならなかった。</value>
+    <value>曼陀罗发现了一些让他不安的事情，他得去天文台确认。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Top of the TowerThe stairs to the top of the Study Tower have collapsed.</key>
-    <value>研究塔の最上部への階段は崩壊している。</value>
+    <value>通往研究塔塔顶的楼梯已经倒塌。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Top of the TowerI can see a wall with Nomai text through the window.</key>
-    <value>外からNomaiの文字が書かれた壁が見える。</value>
+    <value>透过窗户，我看到一面写着挪麦文字的墙。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Top of the TowerDatura added a second security measure to his Observatory. The door will remain shut if another space ship is on Dark Bramble’s surface.</key>
-    <value>Daturaは観測所に2つ目のセキュリティ対策を施した。闇のイバラの地表に他の宇宙船がある場合、その扉は閉じたままとなる。</value>
+    <value>曼陀罗为他的天文台增加了第二项安全措施。如果另一艘飞船在黑棘星的表面，门将保持关闭状态。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageUpon meeting a being from another species, Datura helped build them a house at the South Pole.</key>
-    <value>異種族と出会ったDaturaは、南極に家を建てる手伝いをした。</value>
+    <value>在遇到另一个物种的生物后，曼陀罗帮助他在南极建造了一座房子。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageDatura built a shelter for himself at the south pole.</key>
-    <value>Daturaは南極に自分のための居住地を作った。</value>
+    <value>曼陀罗在南极为自己建造了一个庇护所。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageDatura teached Friend the Nomai language, and they teached him art.</key>
-    <value>DaturaはFriendにNomaiの言語を教え、Friendは彼に芸術を教えた。</value>
+    <value>曼陀罗教朋友挪麦语，他们教他艺术。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageDatura argued at Yarrow that they should be finding a way to leave this star system. Datura, promising Filix he would return, left to Dark Bramble to find the Vessel.</key>
-    <value>DaturaはYarrowに、この星系を離れる方法を探すべきだと主張した。DaturaはFilixに必ず戻ると約束し、船を見つけるために闇のイバラへ向かった。</value>
+    <value>曼陀罗对亚罗争辩他们应该想办法离开这个星系。曼陀罗向费利克斯保证他一定会回来后，就动身前往黑棘星寻找飞船。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageDatura is pessimistic about the Eye, and believes it will destroy the universe if someone interacts with it.</key>
-    <value>Daturaは宇宙の眼について悲観的であり、誰かが眼に触れれば宇宙が破壊されると信じている。</value>
+    <value>曼陀罗对眼持悲观态度，坚定的认为与眼交流会毁灭宇宙。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageFriend is optimistic about the Eye, and believes it is the creator of universes.</key>
-    <value>Friendは宇宙の眼について楽観的であり、眼は宇宙の創造者であると信じている。</value>
+    <value>朋友认为眼是善意的，相信眼是宇宙的创造者。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageIn Friend’s House, I found a staircase that leads down abruptly to a painting of a terrestrial world, with a blue ringed gas giant in the sky.</key>
-    <value>Friendの家にて、空に環を持つガス惑星が描かれている地上世界の壁画に向かって不意に伸びている階段を見つけた。</value>
+    <value>在朋友的家里，我发现了一段楼梯，陡然向下通向一幅内陆星球的画作，天空中有一个蓝色的环形气态行星。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Secret RoomIn Friend’s House, I found a staircase that leads down abruptly to a painting of a terrestrial world, with a blue ringed gas giant in the sky.</key>
-    <value>Friendの家にて、空に環を持つガス惑星が描かれている地上世界の壁画に向かって不意に伸びている階段を見つけた。</value>
+    <value>在朋友的家里，我发现了一段楼梯，陡然向下通向一幅内陆星球的画作，天空中有一个蓝色的环形气态行星。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Secret RoomA secret room in Friend’s House contains an image revealing a hidden path behind a jellyfish surrounded by ice.</key>
-    <value>Friendの家の隠された部屋には、氷に囲まれたクラゲの奥の秘められた道を示す映像がある。</value>
+    <value>朋友家中的密室里有一张照片，揭示了一条位于冰封水母后面的隐藏道路。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Secluded StructureA secret room in Friend’s House contains an image revealing a hidden path behind a jellyfish surrounded by ice.</key>
-    <value>Friendの家の隠された部屋には、氷に囲まれたクラゲの奥の秘められた道を示す映像がある。</value>
+    <value>朋友家中的密室里有一张照片，揭示了一条位于冰封水母后面的隐藏道路。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Secret RoomDatura and Friend discussed their theories about the Eye, and suggested that they may both be partially true.</key>
-    <value>DaturaとFriendは宇宙の眼についてのそれぞれの説を議論し、どちらも部分的に真実である可能性を示唆した。</value>
+    <value>曼陀罗和朋友讨论了他们关于眼的理解，并提出他们的理解或多或少是正确的。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Secluded StructureThe entrance to this building appears to have been sealed. Datura theorised that only an explosion could create an opening.</key>
-    <value>この建物の入口は封じられているようだ。Daturaは、爆発でも起こらなければ開口部は作れないと考えた。</value>
+    <value>这座大楼的入口处似乎已经被封锁了。曼陀罗的理论认为，只有爆炸才能制造出一个缺口。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Secluded StructureIf I want to return here, I should use the Mark Location on HUD feature, like Slate told me about.</key>
-    <value>ここに戻りたいなら、Slateに教えてもらったようにHUDに位置をマークする機能を使うべきだろう。</value>
+    <value>如果我想回到这里，我应该使用平显上的标记位置功能，就像斯雷特告诉我的那样。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureThe entrance to this building appears to have been sealed. Datura theorised that only an explosion could create an opening.</key>
-    <value>この建物の入口は封じられているようだ。Daturaは、爆発でも起こらなければ開口部は作れないと考えた。</value>
+    <value>这座大楼的入口处似乎已经被封锁了。曼陀罗的理论认为，只有爆炸才能制造出一个缺口。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureI found the remains of Friend... holding an artifact next to a green fire.</key>
-    <value>Friendの遺体を見つけた…。みどり色の火のそばで遺物を持っていた。</value>
+    <value>我找到了朋友的遗体，在青色火焰旁，手持文物。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureDatura was curious what Friend was hiding from him and sneaked here. He found an artifact and green fire, tripped and knocked himself out, awaking on what appeared to be a different planet.</key>
-    <value>DaturaはFriendが何を隠しているのか気になり、ここに忍び込んだ。彼は遺物とみどり色の火を見つけ、つまずいて気を失うと、別の惑星のような場所で目覚めた。</value>
+    <value>曼陀罗很好奇朋友有什么事情瞒着他，于是偷偷溜到了这里。他发现了一件文物和绿色的火焰，摔倒后失去了意识，在一个像是其他的星球上醒来。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureDatura came across Friend’s elders, and accidentally rang an alarm bell which woke one up.</key>
-    <value>DaturaはFriendの長老に出くわした。また、誤ってベルを響かせ1人を目覚めさせてしまった。</value>
+    <value>曼陀罗偶然遇到了朋友的族人，不小心按下了警钟，把一个人吵醒了。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureHe was awoken by Friend, with some others having arrived on Dark Bramble.</key>
-    <value>彼はFriendに起こされた。そこには闇のイバラに到着した流れ者の住人達がいた。</value>
+    <value>他被朋友叫醒了，有一些人来到了黑棘星。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureThey separated them from each other, containing Friend by sealing the entrance.</key>
-    <value>彼らは互いに引き離され、Friendは入口を閉ざされて封印された。</value>
+    <value>那些人把他们分开，用封锁入口处的方式围住了朋友。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeI found... the remains of Friend, holding an artifact next to a green fire.</key>
-    <value>Friendの遺体を見つけた…。みどり色の火のそばで遺物を持っていた。</value>
+    <value>我找到了……朋友的遗体，在青色火焰旁，手持文物。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeI met Friend! They had to communicate using the Nomai language, as I can’t translate theirs.</key>
-    <value>Friendに会った！私が流れ者の言語を翻訳できないため、FriendはNomaiの言語を用いて意思伝達をしてくれた。</value>
+    <value>我见到了朋友！但我不懂他们的语言，所幸朋友学习过挪麦语。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeFor one of the security measures, Datura used a quantum shard to effect the Northern Observatory’s door, so I must not be looking at the door when entering.</key>
-    <value>セキュリティ対策の1つとして、Daturaは北部観測所の扉に量子のかけらを利用している。ゆえに、入るときは扉を見てはいけない。</value>
+    <value>在天文台其中一项安全措施中，曼陀罗使用了量子碎片来影响天文台的门，所以当我进入时，绝对不能盯着门看。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeThe Prisoner released the Eye’s signal briefly and was contained in the simulation. He was planned to be released into just the simulation with the others.</key>
-    <value>囚人は眼の信号を一時的に解放し、それから模擬現実に収容された。いずれは囚人も他の住人達と一緒に、模擬現実内ではあるものの解放される予定だった。</value>
+    <value>幽禁者短暂地释放了眼的信号并被关在了模拟世界中。有人曾计划将他放出来，回到模拟的其他人中间。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeBy the time the Nomai arrived, Friend’s elders had ’decayed’ into the simulation. Only a small group of the youngest were still alive outside.</key>
-    <value>Nomaiが到着したときには、Friendの長老達は模擬現実内で朽ち果てた状態になっていた。外で生きているのは、ごく一部の最も若い住人達だけだった。</value>
+    <value>挪麦人到达时，朋友的前辈们都已死亡进入了模拟，只有一小群年轻人还在外界活着。</value>
   </table_shipLog>
   <table_shipLog>
     <key>The Collector MuralDatura mentioned something called ’The Collector,’ but didn’t elaborate.</key>
-    <value>Daturaは収拾者と呼ばれるものに言及したが、詳しくは語らなかった。</value>
+    <value>曼陀罗提到了一个叫做收集者的东西，但没有详细说明。</value>
   </table_shipLog>
   <table_shipLog>
     <key>The Collector MuralA mysterious planet that spewed out a deadly substance that was contained in water worlds and comets.</key>
-    <value>致死性の物質を噴出した謎の惑星。その物質は水の世界や彗星に封じ込められた。</value>
+    <value>一颗散发致命物质的神秘行星，被收容在水世界和彗星中。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Northern ObservatoryThere’s an Observatory on Dark Bramble’s north pole with two security measures keeping the door shut.</key>
-    <value>闇のイバラの北極に観測所があり、2つのセキュリティ対策により扉は閉じられている。</value>
+    <value>在黑棘星表面的北极有个天文台，因为安全措施的缘故，入口保持关闭状态。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Northern ObservatoryDatura discovered something that disturbed him, but he had to go his Observatory to confirm it.</key>
-    <value>Daturaは気になることを発見したが、それを確認するために観測所へ向かわなければならなかった。</value>
+    <value>曼陀罗发现了一些让他不安的事情，他得去天文台确认。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Northern ObservatoryI found Datura’s body...</key>
-    <value>Daturaの遺体を発見した…。</value>
+    <value>我找到了曼陀罗的尸体……</value>
   </table_shipLog>
   <table_shipLog>
     <key>Northern ObservatoryAt his projection pool, Datura attempted to warn the others of the Interloper, but they already knew about it.</key>
-    <value>プロジェクションプールでは、Daturaは他のNomaiに侵入者のことを警告しようとしたが、彼らは既にそのことを知っているようだった。</value>
+    <value>在他的投影池里，曼陀罗试图警告其他人闯入者的到来，但他们已经知道了。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Northern ObservatoryDatura was able to get Solanum to be at the Quantum Moon’s sixth location as the Interloper arrived.</key>
-    <value>Daturaは、侵入者が到着したときに、Solanumがちょうど量子の月の第6の場所にいるように仕向けることができた。</value>
+    <value>闯入者到来时，所莱内姆抵达量子卫星的第六个位置。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Eye of the UniverseThe Eye. Is it a creator or a destroyer of universes? ...Do I want to find out?</key>
-    <value>宇宙の眼。それは果たして宇宙の創造者なのか、それとも破壊者なのか？…私はそれを見極めようか？</value>
+    <value>眼，是宇宙的创造者还是毁灭者？……我应该去一探究竟吗？</value>
   </table_shipLog>
   <table_shipLog>
     <key>Eye of the UniverseIf you are reading this, I assume you have gotten inside the Northern Observatory and have seen the new ending at the Eye. Thank you so much for playing The Outsider! I hope you enjoyed it!</key>
-    <value>もしこれを読んでいるなら、北部観測所内部に入り、そして宇宙の眼で新たなエンディングを見たのでしょう。 Thank you so much for playing The Outsider! I hope you enjoyed it!</value>
+    <value>如果你正在阅读这段话，我想你已经进入了北方天文台，并在眼看到了新的结局。非常感谢你游玩The Outsider！我希望你喜欢它！</value>
   </table_shipLog>
 </TranslationTable_XML>
