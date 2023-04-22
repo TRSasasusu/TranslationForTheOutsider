@@ -109,10 +109,19 @@ namespace TranslationForTheOutsider {
                 {"Ember Twin", "lightblue"},
                 {"Dark Bramble", "lightblue"},
                 {"Vessel", "lightblue"},
-                {"DATURA", "lightblue"},
                 {"Datura", "lightblue"},
-                {"FRIEND", "lime"},
+                {"DATURA", "lightblue"},
                 {"Friend", "lime"},
+                {"FRIEND", "lime"},
+
+                {"Solanum", "orange"},
+                {"SOLANUM", "orange"},
+                {"Filix", "cyan"},
+                {"FILIX", "cyan"},
+                {"Bells", "magenta"},
+                {"BELLS", "magenta"},
+                {"Yarrow", "yellow"},
+                {"YARROW", "yellow"},
             };
 
             foreach(var key_value in english_key_color_value_table) {

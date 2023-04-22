@@ -41,6 +41,38 @@
     <key>Friend</key>
     <value>“朋友”</value>
   </color_table>
+  <color_table>
+    <key>SOLANUM</key>
+    <value>所莱内姆</value>
+  </color_table>
+  <color_table>
+    <key>Solanum</key>
+    <value>所莱内姆</value>
+  </color_table>
+  <color_table>
+    <key>FILIX</key>
+    <value>费利克斯</value>
+  </color_table>
+  <color_table>
+    <key>Filix</key>
+    <value>费利克斯</value>
+  </color_table>
+  <color_table>
+    <key>BELLS</key>
+    <value>贝尔斯</value>
+  </color_table>
+  <color_table>
+    <key>Bells</key>
+    <value>贝尔斯</value>
+  </color_table>
+  <color_table>
+    <key>YARROW</key>
+    <value>亚罗</value>
+  </color_table>
+  <color_table>
+    <key>Yarrow</key>
+    <value>亚罗</value>
+  </color_table>
   <!-- Color Table: End -->
   <!-- Disc Table: Start -->
   <disc_table> <!-- not disk but disc -->
