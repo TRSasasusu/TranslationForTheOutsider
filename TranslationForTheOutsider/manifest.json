@@ -6,6 +6,5 @@
   "uniqueName": "orclecle.TranslationForTheOutsider",
   "version": "0.4.1",
   "owmlVersion": "2.9.0",
-  "dependencies": [ "SBtT.TheOutsider" ],
-  "pathsToPreserve": [ "assets/spanish_la.xml" ]
+  "dependencies": [ "SBtT.TheOutsider" ]
 }
