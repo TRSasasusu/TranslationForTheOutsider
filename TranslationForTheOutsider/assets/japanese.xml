@@ -291,7 +291,7 @@
   </entry>
   <entry>
     <key>FigureSomethingOut2_So, do what you did to find me! ...Though, I doubt it’s sending out a signal like I am, so... that might be a problem.</key>
-    <value>なら、私を見つけたのと同じことをすれば良い！…もっとも、私のように信号を発しているとは思えないので、…それは問題たりうるかもしれないな。</value>
+    <value>なら、私を見つけたのと同じことをすれば良い！…もっとも、私のように信号を発しているとは思えないので…それは問題たりうるかもしれないな。</value>
   </entry>
   <entry>
     <key>FigureSomethingOut2_Hey, you’re smart. You’ll figure something out.</key>
@@ -327,7 +327,7 @@
   </entry>
   <entry>
     <key>FoundSomethingNew1_(Hmm... now what could I do to top that maneuver?)</key>
-    <value>(ううむ…この作戦を上回るにはどうすればいい？)</value>
+    <value>(ううむ…この功績を上回るにはどうすればいい？)</value>
   </entry>
   <entry>
     <key>FoundSomethingNew1_(Oh, I know! I could land on that Sun Station thing!)</key>
@@ -571,7 +571,7 @@
   </entry>
   <entry>
     <key>DATURA: I used this smashy smashy device on the shuttle: which dented it, and set off the shuttle’s alarm, which was, well, alarming.</key>
-    <value>DATURA:シャトルにこのスマッシュ、スマッシュな装置を使用した:シャトルはへこみ警報が、そう、警報が作動した。</value>
+    <value>DATURA:シャトルにこの粉砕こなごなスマッシュ装置を使用した:シャトルはへこみ警報が、そう、警報が作動した。</value>
   </entry>
   <entry>
     <key>DATURA: And the warp core fell out, so I went over to grab it - might be useful, I thought. But after returning to the shelter here to use the device a second time, the shuttle blew up!</key>
@@ -795,7 +795,7 @@
   </entry>
   <entry>
     <key>DATURA: Well... I won’t admit this to him... but... It is a cool idea.</key>
-    <value>DATURA:まあ…本人には認めないが…格好いいとは思う。</value>
+    <value>DATURA:まあ…本人の前で認めたくはないが…格好いいとは思う。</value>
   </entry>
   <!-- Anglerfish Hunting Blind: Near Warp Pad: End -->
   <!-- Anglerfish Hunting Blind: Scroll Near Warp Pad: Start -->
@@ -853,7 +853,7 @@
   </entry>
   <entry>
     <key>DATURA: I’ve been attempting to locate what I saw. And hey, if I locate the Eye, then we can all return to our living quarters prematurely!</key>
-    <value>DATURA:あのとき見たものを探そうとしている。そう、もし眼が見つかれば、皆早々に本来の居住区に帰れるからな！</value>
+    <value>DATURA:あのとき見たものを探そうとしている。そう、もし眼が見つかれば、皆早々に元いたところに帰れるからな！</value>
   </entry>
   <entry>
     <key>DATURA: An update: I’ve found it?! There’s a spherical region in space where the stars occasionally... flicker. As if those stars are... fake?</key>
@@ -979,7 +979,7 @@
   </entry>
   <entry>
     <key>DATURA: Hey, don’t walk away! We’ve been stuck here for so long! Filix and I have a child now. This is no place to grow up. We need to change our efforts to getting out of here!</key>
-    <value>DATURA:おい、行くなよ！俺たちはもうずっと長い間ここに閉じ込められてきた！Filixと俺の間には今や子供もいる。ここは成長させるような場所じゃない。ここから脱出する方向に努力の向きを変えるべきだ！</value>
+    <value>DATURA:おい、行くなよ！俺たちはもうずっと長い間ここに閉じ込められてきた！Filixと俺の間には今や子供もいる。ここは子供を育てるような場所じゃない。ここから脱出する方向に努力の向きを変えるべきだ！</value>
   </entry>
   <entry>
     <key>YARROW: ...We will. Once we’ve found the Eye, we’ll begin constructing a new Vessel. ...Just a little longer.</key>
@@ -1027,7 +1027,7 @@
   </entry>
   <entry>
     <key>FILIX: Thank you. ...Datura... We’ve already been apart for so long...</key>
-    <value>FILIX:ありがとう。…Datura…。私たちは既に長いこと離れ離れになったことがあるわ…。</value>
+    <value>FILIX:ありがとう。…Datura…。私たちもうずいぶん長いこと離れ離れね…。</value>
   </entry>
   <entry>
     <key>DATURA: ...I know, and this hurts me just as much, but if no-one else is finding a way out of here... Well, do you want to come with me?</key>
@@ -1333,7 +1333,7 @@
   </entry>
   <entry>
     <key>FRIEND: Please make yourself at home! And stay for as long a while as you like. ...I would avoid the others, however.</key>
-    <value>FRIEND:どうぞご自由に過ごしてほしい！そして、好きなだけ長くここにいて良い。…ただ、他の者たちに会うのは控えた方が良いと思う。</value>
+    <value>FRIEND:どうぞご自由に過ごしてほしい！そして、好きなだけ長くここにいていい。…ただ、他の者たちに会うのは控えた方が良いと思う。</value>
   </entry>
   <entry>
     <key>FRIEND: This was built for one to be a while, as we searched for a new home. However, over time, more and more of us (our elders) decayed irreversibly into this simulation.</key>
@@ -1359,11 +1359,11 @@
   </entry>
   <entry>
     <key>FRIEND: Our Prisoner believed with unbreakable confidence that the Eye was pure good. Seeing the others hide it away, he viewed them as fearful, evil, and... idiotic.</key>
-    <value>FRIEND:囚人は、眼は純粋な善であるとゆるぎない信念を持って信じていた。他の者たちが眼を隠しているのを見て、彼らは恐ろしく、邪悪で、そして…おろかしく思っていた。</value>
+    <value>FRIEND:囚人は、眼は純粋な善であるとゆるぎない信念を持って信じていた。他の者たちが眼を隠しているのを見て、恐ろしく、邪悪で、そして…おろかしいと思っていた。</value>
   </entry>
   <entry>
     <key>FRIEND: Him and I told them we were not afraid of the Eye... But I suppose it is easy to call others afraid, and say they are not able to accept the truth, despite you not knowing everything either.</key>
-    <value>FRIEND:私と2人で眼は恐れるものではないとみんなに伝えたのだけれど…。でも、自分だってすべてを知っているわけではないのに、他人を怖がりだとか真実を受け入れられないんだとか言うのは簡単なことだったんだろう。</value>
+    <value>FRIEND:私と2人で眼は恐れるものではないとみんなに伝えたのだけれど…。でも、自分だってすべてを知っているわけではないのに、他人を怖がりだとか真実を受け入れられないんだとか言うのは安易だったんだろう。</value>
   </entry>
   <entry>
     <key>FRIEND: Datura did not care much for the Eye. A while away from his clan built up an anger towards them - he had a big falling out with a Nomai... Yarrow, I believe.</key>
@@ -1373,7 +1373,7 @@
   <!-- Dream Friend House: You and Prisoner: Start -->
   <entry>
     <key>FRIEND: A long while ago, the one we call our Prisoner used to be my friend.</key>
-    <value>FRIEND:もう長いこと前、囚人と呼ばれている者はかつて私の友人だった。</value>
+    <value>FRIEND:もう長いこと昔、囚人と呼ばれている者はかつて私の友人だった。</value>
   </entry>
   <entry>
     <key>FRIEND: He would tell me how he wished to ’set the wrongs of our elders right’ by releasing the Eye’s signal... I didn’t realise he was serious!</key>
@@ -1523,7 +1523,7 @@
   <!-- Dream Friend House: Me and Prisoner: Start -->
   <entry>
     <key>FRIEND: I feel like I should be more excited - you might be able to free my friend!</key>
-    <value>FRIEND:もっと興奮しても良いような気がする―だって、あなたが私の友人を解放してくれるかもしれない！</value>
+    <value>FRIEND:もっと興奮してもいいような気がする―だって、あなたが私の友人を解放してくれるかもしれない！</value>
   </entry>
   <entry>
     <key>FRIEND: But, in one way or another, I know he is no longer with us...</key>
@@ -1593,7 +1593,7 @@
   </entry>
   <entry>
     <key>SOLANUM: Ah, it’s... soon after my pilgrimage to the Quantum Moon, actually.</key>
-    <value>SOLANUM:えっと、…実は、私の量子の月の巡礼が終わったらすぐなの。</value>
+    <value>SOLANUM:えっと…実は、私の量子の月の巡礼が終わったらすぐなの。</value>
   </entry>
   <entry>
     <key>DATURA: I see. Well, suppose I’ll be waiting for you at the <![CDATA[<color=lightblue>Gravity Cannon</color>]]> when you return, then? You can tell me all about your Quantum Moon trip!</key>
@@ -1675,19 +1675,19 @@
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, you observed ##### too? You and me both! We’ve actually already ##### ##### check #####. ##### thanks anyway, Datura.</key>
-    <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:ああ、#####も観測したんですね？私も同じくです！実はもう#####確認#####。#####とにかくありがとう、Datura。</value>
+    <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:ああ、あなたも#####を観測したんですね？私も同じくです！実はもう#####確認#####。#####とにかくありがとう、Datura。</value>
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, you observed the comet too? You and me both! We’ve actually already sent a shuttle to go check it out. But thanks anyway, Datura.</key>
-    <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:ああ、彗星も観測したんですね？私も同じくです！実はもうシャトルを送って確認に行ってるところなんです。でも、とにかくありがとう、Datura。</value>
+    <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:ああ、あなたも彗星を観測したんですね？私も同じくです！実はもうシャトルを送って確認に行ってるところなんです。でも、とにかくありがとう、Datura。</value>
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Well, ##### gonna catch up to Yarrow to see if he’s alright. #####! Don’t be a stranger, now!</key>
-    <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:さて、#####Yarrowを捕まえて彼が大丈夫か確認してくるよ。#####！よそよそしくなるな、ということ！</value>
+    <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:さて、#####Yarrowを捕まえて彼が大丈夫か見てきます。#####！気軽に連絡してくださいね！</value>
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Well, I’m gonna catch up to Yarrow to see if he’s alright. See ya around! Don’t be a stranger, now!</key>
-    <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:さて、私はYarrowを捕まえて彼が大丈夫か確認してくるよ。ではまたね！よそよそしくなるな、ということ！</value>
+    <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;:さて、私はYarrowを捕まえて彼が大丈夫か見てきます。ではまた！気軽に連絡してくださいね！</value>
   </entry>
   <!-- Projection Pool House: Ash Projection Stone: End -->
   <!-- Projection Pool House: Bells Stone: Start -->
@@ -1839,7 +1839,7 @@
   </entry>
   <entry>
     <key>FRIEND: Then, we waited and watched as several interstellar species, working together, kindly contained <![CDATA[<color=lightblue>The Collector</color>]]> by collecting the strange matter into various water worlds and comets.</key>
-    <value>FRIEND:それから、いくつかの星間種族たちが力を合わせて、奇妙な物質を拾い集め様々な水の世界や彗星に収めることで<![CDATA[<color=lightblue>収拾者</color>]]>を食い止めるのを、私たちは見つつ待っていた。</value>
+    <value>FRIEND:それから、いくつかの星間種族たちが力を合わせて、奇妙な物質を拾い集め様々な水の世界や彗星に収めることで<![CDATA[<color=lightblue>収拾者</color>]]>を食い止めてくれるのを、私たちは待っていた。</value>
   </entry>
   <entry>
     <key>FRIEND: Then everyone, including us, all went home. Not a long while after, the Eye started sending out it’s signal. I wonder if it saw-</key>
