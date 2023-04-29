@@ -2131,6 +2131,10 @@
     <value>Estação de Energia do Abrolho</value>
   </table_shipLog>
   <table_shipLog>
+    <key>Bramble Power StationI fired a scout through a bramble seed and it exited out of another somewhere.</key>
+    <value>Eu lancei um batedor através de uma semente e ele saiu de dentro de outra.</value>
+  </table_shipLog>
+  <table_shipLog>
     <key>Bramble Power StationA power station that uses Bramble Seeds to connect all locations on Dark Bramble to a power source.</key>
     <value>Uma estação de energia que usa as sementes do Abrolho para conectar todas as localizações no Abrolho Sombrio a uma fonte de energia.</value>
   </table_shipLog>

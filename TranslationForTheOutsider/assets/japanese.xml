@@ -2135,6 +2135,10 @@
     <value>イバラ動力ステーション</value>
   </table_shipLog>
   <table_shipLog>
+    <key>Bramble Power StationI fired a scout through a bramble seed and it exited out of another somewhere.</key>
+    <value>イバラの種に偵察機を発射したところ、どこか別の場所に出た。</value>
+  </table_shipLog>
+  <table_shipLog>
     <key>Bramble Power StationA power station that uses Bramble Seeds to connect all locations on Dark Bramble to a power source.</key>
     <value>イバラの種を利用し、闇のイバラのすべての拠点を動力源に接続するステーション。</value>
   </table_shipLog>

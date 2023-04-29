@@ -2169,6 +2169,10 @@
     <value>荆棘动力站</value>
   </table_shipLog>
   <table_shipLog>
+    <key>Bramble Power StationI fired a scout through a bramble seed and it exited out of another somewhere.</key>
+    <value>我发射侦察兵穿过了黑棘种子，它从另外的地方出来了。</value>
+  </table_shipLog>
+  <table_shipLog>
     <key>Bramble Power StationA power station that uses Bramble Seeds to connect all locations on Dark Bramble to a power source.</key>
     <value>发电站使用黑棘种子将所有位置连接到电源。</value>
   </table_shipLog>
