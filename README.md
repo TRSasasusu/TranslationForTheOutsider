@@ -15,7 +15,7 @@ Next, install [Translation for The Outsider](https://outerwildsmods.com/mods/tra
 
 ## EN -> JA
 
-Completed!
+Completed! by me. (corrected by [@tekken8810](https://twitter.com/tekken8810), thank you.)
 
 ## EN -> pt-BR
 
