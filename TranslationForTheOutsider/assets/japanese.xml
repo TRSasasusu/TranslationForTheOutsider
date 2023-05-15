@@ -1263,7 +1263,7 @@
   </entry>
   <entry>
     <key>DATURA: ...A... while later... Friend wakes me up. ...I hugged them tightly, wanting to tell them I’m sorry... but looking over, I see: Friend’s ’still alive’ friends (whatever they meant by that).</key>
-    <value>DATURA:……しばらくして…Friendに起こされた。…悪かったと言いたくて、強く抱きしめたが…が、見渡すと:Friendの&lt;i&gt;まだ生きている&lt;/i&gt;友人たち(どういう意味なのかは知らないが)がいた。</value>
+    <value>DATURA:……しばらくして…Friendに起こされた。…悪かったと言いたくて、強く抱きしめた…が、見渡すと:Friendの&lt;i&gt;まだ生きている&lt;/i&gt;友人たち(どういう意味なのかは知らないが)がいた。</value>
   </entry>
   <entry>
     <key>DATURA: I’m just... worried I did something really bad. ...I didn’t intend to... I hope I can tell Friend-</key>
@@ -1938,6 +1938,10 @@
   <entry>
     <key>DATURA: Maybe... Brittle Hollow projection stone... C’mon... Please be there...</key>
     <value>DATURA:そう…脆い空洞のプロジェクションストーン…。頼む、そこにいてくれ…。</value>
+  </entry>
+  <entry>
+    <key>DATURA: ...BELLS!</key>
+    <value>DATURA:…BELLS！</value>
   </entry>
   <entry> <!-- here two line is the same as in PPH Bells stone -->
     <key>DATURA: Wait, let me just... Uh, can I be picked up and-</key>

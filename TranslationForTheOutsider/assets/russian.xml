@@ -2003,6 +2003,10 @@
     <key>DATURA: Maybe... Brittle Hollow projection stone... C’mon... Please be there...</key>
     <value>ДУРМАН: Надеюсь, что проекционный камень для связи с Пустотной Сферой у меня есть... Ну же... Пожалуйста, будь здесь...</value>
   </entry>
+  <entry>
+    <key>DATURA: ...BELLS!</key>
+    <value>ДУРМАН: ...Бадан!</value>
+  </entry>
   <entry> <!-- here two line is the same as in PPH Bells stone -->
     <key>DATURA: Wait, let me just... Uh, can I be picked up and-</key>
     <value>ДУРМАН: Подожди, дай мне... Можно ли меня забрать отсюда и...</value>
