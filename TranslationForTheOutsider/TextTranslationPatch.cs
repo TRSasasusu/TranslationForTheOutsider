@@ -147,13 +147,7 @@ namespace TranslationForTheOutsider {
 
                 if(_color_table_for_duplicate != null && _color_table_for_duplicate.ContainsKey(key_value.Key)) {
                     foreach(var duplicated_translated_key in _color_table_for_duplicate[key_value.Key]) {
-                        //TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"_color_table_for_duplicate[{key_value.Key}]: {_color_table_for_duplicate[key_value.Key]}");
-                        //TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"duplicated_translated_key: {duplicated_translated_key}");
-                        var prevText = text;
                         text = text.Replace(duplicated_translated_key, $"<color={key_value.Value}>{duplicated_translated_key.Replace("`", "")}</color>");
-                        if(text != prevText) {
-                            TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"new text: {text}");
-                        }
                     }
                 }
             }
