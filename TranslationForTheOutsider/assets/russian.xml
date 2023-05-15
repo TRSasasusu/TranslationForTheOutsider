@@ -3,43 +3,107 @@
   <!-- Color Table: Start -->
   <color_table>
     <key>Eye of the Universe</key>
-    <value>Eye of the Univers</value>
+    <value>Око Вселенной</value>
   </color_table>
   <color_table>
     <key>Eye</key>
-    <value>Eye</value>
+    <value>Око</value>
   </color_table>
   <color_table>
     <key>Brittle Hollow</key>
-    <value>Brittle Hollow</value>
+    <value>Пустотная Сфера</value>
+  </color_table>
+  <color_table>
+    <key>Brittle Hollow</key>
+    <value>Пустотную Сферу</value>
+  </color_table>
+  <color_table>
+    <key>Brittle Hollow</key>
+    <value>Пустотной Сфере</value>
+  </color_table>
+  <color_table>
+    <key>Brittle Hollow</key>
+    <value>Пустотной Сферы </value>
   </color_table>
   <color_table>
     <key>Ember Twin</key>
-    <value>Ember Twin</value>
+    <value>Час Угля</value>
+  </color_table>
+  <color_table>
+    <key>Ember Twin</key>
+    <value>Часе Угля</value>
+  </color_table>
+  <color_table>
+    <key>Ember Twin</key>
+    <value>Часа Угля</value>
   </color_table>
   <color_table>
     <key>Dark Bramble</key>
-    <value>Dark Bramble</value>
+    <value>Чёрный Терновник</value>
+  </color_table>
+  <color_table>
+    <key>Dark Bramble</key>
+    <value>Чёрный Терновнике</value>
+  </color_table>
+  <color_table>
+    <key>Dark Bramble</key>
+    <value>Чёрном Терновнике</value>
+  </color_table>
+  <color_table>
+    <key>Dark Bramble</key>
+    <value>Чёрного Терновника</value>
   </color_table>
   <color_table>
     <key>Vessel</key>
-    <value>Vessel</value>
+    <value>«Звездолёта»</value>
   </color_table>
   <color_table>
     <key>DATURA</key>
-    <value>DATURA</value>
+    <value>ДУРМАН</value>
   </color_table>
   <color_table>
     <key>Datura</key>
-    <value>Datura</value>
+    <value>Дурман</value>
   </color_table>
   <color_table>
     <key>FRIEND</key>
-    <value>FRIEND</value>
+    <value>ДРУГ</value>
   </color_table>
   <color_table>
     <key>Friend</key>
-    <value>Friend</value>
+    <value>Друг</value>
+  </color_table>
+  <color_table>
+    <key>SOLANUM</key>
+    <value>СОЛАНУМ</value>
+  </color_table>
+  <color_table>
+    <key>Solanum</key>
+    <value>Соланум</value>
+  </color_table>
+  <color_table>
+    <key>FILIX</key>
+    <value>ОСМУНДА</value>
+  </color_table>
+  <color_table>
+    <key>Filix</key>
+    <value>Осмундой</value>
+  </color_table>
+  <color_table>
+    <key>BELLS</key>
+    <value>БАДАН</value>
+  </color_table>
+  <color_table>
+    <key>Bells</key>
+    <value>Бадан</value>
+  </color_table>
+  <color_table>
+    <key>YARROW</key>
+    <value>МИЛЛЕ</value>
+  </color_table>
+  <color_table>
+    <key>Yarrow</key>
+    <value>Милле</value>
   </color_table>
   <!-- Color Table: End -->
   <!-- Disc Table: Start -->
@@ -1635,11 +1699,11 @@
   </entry>
   <entry>
     <key>YARROW: Oh... #####. Hypothesis: Our failure with the Sun Station ##### you here to ridicule me.</key>
-    <value>&lt;color=#ffff00&gt;Милле&lt;/color&gt;: О... ##### Предположение: наша неудача с &lt;color=orange&gt;солнечной станцией&lt;/color&gt; ##### тебя сюда, чтобы высмеять меня.</value>
+    <value>&lt;color=#ffff00&gt;МИЛЛЕ&lt;/color&gt;: О... ##### Предположение: наша неудача с &lt;color=orange&gt;солнечной станцией&lt;/color&gt; ##### тебя сюда, чтобы высмеять меня.</value>
   </entry>
   <entry>
     <key>YARROW: Oh... hello. Hypothesis: Our failure with the Sun Station brought you here to ridicule me.</key>
-    <value>&lt;color=#ffff00&gt;Милле&lt;/color&gt;: О... привет. Предположение: наша неудача с &lt;color=orange&gt;солнечной станцией&lt;/color&gt; привела тебя сюда, чтобы высмеять меня.</value>
+    <value>&lt;color=#ffff00&gt;МИЛЛЕ&lt;/color&gt;: О... привет. Предположение: наша неудача с &lt;color=orange&gt;солнечной станцией&lt;/color&gt; привела тебя сюда, чтобы высмеять меня.</value>
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Uh... Hypothesis: ##### would be beneficial to you both if neither of you called each other anymore.</key>

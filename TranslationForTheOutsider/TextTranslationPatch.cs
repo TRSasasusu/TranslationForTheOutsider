@@ -14,6 +14,7 @@ namespace TranslationForTheOutsider {
     public static class TextTranslationPatch {
         static bool _no_postfix_translate;
         static Dictionary<string, string> _color_table;
+        static Dictionary<string, List<string>> _color_table_for_duplicate;
         static Dictionary<string, string> _disc_table;
         static string _bramble_power_station;
 
@@ -21,6 +22,7 @@ namespace TranslationForTheOutsider {
         [HarmonyPatch(typeof(TextTranslation), nameof(TextTranslation.SetLanguage))]
         public static void TextTranslation_SetLanguage_Postfix(ref TextTranslation.Language lang, TextTranslation __instance) {
             _color_table = null;
+            _color_table_for_duplicate = null;
             _disc_table = null;
             _bramble_power_station = null;
 
@@ -64,7 +66,19 @@ namespace TranslationForTheOutsider {
             foreach(XmlNode node in translationTableNode.SelectNodes("color_table")) {
                 var key = node.SelectSingleNode("key").InnerText;
                 var value = node.SelectSingleNode("value").InnerText;
-                _color_table[key] = value;
+
+                if(_color_table.ContainsKey(key)) {
+                    if(_color_table_for_duplicate == null) {
+                        _color_table_for_duplicate = new Dictionary<string, List<string>>();
+                    }
+                    if (!_color_table_for_duplicate.ContainsKey(key)) {
+                        _color_table_for_duplicate[key] = new List<string>();
+                    }
+                    _color_table_for_duplicate[key].Add(value);
+                }
+                else {
+                    _color_table[key] = value;
+                }
             }
 
             _disc_table = new Dictionary<string, string>();
@@ -130,6 +144,18 @@ namespace TranslationForTheOutsider {
                 }
                 var translated_key = _color_table[key_value.Key];
                 text = text.Replace(translated_key, $"<color={key_value.Value}>{translated_key.Replace("`", "")}</color>");
+
+                if(_color_table_for_duplicate != null && _color_table_for_duplicate.ContainsKey(key_value.Key)) {
+                    foreach(var duplicated_translated_key in _color_table_for_duplicate[key_value.Key]) {
+                        //TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"_color_table_for_duplicate[{key_value.Key}]: {_color_table_for_duplicate[key_value.Key]}");
+                        //TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"duplicated_translated_key: {duplicated_translated_key}");
+                        var prevText = text;
+                        text = text.Replace(duplicated_translated_key, $"<color={key_value.Value}>{duplicated_translated_key.Replace("`", "")}</color>");
+                        if(text != prevText) {
+                            TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"new text: {text}");
+                        }
+                    }
+                }
             }
 
             if (text.Contains("#####")) { // this code is from https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/blob/17149bad3786f9aa68aed9eaf8ec94e62ee5ba7e/TheOutsider/OuterWildsHandling/OWPatches.cs#L136
