@@ -37,6 +37,9 @@
     <None Update="assets\portuguese_br.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="assets\russian.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="assets\spanish_la.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
