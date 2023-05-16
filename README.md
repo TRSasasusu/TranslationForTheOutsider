@@ -33,6 +33,8 @@ Some texts of Feldspar and Gabbro have not been translated yet. (Fixing it is we
 
 Completed! Thank you, [@Korol2038](https://github.com/Korol2038). (See [#3](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/3))
 
+Corrected by [@Svetaleet](https://github.com/Svetaleet), thank you. (See [#4](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/4))
+
 ## Other Languages
 
 Please make `TranslationForTheOutsider/assets/<language>.xml` and its pull requests (or an issue). I will add it into next releases.
