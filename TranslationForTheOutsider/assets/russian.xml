@@ -55,7 +55,7 @@
   </color_table>
   <color_table>
     <key>Vessel</key>
-    <value>«Звездолёта»</value>
+    <value>«Звездолета»</value>
   </color_table>
   <color_table>
     <key>DATURA</key>
@@ -551,7 +551,7 @@
   </entry>
   <entry>
     <key>DATURA: Couldn’t have done it without you Friend! (And your ship!)</key>
-    <value>ДУРМАН: У меня бы ничего не получилось без твоей помощи, &lt;color=#00ff00&gt;Друг&lt;/color&gt;. И твоего корабля.</value>
+    <value>ДУРМАН: У меня бы ничего не получилось без твоей помощи, &lt;color=#00ff00&gt;Друг&lt;/color&gt;. И без твоего корабля.</value>
   </entry>
   <entry>
     <key>DATURA: These seed things are great! Saved having to build giant long cables everywhere.</key>
@@ -703,7 +703,7 @@
   </entry>
   <entry>
     <key>SOLANUM: Nooooooo! ...oh! I just remembered! I wanted to ask you about some things... The Eye? What is it? I keep hearing about it.</key>
-    <value>СОЛАНУМ: Ну неееет! ...Ой! Я только что вспомнила! Давно хотела спросить тебя кое о чём... Око? Что это такое? Я постоянно слышу о нём.</value>
+    <value>СОЛАНУМ: Ну нееееет! ...Ой! Я только что вспомнила! Давно хотела спросить тебя кое о чём... Око? Что это такое? Я постоянно слышу о нём.</value>
   </entry>
   <entry>
     <key>DATURA: Oh, uh. Right. Well, let’s see... Filix detected a signal on the Vessel - a signal from something older than the universe. Spooky. And we can’t find the signal anymore, so... I mean that’s it really.</key>
@@ -965,7 +965,7 @@
   </entry>
   <entry>
     <key>DATURA: Unless you want to jump down from orbit, Lami, I think I’ve won this game!</key>
-    <value>ДУРМАН: Посмотрим, рискнёт ли кто-то спрыгнуть с орбиты! Если, конечно, догадается...</value>
+    <value>ДУРМАН: Посмотрим, рискнёт ли кто-нибудь спрыгнуть с орбиты! Если, конечно, догадается...</value>
   </entry>
   <!-- Top of Tower: End -->
   <!-- Bramble Village: Misc: Start -->
@@ -1031,11 +1031,11 @@
   </entry>
   <entry>
     <key>FRIEND: For you. From Friend.</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Тебе. От &lt;color=#00ff00&gt;Друга&lt;/color&gt;.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Это тебе. От &lt;color=#00ff00&gt;Друга&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>DATURA: -record this. Hypothesis: I’ll need to listen back on this. So: You’re STILL looking for the Eye?</key>
-    <value>ДУРМАН: <![CDATA[<i>]]>Предположение: мне нужно будет прослушать это потом повторно, включаю запись.<![CDATA[</i>]]> Итак, вы всё ещё ищите Око?</value>
+    <value>ДУРМАН: <![CDATA[<i>]]>Предположение: мне нужно будет прослушать это потом повторно, включаю запись.<![CDATA[</i>]]> ...Итак, вы всё ещё ищите Око?</value>
   </entry>
   <entry>
     <key>YARROW: ...Please... I really don’t enjoy arguments...</key>
@@ -1207,7 +1207,7 @@
   <!-- Bramble Village: Both Eye: Start -->
   <entry>
     <key>DATURA: Friend and I have been discussing the Eye, to try to figure out its deal.</key>
-    <value>ДУРМАН: Мы решили обсудить Око с &lt;color=#00ff00&gt;Другом&lt;/color&gt;, пытаясь понять, в чем его суть.</value>
+    <value>ДУРМАН: Мы решили обсудить Око с &lt;color=#00ff00&gt;Другом&lt;/color&gt;, пытаясь понять его суть.</value>
   </entry>
   <entry>
     <key>DATURA: So! It is older than the universe, and someone from Friend’s clan had a vision showing it would destroy the universe, if anyone touched it or whatever.</key>
@@ -1223,7 +1223,7 @@
   </entry>
   <entry>
     <key>FRIEND: ...but does this not mean that blocking the Eye’s signal is wrong?</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Не значит ли это, что блокировка сигнал Ока было ошибочным решением?</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Не значит ли это, что блокировка сигнала Ока была ошибочным решением?</value>
   </entry>
   <entry>
     <key>DATURA: Hmm... that’s difficult to answer. You wouldn’t want the location of the universe reset button being blasted for all to hear, would you?</key>
@@ -1925,7 +1925,7 @@
   </entry>
   <entry>
     <key>DATURA: I think they were given (if they ever did wish to leave) schematics on how to build various kinds of spacecraft and machines, as is customary when encountering a pre-interstellar species.</key>
-    <value>ДУРМАН: ...Однако я не уверен, является ли хорошей идеей предоставление той или иной цивилизации технологий, к которым они пока что могут быть не готовы. ...Создатели кольцевого мира потом горько жалели о своём поступке.</value>
+    <value>ДУРМАН: ...Однако я не уверен, является ли хорошей идеей предоставление той или иной цивилизации технологий, к которым они пока что могут быть не готовы. ...Если подумать, то создатели кольцевого мира потом горько жалели о своём поступке.</value>
   </entry>
   <entry>
     <key>DATURA: ...However, I don’t know if launching civilizations several centuries worth of technological innovation forward (before they are ready for it) is a good idea.</key>
@@ -2252,7 +2252,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Hunting BlindDatura found the remains of the Nomai of Escape Pod 3, and his clan’s leader, Escall.</key>
-    <value>Дурман нашёл останки номаи из &lt;color=orange&gt;спасательной капсулы 3&lt;/color&gt; и лидера его клана, Эскалла.</value>
+    <value>Дурман нашёл останки номаи из спасательной капсулы 3 и лидера их клана, Эскалла.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherDatura landed on Dark Bramble in a shuttle, which he didn’t know what to do with.</key>
@@ -2280,7 +2280,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool HouseDatura built a projection pool on an island west of his landing site to be able to talk to his wife and daughter.</key>
-    <value>Дурман построил проекционный бассейн на острове к западу от места приземления, чтобы иметь возможность разговаривать с супругой и дочерью.</value>
+    <value>Дурман построил проекционный бассейн на острове к западу от места приземления, чтобы иметь возможность разговаривать с супругой и с дочерью.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool HouseDatura tried to leave Dark Bramble, but both shuttles were in use at that time.</key>
@@ -2320,7 +2320,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Top of the TowerI can see a wall with Nomai text through the window.</key>
-    <value>Сквозь окно я вижу стену с текстом номаи.</value>
+    <value>Сквозь окно я смог увидеть стену с текстом номаи.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Top of the TowerDatura added a second security measure to his Observatory. The door will remain shut if another space ship is on Dark Bramble’s surface.</key>
@@ -2388,11 +2388,11 @@
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureDatura was curious what Friend was hiding from him and sneaked here. He found an artifact and green fire, tripped and knocked himself out, awaking on what appeared to be a different planet.</key>
-    <value>Дурману было любопытно, что скрывает от него Друг, и он пробрался в убежище. Дурман подобрал артефакт, но споткнулся возле зелёного огня, потерял сознание и очнулся в другом месте.</value>
+    <value>Дурману было любопытно, что скрывает от него Друг, и он пробрался в убежище. Дурман подобрал артефакт, но споткнулся возле зелёного огня, потерял сознание и очнулся где-то в другом месте.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureDatura came across Friend’s elders, and accidentally rang an alarm bell which woke one up.</key>
-    <value>Дурман наткнулся на колодец и случайно активировал охранную статую, что разозлило местных обитателей.</value>
+    <value>Своими действиями Дурман непреднамеренно разозлил местных обитателей.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureHe was awoken by Friend, with some others having arrived on Dark Bramble.</key>
@@ -2444,7 +2444,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Northern ObservatoryAt his projection pool, Datura attempted to warn the others of the Interloper, but they already knew about it.</key>
-    <value>В «Центр связи» Дурман попытался предупредить остальных о комете. Но они уже знали о ней.</value>
+    <value>В «Центре связи» Дурман попытался предупредить остальных о комете. Но они уже знали о ней.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Northern ObservatoryDatura was able to get Solanum to be at the Quantum Moon’s sixth location as the Interloper arrived.</key>
@@ -2456,6 +2456,6 @@
   </table_shipLog>
   <table_shipLog>
     <key>Eye of the UniverseIf you are reading this, I assume you have gotten inside the Northern Observatory and have seen the new ending at the Eye. Thank you so much for playing The Outsider! I hope you enjoyed it!</key>
-    <value>Если вы читаете это, то я предполагаю, что вы попали внутрь Северной обсерватории и видели новую концовку в Оке. Большое спасибо за игру в «Outsider»! Надеюсь, вам понравилось!</value>
+    <value>Если вы читаете это, то я предполагаю, что вы попали внутрь Северной обсерватории и видели новую концовку в Оке. Большое спасибо за игру в «The Outsider»! Надеюсь, вам понравилось!</value>
   </table_shipLog>
 </TranslationTable_XML>
