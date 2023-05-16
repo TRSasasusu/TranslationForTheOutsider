@@ -4,7 +4,7 @@ This repository is designed as a UNIVERSAL translation addon for [The Outsider m
 
 The sample is here: [English Slate](fig/screenshot_slate_english.png) -> [Japanese Slate](fig/screenshot_slate_japanese.png) (this is a SPOILER, so I don't display these images directly ;;) )
 
-Now, Japanese translation, Brazilian Portuguese translation, and Chinese translation are available;
+Now, JA, pt-BR, zh-CN and RU are available;
 **Making other language translation is welcoming!** Please read [Other Languages](#other-languages) for details.
 
 ## Installation
@@ -28,6 +28,10 @@ Mostly completed based on [TheOutsider_CN](https://github.com/nice2cu1/TheOutsid
 For Chinese translation, installing [Outer Wilds Chinese Fix](https://outerwildsmods.com/mods/outerwildschinesefix/) is recommended.
 
 Some texts of Feldspar and Gabbro have not been translated yet. (Fixing it is welcome!)
+
+## EN -> RU
+
+Completed! Thank you, [@Korol2038](https://github.com/Korol2038). (See [#3](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/3))
 
 ## Other Languages
 
