@@ -461,19 +461,19 @@
   <!-- Secret Poem: Start -->
   <entry>
     <key>FRIEND: Failure of communication,</key>
-    <value>AMI : Défaut de communication,</value>
+    <value>AMI: Défaut de communication,</value>
   </entry>
   <entry>
     <key>FRIEND: Made worse by long duration.</key>
-    <value>AMI : Aggravé par une longue durée.</value>
+    <value>AMI: Aggravé par une longue durée.</value>
   </entry>
   <entry>
     <key>FRIEND: In our minds, meaning of words undergo mutation,</key>
-    <value>AMI : Dans notre esprit, le sens des mots subit des mutations,</value>
+    <value>AMI: Dans notre esprit, le sens des mots subit des mutations,</value>
   </entry>
   <entry>
     <key>FRIEND: Until we live in worlds of fabrication.</key>
-    <value>AMI : Jusqu'à ce que nous vivions dans des mondes de fabrication.</value>
+    <value>AMI: Jusqu'à ce que nous vivions dans des mondes de fabrication.</value>
   </entry>
   <!-- Secret Poem: End (You can check hidden meaning of this poem in `darkbundle` file.) -->
   <!-- Bramble Station: Start -->
@@ -483,7 +483,7 @@
   </entry>
   <entry>
     <key>DATURA: Couldn’t have done it without you Friend! (And your ship!)</key>
-    <value>DATURA : Je n'aurais pas pu le faire sans toi, mon ami ! (Et ton vaisseau !)</value>
+    <value>DATURA : Je n'aurais pas pu le faire sans toi, mon Ami ! (Et ton vaisseau !)</value>
   </entry>
   <entry>
     <key>DATURA: These seed things are great! Saved having to build giant long cables everywhere.</key>
@@ -597,7 +597,7 @@
   </entry>
   <entry>
     <key>DATURA: Friend asked why I've written and am writing my thoughts and leaving them around the place. I told them it's kinda a Nomai thing.</key>
-    <value>DATURA: Des amis m'ont demandé pourquoi j'écrivais et j'écris toujours mes pensées et les laisse un peu partout. Je leur ai dit que c'était une sorte de truc Nomai.</value>
+    <value>DATURA: Ami m'ont demandé pourquoi j'écrivais et j'écris toujours mes pensées et les laisse un peu partout. Je leur ai dit que c'était une sorte de truc Nomai.</value>
   </entry>
   <entry>
     <key>DATURA: Nomai are <![CDATA[<i>]]>(or are supposed to be)<![CDATA[</i>]]> nomads, so I suppose it's a way of telling other Nomai clans ’HA HA! We were here first!’</key>
@@ -613,11 +613,11 @@
   </entry>
   <entry>
     <key>DATURA: Friend was a bit confused why I wasn't using the device again, but I assured them I knew what I was doing. We waited... and waited... then, bang! Their ship exploded too. Then they understood.</key>
-    <value>DATURA: L'ami s'est demandé pourquoi je n'utilisais plus l'appareil, mais je lui ai assuré que je savais ce que je faisais. Nous avons attendu... et attendu... puis, bang ! Leur vaisseau a explosé aussi. Ils ont alors compris.</value>
+    <value>DATURA: L'Ami s'est demandé pourquoi je n'utilisais plus l'appareil, mais je lui ai assuré que je savais ce que je faisais. Nous avons attendu... et attendu... puis, bang ! Leur vaisseau a explosé aussi. Ils ont alors compris.</value>
   </entry>
   <entry>
     <key>DATURA: Friend used to go off to their clan occasionally. Perhaps building a house here made it so they don't need to? Anyway, I'm glad you're here, Friend.</key>
-    <value>DATURA: Les amis avaient l'habitude d'aller dans leur clan de temps en temps. Peut-être qu'en construisant une maison ici, ils n'en ont plus besoin ? Quoi qu'il en soit, je suis heureux que tu sois là, Ami.</value>
+    <value>DATURA: Ami avaient l'habitude d'aller dans leur clan de temps en temps. Peut-être qu'en construisant une maison ici, ils n'en ont plus besoin ? Quoi qu'il en soit, je suis heureux que tu sois là, Ami.</value>
   </entry>
   <!-- Shuttle Crusher: Crush Ship of Friend: End -->
   <!-- Shuttle Crusher: Call to Solanum: Start -->
@@ -917,15 +917,15 @@
   </entry>
   <entry>
     <key>FRIEND: This is home.</key>
-    <value>AMI : C'est chez nous.</value>
+    <value>AMI: C'est chez nous.</value>
   </entry>
   <entry>
     <key>FRIEND: Feeling lost. I did not finish it. This is good enough.</key>
-    <value>AMI : Je me sens perdu. Je n'ai pas terminé. C'est suffisant.</value>
+    <value>AMI: Je me sens perdu. Je n'ai pas terminé. C'est suffisant.</value>
   </entry>
   <entry>
     <key>FRIEND: Curious star system here. More curious beings. I wish others were not decayed, and could meet you.</key>
-    <value>AMIGO: AMI : Curieux système stellaire ici. Des êtres plus curieux les uns que les autres. J'aimerais que d'autres ne soient pas décomposés et qu'ils puissent vous rencontrer.</value>
+    <value>AMI: Curieux système stellaire ici. Des êtres plus curieux les uns que les autres. J'aimerais que d'autres ne soient pas décomposés et qu'ils puissent vous rencontrer.</value>
   </entry>
   <entry>
     <key>DATURA: This thing we have going is... going quite well, I think!</key>
@@ -933,7 +933,7 @@
   </entry>
   <entry>
     <key>DATURA: I teach Friend the Nomai language so we can talk to each other, and they teach me art, as it appears to be very important to their species.</key>
-    <value>DATURA: J'enseigne à Friend la langue Nomai pour que nous puissions nous parler, et ils m'enseignent l'art, qui semble être très important pour leur espèce.</value>
+    <value>DATURA: J'enseigne à Ami la langue Nomai pour que nous puissions nous parler, et ils m'enseignent l'art, qui semble être très important pour leur espèce.</value>
   </entry>
   <entry>
     <key>DATURA: Though, judging by my painting here, I have a lot to learn!</key>
@@ -941,7 +941,7 @@
   </entry>
   <entry>
     <key>FRIEND: Talking is hard for me same. Not only you learning!</key>
-    <value>AMI : Moi aussi, j'ai du mal à parler. Tu n'es pas le seul à apprendre !</value>
+    <value>AMI: Moi aussi, j'ai du mal à parler. Tu n'es pas le seul à apprendre !</value>
   </entry>
   <entry>
     <key>DATURA: Does one have a lot to learn, or does another have a lot to teach?</key>
@@ -949,7 +949,7 @@
   </entry>
   <entry>
     <key>FRIEND: What?</key>
-    <value>AMI : Quoi ?</value>
+    <value>AMI: Quoi ?</value>
   </entry>
   <!-- Bramble Village: Art House: End -->
   <!-- Bramble Village: Datura House: Start -->
@@ -959,11 +959,11 @@
   </entry>
   <entry>
     <key>FRIEND: Found quantum rock in ice!</key>
-    <value>AMI : J'ai trouvé une pierre quantique dans la glace !</value>
+    <value>AMI: J'ai trouvé une pierre quantique dans la glace !</value>
   </entry>
   <entry>
     <key>FRIEND: For you. From Friend.</key>
-    <value>AMI : Pour vous. De l'ami.</value>
+    <value>AMI: Pour vous. De l'Ami.</value>
   </entry>
   <entry>
     <key>DATURA: -record this. Hypothesis: I’ll need to listen back on this. So: You’re STILL looking for the Eye?</key>
@@ -1057,7 +1057,7 @@
   <!-- Bramble Village: Friend House: Start -->
   <entry>
     <key>Friend's House</key>
-    <value>Maison d'un ami</value>
+    <value>Maison d'un Ami</value>
   </entry>
   <entry>
     <key>DATURA: Here’s a... little model of Dark Bramble, I made for you (if you want it). From Datura.</key>
@@ -1083,15 +1083,15 @@
   </entry>
   <entry>
     <key>DATURA: Friend revealed to me a disturbing discovery their clan made: the Eye DESTROYS THE ENTIRE UNIVERSE when interacting with it.</key>
-    <value>DATURA: Un ami m'a révélé une découverte troublante faite par son clan : l'Œil DÉTRUIT TOUT L'UNIVERS lorsqu'on interagit avec lui.</value>
+    <value>DATURA: Ami m'a révélé une découverte troublante faite par son clan : l'Œil DÉTRUIT TOUT L'UNIVERS lorsqu'on interagit avec lui.</value>
   </entry>
   <entry>
     <key>DATURA: Friend’s... other friend deeply believed the Eye was good, and wrote off this discovery, disabling their Eye Signal Blocker thing.</key>
-    <value>DATURA: L'autre ami d'un ami croyait fermement que l'œil était bon et a ignoré cette découverte, désactivant leur dispositif de blocage du signal de l'œil.</value>
+    <value>DATURA: L'autre ami d'un Ami croyait fermement que l'œil était bon et a ignoré cette découverte, désactivant leur dispositif de blocage du signal de l'œil.</value>
   </entry>
   <entry>
     <key>DATURA: Fortunately, it was reactivated, and he was locked away in a vault or something. Friend says he had good intentions, but...</key>
-    <value>DATURA: Heureusement, elle a été réactivée et il a été enfermé dans une chambre forte ou quelque chose comme ça. Son ami dit qu'il avait de bonnes intentions, mais...</value>
+    <value>DATURA: Heureusement, elle a été réactivée et il a été enfermé dans une chambre forte ou quelque chose comme ça. Son Ami dit qu'il avait de bonnes intentions, mais...</value>
   </entry>
   <entry>
     <key>DATURA: ...that brief signal he released. Filix heard it. Escall ordered the warp and now... we’re all trapped here, because of him. ...Good intentions aren’t good enough.</key>
@@ -1099,55 +1099,55 @@
   </entry>
   <entry>
     <key>DATURA: Sometimes... I wish I could be like Friend and... Yarrow, and just be able to see the Eye how they see it... Why am I the only one not interested in it? Is there... something wrong with me?</key>
-    <value>DATURA: Parfois... J'aimerais être comme Friend et... Yarrow, et être capable de voir l'Oeil comme ils le voient... Pourquoi suis-je la seule à ne pas m'y intéresser ? Y a-t-il quelque chose qui ne va pas chez moi ?</value>
+    <value>DATURA: Parfois... J'aimerais être comme Ami et... Yarrow, et être capable de voir l'Oeil comme ils le voient... Pourquoi suis-je la seule à ne pas m'y intéresser ? Y a-t-il quelque chose qui ne va pas chez moi ?</value>
   </entry>
   <!-- Bramble Village: Datura Eye: End -->
   <!-- Bramble Village: Friend Eye: Start -->
   <entry>
     <key>FRIEND: The Eye. On first discovery, all was known was it was older than the universe. Similar to Nomai, us curious beings made a big sacrifice to reach it.</key>
-    <value>AMIGO: L'œil. Lors de sa première découverte, tout ce que l'on savait, c'est qu'il était plus vieux que l'univers. Comme pour Nomai, nous, les êtres curieux, avons fait un grand sacrifice pour l'atteindre.</value>
+    <value>AMI: L'œil. Lors de sa première découverte, tout ce que l'on savait, c'est qu'il était plus vieux que l'univers. Comme pour Nomai, nous, les êtres curieux, avons fait un grand sacrifice pour l'atteindre.</value>
   </entry>
   <entry>
     <key>FRIEND: During the journey, a big known theory on our ’Vessel’ (as Datura would say) was the Eye created this universe.</key>
-    <value>AMIGO: Pendant le voyage, une grande théorie connue sur notre "Vaisseau" (comme dirait Datura) était que l'Œil a créé cet univers.</value>
+    <value>AMI: Pendant le voyage, une grande théorie connue sur notre "Vaisseau" (comme dirait Datura) était que l'Œil a créé cet univers.</value>
   </entry>
   <entry>
     <key>FRIEND: Suppose this was not the first time. Hypothesis: could the Eye create the universe again every time it dies?</key>
-    <value>AMIGO: Supposons que ce ne soit pas la première fois. Hypothèse : l'Œil pourrait-il recréer l'univers à chaque fois qu'il meurt ?</value>
+    <value>AMI: Supposons que ce ne soit pas la première fois. Hypothèse : l'Œil pourrait-il recréer l'univers à chaque fois qu'il meurt ?</value>
   </entry>
   <entry>
     <key>FRIEND: Once we arrived at the Eye... One saw a vision of it destroying the universe after one interacts with it.</key>
-    <value>AMIGO: Une fois arrivé à l'Oeil... On a vu qu'il détruisait l'univers après avoir interagi avec lui.</value>
+    <value>AMI: Une fois arrivé à l'Oeil... On a vu qu'il détruisait l'univers après avoir interagi avec lui.</value>
   </entry>
   <entry>
     <key>FRIEND: Most were horrified and devastated - their new purpose became hiding the Eye away to protect our universe.</key>
-    <value>AMIGO: La plupart d'entre eux ont été horrifiés et dévastés - leur nouvelle mission a consisté à cacher l'Œil pour protéger notre univers.</value>
+    <value>AMI: La plupart d'entre eux ont été horrifiés et dévastés - leur nouvelle mission a consisté à cacher l'Œil pour protéger notre univers.</value>
   </entry>
   <entry>
     <key>FRIEND: My other friend and I did not believe the Eye was to be feared. We still believe it is a creator. Suppose the vision was misinterpreted, or wrong, or unfinished?</key>
-    <value>AMIGO: Mon autre ami et moi ne pensions pas que l'Œil devait être craint. Nous croyons toujours qu'il s'agit d'un créateur. Supposons que la vision ait été mal interprétée, ou erronée, ou inachevée ?</value>
+    <value>AMI: Mon autre ami et moi ne pensions pas que l'Œil devait être craint. Nous croyons toujours qu'il s'agit d'un créateur. Supposons que la vision ait été mal interprétée, ou erronée, ou inachevée ?</value>
   </entry>
   <entry>
     <key>FRIEND: The others had been burnt on the inside, and did not wish to be burnt again, so they ignored us, and told us to move on and stop ’holding onto the past’...</key>
-    <value>AMI : Les autres avaient été brûlés à l'intérieur et ne voulaient pas l'être à nouveau. Ils nous ont donc ignorés et nous ont dit d'aller de l'avant et d'arrêter de "nous accrocher au passé"...</value>
+    <value>AMI: Les autres avaient été brûlés à l'intérieur et ne voulaient pas l'être à nouveau. Ils nous ont donc ignorés et nous ont dit d'aller de l'avant et d'arrêter de "nous accrocher au passé"...</value>
   </entry>
   <entry>
     <key>FRIEND: I know it in my heart: the Eye is good. I believe there is more to its story than they wish to know.</key>
-    <value>AMIGO: Je le sais au fond de moi : l'œil est bon. Je crois qu'il y a plus dans son histoire que ce qu'ils veulent savoir.</value>
+    <value>AMI: Je le sais au fond de moi : l'œil est bon. Je crois qu'il y a plus dans son histoire que ce qu'ils veulent savoir.</value>
   </entry>
   <!-- Bramble Village: Friend Eye: End -->
   <!-- Bramble Village: Both Eye: Start -->
   <entry>
     <key>DATURA: Friend and I have been discussing the Eye, to try to figure out its deal.</key>
-    <value>DATURA: Un ami et moi avons discuté de l'Œil, pour essayer de comprendre ce qui se passe.</value>
+    <value>DATURA: Ami et moi avons discuté de l'Œil, pour essayer de comprendre ce qui se passe.</value>
   </entry>
   <entry>
     <key>DATURA: So! It is older than the universe, and someone from Friend’s clan had a vision showing it would destroy the universe, if anyone touched it or whatever.</key>
-    <value>DATURA: Il est donc plus vieux que l'univers, et quelqu'un du clan de l'ami a eu une vision montrant qu'il détruirait l'univers si quelqu'un le touchait ou quoi que ce soit d'autre.</value>
+    <value>DATURA: Il est donc plus vieux que l'univers, et quelqu'un du clan de l'Ami a eu une vision montrant qu'il détruirait l'univers si quelqu'un le touchait ou quoi que ce soit d'autre.</value>
   </entry>
   <entry>
     <key>FRIEND: But one has to wonder how this universe was created then, if the Eye destroyed the previous universe? Perhaps it also created this one?</key>
-    <value>AMI : Mais on peut se demander comment cet univers a été créé, si l'Œil a détruit l'univers précédent ? Peut-être a-t-il aussi créé celui-ci ?</value>
+    <value>AMI: Mais on peut se demander comment cet univers a été créé, si l'Œil a détruit l'univers précédent ? Peut-être a-t-il aussi créé celui-ci ?</value>
   </entry>
   <entry>
     <key>DATURA: Yarrow and the others believe the Eye is quantum, so, if that’s true, I suppose it would be fitting for the Eye to be in a superposition of both good and bad, eh?</key>
@@ -1155,7 +1155,7 @@
   </entry>
   <entry>
     <key>FRIEND: ...but does this not mean that blocking the Eye’s signal is wrong?</key>
-    <value>AMI : ...mais cela ne signifie-t-il pas que bloquer le signal de l'œil est une erreur ?</value>
+    <value>AMI: ...mais cela ne signifie-t-il pas que bloquer le signal de l'œil est une erreur ?</value>
   </entry>
   <entry>
     <key>DATURA: Hmm... that’s difficult to answer. You wouldn’t want the location of the universe reset button being blasted for all to hear, would you?</key>
@@ -1163,7 +1163,7 @@
   </entry>
   <entry>
     <key>FRIEND: Well, we can not keep it locked it away either because we are afraid to die, so-.</key>
-    <value>AMI : Nous ne pouvons pas non plus l'enfermer parce que nous avons peur de mourir, alors...</value>
+    <value>AMI: Nous ne pouvons pas non plus l'enfermer parce que nous avons peur de mourir, alors...</value>
   </entry>
   <entry>
     <key>DATURA: I’m not afraid to die - death is just extremely uninteresting to me. And this universe isn’t over yet. So, let’s not be afraid to live, now, Friend.</key>
@@ -1207,7 +1207,7 @@
   <!-- Sealed Structure: Inside: Start -->
   <entry>
     <key>DATURA: ...Okay... recording now... I’m keeping quiet because... some ’friends’ are here... talking with Friend.</key>
-    <value>DATURA: ...Ok... enregistrement maintenant... Je me tais parce que... des "amis" sont ici... en train de parler avec Friend.</value>
+    <value>DATURA: ...Ok... enregistrement maintenant... Je me tais parce que... des "amis" sont ici... en train de parler avec Ami.</value>
   </entry>
   <entry>
     <key>DATURA: So... I need to process what I just went through...</key>
@@ -1227,7 +1227,7 @@
   </entry>
   <entry>
     <key>DATURA: I woke up (or started dreaming?) almost immediately in... Friend’s house. ...but it wasn’t Friend’s house. It was a... copy... on some other planet, with a ringed planet in the sunsetting sky.</key>
-    <value>DATURA: Je me suis réveillé (ou j'ai commencé à rêver ?) presque immédiatement dans... la maison de mon ami. ...mais ce n'était pas la maison de mon ami. C'était une... copie... sur une autre planète, avec une planète annelée dans le ciel au coucher du soleil.</value>
+    <value>DATURA: Je me suis réveillé (ou j'ai commencé à rêver ?) presque immédiatement dans... la maison de mon Ami. ...mais ce n'était pas la maison de mon Ami. C'était une... copie... sur une autre planète, avec une planète annelée dans le ciel au coucher du soleil.</value>
   </entry>
   <entry>
     <key>DATURA: It weirded me out, so I exited, and walked across a bridge into another building where... there were a lot of Friend’s elders.</key>
@@ -1259,11 +1259,11 @@
   </entry>
   <entry>
     <key>DATURA: ...A... while later... Friend wakes me up. ...I hugged them tightly, wanting to tell them I’m sorry... but looking over, I see: Friend’s ’still alive’ friends (whatever they meant by that).</key>
-    <value>DATURA: ...Un... moment plus tard... Un ami me réveille. ...Je les ai serrés fort dans mes bras, voulant leur dire que j'étais désolé... mais en regardant, j'ai vu : Les amis "encore en vie" de mon ami (quoi qu'ils aient voulu dire par là).</value>
+    <value>DATURA: ...Un... moment plus tard... Ami me réveille. ...Je les ai serrés fort dans mes bras, voulant leur dire que j'étais désolé... mais en regardant, j'ai vu : Les amis "encore en vie" de mon Ami (quoi qu'ils aient voulu dire par là).</value>
   </entry>
   <entry>
     <key>DATURA: I’m just... worried I did something really bad. ...I didn’t intend to... I hope I can tell Friend-</key>
-    <value>DATURA: Je suis juste... inquiet d'avoir fait quelque chose de vraiment mal. ...Je n'avais pas l'intention de... J'espère pouvoir le dire à Friend...</value>
+    <value>DATURA: Je suis juste... inquiet d'avoir fait quelque chose de vraiment mal. ...Je n'avais pas l'intention de... J'espère pouvoir le dire à Ami...</value>
   </entry>
   <entry>
     <key>DATURA: Uh... One of them is... approaching me. ...uh, hello there? Is that a projection-</key>
@@ -1281,15 +1281,15 @@
   <!-- Sealed Structure: Inside from Friend: Start -->
   <entry>
     <key>FRIEND: ...Goodbye, friends. ...This will be my home for a little while, it seems. ...Oh, Datura, Datura. Getting yourself into trouble as always! Hahaha.</key>
-    <value>AMIGO: ...Au revoir, mes amis. ...Il semblerait que ce soit ma maison pour un petit moment. ...Oh, Datura, Datura. Vous vous mettez toujours dans le pétrin ! Hahaha.</value>
+    <value>AMI: ...Au revoir, mes amis. ...Il semblerait que ce soit ma maison pour un petit moment. ...Oh, Datura, Datura. Vous vous mettez toujours dans le pétrin ! Hahaha.</value>
   </entry>
   <entry>
     <key>FRIEND: I hope he knows I am not mad at him. My friends are just attempting to appease our decayed elders (who have decided this).</key>
-    <value>AMIGO: J'espère qu'il sait que je ne lui en veux pas. Mes amis tentent simplement d'apaiser nos aînés décatis (qui ont pris cette décision).</value>
+    <value>AMI: J'espère qu'il sait que je ne lui en veux pas. Mes amis tentent simplement d'apaiser nos aînés décatis (qui ont pris cette décision).</value>
   </entry>
   <entry>
     <key>FRIEND: I should get to sleep. They will all be waiting for me. Hypothesis: I will see you again, Datura. Worry not.</key>
-    <value>AMI : Je devrais aller dormir. Ils vont tous m'attendre. Hypothèse : Je te reverrai, Datura. Ne t'inquiète pas.</value>
+    <value>AMI: Je devrais aller dormir. Ils vont tous m'attendre. Hypothèse : Je te reverrai, Datura. Ne t'inquiète pas.</value>
   </entry>
   <entry>
     <key>...</key>
@@ -1321,209 +1321,209 @@
   <!-- Dream Friend House: Explain Me: Start -->
   <entry>
     <key>FRIEND: You are in my home star system! (A simulation of it.)</key>
-    <value>AMI : Vous êtes dans mon système stellaire ! (Une simulation de celui-ci.)</value>
+    <value>AMI: Vous êtes dans mon système stellaire ! (Une simulation de celui-ci.)</value>
   </entry>
   <entry>
     <key>FRIEND: I am curious: how are you here? Are you from the outside star system? Or are you from elsewhere, like us?</key>
-    <value>AMI : Je suis curieux : comment es-tu arrivé ici ? Venez-vous du système stellaire extérieur ? Ou bien viens-tu d'ailleurs, comme nous ?</value>
+    <value>AMI: Je suis curieux : comment es-tu arrivé ici ? Venez-vous du système stellaire extérieur ? Ou bien viens-tu d'ailleurs, comme nous ?</value>
   </entry>
   <entry>
     <key>FRIEND: Please make yourself at home! And stay for as long a while as you like. ...I would avoid the others, however.</key>
-    <value>AMI : Faites comme chez vous ! Et restez aussi longtemps que vous le souhaitez. ...J'éviterais cependant les autres.</value>
+    <value>AMI: Faites comme chez vous ! Et restez aussi longtemps que vous le souhaitez. ...J'éviterais cependant les autres.</value>
   </entry>
   <entry>
     <key>FRIEND: This was built for one to be a while, as we searched for a new home. However, over time, more and more of us (our elders) decayed irreversibly into this simulation.</key>
-    <value>AMI : Cet endroit a été construit pour un temps, pendant que nous cherchions une nouvelle maison. Cependant, au fil du temps, de plus en plus d'entre nous (nos aînés) se sont irrémédiablement décomposés dans cette simulation.</value>
+    <value>AMI: Cet endroit a été construit pour un temps, pendant que nous cherchions une nouvelle maison. Cependant, au fil du temps, de plus en plus d'entre nous (nos aînés) se sont irrémédiablement décomposés dans cette simulation.</value>
   </entry>
   <entry>
     <key>FRIEND: There were very few of us left alive outside (mostly the youngest), when the Nomai arrived.</key>
-    <value>AMI : Il ne restait que très peu d'entre nous en vie à l'extérieur (surtout les plus jeunes) lorsque les Nomai sont arrivés.</value>
+    <value>AMI: Il ne restait que très peu d'entre nous en vie à l'extérieur (surtout les plus jeunes) lorsque les Nomai sont arrivés.</value>
   </entry>
   <entry>
     <key>FRIEND: After, our decayed elders suggested we silently observe the Nomai to ensure the Eye was not found.</key>
-    <value>AMI : Après, nos aînés décatis nous ont suggéré d'observer silencieusement le Nomai pour s'assurer que l'Œil n'a pas été trouvé.</value>
+    <value>AMI: Après, nos aînés décatis nous ont suggéré d'observer silencieusement le Nomai pour s'assurer que l'Œil n'a pas été trouvé.</value>
   </entry>
   <!-- Dream Friend House: Explain Me: End -->
   <!-- Dream Friend House: Datura and Prisoner: Start -->
   <entry>
     <key>FRIEND: Datura did not like the sound of our Prisoner, seeing how he released the Eye’s signal despite hearing of the vision of the Eye destroying the universe.</key>
-    <value>AMI : Datura n'a pas aimé le son de notre prisonnier, car il a libéré le signal de l'Œil malgré la vision de l'Œil détruisant l'univers.</value>
+    <value>AMI: Datura n'a pas aimé le son de notre prisonnier, car il a libéré le signal de l'Œil malgré la vision de l'Œil détruisant l'univers.</value>
   </entry>
   <entry>
     <key>FRIEND: One thing they have in common (and one I wish they did not) is becoming big fluffy bundles of anger due to the Eye.</key>
-    <value>AMI : Ce qu'ils ont en commun (et ce que j'aimerais qu'ils n'aient pas), c'est de devenir de grosses peluches de colère à cause de l'Œil.</value>
+    <value>AMI: Ce qu'ils ont en commun (et ce que j'aimerais qu'ils n'aient pas), c'est de devenir de grosses peluches de colère à cause de l'Œil.</value>
   </entry>
   <entry>
     <key>FRIEND: Our Prisoner believed with unbreakable confidence that the Eye was pure good. Seeing the others hide it away, he viewed them as fearful, evil, and... idiotic.</key>
-    <value>AMI : Notre prisonnier croyait dur comme fer que l'Oeil était le bien à l'état pur. Voyant les autres le cacher, il les considérait comme craintifs, maléfiques et... idiots.</value>
+    <value>AMI: Notre prisonnier croyait dur comme fer que l'Oeil était le bien à l'état pur. Voyant les autres le cacher, il les considérait comme craintifs, maléfiques et... idiots.</value>
   </entry>
   <entry>
     <key>FRIEND: Him and I told them we were not afraid of the Eye... But I suppose it is easy to call others afraid, and say they are not able to accept the truth, despite you not knowing everything either.</key>
-    <value>AMI : Lui et moi leur avons dit que nous n'avions pas peur de l'Oeil... Mais je suppose qu'il est facile de dire que les autres ont peur et qu'ils ne sont pas capables d'accepter la vérité, même si vous ne savez pas tout non plus.</value>
+    <value>AMI: Lui et moi leur avons dit que nous n'avions pas peur de l'Oeil... Mais je suppose qu'il est facile de dire que les autres ont peur et qu'ils ne sont pas capables d'accepter la vérité, même si vous ne savez pas tout non plus.</value>
   </entry>
   <entry>
     <key>FRIEND: Datura did not care much for the Eye. A while away from his clan built up an anger towards them - he had a big falling out with a Nomai... Yarrow, I believe.</key>
-    <value>AMI : Datura n'aimait pas beaucoup l'Œil. Il s'est éloigné de son clan pendant un certain temps, ce qui l'a mis en colère contre eux. Il s'est brouillé avec un Nomai... Yarrow, je crois.</value>
+    <value>AMI: Datura n'aimait pas beaucoup l'Œil. Il s'est éloigné de son clan pendant un certain temps, ce qui l'a mis en colère contre eux. Il s'est brouillé avec un Nomai... Yarrow, je crois.</value>
   </entry>
   <!-- Dream Friend House: Datura and Prisoner: End -->
   <!-- Dream Friend House: You and Prisoner: Start -->
   <entry>
     <key>FRIEND: A long while ago, the one we call our Prisoner used to be my friend.</key>
-    <value>AMIGO: Il y a longtemps, celui que nous appelons notre prisonnier était mon ami.</value>
+    <value>AMI: Il y a longtemps, celui que nous appelons notre prisonnier était mon ami.</value>
   </entry>
   <entry>
     <key>FRIEND: He would tell me how he wished to ’set the wrongs of our elders right’ by releasing the Eye’s signal... I didn’t realise he was serious!</key>
-    <value>AMI : Il me disait qu'il souhaitait "réparer les erreurs de nos aînés" en libérant le signal de l'Œil... Je ne savais pas qu'il était sérieux !</value>
+    <value>AMI: Il me disait qu'il souhaitait "réparer les erreurs de nos aînés" en libérant le signal de l'Œil... Je ne savais pas qu'il était sérieux !</value>
   </entry>
   <entry>
     <key>FRIEND: ...I miss him.</key>
-    <value>AMI : ...il me manque.</value>
+    <value>AMI: ...il me manque.</value>
   </entry>
   <!-- Dream Friend House: You and Prisoner: End -->
   <!-- Dream Friend House: Explain Datura: Start -->
   <entry>
     <key>FRIEND: Hahaha, you explain him to me! He was a good friend to me, but not always to his clan... or to himself.</key>
-    <value>AMI : Hahaha, tu me l'expliques ! C'était un bon ami pour moi, mais pas toujours pour son clan... ou pour lui-même.</value>
+    <value>AMI: Hahaha, tu me l'expliques ! C'était un bon ami pour moi, mais pas toujours pour son clan... ou pour lui-même.</value>
   </entry>
   <entry>
     <key>FRIEND: Part of me wishes he escaped this star system, but I know... it is improbable.</key>
-    <value>AMI : Une partie de moi souhaite qu'il s'échappe de ce système stellaire, mais je sais que c'est improbable.</value>
+    <value>AMI: Une partie de moi souhaite qu'il s'échappe de ce système stellaire, mais je sais que c'est improbable.</value>
   </entry>
   <entry>
     <key>FRIEND: A long while has passed since I was with him on Dark Bramble. ...However, this might seem strange: it still feels recent, somehow.</key>
-    <value>AMI : Il y a longtemps que je n'ai pas été avec lui sur Dark Bramble. ...Cependant, cela peut sembler étrange : c'est encore récent, d'une certaine manière.</value>
+    <value>AMI: Il y a longtemps que je n'ai pas été avec lui sur Dark Bramble. ...Cependant, cela peut sembler étrange : c'est encore récent, d'une certaine manière.</value>
   </entry>
   <entry>
     <key>FRIEND: Hypothesis: you can only make so many unique memories here. After a long enough while, the days and months and... thousands of years... all blend together.</key>
-    <value>AMI : Hypothèse : on ne peut pas créer autant de souvenirs uniques ici. Au bout d'un certain temps, les jours, les mois et... les milliers d'années... se confondent..</value>
+    <value>AMI: Hypothèse : on ne peut pas créer autant de souvenirs uniques ici. Au bout d'un certain temps, les jours, les mois et... les milliers d'années... se confondent..</value>
   </entry>
   <!-- Dream Friend House: Explain Datura: End -->
   <!-- Dream Friend House: You and Me: Start -->
   <entry>
     <key>FRIEND: Hello there! You are a curious being.</key>
-    <value>AMI : Bonjour ! Tu es un être curieux.</value>
+    <value>AMI: Bonjour ! Tu es un être curieux.</value>
   </entry>
   <entry>
     <key>FRIEND: It is nice to meet you! A long while has passed since anyone new has come here. I am glad that translator device of yours made it over!</key>
-    <value>AMI : Enchanté de vous rencontrer ! Cela fait longtemps que personne n'est venu ici. Je suis heureux que ton traducteur ait réussi à s'imposer !</value>
+    <value>AMI: Enchanté de vous rencontrer ! Cela fait longtemps que personne n'est venu ici. Je suis heureux que ton traducteur ait réussi à s'imposer !</value>
   </entry>
   <entry>
     <key>FRIEND: The simulation is strange with what it decides to bring over. Perhaps all my Nomai writing made the simulation recognise the device?</key>
-    <value>AMI : La simulation est étrange avec ce qu'elle décide d'apporter. Peut-être que tous mes écrits Nomai ont permis à la simulation de reconnaître l'appareil ?</value>
+    <value>AMI: La simulation est étrange avec ce qu'elle décide d'apporter. Peut-être que tous mes écrits Nomai ont permis à la simulation de reconnaître l'appareil ?</value>
   </entry>
   <!-- Dream Friend House: You and Me: End -->
   <!-- Dream Friend House: Explain Prisoner: Start -->
   <entry>
     <key>FRIEND: A friend of mine let out the Eye’s signal, and was decayed and imprisoned in this simulation.</key>
-    <value>AMI : Un de mes amis a émis le signal de l'Oeil et a été décomposé et emprisonné dans cette simulation.</value>
+    <value>AMI: Un de mes amis a émis le signal de l'Oeil et a été décomposé et emprisonné dans cette simulation.</value>
   </entry>
   <entry>
     <key>FRIEND: A long while passed and, when the Nomai arrived, all of our elders had decayed into this simulation, with just the youngest still left alive outside.</key>
-    <value>AMI : Un long moment s'est écoulé et, lorsque les Nomai sont arrivés, tous nos aînés s'étaient décomposés dans cette simulation, et seul le plus jeune était encore en vie à l'extérieur.</value>
+    <value>AMI: Un long moment s'est écoulé et, lorsque les Nomai sont arrivés, tous nos aînés s'étaient décomposés dans cette simulation, et seul le plus jeune était encore en vie à l'extérieur.</value>
   </entry>
   <entry>
     <key>FRIEND: Hearing of the Nomai’s arrival, our decayed elders... burned the remaining archived codes for our Prisoner’s vault.</key>
-    <value>AMI : En apprenant l'arrivée des Nomai, nos aînés décatis... ont brûlé les derniers codes archivés de la chambre forte de nos prisonniers.</value>
+    <value>AMI: En apprenant l'arrivée des Nomai, nos aînés décatis... ont brûlé les derniers codes archivés de la chambre forte de nos prisonniers.</value>
   </entry>
   <entry>
     <key>FRIEND: I planned to free him! And the others outside wanted to help! We are not all monsters, I hope you can believe. But... we discovered there was nothing we could do now.</key>
-    <value>AMI : J'avais prévu de le libérer ! Et les autres à l'extérieur voulaient m'aider ! Nous ne sommes pas tous des monstres, j'espère que tu peux le croire. Mais... nous avons découvert qu'il n'y avait plus rien à faire.</value>
+    <value>AMI: J'avais prévu de le libérer ! Et les autres à l'extérieur voulaient m'aider ! Nous ne sommes pas tous des monstres, j'espère que tu peux le croire. Mais... nous avons découvert qu'il n'y avait plus rien à faire.</value>
   </entry>
   <entry>
     <key>FRIEND: The controls raising our Prisoner’s submerged structure out of our Vessel’s water were destroyed, by one of our elders at some point.</key>
-    <value>AMI : Les commandes permettant de sortir la structure immergée de notre prisonnier de l'eau de notre vaisseau ont été détruites par l'un de nos aînés à un moment donné.</value>
+    <value>AMI: Les commandes permettant de sortir la structure immergée de notre prisonnier de l'eau de notre vaisseau ont été détruites par l'un de nos aînés à un moment donné.</value>
   </entry>
   <entry>
     <key>FRIEND: Raising it outside also raises the simulated version of the structure, allowing access to the underground from within the simulation (and letting our Prisoner leave to join the rest of the decayed when freed).</key>
-    <value>AMI : L'élever à l'extérieur permet également d'élever la version simulée de la structure, ce qui permet d'accéder au sous-sol depuis la simulation (et de laisser notre prisonnier rejoindre le reste des décomposés lorsqu'il sera libéré).</value>
+    <value>AMI: L'élever à l'extérieur permet également d'élever la version simulée de la structure, ce qui permet d'accéder au sous-sol depuis la simulation (et de laisser notre prisonnier rejoindre le reste des décomposés lorsqu'il sera libéré).</value>
   </entry>
   <entry>
     <key>FRIEND: So, even if we freed him from his Vault, he would still be trapped underground. ...And so... I never saw him again.</key>
-    <value>AMI : Donc, même si nous le libérions de sa chambre forte, il serait toujours piégé sous terre. ...Et donc... Je ne l'ai jamais revu.</value>
+    <value>AMI: Donc, même si nous le libérions de sa chambre forte, il serait toujours piégé sous terre. ...Et donc... Je ne l'ai jamais revu.</value>
   </entry>
   <entry>
     <key>FRIEND: I try not to think about what he has gone through. ...This is not easy for me to say, but I hope he has... I hope he is no longer alive. The alternative seems much worse.</key>
-    <value>AMI : J'essaie de ne pas penser à ce qu'il a vécu. ...Ce n'est pas facile à dire pour moi, mais j'espère qu'il a... J'espère qu'il n'est plus en vie. L'alternative semble bien pire.</value>
+    <value>AMI: J'essaie de ne pas penser à ce qu'il a vécu. ...Ce n'est pas facile à dire pour moi, mais j'espère qu'il a... J'espère qu'il n'est plus en vie. L'alternative semble bien pire.</value>
   </entry>
   <!-- Dream Friend House: Explain Prisoner: End -->
   <!-- Dream Friend House: You and Datura: Start -->
   <entry>
     <key>FRIEND: ...Datura. We met for similar but opposite reasons.</key>
-    <value>AMI : ...Datura. Nous nous sommes rencontrés pour des raisons similaires mais opposées.</value>
+    <value>AMI: ...Datura. Nous nous sommes rencontrés pour des raisons similaires mais opposées.</value>
   </entry>
   <entry>
     <key>FRIEND: After my other friend was imprisoned, I felt very burnt inside... and I ran. Fortunately, Datura was quite welcoming!</key>
-    <value>AMI : Après l'emprisonnement de mon autre ami, je me suis sentie brûlée à l'intérieur... et je me suis enfuie. Heureusement, Datura était très accueillant !</value>
+    <value>AMI: Après l'emprisonnement de mon autre ami, je me suis sentie brûlée à l'intérieur... et je me suis enfuie. Heureusement, Datura était très accueillant !</value>
   </entry>
   <entry>
     <key>FRIEND: Sometimes, I wish we had ran away. Us together into the galaxy! But... it was only a thought.</key>
-    <value>AMI : Parfois, j'aimerais que nous nous soyons enfuis. Nous, ensemble, dans la galaxie ! Mais... ce n'était qu'une pensée.</value>
+    <value>AMI: Parfois, j'aimerais que nous nous soyons enfuis. Nous, ensemble, dans la galaxie ! Mais... ce n'était qu'une pensée.</value>
   </entry>
   <entry>
     <key>FRIEND: Our opposing views on the Eye was surprisingly not an issue between us. (Hypothesis: Datura’s true issues were with something else?)</key>
-    <value>AMI : Nos points de vue opposés sur l'Œil n'étaient étonnamment pas un problème entre nous. (Hypothèse : les vrais problèmes de Datura étaient liés à autre chose...)</value>
+    <value>AMI: Nos points de vue opposés sur l'Œil n'étaient étonnamment pas un problème entre nous. (Hypothèse : les vrais problèmes de Datura étaient liés à autre chose...)</value>
   </entry>
   <entry>
     <key>FRIEND: He was, however, quite disappointed to hear our Vessel was not able to travel intergalactically. (Not the escape pod he was hoping for!)</key>
-    <value>AMI : Il a cependant été très déçu d'apprendre que notre vaisseau n'était pas capable de voyager entre les galaxies. (Ce n'est pas la capsule de sauvetage qu'il espérait !)</value>
+    <value>AMI: Il a cependant été très déçu d'apprendre que notre vaisseau n'était pas capable de voyager entre les galaxies. (Ce n'est pas la capsule de sauvetage qu'il espérait !)</value>
   </entry>
   <!-- Dream Friend House: You and Datura: End -->
   <!-- Dream Friend House: Explain You: Start -->
   <entry>
     <key>FRIEND: Hello there! My name is Friend. ...That is what Datura called me before I understood his language.</key>
-    <value>AMI : Bonjour ! Je m'appelle Ami. ...C'est ainsi que Datura m'appelait avant que je ne comprenne son langage.</value>
+    <value>AMI: Bonjour ! Je m'appelle Ami. ...C'est ainsi que Datura m'appelait avant que je ne comprenne son langage.</value>
   </entry>
   <entry>
     <key>FRIEND: When Datura explained to me what ’friend’ meant and asked for my ’real’ name, I told him ’Friend’ was fine. My old name never fit me anyway, I felt.</key>
-    <value>AMI : Lorsque Datura m'a expliqué ce que signifiait le mot "ami" et m'a demandé mon "vrai" nom, je lui ai répondu que "Ami" me convenait parfaitement. Mon ancien nom ne m'avait jamais convenu de toute façon.</value>
+    <value>AMI: Lorsque Datura m'a expliqué ce que signifiait le mot "ami" et m'a demandé mon "vrai" nom, je lui ai répondu que "Ami" me convenait parfaitement. Mon ancien nom ne m'avait jamais convenu de toute façon.</value>
   </entry>
   <entry>
     <key>FRIEND: We travelled here in search of the Eye of the universe and... I wish we never discovered it. The Eye has only burnt us...</key>
-    <value>AMI : Nous avons voyagé ici à la recherche de l'Œil de l'univers et... Je souhaite que nous ne l'ayons jamais découvert. L'Oeil n'a fait que nous brûler...</value>
+    <value>AMI: Nous avons voyagé ici à la recherche de l'Œil de l'univers et... Je souhaite que nous ne l'ayons jamais découvert. L'Oeil n'a fait que nous brûler...</value>
   </entry>
   <entry>
     <key>FRIEND: This simulation is now our home. We are all spooky ghosts! My elders decayed willingly, but the youngest died mysteriously, and simultaneously.</key>
-    <value>AMI : Cette simulation est maintenant notre maison. Nous sommes tous des fantômes effrayants ! Mes aînés se sont décomposés volontairement, mais le plus jeune est mort mystérieusement et simultanément.</value>
+    <value>AMI: Cette simulation est maintenant notre maison. Nous sommes tous des fantômes effrayants ! Mes aînés se sont décomposés volontairement, mais le plus jeune est mort mystérieusement et simultanément.</value>
   </entry>
   <entry>
     <key>FRIEND: I wish I could understand your language! What happened? Did something happen to the Nomai too?</key>
-    <value>AMI : J'aimerais pouvoir comprendre votre langue ! Qu'est-ce qui s'est passé ? Est-ce qu'il est arrivé quelque chose aux Nomai aussi ?</value>
+    <value>AMI: J'aimerais pouvoir comprendre votre langue ! Qu'est-ce qui s'est passé ? Est-ce qu'il est arrivé quelque chose aux Nomai aussi ?</value>
   </entry>
   <!-- Dream Friend House: Explain You: End -->
   <!-- Dream Friend House: Datura and Me: Start -->
   <entry>
     <key>FRIEND: Have you been exploring our structures on the surface of Dark Bramble?</key>
-    <value>AMI : As-tu exploré nos structures à la surface de Sombronces ?</value>
+    <value>AMI: As-tu exploré nos structures à la surface de Sombronces ?</value>
   </entry>
   <entry>
     <key>FRIEND: Have you found Datura? Or... his body? When he wasn’t searching around inside Dark Bramble, he was usually in his Study Tower or Observatory (I helped build).</key>
-    <value>AMI : Avez-vous trouvé Datura ? Ou... son corps ? Quand il ne cherche pas à l'intérieur de Dark Bramble, il est généralement dans sa tour d'étude ou son observatoire (que j'ai aidé à construire).</value>
+    <value>AMI: Avez-vous trouvé Datura ? Ou... son corps ? Quand il ne cherche pas à l'intérieur de Dark Bramble, il est généralement dans sa tour d'étude ou son observatoire (que j'ai aidé à construire).</value>
   </entry>
   <entry>
     <key>FRIEND: Oh, it has a security measure, I remember that! An overly curious young Nomai occasionally visited him. (I wonder why Solanum never visited?)</key>
-    <value>AMI : Oh, il y a une mesure de sécurité, je m'en souviens ! Un jeune Nomai trop curieux lui rendait parfois visite. (Je me demande pourquoi Solanum n'est jamais venu).</value>
+    <value>AMI: Oh, il y a une mesure de sécurité, je m'en souviens ! Un jeune Nomai trop curieux lui rendait parfois visite. (Je me demande pourquoi Solanum n'est jamais venu).</value>
   </entry>
   <entry>
     <key>FRIEND: Anyway, he used my quantum shard gift to effect the Observatory’s door, so to enter, you must not be looking at the door.</key>
-    <value>AMI : Quoi qu'il en soit, il a utilisé mon don d'éclat quantique pour agir sur la porte de l'Observatoire, donc pour entrer, tu ne dois pas regarder la porte.</value>
+    <value>AMI: Quoi qu'il en soit, il a utilisé mon don d'éclat quantique pour agir sur la porte de l'Observatoire, donc pour entrer, tu ne dois pas regarder la porte.</value>
   </entry>
   <entry>
     <key>FRIEND: The planet used to be whole! Can you imagine? On our Vessel, we did not notice it broke until a while after it had!</key>
-    <value>AMI : Avant, la planète était entière ! Peux-tu imaginer ? Sur notre vaisseau, nous n'avons remarqué qu'elle s'était brisée que peu de temps après !</value>
+    <value>AMI: Avant, la planète était entière ! Peux-tu imaginer ? Sur notre vaisseau, nous n'avons remarqué qu'elle s'était brisée que peu de temps après !</value>
   </entry>
   <entry>
     <key>FRIEND: Datura hypothesized the Eye’s signal bounced around in Dark Bramble before reaching the Nomai - why they warped there instead?</key>
-    <value>AMI : Datura a émis l'hypothèse que le signal de l'Œil a rebondi dans Sompbronces avant d'atteindre les Nomai - pourquoi s'y sont-ils rendus à la place ?</value>
+    <value>AMI: Datura a émis l'hypothèse que le signal de l'Œil a rebondi dans Sompbronces avant d'atteindre les Nomai - pourquoi s'y sont-ils rendus à la place ?</value>
   </entry>
   <!-- Dream Friend House: Datura and Me: End -->
   <!-- Dream Friend House: Me and Prisoner: Start -->
   <entry>
     <key>FRIEND: I feel like I should be more excited - you might be able to free my friend!</key>
-    <value>AMI : J'ai l'impression que je devrais être plus excité - vous pourriez peut-être libérer mon ami !</value>
+    <value>AMI: J'ai l'impression que je devrais être plus excité - vous pourriez peut-être libérer mon ami !</value>
   </entry>
   <entry>
     <key>FRIEND: But, in one way or another, I know he is no longer with us...</key>
-    <value>AMI : Mais, d'une manière ou d'une autre, je sais qu'il n'est plus parmi nous...</value>
+    <value>AMI: Mais, d'une manière ou d'une autre, je sais qu'il n'est plus parmi nous...</value>
   </entry>
   <!-- Dream Friend House: Me and Prisoner: End -->
   <!-- Projection Pool House: Solanum Stone: Start -->
@@ -1761,7 +1761,7 @@
   <!-- Northern Observatory: Computer: Start -->
   <entry>
     <key><![CDATA[<color=orange>DETECTED SPACECRAFT:</color>]]>\\nNomai Shuttle <![CDATA[<color=red>(Destroyed)</color>]]>\\nFriend’s Ship <![CDATA[<color=red>(Destroyed)</color>]]></key>
-    <value><![CDATA[<color=orange>DÉTECTÉ ::</color>]]>\\nNomai Shuttle <![CDATA[<color=red>(Détruit)</color>]]>\\nLe Vaisseau d'un ami <![CDATA[<color=red>(Détruit)</color>]]></value>
+    <value><![CDATA[<color=orange>DÉTECTÉ ::</color>]]>\\nNomai Shuttle <![CDATA[<color=red>(Détruit)</color>]]>\\nLe Vaisseau d'un Ami <![CDATA[<color=red>(Détruit)</color>]]></value>
   </entry>
   <entry>
     <key><![CDATA[<color=orange>SPACECRAFT COUNT:</color>]]> 2\\nDoor is unlocked.</key>
@@ -1771,7 +1771,7 @@
   <!-- Northern Observatory: Collector: Start -->
   <entry>
     <key>FRIEND: Is this your newest painting? Pretty! This is <![CDATA[<color=lightblue>The Collector</color>]]>, is it not?</key>
-    <value>AMI : C'est ta nouvelle peinture ? Jolie ! C'est <![CDATA[<color=lightblue>Le collectionneur</color>]]>, não é?</value>
+    <value>AMI: C'est ta nouvelle peinture ? Jolie ! C'est <![CDATA[<color=lightblue>Le collectionneur</color>]]>, não é?</value>
   </entry>
   <entry>
     <key>DATURA: Yes, indeed it is! I was hoping you would recognise it.</key>
@@ -1787,7 +1787,7 @@
   </entry>
   <entry>
     <key>FRIEND: I see. Was it ever discovered where <![CDATA[<color=lightblue>The Collector</color>]]> came from or how it formed, then?</key>
-    <value>AMI : Je vois. A-t-on jamais découvert où <![CDATA[<color=lightblue>Le collectionneur</color>]]> ou comment il s'est formé ?</value>
+    <value>AMI: Je vois. A-t-on jamais découvert où <![CDATA[<color=lightblue>Le collectionneur</color>]]> ou comment il s'est formé ?</value>
   </entry>
   <entry>
     <key>DATURA: Not that I’m aware of, I’m afraid. But... I was wanting to ask you: What was it like, from your perspective? When the <![CDATA[<color=lightblue>The Collector</color>]]> arrived?</key>
@@ -1795,7 +1795,7 @@
   </entry>
   <entry>
     <key>FRIEND: Well, I was a young child. I noticed strange feelings spreading in the faces of my elders, as if they had knowledge they wished to hide from me and the others!</key>
-    <value>AMI : J'étais un jeune enfant. J'ai remarqué des sentiments étranges sur le visage de mes aînés, comme s'ils avaient des connaissances qu'ils voulaient nous cacher, à moi et aux autres !</value>
+    <value>AMI: J'étais un jeune enfant. J'ai remarqué des sentiments étranges sur le visage de mes aînés, comme s'ils avaient des connaissances qu'ils voulaient nous cacher, à moi et aux autres !</value>
   </entry>
   <entry>
     <key>DATURA: Some things never change, I suppose. Uh, sorry, please continue.</key>
@@ -1807,11 +1807,11 @@
   </entry>
   <entry>
     <key>FRIEND: It had began... evaporating and... moving towards us, releasing a deadly substance into this galaxy (like a toxic gas!) as it drifted through it.</key>
-    <value>AMI : Il a commencé à s'évaporer et à se diriger vers nous, libérant une substance mortelle dans la galaxie (comme un gaz toxique !) alors qu'il dérivait à travers elle.</value>
+    <value>AMI: Il a commencé à s'évaporer et à se diriger vers nous, libérant une substance mortelle dans la galaxie (comme un gaz toxique !) alors qu'il dérivait à travers elle.</value>
   </entry>
   <entry>
     <key>FRIEND: At the time, my species was pre-interstellar, and, unable to combat this threat, sent out a distress signal, with fragmented hope that someone out there could help!</key>
-    <value>AMI : A l'époque, mon espèce était pré-interstellaire et, incapable de combattre cette menace, elle a envoyé un signal de détresse, avec l'espoir fragmentaire que quelqu'un pourrait l'aider !</value>
+    <value>AMI: A l'époque, mon espèce était pré-interstellaire et, incapable de combattre cette menace, elle a envoyé un signal de détresse, avec l'espoir fragmentaire que quelqu'un pourrait l'aider !</value>
   </entry>
   <entry>
     <key>FRIEND: But the planet drew nearer! And threatened to destroy us, and all life in this galaxy.</key>
@@ -1831,15 +1831,15 @@
   </entry>
   <entry>
     <key>FRIEND: I see. Anyway, after we were gotten to safety, the substance was discovered to expand when hot, but tightly compact in cold conditions! And was effectively neutralized by water.</key>
-    <value>AMI : Je vois. Quoi qu'il en soit, une fois que nous avons été mis en sécurité, on a découvert que la substance se dilatait lorsqu'elle était chaude, mais qu'elle se compactait fortement lorsqu'elle était froide ! Et qu'elle était efficacement neutralisée par l'eau.</value>
+    <value>AMI: Je vois. Quoi qu'il en soit, une fois que nous avons été mis en sécurité, on a découvert que la substance se dilatait lorsqu'elle était chaude, mais qu'elle se compactait fortement lorsqu'elle était froide ! Et qu'elle était efficacement neutralisée par l'eau.</value>
   </entry>
   <entry>
     <key>FRIEND: Then, we waited and watched as several interstellar species, working together, kindly contained <![CDATA[<color=lightblue>The Collector</color>]]> by collecting the strange matter into various water worlds and comets.</key>
-    <value>>AFFIRMÉ : Ensuite, nous avons attendu et regardé plusieurs espèces interstellaires, travaillant ensemble, qui ont gentiment contenu <![CDATA[<color=lightblue>Le collectionneur</color>]]> en rassemblant les matières étranges dans divers mondes aquatiques et comètes.</value>
+    <value>>AMI: Ensuite, nous avons attendu et regardé plusieurs espèces interstellaires, travaillant ensemble, qui ont gentiment contenu <![CDATA[<color=lightblue>Le collectionneur</color>]]> en rassemblant les matières étranges dans divers mondes aquatiques et comètes.</value>
   </entry>
   <entry>
     <key>FRIEND: Then everyone, including us, all went home. Not a long while after, the Eye started sending out it’s signal. I wonder if it saw-</key>
-    <value>AMI : Ensuite, tout le monde, y compris nous, est rentré chez lui. Peu de temps après, l'Oeil a commencé à envoyer son signal. Je me demande s'il a vu...</value>
+    <value>AMI: Ensuite, tout le monde, y compris nous, est rentré chez lui. Peu de temps après, l'Oeil a commencé à envoyer son signal. Je me demande s'il a vu...</value>
   </entry>
   <!-- Northern Observatory: Collector: End -->
   <!-- Northern Observatory: Find: Start -->
@@ -1849,11 +1849,11 @@
   </entry>
   <entry>
     <key>DATURA: ...Ha... Glad I have that recording. It’s nice to hear Friend’s voice again.</key>
-    <value>DATURA: ...Ha... Je suis content d'avoir cet enregistrement. C'est agréable d'entendre à nouveau la voix de Friend.</value>
+    <value>DATURA: ...Ha... Je suis content d'avoir cet enregistrement. C'est agréable d'entendre à nouveau la voix de Ami.</value>
   </entry>
   <entry>
     <key>DATURA: I remember thinking it was odd that once <![CDATA[<color=lightblue>The Collector</color>]]> was defeated, Friend’s elders decided to return home to their moon instead of leaving with the others.</key>
-    <value>DATURA: Je me souviens avoir pensé qu'il était étrange qu'une fois<![CDATA[<color=lightblue>Le collectionneur</color>]]>a été vaincu, les anciens de Friend ont décidé de rentrer chez eux, sur leur lune, au lieu de partir avec les autres.</value>
+    <value>DATURA: Je me souviens avoir pensé qu'il était étrange qu'une fois<![CDATA[<color=lightblue>Le collectionneur</color>]]>a été vaincu, les anciens de Ami ont décidé de rentrer chez eux, sur leur lune, au lieu de partir avec les autres.</value>
   </entry>
   <entry>
     <key>DATURA: I think they were given (if they ever did wish to leave) schematics on how to build various kinds of spacecraft and machines, as is customary when encountering a pre-interstellar species.</key>
@@ -1869,7 +1869,7 @@
   </entry>
   <entry>
     <key>DATURA: ...Friend’s elders learned this the hard way... it would seem.</key>
-    <value>DATURA: ...Les anciens de Friend l'ont appris à leurs dépens... semble-t-il.</value>
+    <value>DATURA: ...Les anciens de Ami l'ont appris à leurs dépens... semble-t-il.</value>
   </entry>
   <entry>
     <key>DATURA: ...Ah! There it is! Now, to take a picture...</key>
@@ -1975,7 +1975,7 @@
   </entry>
   <entry>
     <key>DATURA: ...Why can’t I do anything right?! I broke my promise with Filix; I messed it up with Friend; and maybe, if I had just gotten along with Yarrow, it might not have all ended like this...</key>
-    <value>DATURA: ...Pourquoi ne puis-je rien faire de bien ? ! J'ai rompu ma promesse avec Filix, j'ai tout gâché avec Friend, et peut-être que si j'avais pu m'entendre avec Yarrow, tout ne se serait pas terminé comme ça...</value>
+    <value>DATURA: ...Pourquoi ne puis-je rien faire de bien ? ! J'ai rompu ma promesse avec Filix, j'ai tout gâché avec Ami, et peut-être que si j'avais pu m'entendre avec Yarrow, tout ne se serait pas terminé comme ça...</value>
   </entry>
   <entry>
     <key>DATURA: And, now... Solanum... I’ve failed you... I’ve failed... everyone.</key>
@@ -2192,7 +2192,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherSomeone referred to as ’Friend’ also wanted to destroy their ship. After damaging their ship, its alarm went off too. Datura remembered that he should just stand back and wait until it exploded.</key>
-    <value>Quelqu'un appelé 'Amigo' voulait aussi détruire votre vaisseau. Après avoir endommagé son vaisseau, son alarme s'est également activée. Datura se rappela qu'elle devait rester à l'écart et attendre que le vaisseau explose.</value>
+    <value>Quelqu'un appelé 'Ami' voulait aussi détruire votre vaisseau. Après avoir endommagé son vaisseau, son alarme s'est également activée. Datura se rappela qu'elle devait rester à l'écart et attendre que le vaisseau explose.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherI used a switch to activate the crusher.</key>
@@ -2264,7 +2264,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageDatura teached Friend the Nomai language, and they teached him art.</key>
-    <value>Datura a enseigné à Friend la langue Nomai, et ils lui ont enseigné l'art.</value>
+    <value>Datura a enseigné à Ami la langue Nomai, et ils lui ont enseigné l'art.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageDatura argued at Yarrow that they should be finding a way to leave this star system. Datura, promising Filix he would return, left to Dark Bramble to find the Vessel.</key>
@@ -2276,15 +2276,15 @@
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageFriend is optimistic about the Eye, and believes it is the creator of universes.</key>
-    <value>Friend est optimiste à propos de l'Œil et pense qu'il est le créateur des univers.</value>
+    <value>Ami est optimiste à propos de l'Œil et pense qu'il est le créateur des univers.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageIn Friend’s House, I found a staircase that leads down abruptly to a painting of a terrestrial world, with a blue ringed gas giant in the sky.</key>
-    <value>Dans la Maison des amis, j'ai trouvé un escalier qui descend brusquement vers une peinture d'un monde terrestre, avec une géante gazeuse aux anneaux bleus dans le ciel.</value>
+    <value>Dans la Maison des Amis, j'ai trouvé un escalier qui descend brusquement vers une peinture d'un monde terrestre, avec une géante gazeuse aux anneaux bleus dans le ciel.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Secret RoomIn Friend’s House, I found a staircase that leads down abruptly to a painting of a terrestrial world, with a blue ringed gas giant in the sky.</key>
-    <value>Dans la Maison des amis, j'ai trouvé un escalier qui descend brusquement vers une peinture d'un monde terrestre, avec une géante gazeuse aux anneaux bleus dans le ciel.</value>
+    <value>Dans la Maison des Amis, j'ai trouvé un escalier qui descend brusquement vers une peinture d'un monde terrestre, avec une géante gazeuse aux anneaux bleus dans le ciel.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Secret RoomA secret room in Friend’s House contains an image revealing a hidden path behind a jellyfish surrounded by ice.</key>
@@ -2292,11 +2292,11 @@
   </table_shipLog>
   <table_shipLog>
     <key>Secluded StructureA secret room in Friend’s House contains an image revealing a hidden path behind a jellyfish surrounded by ice.</key>
-    <value>Une pièce secrète dans Friend's House contient une image révélant un chemin caché derrière une méduse entourée de glace.</value>
+    <value>Une pièce secrète dans Ami's House contient une image révélant un chemin caché derrière une méduse entourée de glace.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Secret RoomDatura and Friend discussed their theories about the Eye, and suggested that they may both be partially true.</key>
-    <value>Datura et Friend discutent de leurs théories sur l'Œil et suggèrent qu'elles pourraient toutes deux être partiellement vraies.</value>
+    <value>Datura et Ami discutent de leurs théories sur l'Œil et suggèrent qu'elles pourraient toutes deux être partiellement vraies.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Secluded StructureThe entrance to this building appears to have been sealed. Datura theorised that only an explosion could create an opening.</key>
@@ -2320,7 +2320,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureDatura came across Friend’s elders, and accidentally rang an alarm bell which woke one up.</key>
-    <value>Datura est tombé sur les aînés de Friend et a accidentellement sonné une cloche d'alarme qui a réveillé l'un d'entre eux.</value>
+    <value>Datura est tombé sur les aînés de Ami et a accidentellement sonné une cloche d'alarme qui a réveillé l'un d'entre eux.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureHe was awoken by Friend, with some others having arrived on Dark Bramble.</key>
@@ -2328,7 +2328,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureThey separated them from each other, containing Friend by sealing the entrance.</key>
-    <value>Ils les ont séparés les uns des autres, contenant Friend en scellant l'entrée.</value>
+    <value>Ils les ont séparés les uns des autres, contenant Ami en scellant l'entrée.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeI found... the remains of Friend, holding an artifact next to a green fire.</key>
@@ -2336,7 +2336,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeI met Friend! They had to communicate using the Nomai language, as I can’t translate theirs.</key>
-    <value>J'ai rencontré Friend ! Ils ont dû communiquer en utilisant la langue Nomai, car je ne peux pas traduire la leur.</value>
+    <value>J'ai rencontré Ami ! Ils ont dû communiquer en utilisant la langue Nomai, car je ne peux pas traduire la leur.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeFor one of the security measures, Datura used a quantum shard to effect the Northern Observatory’s door, so I must not be looking at the door when entering.</key>
@@ -2348,7 +2348,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeBy the time the Nomai arrived, Friend’s elders had ’decayed’ into the simulation. Only a small group of the youngest were still alive outside.</key>
-    <value>Lorsque les Nomai sont arrivés, les aînés de Friend s'étaient "décomposés" dans la simulation. Seul un petit groupe de jeunes était encore en vie à l'extérieur.</value>
+    <value>Lorsque les Nomai sont arrivés, les aînés de Ami s'étaient "décomposés" dans la simulation. Seul un petit groupe de jeunes était encore en vie à l'extérieur.</value>
   </table_shipLog>
   <table_shipLog>
     <key>The Collector MuralDatura mentioned something called ’The Collector,’ but didn’t elaborate.</key>
