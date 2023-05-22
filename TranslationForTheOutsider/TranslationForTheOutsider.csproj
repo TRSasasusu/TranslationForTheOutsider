@@ -31,6 +31,9 @@
     <None Update="assets\chinese_simple.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="assets\french.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="assets\japanese.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
