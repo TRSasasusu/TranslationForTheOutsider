@@ -4,7 +4,7 @@ This repository is designed as a UNIVERSAL translation addon for [The Outsider m
 
 The sample is here: [English Slate](fig/screenshot_slate_english.png) -> [Japanese Slate](fig/screenshot_slate_japanese.png) (this is a SPOILER, so I don't display these images directly ;;) )
 
-Now, JA, pt-BR, zh-CN and RU are available;
+Now, JA, pt-BR, zh-CN, RU and FR are available;
 **Making other language translation is welcoming!** Please read [Other Languages](#other-languages) for details.
 
 ## Installation
@@ -34,6 +34,10 @@ Some texts of Feldspar and Gabbro have not been translated yet. (Fixing it is we
 Completed! Thank you, [@Korol2038](https://github.com/Korol2038). (See [#3](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/3))
 
 Corrected by [@Svetaleet](https://github.com/Svetaleet), thank you. (See [#4](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/4))
+
+## EN -> FR
+
+Completed! Thank you, [@Fighters91](https://github.com/Fighters91). (See [#5](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/5))
 
 ## Other Languages
 
