@@ -4,7 +4,7 @@
   "author": "orclecle",
   "name": "Translation for The Outsider",
   "uniqueName": "orclecle.TranslationForTheOutsider",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "owmlVersion": "2.9.0",
   "dependencies": [ "SBtT.TheOutsider" ]
 }
