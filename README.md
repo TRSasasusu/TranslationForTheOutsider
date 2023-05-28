@@ -39,6 +39,8 @@ Corrected by [@Svetaleet](https://github.com/Svetaleet), thank you. (See [#4](ht
 
 Completed! Thank you, [@Fighters91](https://github.com/Fighters91). (See [#5](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/5))
 
+Corrected by [@Myalgul](https://github.com/Myalgul). (See [#6](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/6))
+
 ## Other Languages
 
 Please make `TranslationForTheOutsider/assets/<language>.xml` and its pull requests (or an issue). I will add it into next releases.
