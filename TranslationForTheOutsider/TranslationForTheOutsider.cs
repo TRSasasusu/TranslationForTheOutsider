@@ -8,6 +8,12 @@ namespace TranslationForTheOutsider {
 
         public static TranslationForTheOutsider Instance;
 
+        public void Log(string text) {
+            ModHelper.Console.WriteLine(text);
+        }
+
+        public bool IsFixIssuesOfTheOutsider => ModHelper.Config.GetSettingsValue<bool>("Fix issues of The Outsider");
+
         private void Awake() {
             Instance = this;
             Harmony.CreateAndPatchAll(Assembly.GetExecutingAssembly());
