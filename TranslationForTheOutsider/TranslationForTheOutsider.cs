@@ -27,10 +27,12 @@ namespace TranslationForTheOutsider {
             ModHelper.Console.WriteLine($"{nameof(TranslationForTheOutsider)} is loaded!", MessageType.Success);
 
             // Example of accessing game code.
-            LoadManager.OnCompleteSceneLoad += (scene, loadScene) => {
-                if (loadScene != OWScene.SolarSystem) return;
-                ModHelper.Console.WriteLine("Loaded into solar system!", MessageType.Success);
-            };
+            //LoadManager.OnCompleteSceneLoad += (scene, loadScene) => {
+            //    if (loadScene != OWScene.SolarSystem) return;
+            //    ModHelper.Console.WriteLine("Loaded into solar system!", MessageType.Success);
+            //};
+
+            IssueOfTheOutsiderPatch.Initialize();
         }
     }
 }
