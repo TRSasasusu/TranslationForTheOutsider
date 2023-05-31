@@ -17,6 +17,7 @@ namespace TranslationForTheOutsider {
         static Dictionary<string, List<string>> _color_table_for_duplicate;
         static Dictionary<string, string> _disc_table;
         static string _bramble_power_station;
+        static bool _english;
 
         [HarmonyPostfix]
         [HarmonyPatch(typeof(TextTranslation), nameof(TextTranslation.SetLanguage))]
@@ -25,9 +26,11 @@ namespace TranslationForTheOutsider {
             _color_table_for_duplicate = null;
             _disc_table = null;
             _bramble_power_station = null;
+            _english = false;
 
             if(lang == TextTranslation.Language.ENGLISH) {
                 TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"the language is English, so not translated.");
+                _english = true;
                 return;
             }
 
@@ -94,7 +97,7 @@ namespace TranslationForTheOutsider {
         public static void TextTranslation_Translate_Prefix(string key, TextTranslation __instance) {
             _no_postfix_translate = key.Contains("_"); // See https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/blob/17149bad3786f9aa68aed9eaf8ec94e62ee5ba7e/TheOutsider/OuterWildsHandling/OWPatches.cs#L119
 
-            if (__instance.m_table == null) {
+            if (__instance.m_table == null || _english) {
                 return;
             }
             var text = __instance.m_table.Get(key);
@@ -176,7 +179,7 @@ namespace TranslationForTheOutsider {
         [HarmonyPrefix]
         [HarmonyPatch(typeof(TextTranslation), nameof(TextTranslation._Translate_ShipLog))]
         public static bool TextTranslation_Translate_ShipLog_Prefix(string key, TextTranslation __instance) {
-            if(__instance.m_table.GetShipLog(key) == null) {
+            if(__instance.m_table.GetShipLog(key) == null && !_english) {
                 TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"key not contained in m_table(ship): {key}");
             }
             return true;
