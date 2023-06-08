@@ -11,6 +11,7 @@ namespace TranslationForTheOutsider {
     public static class IssueOfTheOutsiderPatch {
         static bool _fixShipLogCardPosition = false;
         static int _fixShipLogCardPositionCount = 0;
+        static bool _projecting = false;
 
         public static void Initialize() {
             LoadManager.OnCompleteSceneLoad += (scene, loadScene) => {
@@ -64,6 +65,58 @@ namespace TranslationForTheOutsider {
             }
 
             TranslationForTheOutsider.Instance.Log("ShipLog's card positions are fixed.");
+        }
+
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(NomaiRemoteCameraPlatform), nameof(NomaiRemoteCameraPlatform.SwitchToRemoteCamera))]
+        public static bool NomaiRemoteCameraPlatform_SwitchToRemoteCamera_Prefix() {
+            TranslationForTheOutsider.Instance.Log("SwitchToRemoteCamera now.");
+            _projecting = true;
+            return true;
+        }
+
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(NomaiRemoteCameraPlatform), nameof(NomaiRemoteCameraPlatform.SwitchToPlayerCamera))]
+        public static bool NomaiRemoteCameraPlatform_SwitchToPlayerCamera_Prefix() {
+            TranslationForTheOutsider.Instance.Log("SwitchToPlayerCamera now.");
+            _projecting = false;
+            return true;
+        }
+
+        //[HarmonyPrefix]
+        //[HarmonyPatch(typeof(NomaiProjector), nameof(NomaiProjector.FadeIn))]
+        //public static bool NomaiProjector_FadeIn_Prefix() {
+        //    TranslationForTheOutsider.Instance.Log("FadeIn now."); // this is not called when setting projection stone
+        //    _projecting = true;
+        //    return true;
+        //}
+
+        //[HarmonyPrefix]
+        //[HarmonyPatch(typeof(NomaiProjector), nameof(NomaiProjector.FadeOut))]
+        //public static bool NomaiProjector_FadeOut_Prefix() {
+        //    TranslationForTheOutsider.Instance.Log("FadeOut now."); // this is not called when setting projection stone
+        //    _projecting = false;
+        //    return true;
+        //}
+
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(FogWarpDetector), nameof(FogWarpDetector.TrackFogWarpVolume))]
+        public static bool ForWarpDetector_TrackFogWarpVolume_Prefix() {
+            TranslationForTheOutsider.Instance.Log("TrackForWarpVolume now.");
+            return true;
+        }
+
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(FogWarpVolume), nameof(FogWarpVolume.WarpDetector))]
+        public static bool FogWarpVolume_WarpDetector_Prefix() {
+            TranslationForTheOutsider.Instance.Log("Warped maybe.");
+            return !_projecting;
+        }
+
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(FogWarpDetector), nameof(FogWarpDetector.FixedUpdate))]
+        public static bool FogWarpDetector_FixedUpdate_Prefix() {
+            return !_projecting;
         }
     }
 }
