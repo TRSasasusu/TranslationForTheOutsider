@@ -118,5 +118,38 @@ namespace TranslationForTheOutsider {
         public static bool FogWarpDetector_FixedUpdate_Prefix() {
             return !_projecting;
         }
+
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(StreamingRenderMeshHandle), nameof(StreamingRenderMeshHandle.LoadMesh))]
+        public static bool StreamingRenderMeshHandle_LoadMesh_Prefix(StreamingRenderMeshHandle __instance) {
+            if(__instance.meshIndex == 55) {
+                TranslationForTheOutsider.Instance.Log($"seed is loaded! ({__instance.name})");
+            }
+            return true;
+        }
+
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(StreamingRenderMeshHandle), nameof(StreamingRenderMeshHandle.UnloadMesh))]
+        public static bool StreamingRenderMeshHandle_UnloadMesh_Prefix(StreamingRenderMeshHandle __instance) {
+            if(__instance.meshIndex == 55) {
+                TranslationForTheOutsider.Instance.Log($"seed is unloaded! ({__instance.name})");
+            }
+            return true;
+        }
+
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(NomaiRemoteCameraStreaming), nameof(NomaiRemoteCameraStreaming.NomaiRemoteCameraPlatformIDToSceneName))]
+        public static bool NomaiRemoteCameraStreaming_NomaiRemoteCameraPlatformIDToSceneName_Prefix(NomaiRemoteCameraPlatform.ID id, ref string __result) {
+            // DarkBramble's SharedStone (i.e., projection stone) in Ash Twin Project has an id (i.e., _connectedPlatform), 100.
+            // This code replace an empty string result as StreamingGroup of "DarkBramble" in L50 of NomaiRemoteCameraStreaming.cs (in its FixedUpdate)
+            //   - _sceneName of StreamingGroup of DarkBramble is "DarkBramble", so it works.
+            // The Outsider did not fix this function but fixed IDToPlanetString, see https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/blob/65d297e9e2a9e02c7ea40c72b1a109c440a0b2e0/TheOutsider/OuterWildsHandling/OWPatches.cs#L283
+            if ((int)id == 100) {
+                TranslationForTheOutsider.Instance.Log("id to darkbramble.");
+                __result = "DarkBramble";
+                return false;
+            }
+            return true;
+        }
     }
 }
