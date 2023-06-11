@@ -23,23 +23,21 @@ namespace TranslationForTheOutsider {
             TranslationForTheOutsider.Instance.Log($"{nameof(IssueOfTheOutsiderPatch)} is initialized.");
         }
 
+        // Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/7
         [HarmonyFinalizer]
         [HarmonyPatch(typeof(NomaiTranslatorProp), nameof(NomaiTranslatorProp.UpdateTimeFreeze))]
         public static Exception NomaiTranslatorProp_UpdateTimeFreeze_Finalizer(Exception __exception) {
-            // Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/7
-
             if(!TranslationForTheOutsider.Instance.IsFixIssuesOfTheOutsider) {
                 return __exception;
             }
             return null;
         }
 
+        // Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/8
         [HarmonyPrefix]
         [HarmonyPatch(typeof(ShipLogManager), nameof(ShipLogManager.Awake))]
         [HarmonyAfter(new string[] {"SBtT.TheOutsider"})]
         public static void ShipLogManager_Awake_Prefix(ShipLogManager __instance) {
-            // Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/8
-
             if(!TranslationForTheOutsider.Instance.IsFixIssuesOfTheOutsider) {
                 return;
             }
@@ -67,6 +65,7 @@ namespace TranslationForTheOutsider {
             TranslationForTheOutsider.Instance.Log("ShipLog's card positions are fixed.");
         }
 
+        // ### Start: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/9 ###
         [HarmonyPrefix]
         [HarmonyPatch(typeof(NomaiRemoteCameraPlatform), nameof(NomaiRemoteCameraPlatform.SwitchToRemoteCamera))]
         public static bool NomaiRemoteCameraPlatform_SwitchToRemoteCamera_Prefix() {
@@ -120,5 +119,6 @@ namespace TranslationForTheOutsider {
             }
             return true;
         }
+        // ### End: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/9 ###
     }
 }
