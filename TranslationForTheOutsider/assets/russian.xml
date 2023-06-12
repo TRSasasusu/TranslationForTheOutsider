@@ -143,7 +143,7 @@
   </entry>
   <entry>
     <key>ScientistAnswerNEW_...I think you need to wake up a bit from your pre-launch campout. Do a couple of jumps, maybe.</key>
-    <value>...Я думаю, тебе стоит немного размяться после предстартовой ночёвки. Попрыгай что ли...</value>
+    <value>...Я думаю, тебе стоит немного размяться после предстартовой ночёвки. Попрыгай, что ли...</value>
   </entry>
   <entry>
     <key>FeldsparRecording_Trip 4, entry #... who cares. Crashes: 2. Boring crashes: 0.</key>
@@ -151,7 +151,7 @@
   </entry>
   <entry>
     <key>FeldsparRecording_Well Dark Bramble, here I am! Saw what I though were two crashed ships over there, but it sorta looks intentional?</key>
-    <value>Ну что же, Чёрный Терновник, вот и я! Видел тут неподалёку два разбитых корабля. Ощущение будто это было сделано... намеренно?</value>
+    <value>Ну что же, Чёрный Терновник, вот и я! Видел тут неподалёку два разбитых корабля. Ощущение, будто это было сделано... намеренно?</value>
   </entry>
   <entry>
     <key>FeldsparRecording_One looks Nomaian but the other one I’ve got no clue.</key>
@@ -187,7 +187,7 @@
   </entry>
   <entry>
     <key>FeldsparFeldsparPrimaryMenu_Can you help me figure something out?</key>
-    <value>Можешь помочь прояснить мне кое что?</value>
+    <value>Можешь помочь прояснить мне кое-что?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparSecondary_Can you help me figure something out?</key>
@@ -203,11 +203,11 @@
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOut_There’s a painting in the Village that I think is hiding a room behind it.</key>
-    <value>Я видел картину в одном из домов поселения. Она выглядит подозрительно, тебе так не кажется?</value>
+    <value>Я видел картину в одном из домов поселения. Она выглядит подозрительно, не находишь?</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOut_How might I get to the top of the Study Tower?</key>
-    <value>Как мне подняться на верх Исследовательской башни? </value>
+    <value>Как мне подняться на верх Исследовательской башни?</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOut_How might I find the Projection Pool House?</key>
@@ -235,7 +235,7 @@
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOutResponseA_And... how do I find out what they are?</key>
-    <value>Ну и... как понять что они из себя представляют?</value>
+    <value>Ну и... как понять, что они из себя представляют?</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseA1_Cool. Glad I could be of help.</key>
@@ -243,7 +243,7 @@
   </entry>
   <entry>
     <key>FigureSomethingOutResponseA2_Well, I don’t know. Explore! Look around! Ask someone! ...else!</key>
-    <value>Понятия не имею! Мы говорим о технологии давно вымершей цивилизации, тут может быть всё что угодно!</value>
+    <value>Понятия не имею! Мы говорим о технологии давно вымершей цивилизации! Тут может быть всё, что угодно!</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseA2_Try to get somewhere hard to reach. There’s usually good stuff in hard to reach places.</key>
@@ -255,7 +255,7 @@
   </entry>
   <entry>
     <key>FigureSomethingOut4_Uhhhmmm.</key>
-    <value>Не припомню такую планету в нашей системе, интересно...</value>
+    <value>Не припомню такую планету в нашей системе. Интересно...</value>
   </entry>
   <entry>
     <key>FigureSomethingOut4_Uuuuuuuuuuuuuuuuuhhhhhhhhhhhhhhhhhhhh.</key>
@@ -263,7 +263,7 @@
   </entry>
   <entry>
     <key>FigureSomethingOutResponseC_Hhhhhmmmmmmmmmmmm.</key>
-    <value>Интересно... Я бы не отказался там побывать.</value>
+    <value>Любопытно... Я бы не отказался там побывать.</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOutResponseC_...Nevermind, I’ll... figure it out myself.</key>
@@ -279,7 +279,7 @@
   </entry>
   <entry>
     <key>FigureSomethingOutResponseC1_Well, if you need help with anything else, I'll be sitting right here.</key>
-    <value>Если понадобится помощь с чем-нибудь ещё, я буду сидеть здесь.</value>
+    <value>Если понадобится помощь с чем-нибудь ещё, обращайся.</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseC2_Uhhhhhhhhhh.</key>
@@ -291,7 +291,7 @@
   </entry>
   <entry>
     <key>FigureSomethingOutResponseC2_MMMMMMMMMMMMMMMMM!!!!!!!!!!!!!!!!!!!!</key>
-    <value>Ну если только там...</value>
+    <value>Ну, если только там...</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseC2_...Nah. I got nothing.</key>
@@ -299,7 +299,7 @@
   </entry>
   <entry>
     <key>FigureSomethingOutResponseD_Someone turned off the ideas lightbulb above my head, I guess.</key>
-    <value>В голове словно что-то промелькнуло и исчезло. Будто проблеск света померк в моей голове... </value>
+    <value>В голове словно что-то промелькнуло и исчезло. Будто проблеск света померк в моей голове...</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOutResponseD_...What does that even mean?</key>
@@ -311,7 +311,7 @@
   </entry>
   <entry>
     <key>FigureSomethingOutResponseD1_You tell me, hatchling. You tell me.</key>
-    <value>Нужно устаканить все свои мысли в голове. Приходи через час-другой.</value>
+    <value>Нужно собрать все свои мысли в голове. Приходи через час-другой.</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseD2_Yeah, catch ya later, hatchling. Sorry I couldn’t be of more help.</key>
@@ -323,7 +323,7 @@
   </entry>
   <entry>
     <key>FigureSomethingOut1_Ah yes, the stairs have collapsed, right? Well, then you’ll need to find something else to get you up through the staircase, won’t you?</key>
-    <value>Да уж, видимо лестница обрушилась. Значит... тебе нужно попробовать попасть туда каким-нибудь другим способом. Может, стоит просто подождать.</value>
+    <value>Да уж... Видимо, лестница обрушилась. Значит... тебе нужно попробовать попасть туда каким-нибудь другим способом. Может, стоит просто подождать. Возможно, что-то сможет поднять тебя наверх.</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseB_Yup.</key>
@@ -351,7 +351,7 @@
   </entry>
   <entry>
     <key>FigureSomethingOut2_Oh, it fell in here, did it? Well then you’re not going to find it by randomly wandering around this place...</key>
-    <value>Ну, если ты не собираешься просто блуждать и проверять каждый закаулок...</value>
+    <value>Вряд ли ты быстро найдёшь его, если будешь просто проверять каждый закоулок...</value>
   </entry>
   <entry>
     <key>FigureSomethingOut2_So, do what you did to find me! ...Though, I doubt it’s sending out a signal like I am, so... that might be a problem.</key>
@@ -359,15 +359,15 @@
   </entry>
   <entry>
     <key>FigureSomethingOut2_Hey, you’re smart. You’ll figure something out.</key>
-    <value>Думаю, ты что-нибудь придумаешь. Я в тебя верю.</value>
+    <value>Думаю, ты что-нибудь придумаешь. Ты же умный, справишься.</value>
   </entry>
   <entry>
     <key>FigureSomethingOut3_Ha, you found that too? Well, if you payed attention, you might have noticed that the door is actually on Dark Bramble’s surface.</key>
-    <value>Ты тоже нашёл её? Что же, если ты заметил, эта дверь находится практически на поверхности Чёрного Терновника. Следовательно, решение лежит где-то... на поверхности.</value>
+    <value>Ты тоже нашёл её? Что же, если ты заметил, эта дверь находится практически на поверхности Чёрного Терновника. Следовательно, решение может лежать где-то... на поверхности.</value>
   </entry>
   <entry>
     <key>FigureSomethingOut3_So, maybe the solution... lies on the surface.</key>
-    <value>Ладно, в моей голове этот каламбур звучал смешнее. По крайней мере, благодаря этому пути я могу выйти на поверхность Терновника и ещё раз взглянуть на Камелёк...</value>
+    <value>Ладно, в моей голове этот каламбур звучал смешнее. По крайней мере, благодаря этому пути я могу выйти на поверхность Терновника и вновь взглянуть на Камелёк...</value>
   </entry>
   <entry>
     <key>FigureSomethingOutCancel_Alright. It’s always more fun that way, anyway, so good call.</key>
@@ -387,15 +387,15 @@
   </entry>
   <entry>
     <key>FoundSomethingNew1_Damn. Are you trying to out-Feldspar me? Well done, hatchling, proud of you.</key>
-    <value>Пытаешься переплюнуть меня в крутости? Молодец.</value>
+    <value>Пытаешься переплюнуть меня в крутости? Молодец, горжусь!</value>
   </entry>
   <entry>
     <key>FoundSomethingNew1_(Hmm... now what could I do to top that maneuver?)</key>
-    <value>Хм... Интересно, чем же мне на это ответить?</value>
+    <value>Хм... Интересно, и чем же мне на это ответить?</value>
   </entry>
   <entry>
     <key>FoundSomethingNew1_(Oh, I know! I could land on that Sun Station thing!)</key>
-    <value>Я знаю! Можно было бы попробовать сесть на ту околосолнечную конструкцию...</value>
+    <value>Я знаю! Можно было бы попробовать сесть на ту штуку на орбите солнца...</value>
   </entry>
   <entry>
     <key>FoundSomethingNew1_(...)</key>
@@ -439,7 +439,7 @@
   </entry>
   <entry>
     <key>PulledOffDarkBramble_Hmm? Oh, yeah. Giant's Deep sure earns it's name, huh?</key>
-    <value>Хм... Действительно. «Пучина Гиганта» - планета определённо заслуживает своё название.</value>
+    <value>Хм... Действительно. Пучина Гиганта определённо заслуживает своё название.</value>
   </entry>
   <entry>
     <key>PulledOffDarkBramble_Anyway, here comes the sun.</key>
@@ -451,7 +451,7 @@
   </entry>
   <entry>
     <key>HowDoYouStayCalm_The sun is exploding right now, so I could ask the same to you... but seriously, I meditate.</key>
-    <value>Учитывая взрыв солнца, у меня аналогичный вопрос к тебе... Ладно, если серьёзно, я медитирую.</value>
+    <value>Если задуматься, то прямо сейчас над нами, вот за этими облаками, наше солнце коллапсирует и превращается в сверхновую... Так что у меня аналогичный вопрос к тебе... Ладно, если серьёзно, я медитирую.</value>
   </entry>
   <entry>
     <key>MeditateMenu_Want me to teach you? It'll be the next loop before you know it. ...Either way.</key>
@@ -467,11 +467,11 @@
   </entry>
   <entry>
     <key>WhereToExplore_merge_Here’s something you might like — the sun is about to blow up. I'll talk to you next loop, is that alright?</key>
-    <value>Мы и так вот-вот сгорим заживо, давай поговорим об этом в следующей петле. Хорошо?</value>
+    <value>Мы и так вот-вот сгорим заживо. Давай поговорим об этом в следующей петле. Хорошо?</value>
   </entry>
   <entry>
     <key>ThisPlanet_merge_...Oh, you meant, like, tell you more about it? I gotcha. Well, I'll talk next loop. Sound good?</key>
-    <value>...Но лучше я тебе расскажу о ней в следующем цикле. В этом уже не успею. Ладно?</value>
+    <value>А, ты хочешь узнать о ней больше? Ну что ж ...Знаешь, лучше я тебе расскажу о ней в следующем цикле. В этом уже не успею. Ладно?</value>
   </entry>
   <entry>
     <key>GabbrosShip_Well, I'll worry about it another loop.</key>
@@ -479,7 +479,7 @@
   </entry>
   <entry>
     <key>FoundSomethingMenu_Nice, nice. How about you tell me all about it next loop? No need to rush.</key>
-    <value>Время на исходе. Давай в следующем цикле, спешить всё равно некуда.</value>
+    <value>Очень хорошо... Но время на исходе. Так что давай в следующем цикле. Спешить нам всё равно некуда.</value>
   </entry>
   <entry>
     <key>GabbroMain_Hey, it's getting near the end of the loop, huh?</key>
@@ -555,11 +555,11 @@
   </entry>
   <entry>
     <key>DATURA: These seed things are great! Saved having to build giant long cables everywhere.</key>
-    <value>ДУРМАН: Эти семена просто спасение! Избавили от нужды прокладывать повсюду эти гигантские кабели.</value>
+    <value>ДУРМАН: Эти семена - просто спасение! Избавили от нужды прокладывать повсюду эти гигантские кабели.</value>
   </entry>
   <entry>
     <key>DATURA: It’s pretty cool, huh?</key>
-    <value>ДУРМАН: Выглядит неплохо, да?</value>
+    <value>ДУРМАН: Выглядит неплохо, верно?</value>
   </entry>
   <entry>
     <key>&lt;color=orange&gt;WARNING:&lt;/color&gt; Coronal Mass Ejection!</key>
@@ -589,11 +589,11 @@
   </entry>
   <entry>
     <key>DATURA: Not sure what I’m going to do with my shuttle. Suppose I’ll camp here for now. It’s actually quite nice! In this air pocket, anyway. Weird trees.</key>
-    <value>ДУРМАН: Не знаю, что буду делать со своим шаттлом. Полагаю, пока стоит разбить лагерь тут. На самом деле, здесь довольно мило! Во всяком случае, конкретно на этой льдине. Хотя эти деревья выглядят странно.</value>
+    <value>ДУРМАН: Не знаю, что буду делать со своим шаттлом. Полагаю, пока стоит разбить лагерь тут. На самом деле здесь довольно мило! Во всяком случае, конкретно на этой льдине. Хотя эти деревья выглядят странно.</value>
   </entry>
   <entry>
     <key>DATURA: Ugh. Yarrow... I know your intentions are good, but maybe it’s time to give up the obsession with the Eye. You know, the whole ’letting go’ thing everyone goes on about.</key>
-    <value>ДУРМАН: Эх... &lt;color=#ffff00&gt;Милле&lt;/color&gt;. Твои стремления, конечно, похвальны. Но может настало время перестать быть одержимым Оком? Пройти уже наконец через все эти «пять стадий принятия», как это уже сделал я.</value>
+    <value>ДУРМАН: Эх, &lt;color=#ffff00&gt;Милле&lt;/color&gt;... Твои стремления, конечно, похвальны. Но может, настало время перестать быть одержимым Оком? Пройти уже, наконец, через все эти «пять стадий принятия», как это уже сделал я.</value>
   </entry>
   <entry>
     <key>DATURA: Jetpacking around this planet is quite fun! I should keep a couple eyes on my fuel, though.</key>
@@ -609,7 +609,7 @@
   </entry>
   <entry>
     <key>DATURA: But here I am on Dark Bramble! ...alone. ...Ugh, I have to focus. I’m on a mission!</key>
-    <value>ДУРМАН: Но вот я на Чёрном Терновнике! В полном одиночестве... Мне нужно сосредоточиться, я тут не в игры играю.</value>
+    <value>ДУРМАН: Но вот я на Чёрном Терновнике! В полном одиночестве... Мне нужно сосредоточиться. Я тут не в игры играю.</value>
   </entry>
   <entry>
     <key>Here lies my first house. Murdered by Giant’s Deep.</key>
@@ -619,7 +619,7 @@
   <!-- Shuttle Crusher: Three Panels: Start -->
   <entry>
     <key>DATURA: Right, the shuttle is just sitting here, and I can’t send it back without sending ME back, so...</key>
-    <value>ДУРМАН: Итак, шаттл всё равно стоит без дела, и я не смогу удалённо отправить его обратно, так что...</value>
+    <value>ДУРМАН: Итак, шаттл всё равно стоит без дела, и я не смогу удалённо отправить его обратно. Так что...</value>
   </entry>
   <entry>
     <key>DATURA: I’m gonna smash it to bits! It’ll be... symbolic.</key>
@@ -639,7 +639,7 @@
   </entry>
   <entry>
     <key>DATURA: And the warp core fell out, so I went over to grab it - might be useful, I thought. But after returning to the shelter here to use the device a second time, the shuttle blew up!</key>
-    <value>ДУРМАН: Я подошёл, чтобы взять его - мало ли, вдруг пригодится. Но когда я вернулся, чтобы повторно использовать пресс - шаттл взорвался!</value>
+    <value>ДУРМАН: Я подошёл, чтобы взять его. Мало ли, вдруг пригодится. Но когда я вернулся, чтобы повторно использовать пресс, шаттл взорвался!</value>
   </entry>
   <entry>
     <key>DATURA: Mission accomplished. But also wow, I almost died! I should be more careful...</key>
@@ -647,11 +647,11 @@
   </entry>
   <entry>
     <key>DATURA: Update... again: I’ve set up a Projection Pool on the ice island west from here, so I can talk to Filix and my daughter.</key>
-    <value>ДУРМАН: Новые данные: я установил проекционный бассейн на острове, к западу отсюда. Теперь у меня есть связь с &lt;color=#00ffff&gt;Осмундой&lt;/color&gt; и с моей дочерью.</value>
+    <value>ДУРМАН: Новые данные: я установил проекционный бассейн на острове к западу отсюда. Теперь у меня есть связь с &lt;color=#00ffff&gt;Осмундой&lt;/color&gt; и с моей дочерью.</value>
   </entry>
   <entry>
     <key>DATURA: ...But instead, Bells and Pye called, informing me the <![CDATA[<color=lightblue>Gravity Cannons</color>]]> were improved a bit since I left - they, too, realised the issue of my shuttle being stuck here.</key>
-    <value>ДУРМАН: Со мной связались &lt;color=#ff00ff&gt;Бадан&lt;/color&gt; и Таволга. Они сообщили, что <![CDATA[<color=orange>гравитационные пушки</color>]]> были немного усовершенствованы после моего «отъезда» - видимо они тоже поняли, что я не смогу отправить шаттл назад самостоятельно.</value>
+    <value>ДУРМАН: Со мной связались &lt;color=#ff00ff&gt;Бадан&lt;/color&gt; и Таволга. Они сообщили, что <![CDATA[<color=orange>гравитационные пушки</color>]]> были немного усовершенствованы после моего «отъезда». Видимо, они тоже поняли, что я не смогу отправить шаттл назад самостоятельно.</value>
   </entry>
   <entry>
     <key>DATURA: They told me that they were trying to recall it from the <![CDATA[<color=lightblue>Gravity Cannon</color>]]>, but the switch they had added wasn’t working for some reason, and told me to check if there was something up with my shuttle... Hahaha... Uh... Whoops...</key>
@@ -665,11 +665,11 @@
   </entry>
   <entry>
     <key>DATURA: Friend asked why I've written and am writing my thoughts and leaving them around the place. I told them it's kinda a Nomai thing.</key>
-    <value>ДУРМАН: &lt;color=#00ff00&gt;Друг&lt;/color&gt; спросил, почему я везде оставляю записи своих мыслей. Я ответил, что стенография важных событий является частью нашей культуры. Мы записываем то, что считаем «важным». А поскольку я - первый и пока что единственный номаи, который обживается на практически неизведанной нами планете - «важным» считается почти всё.</value>
+    <value>ДУРМАН: &lt;color=#00ff00&gt;Друг&lt;/color&gt; спросил, почему я везде оставляю записи своих мыслей. Я ответил, что стенография важных событий является частью нашей культуры. Мы записываем то, что считаем «важным». А поскольку я - первый и пока что единственный номаи, который обживается на практически неизведанной нами планете, то «важным» считается почти всё.</value>
   </entry>
   <entry>
     <key>DATURA: Nomai are <![CDATA[<i>]]>(or are supposed to be)<![CDATA[</i>]]> nomads, so I suppose it's a way of telling other Nomai clans ’HA HA! We were here first!’</key>
-    <value>ДУРМАН: Ну и к тому же, номаи - кочевники <![CDATA[<i>]]>(увы, не наш случай)<![CDATA[</i>]]>, поэтому это также способ указать другим кланам что-то вроде «мы были здесь первыми!»</value>
+    <value>ДУРМАН: Ну и к тому же номаи - кочевники <![CDATA[<i>]]>(увы, не наш случай)<![CDATA[</i>]]>. Поэтому это также способ указать другим кланам что-то вроде «мы были здесь первыми!»</value>
   </entry>
   <entry>
     <key>DATURA: Or warn them of dangers or cool stuff or something.</key>
@@ -681,17 +681,17 @@
   </entry>
   <entry>
     <key>DATURA: Friend was a bit confused why I wasn't using the device again, but I assured them I knew what I was doing. We waited... and waited... then, bang! Their ship exploded too. Then they understood.</key>
-    <value>ДУРМАН: Мы ждали... И тут он взовался с оглушительным грохотом! Корабль разнесло на куски. А ведь один из них мог полететь и в нашу сторону... Повезло. Благо, ничего взрывать больше не придётся. Я надеюсь...</value>
+    <value>ДУРМАН: Мы ждали... И тут он взорвался с оглушительным грохотом! Корабль разнесло на куски. А ведь один из них мог полететь и в нашу сторону... Повезло. Благо, ничего взрывать больше не придётся. Я надеюсь...</value>
   </entry>
   <entry>
     <key>DATURA: Friend used to go off to their clan occasionally. Perhaps building a house here made it so they don't need to? Anyway, I'm glad you're here, Friend.</key>
-    <value>ДУРМАН: &lt;color=#00ff00&gt;Друг&lt;/color&gt; иногда использовал свой корабль, когда улетал обратно к себе, в свой клан. Возможно, что когда дом был, наконец, построен, он избавился от этой необходимости. В любом случае, я рад, что ты остаёшься здесь, &lt;color=#00ff00&gt;Друг&lt;/color&gt;.</value>
+    <value>ДУРМАН: &lt;color=#00ff00&gt;Друг&lt;/color&gt; иногда использовал свой корабль, когда улетал обратно к себе в свой клан. Возможно, что когда дом был, наконец, построен, он избавился от этой необходимости. В любом случае, я рад, что ты остаёшься здесь, &lt;color=#00ff00&gt;Друг&lt;/color&gt;.</value>
   </entry>
   <!-- Shuttle Crusher: Crush Ship of Friend: End -->
   <!-- Shuttle Crusher: Call to Solanum: Start -->
   <entry>
     <key>DATURA: Hey little one! You’ll be off to the school on Brittle Hollow soon! (With no railings above a black hole.) I imagine you’ll be glad to get away from all this sand, eh?</key>
-    <value>ДУРМАН: Привет, малышка! Скоро ты отправишься в школу на Пустотную Сферу! Там ещё не везде стоят перила, так что будь осторожней, не упади случайно в чёрную дыру... В любом случае, я думаю, что ты будешь рада наконец улететь подальше от этой груды песка.</value>
+    <value>ДУРМАН: Привет, малышка! Скоро ты отправишься в школу на Пустотную Сферу! Там ещё не везде стоят перила, так что будь осторожней, не упади случайно в чёрную дыру... В любом случае, я думаю, что ты будешь рада, наконец, улететь подальше от этой груды песка.</value>
   </entry>
   <entry>
     <key>SOLANUM: Yeah, but I don’t like that Mom is going to be the teacher!</key>
@@ -707,11 +707,11 @@
   </entry>
   <entry>
     <key>DATURA: Oh, uh. Right. Well, let’s see... Filix detected a signal on the Vessel - a signal from something older than the universe. Spooky. And we can’t find the signal anymore, so... I mean that’s it really.</key>
-    <value>ДУРМАН: Ну хорошо. Давай вкратце... &lt;color=#00ffff&gt;Осмунда&lt;/color&gt; обнаружила сигнал, когда мы летели на &lt;color=orange&gt;«Звездолёте»&lt;/color&gt; - сигнал от чего-то более древнего, чем сама Вселенная. Жутко... К сожалению, он довольно скоро пропал и с тех пор мы не можем найти его источник... Вот и всё.</value>
+    <value>ДУРМАН: Ну хорошо. Давай вкратце... &lt;color=#00ffff&gt;Осмунда&lt;/color&gt; обнаружила сигнал, когда мы летели на &lt;color=orange&gt;«Звездолёте»&lt;/color&gt;. Сигнал от чего-то более древнего, чем сама Вселенная. Жутко... К сожалению, мы до сих пор не можем найти его источник... Вот и всё.</value>
   </entry>
   <entry>
     <key>SOLANUM: The Vessel. That was the other thing! What happened to the Vessel?</key>
-    <value>СОЛАНУМ: Ещё кое что... &lt;color=orange&gt;«Звездолёт»&lt;/color&gt;! Что с ним случилось?</value>
+    <value>СОЛАНУМ: Ещё кое-что... &lt;color=orange&gt;«Звездолёт»&lt;/color&gt;! Что с ним случилось?</value>
   </entry>
   <entry>
     <key>DATURA: Oh... Darling, that’s... not a happy story. Another time, maybe.</key>
@@ -719,7 +719,7 @@
   </entry>
   <entry>
     <key>SOLANUM: Aw! But I’m curious!</key>
-    <value>СОЛАНУМ: Ну папа! Мне интересно!</value>
+    <value>СОЛАНУМ: Ну, папа! Мне интересно!</value>
   </entry>
   <entry>
     <key>DATURA: You’re curious, are you? Well, alright. But don’t tell your mother I didn’t warn you.</key>
@@ -731,15 +731,15 @@
   </entry>
   <entry>
     <key>DATURA: I was reading in the library, when suddenly we warp! But, on our arrival there was a horrible screeching sound! We had crashed. I try to look for your mother, but I am forced onto an Escape Pod.</key>
-    <value>ДУРМАН: И вот однажды, когда я был в библиотеке, мы неожиданно прыгнули! Но по прибытию, раздался ужасающий грохот - мы потерпели крушение. Я пытался найти твою маму, но меня быстро заставили сесть в &lt;color=orange&gt;спасательную капсулу&lt;/color&gt;.</value>
+    <value>ДУРМАН: И вот однажды, когда я был в библиотеке, мы неожиданно прыгнули! Но по прибытию раздался ужасающий грохот. Мы потерпели крушение. Я пытался найти твою маму, но меня быстро заставили сесть в &lt;color=orange&gt;спасательную капсулу&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>DATURA: I landed on Ember Twin, and Filix landed on Brittle Hollow. Both groups had to rebuild to survive.</key>
-    <value>ДУРМАН: Моя капсула приземлилась на Часе Угля, а капсула &lt;color=#00ffff&gt;Осмунды&lt;/color&gt; - на Пустотной Сфере. Обе группы были вынуждены оторванно друг от друга обживаться в этой звёздной системе.</value>
+    <value>ДУРМАН: Моя капсула приземлилась на Часе Угля, а капсула &lt;color=#00ffff&gt;Осмунды&lt;/color&gt; - на Пустотной Сфере. Обе группы были вынуждены оторвано друг от друга обживаться в этой звёздной системе.</value>
   </entry>
   <entry>
     <key>DATURA: Many years passed until finally, a shuttle was sent from Brittle Hollow, and we were reunited. Us on Ember Twin were then told why we crashed, and about the Eye. After that, the... failed efforts to find the Eye began.</key>
-    <value>ДУРМАН: Прошло много лет, когда с Пустотной Сферы к нам был отправлен первый шаттл, и мы, наконец, воссоединились. Нам, жителям Часа Угля, рассказали об Оке и о том, почему мы потерпели крушение. После этого начались... многочисленные неудачные попытки найти Око.</value>
+    <value>ДУРМАН: Прошло много лет, когда с Пустотной Сферы к нам был отправлен первый шаттл и мы, наконец, воссоединились. Нам, жителям Часа Угля, рассказали об Оке и о том, почему мы потерпели крушение. После этого начались... многочисленные неудачные попытки найти Око.</value>
   </entry>
   <entry>
     <key>SOLANUM: Did everyone get to an escape pod?!</key>
@@ -759,11 +759,11 @@
   </entry>
   <entry>
     <key>SOLANUM: Are they alright?</key>
-    <value>СОЛАНУМ: Номаи там... Они впорядке?!</value>
+    <value>СОЛАНУМ: Номаи там... С ними всё в порядке?!</value>
   </entry>
   <entry>
     <key>DATURA: Uh, maybe! We haven’t been able to contact them yet, if they are still al... alright.</key>
-    <value>ДУРМАН: Надеюсь! У нас так и не получилось связаться с ними. Возможно, они не выжи... То есть, да, нам пока ещё не получилось связаться.</value>
+    <value>ДУРМАН: Надеюсь! У нас так и не получилось связаться с ними. Возможно, они не выжи... То есть да, нам пока ещё не получилось связаться.</value>
   </entry>
   <entry>
     <key>SOLANUM: Oh...</key>
@@ -803,7 +803,7 @@
   </entry>
   <entry>
     <key>DATURA: I’ve repurposed the warp core from my shuttle to warp ME! Just in case an... Ju-Just in case.</key>
-    <value>ДУРМАН: Я использовал это гиперядро от моего шаттла для варп-платформы. Просто на случай, если... Просто на всякий случай.</value>
+    <value>ДУРМАН: Я использовал это гиперядро от моего шаттла для варп-платформы. Просто на случай если... Просто на всякий случай.</value>
   </entry>
   <entry>
     <key>DATURA: Update: I’ve caught one! A small one, but I’ve caught one!</key>
@@ -811,7 +811,7 @@
   </entry>
   <entry>
     <key>DATURA: Can’t wait to bring some of this to my shelter at the &lt;color=orange&gt;South Pole&lt;/color&gt;!</key>
-    <value>ДУРМАН: Не могу дождаться, когда наконец смогу поближе изучить его в своём убежище на &lt;color=orange&gt;южном полюсе&lt;/color&gt;!</value>
+    <value>ДУРМАН: Не могу дождаться, когда, наконец, смогу поближе изучить его в своём убежище на &lt;color=orange&gt;южном полюсе&lt;/color&gt;!</value>
   </entry>
   <entry>
     <key>DATURA: It would seem sneaking around them works. They appear to be blind!</key>
@@ -841,7 +841,7 @@
   </entry>
   <entry>
     <key>DATURA: And there was nothing he could do, but wait... and die.</key>
-    <value>ДУРМАН: Когда всё что он мог сделать - это медленно отсчитывать минуты до своей смерти...</value>
+    <value>ДУРМАН: Когда всё, что он мог сделать - это медленно отсчитывать минуты до своей смерти...</value>
   </entry>
   <entry>
     <key>DATURA: I... feel sorry for him.</key>
@@ -869,15 +869,15 @@
   </entry>
   <entry>
     <key>DATURA: So I tell him, and he was actually quite interested - enthused even. I argued we should use this knowledge to reach the Vessel, which he surprisingly agreed with. This conversation was going suspiciously well.</key>
-    <value>ДУРМАН: Я рассказал ему о своём открытии, он был очень заинтересован - даже воодушевлён. Я предположил, что мы можем использовать слепоту удильщиков, чтобы безопасного добраться до &lt;color=orange&gt;«Звездолёта»&lt;/color&gt;, с чем он, на удивление, согласился. Разговор шёл подозрительно хорошо.</value>
+    <value>ДУРМАН: Я рассказал ему о своём открытии. Он был очень заинтересован, даже воодушевлён. Я предположил, что мы можем использовать слепоту удильщиков, чтобы безопасного добраться до &lt;color=orange&gt;«Звездолёта»&lt;/color&gt;, с чем он, на удивление, согласился. Разговор шёл подозрительно хорошо.</value>
   </entry>
   <entry>
     <key>DATURA: However, then he explained to me some Supernova-Time-Travel-complete nonsense plan he and Ramie were considering, which required an advanced warp core (which the Vessel has).</key>
-    <value>ДУРМАН: Однако потом &lt;color=#ffff00&gt;Милле&lt;/color&gt; рассказал мне про &lt;color=orange&gt;проект «Час Пепла»&lt;/color&gt;. Какой-то абсурдный план путешествий во времени, придуманный им с Рами, и который требовал мощного гиперядра, подобного тому, что есть на &lt;color=orange&gt;«Звездолёте»&lt;/color&gt;.</value>
+    <value>ДУРМАН: Однако потом &lt;color=#ffff00&gt;Милле&lt;/color&gt; рассказал мне про &lt;color=orange&gt;проект «Час Пепла»&lt;/color&gt;. Какой-то абсурдный план путешествий во времени, придуманный им с Рами, который требовал мощного гиперядра, подобного тому, что есть на &lt;color=orange&gt;«Звездолёте»&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>DATURA: The conversation went downhill rather quickly from there... After arguing a while, he ended the call.</key>
-    <value>ДУРМАН: Дальше беседа довольно быстро пошла по наклонной. Посовещавшись и поспорив ещё некоторое время, мы закончил разговор.</value>
+    <value>ДУРМАН: Дальше беседа довольно быстро пошла по наклонной. Посовещавшись и поспорив ещё некоторое время, мы закончили разговор.</value>
   </entry>
   <entry>
     <key>DATURA: ...Yarrow, I promise: One day, we’ll have a decent conversation. Or at least a neutral one.</key>
@@ -903,11 +903,11 @@
   </entry>
   <entry>
     <key>DATURA: No, surely it isn’t. It’s fine. Everything’s fine.</key>
-    <value>ДУРМАН: Нет, конечно же нет. Я уверен, что всё будет в порядке... Всё будет хорошо.</value>
+    <value>ДУРМАН: Нет, конечно же, нет. Я уверен, что всё будет в порядке... Всё будет хорошо.</value>
   </entry>
   <entry>
     <key>DATURA: ...I should call my daughter...</key>
-    <value>ДУРМАН: Мне надо поговорить со своей дочерью... </value>
+    <value>ДУРМАН: Мне надо поговорить со своей дочерью...</value>
   </entry>
   <!-- Study Tower: Disturbing: End -->
   <!-- Study Tower: Spherical Region: Start -->
@@ -917,11 +917,11 @@
   </entry>
   <entry>
     <key>DATURA: I’ve been attempting to locate what I saw. And hey, if I locate the Eye, then we can all return to our living quarters prematurely!</key>
-    <value>ДУРМАН: Какая-то планета была слишком близка к солнцу, и его свет мешал бы обзору. Где-то был риск постоянных бомбардировок, где-то небо было затянуто густыми облаками. Но Терновник подходил для этой цели идеально: вдали от солнца, при сильно разряженной атмосфере, и отсутствии лун... Ну, кроме квантовой.</value>
+    <value>ДУРМАН: Какая-то планета была слишком близка к солнцу, и его свет мешал бы обзору. Где-то был риск постоянных бомбардировок, где-то небо было затянуто густыми облаками. Но Терновник подходил для этой цели идеально: вдали от солнца, при сильно разряженной атмосфере и отсутствии лун... Ну, кроме квантовой.</value>
   </entry>
   <entry>
     <key>DATURA: An update: I’ve found it?! There’s a spherical region in space where the stars occasionally... flicker. As if those stars are... fake?</key>
-    <value>ДУРМАН: Новые данные: я приступил к поискам и... похоже что-то нашёл! Я увидел яркую мерцающую звезду, как будто бы движущуюся... ко мне?</value>
+    <value>ДУРМАН: Новые данные: я приступил к поискам и... похоже, что-то нашёл! Я увидел яркую мерцающую звезду, как будто бы движущуюся... ко мне?</value>
   </entry>
   <!-- Study Tower: Spherical Region: End -->
   <!-- Study Tower: Meet Friend: Start -->
@@ -931,7 +931,7 @@
   </entry>
   <entry>
     <key>DATURA: They sat on the walkway, and I sat with them, trying my best to comfort them - a happy person doesn’t come to Dark Bramble.</key>
-    <value>ДУРМАН: Существо сидело прямо на тропе... Я подсел к нему. Судя по всему, незнакомец грустил. Я... попытался успокоить его, в меру своих возможностей. Если подумать, на Чёрный Терновник весёлыми не отправляются.</value>
+    <value>ДУРМАН: Существо сидело прямо на тропе... Я подсел к нему. Судя по всему, незнакомец грустил. Я... попытался успокоить его в меру своих возможностей. Если подумать, на Чёрный Терновник весёлыми не отправляются.</value>
   </entry>
   <entry>
     <key>DATURA: It’s... nice to have company.</key>
@@ -939,7 +939,7 @@
   </entry>
   <entry>
     <key>DATURA: I’m not sure how much we have in common, but I hope we can be friends.</key>
-    <value>ДУРМАН: Не знаю сколько у нас общего, но надеюсь, что мы сможем стать друзьями.</value>
+    <value>ДУРМАН: Не знаю, сколько у нас общего, но надеюсь, что мы сможем стать друзьями.</value>
   </entry>
   <entry>
     <key>DATURA: Update: Seems like they’re staying for a while! I’ll start building a house for them at the &lt;color=orange&gt;South Pole&lt;/color&gt;.</key>
@@ -957,7 +957,7 @@
   <!-- Top of Tower: Start -->
   <entry>
     <key>DATURA: Lami got in my <![CDATA[<color=orange>Observatory</color>]]> again!</key>
-    <value>ДУРМАН: Мне снова привиделось как кто-то посторонний пробрался в мою &lt;color=orange&gt;обсерваторию&lt;/color&gt;!</value>
+    <value>ДУРМАН: Мне снова привиделось, как кто-то посторонний пробрался в мою &lt;color=orange&gt;обсерваторию&lt;/color&gt;!</value>
   </entry>
   <entry>
     <key>DATURA: Ah, I know! I’ll add a detector that locks the door, if another ship (other than ours) is on Dark Bramble’s surface!</key>
@@ -1005,7 +1005,7 @@
   </entry>
   <entry>
     <key>DATURA: Though, judging by my painting here, I have a lot to learn!</key>
-    <value>ДУРМАН: Хотя, глядя на моим картины... Определённо мне ещё есть чему поучиться.</value>
+    <value>ДУРМАН: Хотя, глядя на мои картины... Определённо, мне ещё есть чему поучиться.</value>
   </entry>
   <entry>
     <key>FRIEND: Talking is hard for me same. Not only you learning!</key>
@@ -1035,7 +1035,7 @@
   </entry>
   <entry>
     <key>DATURA: -record this. Hypothesis: I’ll need to listen back on this. So: You’re STILL looking for the Eye?</key>
-    <value>ДУРМАН: <![CDATA[<i>]]>Предположение: мне нужно будет прослушать это потом повторно, включаю запись.<![CDATA[</i>]]> ...Итак, вы всё ещё ищите Око?</value>
+    <value>ДУРМАН: <![CDATA[<i>]]>Предположение: мне нужно будет прослушать это потом повторно. Включаю запись.<![CDATA[</i>]]> ...Итак, вы всё ещё ищите Око?</value>
   </entry>
   <entry>
     <key>YARROW: ...Please... I really don’t enjoy arguments...</key>
@@ -1055,11 +1055,11 @@
   </entry>
   <entry>
     <key>DATURA: And it would be nice to not be trapped: Nomai are supposed to explore the universe! That’s... like our whole thing!</key>
-    <value>ДУРМАН: И было бы здорово наконец выбраться из этой западни. Номаи - вольные исследователи! Это... В этом наша суть!</value>
+    <value>ДУРМАН: И было бы здорово, наконец, выбраться из этой западни. Номаи - вольные исследователи! Это... В этом наша суть!</value>
   </entry>
   <entry>
     <key>YARROW: I know! ...I know. It’s just... finding the Eye ...is very important to us... All the Nomai who lost their lives coming here... We must find the Eye so they were not... all lost over nothing...</key>
-    <value>&lt;color=#ffff00&gt;МИЛЛЕ&lt;/color&gt;: Я знаю! ...Я знаю. Просто... Cвязаться с другим кланом куда сложнее, чем с другой планетой. Это куда более древняя технология и не факт, что нам получится её воссоздать. Да и столько времени прошло с момента нашего исчезновения - мы понятия не имеем, где сейчас находятся остальные кланы. Они могут быть где угодно... Ну и... найти Око... очень важно для нас... Все номаи, которые потеряли свои жизни, здесь... Мы должны найти Око, чтобы эти потери... не были напрасны...</value>
+    <value>&lt;color=#ffff00&gt;МИЛЛЕ&lt;/color&gt;: Я знаю! ...Я знаю. Просто... Связаться с другим кланом куда сложнее, чем с другой планетой. Это куда более древняя технология и не факт, что нам получится её воссоздать. Да и столько времени прошло с момента нашего исчезновения. Мы понятия не имеем, где сейчас находятся остальные кланы. Они могут быть где угодно... Ну и... найти Око... очень важно для нас... Все номаи, которые потеряли свои жизни здесь... Мы должны найти Око, чтобы эти потери... не были напрасны...</value>
   </entry>
   <entry>
     <key>DATURA: ...Right. I understand. ...Well, I’ll figure a way out of here myself, then. I suppose I’ll... find the old Vessel.</key>
@@ -1087,7 +1087,7 @@
   </entry>
   <entry>
     <key>YARROW: ...Oh. ...uh, okay. Well, just shout if you need me. (...Clary talked about me?)</key>
-    <value>&lt;color=#ffff00&gt;МИЛЛЕ&lt;/color&gt;: Шалфей говорила обо мне? Ой... То есть, да... Конечно. Если я вам понадоблюсь, то просто дайте мне знать.</value>
+    <value>&lt;color=#ffff00&gt;МИЛЛЕ&lt;/color&gt;: Шалфей говорила обо мне? Ой... То есть да... Конечно. Если я вам понадоблюсь, то просто дайте мне знать.</value>
   </entry>
   <entry>
     <key>FILIX: Thank you. ...Datura... We’ve already been apart for so long...</key>
@@ -1095,15 +1095,15 @@
   </entry>
   <entry>
     <key>DATURA: ...I know, and this hurts me just as much, but if no-one else is finding a way out of here... Well, do you want to come with me?</key>
-    <value>ДУРМАН: ...Я знаю, и это причиняет мне не меньшую боль, но если в этой звёздной системе больше никто не хочет найти выхода отсюда, значит... я его найду сам. Ты хочешь пойти со мной?</value>
+    <value>ДУРМАН: ...Я знаю, и это причиняет мне не меньшую боль. Но если в этой звёздной системе больше никто не хочет найти выхода отсюда, значит... я его найду сам. Ты хочешь пойти со мной?</value>
   </entry>
   <entry>
     <key>FILIX: I... can’t. I’m needed with search projects, Privet is my apprentice now, I’m a teacher at the new School District... and what about Solanum - our daughter? You can’t expect me to do all this alone...</key>
-    <value>&lt;color=#00ffff&gt;ОСМУНДА&lt;/color&gt;: Я... не могу. Мне всё ещё нужно учавствовать в проектах по поиску Ока, Дереза теперь моя ученица, а я учитель в новом школьном районе... И как же Соланум - наша дочь? Ты же не думаешь, что я со всем этим справлюсь одна?</value>
+    <value>&lt;color=#00ffff&gt;ОСМУНДА&lt;/color&gt;: Я... не могу. Мне всё ещё нужно участвовать в проектах по поиску Ока, Дереза теперь моя ученица, а я учитель в новом школьном округе... И как же Соланум - наша дочь? Ты же не думаешь, что я со всем этим справлюсь одна?</value>
   </entry>
   <entry>
     <key>DATURA: You can. I believe in you! And... I need you to believe in me, too. Please. I’ll... make one of those projection pools! It’ll be like I’m still here!</key>
-    <value>ДУРМАН: Ты справишься. Я в тебя верю! И... мне нужно, чтобы ты тоже в меня верила. Пожалуйста. Я... сделаю проекционный бассейн! И мы снова сможем общаться и видется друг с другом! Как если бы я был всё ещё здесь, с тобой!</value>
+    <value>ДУРМАН: Ты справишься. Я в тебя верю! И... мне нужно, чтобы ты тоже в меня верила. Пожалуйста. Я... сделаю проекционный бассейн! И мы снова сможем общаться и видеться друг с другом! Как если бы я был всё ещё здесь, с тобой!</value>
   </entry>
   <entry>
     <key>FILIX: ...(No it won’t.)</key>
@@ -1111,7 +1111,7 @@
   </entry>
   <entry>
     <key>DATURA: It’ll be alright. Come here. ...Here’s how it’ll go: I’ll set up a base on the planet, I’ll search for the Vessel, and once I’ve found it, I’ll come back.</key>
-    <value>ДУРМАН: Всё будет хорошо. Иди сюда. ...Я обустроюсь на планете и займусь поиском &lt;color=orange&gt;«Звездолёта»&lt;/color&gt;, и как только я его найду, вернусь обратно. Хорошо?</value>
+    <value>ДУРМАН: Всё будет хорошо. Иди сюда. ...Я обустроюсь на планете и займусь поиском &lt;color=orange&gt;«Звездолёта»&lt;/color&gt;. И как только я его найду, вернусь обратно. Хорошо?</value>
   </entry>
   <entry>
     <key>FILIX: ...Promise you will come back?</key>
@@ -1139,7 +1139,7 @@
   </entry>
   <entry>
     <key>DATURA: It is why we are trapped in this star system. And continue to be trapped, thanks to my clan searching for it instead of a way out of here.</key>
-    <value>ДУРМАН: Из-за него мы застряли в этой звёздной системе. И, скорее всего, надолго. Потому что, похоже, что все, кроме меня, одержимы поиском Ока, вместо того, чтобы попытаться выбраться из этой западни.</value>
+    <value>ДУРМАН: Из-за него мы застряли в этой звёздной системе. И скорее всего, надолго. Потому что похоже, что все кроме меня одержимы поиском Ока, вместо того, чтобы попытаться выбраться из этой западни.</value>
   </entry>
   <entry>
     <key>DATURA: To me, Yarrow and Ramie are Annona want-to-bes, attempting to make a discovery equivalent to his warp technology.</key>
@@ -1151,7 +1151,7 @@
   </entry>
   <entry>
     <key>DATURA: Friend revealed to me a disturbing discovery their clan made: the Eye DESTROYS THE ENTIRE UNIVERSE when interacting with it.</key>
-    <value>ДУРМАН: &lt;color=#00ff00&gt;Друг&lt;/color&gt; рассказал мне об ужасающем открытии, которое сделал их клан: Око <![CDATA[<i>]]>уничтожит всю Вселенную,<![CDATA[</i>]]> при взаимодействии с ним.</value>
+    <value>ДУРМАН: &lt;color=#00ff00&gt;Друг&lt;/color&gt; рассказал мне об ужасающем открытии, которое сделал их клан: Око <![CDATA[<i>]]>уничтожит всю Вселенную<![CDATA[</i>]]> при взаимодействии с ним.</value>
   </entry>
   <entry>
     <key>DATURA: Friend’s... other friend deeply believed the Eye was good, and wrote off this discovery, disabling their Eye Signal Blocker thing.</key>
@@ -1163,11 +1163,11 @@
   </entry>
   <entry>
     <key>DATURA: ...that brief signal he released. Filix heard it. Escall ordered the warp and now... we’re all trapped here, because of him. ...Good intentions aren’t good enough.</key>
-    <value>ДУРМАН: ...Сигнал был выпущен на свободу. Совсем ненадолго, пока был отключён блокиратор... Но... &lt;color=#00ffff&gt;Осмунда&lt;/color&gt; успела поймать сигнал, Эскалл приказал совершить прыжок, и... теперь мы все застряли здесь. И всё это из-за дурацкого решения одного индивида выпустить сигнал. ...Благими намерениями вымощена дорога в бездну.</value>
+    <value>ДУРМАН: ...Сигнал был выпущен на свободу. Совсем ненадолго, пока был отключён блокиратор... Но... &lt;color=#00ffff&gt;Осмунда&lt;/color&gt; успела поймать сигнал. Эскалл приказал совершить прыжок, и... теперь мы все застряли здесь. И всё это из-за дурацкого решения одного индивида выпустить сигнал. ...Благими намерениями вымощена дорога в бездну.</value>
   </entry>
   <entry>
     <key>DATURA: Sometimes... I wish I could be like Friend and... Yarrow, and just be able to see the Eye how they see it... Why am I the only one not interested in it? Is there... something wrong with me?</key>
-    <value>ДУРМАН: Иногда... мне хочется оказаться на месте &lt;color=#00ff00&gt;Друга&lt;/color&gt; или... &lt;color=#ffff00&gt;Милле&lt;/color&gt;, и просто взглянуть на Око их глазами... Почему Око всем так интересно? Может... со мной что-то не так?</value>
+    <value>ДУРМАН: Иногда... мне хочется оказаться на месте &lt;color=#00ff00&gt;Друга&lt;/color&gt; или... &lt;color=#ffff00&gt;Милле&lt;/color&gt; и просто взглянуть на Око их глазами... Почему Око всем так интересно? Может... со мной что-то не так?</value>
   </entry>
   <!-- Bramble Village: Datura Eye: End -->
   <!-- Bramble Village: Friend Eye: Start -->
@@ -1177,11 +1177,11 @@
   </entry>
   <entry>
     <key>FRIEND: During the journey, a big known theory on our ’Vessel’ (as Datura would say) was the Eye created this universe.</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Во время странствия к Оку на нашем, как сказал бы Дурман, «Звездолёте», нами были выдвинуто множество теорий о природе Ока.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Во время странствия к Оку на нашем, как сказал бы Дурман, «Звездолёте» нами было выдвинуто множество теорий о природе Ока.</value>
   </entry>
   <entry>
     <key>FRIEND: Suppose this was not the first time. Hypothesis: could the Eye create the universe again every time it dies?</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Кто-то считал его разумным могущественным существом, кто-то - деянием древней продвинутой цивилизации, а кто-то - своеобразным посланием из будущего.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Кто-то считал его разумным, могущественным существом, кто-то - деянием древней продвинутой цивилизации, а кто-то - своеобразным посланием из будущего.</value>
   </entry>
   <entry>
     <key>FRIEND: Once we arrived at the Eye... One saw a vision of it destroying the universe after one interacts with it.</key>
@@ -1189,7 +1189,7 @@
   </entry>
   <entry>
     <key>FRIEND: Most were horrified and devastated - their new purpose became hiding the Eye away to protect our universe.</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Большинство из нас было в ужасе и опустошении - нашей новой целью стало спрятать Око, чтобы защитить Вселенную.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Большинство из нас было в ужасе и опустошении. Нашей новой целью стало спрятать Око, чтобы защитить Вселенную.</value>
   </entry>
   <entry>
     <key>FRIEND: My other friend and I did not believe the Eye was to be feared. We still believe it is a creator. Suppose the vision was misinterpreted, or wrong, or unfinished?</key>
@@ -1211,15 +1211,15 @@
   </entry>
   <entry>
     <key>DATURA: So! It is older than the universe, and someone from Friend’s clan had a vision showing it would destroy the universe, if anyone touched it or whatever.</key>
-    <value>ДУРМАН: Итак! Оно старше Вселенной, и у нас есть видение того, как Око уничтожает Вселенную, при взаимодействии с ним.</value>
+    <value>ДУРМАН: Итак! Оно старше Вселенной, и у нас есть видение того, как Око уничтожает Вселенную при взаимодействии с ним.</value>
   </entry>
   <entry>
     <key>FRIEND: But one has to wonder how this universe was created then, if the Eye destroyed the previous universe? Perhaps it also created this one?</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: С другой стороны, видение могло быть неправильно интерпритировано. Может уничтожение всего и вся - это метафора? Возможно, была увидена лишь часть общей картины?</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: С другой стороны, видение могло быть неправильно интерпретировано. Может, уничтожение всего и вся - это метафора? Возможно, была увидена лишь часть общей картины?</value>
   </entry>
   <entry>
     <key>DATURA: Yarrow and the others believe the Eye is quantum, so, if that’s true, I suppose it would be fitting for the Eye to be in a superposition of both good and bad, eh?</key>
-    <value>ДУРМАН: &lt;color=#ffff00&gt;Милле&lt;/color&gt; и остальные номаи уверены в квантовой природе Ока. Если это правда, то Око могло бы находиться в суперпозиции... То есть быть чем-то и хорошим, и плохим одновременно.</value>
+    <value>ДУРМАН: &lt;color=#ffff00&gt;Милле&lt;/color&gt; и остальные номаи уверены в квантовой природе Ока. Если это правда, то Око могло бы находиться в суперпозиции... То есть быть чем-то и хорошим и плохим одновременно.</value>
   </entry>
   <entry>
     <key>FRIEND: ...but does this not mean that blocking the Eye’s signal is wrong?</key>
@@ -1227,11 +1227,11 @@
   </entry>
   <entry>
     <key>DATURA: Hmm... that’s difficult to answer. You wouldn’t want the location of the universe reset button being blasted for all to hear, would you?</key>
-    <value>ДУРМАН: Хм... На это трудно ответить. Мы же не хотим, чтобы вся вселенная узнала о существовании своеобразной «Машины Судного дня», не так ли?</value>
+    <value>ДУРМАН: Хм... На это трудно ответить. Мы же не хотим, чтобы вся Вселенная узнала о существовании своеобразной «Машины Судного дня», не так ли?</value>
   </entry>
   <entry>
     <key>FRIEND: Well, we can not keep it locked it away either because we are afraid to die, so-.</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Ну, мы же не можем держать Око «под замком» просто из-за страха смерти, это...</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Ну, мы же не можем держать Око «под замком» просто из-за страха смерти. Это...</value>
   </entry>
   <entry>
     <key>DATURA: I’m not afraid to die - death is just extremely uninteresting to me. And this universe isn’t over yet. So, let’s not be afraid to live, now, Friend.</key>
@@ -1241,15 +1241,15 @@
   <!-- Sealed Structure: Outside: Start -->
   <entry>
     <key>DATURA: Friend, I’m back - the others left! Can you hear me?! I’m gonna leave a recording here for you!</key>
-    <value>ДУРМАН: &lt;color=#00ff00&gt;Друг&lt;/color&gt;, я вернулся! Мы собираемся покинуть эту звёздную систему... Ты меня слышишиь?! Хорошо, я оставлю здесь запись для тебя.</value>
+    <value>ДУРМАН: &lt;color=#00ff00&gt;Друг&lt;/color&gt;, я вернулся! Мы собираемся покинуть эту звёздную систему... Ты меня слышишь?! Хорошо, я оставлю здесь запись для тебя.</value>
   </entry>
   <entry>
     <key>DATURA: Friend... I’m really sorry.</key>
-    <value>ДУРМАН:&lt;color=#00ff00&gt;Друг&lt;/color&gt;, прости... Мне очень жаль...</value>
+    <value>ДУРМАН: &lt;color=#00ff00&gt;Друг&lt;/color&gt;, прости... Мне очень жаль...</value>
   </entry>
   <entry>
     <key>DATURA: ...I shouldn’t have come here. This is your secret room and I should’ve respected that. ...Friend? Are you... there? ...At least knock on the door so I know!</key>
-    <value>ДУРМАН: Мне... Мне не следовало сюда приходить, это твоё место для уединения и я должен уважать твоё личное пространство, но... ты вообще там? &lt;color=#00ff00&gt;Друг&lt;/color&gt;! ...Хотя бы постучи в ответ, чтобы я знал!</value>
+    <value>ДУРМАН: Мне... Мне не следовало сюда приходить. Это же твоё место для уединения, и я должен уважать твоё личное пространство. Но... ты вообще там? &lt;color=#00ff00&gt;Друг&lt;/color&gt;! ...Хотя бы постучи в ответ, чтобы я знал!</value>
   </entry>
   <entry>
     <key>DATURA: ...? Nothing... Maybe they’re asleep. (...Sheesh, look at this metal door and cage... They really don’t want me getting in there again, huh.)</key>
@@ -1261,11 +1261,11 @@
   </entry>
   <entry>
     <key>DATURA: (But how would I make an explosion...? And a... safe one? Is there even such a thing?)</key>
-    <value>ДУРМАН: С другой стороны... Нет! Хватит с меня взрывов, ещё свеж в памяти тот случай с шаттлом.</value>
+    <value>ДУРМАН: С другой стороны... Нет! Хватит с меня взрывов. Ещё свеж в памяти тот случай с шаттлом.</value>
   </entry>
   <entry>
     <key>DATURA: Ugh... my stupid curiosity... Ironic, is it not?</key>
-    <value>ДУРМАН: Эх... Моё упрямое любопытство... Надо не забывать до чего оно довело Эскалла.</value>
+    <value>ДУРМАН: Эх... Моё упрямое любопытство... Надо не забывать, до чего оно довело Эскалла.</value>
   </entry>
   <entry>
     <key>DATURA: ...Whoops, forgot to stop recording.</key>
@@ -1295,11 +1295,11 @@
   </entry>
   <entry>
     <key>DATURA: I woke up (or started dreaming?) almost immediately in... Friend’s house. ...but it wasn’t Friend’s house. It was a... copy... on some other planet, with a ringed planet in the sunsetting sky.</key>
-    <value>ДУРМАН: Очнулся я в доме &lt;color=#00ff00&gt;Друга&lt;/color&gt;... Ну, или в его копии. На вечернем небе была видна окольцованная планета. Судя по всему, я находился в другой звёздной системе.</value>
+    <value>ДУРМАН: Очнулся я в доме &lt;color=#00ff00&gt;Друга&lt;/color&gt;... Ну или в его копии. На вечернем небе была видна окольцованная планета. Судя по всему, я находился в другой звёздной системе.</value>
   </entry>
   <entry>
     <key>DATURA: It weirded me out, so I exited, and walked across a bridge into another building where... there were a lot of Friend’s elders.</key>
-    <value>ДУРМАН: Это было невероятно, в моей голове даже не возник вопрос «как я сюда попал?». Было так радостно увидеть что-то новое впервые за столько времени, что моё проснувшееся любопытство заглушило все остальные чувства. С большим интересом, я вышел осмотреться. Перейдя мост над каньоном, и подойдя к расположенному в скале дому, я увидел множество представителей расы &lt;color=#00ff00&gt;Друга&lt;/color&gt;.</value>
+    <value>ДУРМАН: Это было невероятно. В моей голове даже не возник вопрос «как я сюда попал?». Было так радостно увидеть что-то новое, впервые за столько времени, что моё проснувшееся любопытство заглушило все остальные чувства. С большим интересом я вышел осмотреться. Перейдя мост над каньоном и подойдя к расположенному в скале дому, я увидел множество представителей расы &lt;color=#00ff00&gt;Друга&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>DATURA: Upon seeing me, they were surprised, startled... but not hostile... at least. Still, I attempted to remain out of their way.</key>
@@ -1327,7 +1327,7 @@
   </entry>
   <entry>
     <key>DATURA: ...A... while later... Friend wakes me up. ...I hugged them tightly, wanting to tell them I’m sorry... but looking over, I see: Friend’s ’still alive’ friends (whatever they meant by that).</key>
-    <value>ДУРМАН: ...Через некоторое время меня разбудил &lt;color=#00ff00&gt;Друг&lt;/color&gt; и я оказался в крепких объятиях. Хотелось сказать, что мне очень жаль... Но, оглянувшись, я увидел представителей расы &lt;color=#00ff00&gt;Друга&lt;/color&gt;.</value>
+    <value>ДУРМАН: ...Через некоторое время меня разбудил &lt;color=#00ff00&gt;Друг&lt;/color&gt; и я оказался в крепких объятиях. Хотелось сказать, что мне очень жаль... Но оглянувшись, я увидел представителей расы &lt;color=#00ff00&gt;Друга&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>DATURA: I’m just... worried I did something really bad. ...I didn’t intend to... I hope I can tell Friend-</key>
@@ -1335,15 +1335,15 @@
   </entry>
   <entry>
     <key>DATURA: Uh... One of them is... approaching me. ...uh, hello there? Is that a projection-</key>
-    <value>ДУРМАН: ...Один из них направился ко мне.</value>
+    <value>ДУРМАН: ...Один из них направился ко мне. &lt;color=#00ff00&gt;Друг&lt;/color&gt; быстро потянул меня за руку и толкнул в воду. Краем глаза я успел увидеть, как он прыгает за мной...</value>
   </entry>
   <entry>
     <key>DATURA: ...</key>
-    <value>ДУРМАН: &lt;color=#00ff00&gt;Друг&lt;/color&gt; быстро потянул меня за руку и толкнул в воду. Краем глаза, я успел увидеть, как он прыгает за мной...</value>
+    <value>ДУРМАН: ...</value>
   </entry>
   <entry>
     <key>DATURA: Oh... what? You’re gonna lock them away? Ha, is that your solution for everything, or something? ...uh, hey! Let go of me! Ah! Friend! I-!</key>
-    <value>ДУРМАН: ...После этого, мы очнулись здесь, в убежище &lt;color=#00ff00&gt;Друга&lt;/color&gt;. Интересно... что это было?</value>
+    <value>ДУРМАН: ...После этого мы очнулись здесь, в убежище &lt;color=#00ff00&gt;Друга&lt;/color&gt;. Интересно... что это было?</value>
   </entry>
   <!-- Sealed Structure: Inside: End -->
   <!-- Sealed Structure: Inside from Friend: Start -->
@@ -1353,11 +1353,11 @@
   </entry>
   <entry>
     <key>FRIEND: I hope he knows I am not mad at him. My friends are just attempting to appease our decayed elders (who have decided this).</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: О, Дурман, Дурман. Как всегда, вляпался в неприятности! А ведь я бы мог и не успеть... Надеюсь, он понимает, что я на него не сержусь.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: О, Дурман, Дурман. Как всегда вляпался в неприятности! А ведь я бы мог и не успеть... Надеюсь, он понимает, что я на него не сержусь.</value>
   </entry>
   <entry>
     <key>FRIEND: I should get to sleep. They will all be waiting for me. Hypothesis: I will see you again, Datura. Worry not.</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Мне пора спать. Хочу в последний раз взглянуть на родной дом, пускай и его копию. Предположение: мы скоро увидимся, Дурман. Не переживай... Мне кажется или я что-то слышал? КАК ЖЕ ХОЛОДН...</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Мне пора спать. Хочу в последний раз взглянуть на родной дом, пускай и его копию. Предположение: мы скоро увидимся, Дурман. Не переживай... Мне кажется, или я что-то слышал? КАК ЖЕ ХОЛОДН...</value>
   </entry>
   <entry>
     <key>...</key>
@@ -1389,7 +1389,7 @@
   <!-- Dream Friend House: Explain Me: Start -->
   <entry>
     <key>FRIEND: You are in my home star system! (A simulation of it.)</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Ты находишься на нашей родной луне! Точнее, в её симулированной копии.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Ты находишься на нашей родной луне! Точнее в её симулированной копии.</value>
   </entry>
   <entry>
     <key>FRIEND: I am curious: how are you here? Are you from the outside star system? Or are you from elsewhere, like us?</key>
@@ -1397,15 +1397,15 @@
   </entry>
   <entry>
     <key>FRIEND: Please make yourself at home! And stay for as long a while as you like. ...I would avoid the others, however.</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Пожалуйста, чувствуй себя как дома! Можешь оставаться здесь столько, сколько хочешь. Но... я бы на твоём месте не спускался вниз...</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Пожалуйста, чувствуй себя как дома! Можешь оставаться здесь столько, сколько хочешь. Но... я бы на твоём месте не спускался туда... Вниз...</value>
   </entry>
   <entry>
     <key>FRIEND: This was built for one to be a while, as we searched for a new home. However, over time, more and more of us (our elders) decayed irreversibly into this simulation.</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Эта симуляция была создана, чтобы у нас была возможность побыть, хоть и в смоделированном, но родном мире. Однако со временем многие предпочли симуляцию реальному миру.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Эта симуляция была создана, чтобы у нас была возможность побыть хоть и в смоделированном, но родном мире. Однако со временем многие предпочли симуляцию реальному миру.</value>
   </entry>
   <entry>
     <key>FRIEND: There were very few of us left alive outside (mostly the youngest), when the Nomai arrived.</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Всё больше и больше из нас погружалось в блаженный сон и не возвращалось. К моменту прибытия номаи, только я остался в живых.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Всё больше и больше из нас погружалось в блаженный сон и не возвращалось. К моменту прибытия номаи только я остался в живых.</value>
   </entry>
   <entry>
     <key>FRIEND: After, our decayed elders suggested we silently observe the Nomai to ensure the Eye was not found.</key>
@@ -1419,15 +1419,15 @@
   </entry>
   <entry>
     <key>FRIEND: One thing they have in common (and one I wish they did not) is becoming big fluffy bundles of anger due to the Eye.</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Одна общая черта, которая была у Дурмана и у моего вида, и мне бы хотелось, чтобы её не было, - они злились при любом упоминании Ока.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Одна общая черта, которая была у Дурмана и у моего вида, и мне бы хотелось, чтобы её не было... Они злились при любом упоминании Ока.</value>
   </entry>
   <entry>
     <key>FRIEND: Our Prisoner believed with unbreakable confidence that the Eye was pure good. Seeing the others hide it away, he viewed them as fearful, evil, and... idiotic.</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Мой друг с непоколебимой уверенностью верил, что Око - это нечто хорошее. Попытку спрятать его, он воспринял, как трусость и глупость.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Мой друг с непоколебимой уверенностью верил, что Око - это нечто хорошее. Попытку спрятать его он воспринял как трусость и глупость.</value>
   </entry>
   <entry>
     <key>FRIEND: Him and I told them we were not afraid of the Eye... But I suppose it is easy to call others afraid, and say they are not able to accept the truth, despite you not knowing everything either.</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Мы неоднакратно говорили остальным, что не боимся Ока... Но с другой стороны, наверное, легко называть других трусами и говорить, что они не способны принять правду, в то время, когда мы сами не способны увидеть всю картину целиком.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Мы неоднократно говорили остальным, что не боимся Ока... Но с другой стороны, наверное, легко называть других трусами и говорить, что они не способны принять правду, в то время, когда мы сами не способны увидеть всю картину целиком.</value>
   </entry>
   <entry>
     <key>FRIEND: Datura did not care much for the Eye. A while away from his clan built up an anger towards them - he had a big falling out with a Nomai... Yarrow, I believe.</key>
@@ -1459,7 +1459,7 @@
   </entry>
   <entry>
     <key>FRIEND: A long while has passed since I was with him on Dark Bramble. ...However, this might seem strange: it still feels recent, somehow.</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Я давно потерял счёт времени, но полгаю прошли уже десятки, а то и сотни тысяч лет.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Я давно потерял счёт времени, но, полагаю, прошли уже десятки, а то и сотни тысяч лет.</value>
   </entry>
   <entry>
     <key>FRIEND: Hypothesis: you can only make so many unique memories here. After a long enough while, the days and months and... thousands of years... all blend together.</key>
@@ -1473,7 +1473,7 @@
   </entry>
   <entry>
     <key>FRIEND: It is nice to meet you! A long while has passed since anyone new has come here. I am glad that translator device of yours made it over!</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Я безмерно рад, что у тебя есть переводчик и ты способен понимать меня.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Я безмерно рад, что у тебя есть переводчик, и ты способен понимать меня.</value>
   </entry>
   <entry>
     <key>FRIEND: The simulation is strange with what it decides to bring over. Perhaps all my Nomai writing made the simulation recognise the device?</key>
@@ -1525,11 +1525,11 @@
   </entry>
   <entry>
     <key>FRIEND: Sometimes, I wish we had ran away. Us together into the galaxy! But... it was only a thought.</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Наши противоположные взгляды на Око, на удивление, не повлияли на наши отношения.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Наши противоположные взгляды на Око на удивление не повлияли на наши отношения.</value>
   </entry>
   <entry>
     <key>FRIEND: Our opposing views on the Eye was surprisingly not an issue between us. (Hypothesis: Datura’s true issues were with something else?)</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Предположение: возможно, настоящие проблемы Дурмана были связаны с чем-то другим.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Предположение: возможно, истинные проблемы Дурмана были связаны с чем-то другим.</value>
   </entry>
   <entry>
     <key>FRIEND: He was, however, quite disappointed to hear our Vessel was not able to travel intergalactically. (Not the escape pod he was hoping for!)</key>
@@ -1539,7 +1539,7 @@
   <!-- Dream Friend House: Explain You: Start -->
   <entry>
     <key>FRIEND: Hello there! My name is Friend. ...That is what Datura called me before I understood his language.</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Меня зовут &lt;color=#00ff00&gt;Друг&lt;/color&gt;. ...Так Дурман называл меня до того, как я выучил язык номаи. Когда он объяснил мне, что значит «друг», и спросил моё «настоящее» имя, я сказал ему, что «&lt;color=#00ff00&gt;Друг&lt;/color&gt;» меня вполне устраивает. К тому же моё старое имя мне всё равно никогда не нравилось.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Меня зовут &lt;color=#00ff00&gt;Друг&lt;/color&gt;. ...Так Дурман называл меня до того, как я выучил язык номаи. Когда он объяснил мне, что значит «друг» и спросил моё «настоящее» имя, я сказал ему, что «&lt;color=#00ff00&gt;Друг&lt;/color&gt;» меня вполне устраивает. К тому же моё старое имя мне всё равно никогда не нравилось.</value>
   </entry>
   <entry>
     <key>FRIEND: When Datura explained to me what ’friend’ meant and asked for my ’real’ name, I told him ’Friend’ was fine. My old name never fit me anyway, I felt.</key>
@@ -1547,21 +1547,21 @@
   </entry>
   <entry>
     <key>FRIEND: We travelled here in search of the Eye of the universe and... I wish we never discovered it. The Eye has only burnt us...</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Теперь эта симуляция - наш дом. И в моём случае, поневоле. Я успел почувствовать только нечто очень холодное перед тем как умереть. И теперь я навеки заточён здесь, как и вся наша раса.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Теперь эта симуляция - наш дом. И в моём случае поневоле. Я успел почувствовать только нечто очень холодное перед тем, как умереть. И теперь я навеки заточён здесь, как и вся наша раса.</value>
   </entry>
   <entry>
     <key>FRIEND: This simulation is now our home. We are all spooky ghosts! My elders decayed willingly, but the youngest died mysteriously, and simultaneously.</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Теперь меня терзают вопросы: что случилось? Всё ли в порядке с номаи? Жаль, что я не понимаю твой язык, я бы задал тебе множество вопросов.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Теперь меня терзают вопросы: что случилось? Всё ли в порядке с номаи? Жаль, что я не понимаю твой язык. Я бы задал тебе множество вопросов.</value>
   </entry>
   <entry>
     <key>FRIEND: I wish I could understand your language! What happened? Did something happen to the Nomai too?</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: По крайней мере, я могу дать тебе одно напутствие. После того, как сюда случайно попал Дурман, старейшинами было принято решение избавиться от подъёмника, ведущего к причалу, чтобы никто из чужаков, случайно нашедших моё убежище и попавших сюда, не смогли увидеть лишнего... Так что лучше не спускайся вниз. Поверь, они не обрадуются встрече с тобой.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: После того, как сюда случайно попал Дурман, старейшинами даже было предложено решение избавиться от подъёмника, ведущего к причалу, чтобы никто из чужаков, случайно нашедших моё убежище и попавших сюда, не смогли увидеть лишнего... Так что лучше не спускайся. Поверь, они не обрадуются встрече с тобой.</value>
   </entry>
   <!-- Dream Friend House: Explain You: End -->
   <!-- Dream Friend House: Datura and Me: Start -->
   <entry>
     <key>FRIEND: Have you been exploring our structures on the surface of Dark Bramble?</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Не думаю, что ты найдёшь Дурмана... Точнее, его останки.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Не думаю, что ты найдёшь Дурмана... Точнее его останки.</value>
   </entry>
   <entry>
     <key>FRIEND: Have you found Datura? Or... his body? When he wasn’t searching around inside Dark Bramble, he was usually in his Study Tower or Observatory (I helped build).</key>
@@ -1577,17 +1577,17 @@
   </entry>
   <entry>
     <key>FRIEND: The planet used to be whole! Can you imagine? On our Vessel, we did not notice it broke until a while after it had!</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Ты знаешь, а ведь когда-то Терновник был целым! Можешь себе это представить? Когда мой вид прибыл в эту систему планета ещё была целой. Но, увы, время и это жуткое растение не пощадили её.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Ты знаешь, а ведь когда-то Терновник был целым! Можешь себе это представить? Когда мой вид прибыл в эту систему, планета ещё была целой. Но, увы, время и это жуткое растение не пощадили её.</value>
   </entry>
   <entry>
     <key>FRIEND: Datura hypothesized the Eye’s signal bounced around in Dark Bramble before reaching the Nomai - why they warped there instead?</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Дурман предположил, что сигнал Ока мог многократно отразиться внутри Терновника, прежде чем достигнуть &lt;color=orange&gt;«Звездолёта»&lt;/color&gt; номаи. Может поэтому они и вынырнули внутри планеты?</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Дурман предположил, что сигнал Ока мог многократно отразиться внутри Терновника, прежде чем достигнуть &lt;color=orange&gt;«Звездолёта»&lt;/color&gt; номаи. Может, поэтому они и вынырнули внутри планеты?</value>
   </entry>
   <!-- Dream Friend House: Datura and Me: End -->
   <!-- Dream Friend House: Me and Prisoner: Start -->
   <entry>
     <key>FRIEND: I feel like I should be more excited - you might be able to free my friend!</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Ты думаешь, что сможешь освободить моего друга, так ведь?</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Ты думаешь, что сможешь освободить моего друга, ведь так?</value>
   </entry>
   <entry>
     <key>FRIEND: But, in one way or another, I know he is no longer with us...</key>
@@ -1617,7 +1617,7 @@
   </entry>
   <entry>
     <key>DATURA: ...Darling. No, of course not. ...It’s not you... It’s... the other Nomai. We don’t really get along well and... I’m... I’m afraid of them... and the things they’ll say to (and about) me when I return.</key>
-    <value>ДУРМАН: ...Ну что ты. Конечно же нет. Дело не в тебе... Просто... Я не очень хорошо лажу с некоторыми из номаи, и... я боюсь того, что они мне могут сказть, когда я вернусь.</value>
+    <value>ДУРМАН: ...Ну что ты. Конечно же нет. Дело не в тебе... Просто... Я не очень хорошо лажу с некоторыми из номаи, и... я боюсь того, что они мне могут сказать, когда я вернусь.</value>
   </entry>
   <entry>
     <key>SOLANUM: ...They’re not monsters, Dad. Are you sure it’s ’the other Nomai’ you are afraid of? Or... is it just me, Filix and Yarrow you’re worried about?</key>
@@ -1645,11 +1645,11 @@
   </entry>
   <entry>
     <key>SOLANUM: Yes! So, please, Dad. Leave that place. There is going to be a vote soon to decide if we should continue to pursue the Eye, or instead find a way out of this star system.</key>
-    <value>СОЛАНУМ: Да! Так что, пожалуйста, папа. Покинь это место. Скоро будет большое собрание номаи, где мы будем решать, должны ли мы продолжать поиски Ока, или вместо этого искать выход из этой звёздной системы.</value>
+    <value>СОЛАНУМ: Да! Так что пожалуйста, папа. Покинь это место. Скоро будет большое собрание номаи, где мы будем решать, должны ли мы продолжать поиски Ока или вместо этого искать выход из этой звёздной системы.</value>
   </entry>
   <entry>
     <key>SOLANUM: The <![CDATA[<color=orange>Sun Station</color>]]> and ’Time Loop’ plan has divided this clan, and it’s failure has demotivated it. Hypothesis: we will leave this star system soon.</key>
-    <value>СОЛАНУМ: Неудачи, связанные с &lt;color=orange&gt;солнечной станцией&lt;/color&gt;, и провалом &lt;color=orange&gt;проекта «Час Пепла»&lt;/color&gt; сильно демотивировали и разделили клан. Предположение: мы можем скоро покинем эту звёздную систему.</value>
+    <value>СОЛАНУМ: Неудачи, связанные с &lt;color=orange&gt;солнечной станцией&lt;/color&gt; и провалом &lt;color=orange&gt;проекта «Час Пепла»&lt;/color&gt; сильно демотивировали и разделили клан. Предположение: мы можем скоро покинуть эту звёздную систему.</value>
   </entry>
   <entry>
     <key>DATURA: Wow. So when’s this happening? I’ve just got one little thing to finish up here, and then I’ll be there.</key>
@@ -1665,7 +1665,7 @@
   </entry>
   <entry>
     <key>SOLANUM: Uh... Sounds good! Though, I thought you wouldn’t care about the Quantum Moon.</key>
-    <value>СОЛАНУМ: Ого... Здорово! Правда я думала, что тебя злят разговоры о Квантовой луне.</value>
+    <value>СОЛАНУМ: Ого... Здорово! Правда, я думала, что тебя злят разговоры о Квантовой луне.</value>
   </entry>
   <entry>
     <key>DATURA: Eh. My problem is with the Eye. The Quantum Moon is alright in my book.</key>
@@ -1677,7 +1677,7 @@
   </entry>
   <entry>
     <key>DATURA: See you- Friend is their name and they’re not imaginary! ...See you then, darling. Love you!</key>
-    <value>ДУРМАН: Он не воображаемый, милая, скоро я тебя с ним познакомлю. До встречи, дорогая. Люблю тебя!</value>
+    <value>ДУРМАН: Он не воображаемый, милая. Скоро я тебя с ним познакомлю. До встречи, дорогая. Люблю тебя!</value>
   </entry>
   <entry>
     <key>SOLANUM: ...Love you too, Dad.</key>
@@ -1711,7 +1711,7 @@
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Uh... Hypothesis: it would be beneficial to you both if neither of you called each other anymore.</key>
-    <value>&lt;color=brown&gt;КРОНА&lt;/color&gt;: Предположение: возможно будет лучше, если вы больше не будете связываться друг с другом.</value>
+    <value>&lt;color=brown&gt;КРОНА&lt;/color&gt;: Предположение: возможно, будет лучше, если вы больше не будете связываться друг с другом.</value>
   </entry>
   <entry>
     <key>DATURA: #####... Yarrow, are you alright? Yarrow? ##### wait!</key>
@@ -1739,11 +1739,11 @@
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, you observed ##### too? You and me both! We’ve actually already ##### ##### check #####. ##### thanks anyway, Datura.</key>
-    <value>&lt;color=brown&gt;КРОНА&lt;/color&gt;: О, ты тоже наблюдал за ##### Я тоже! Вообще-то мы уже ##### ##### чтобы исследовать #####. ##### всё равно спасибо, Дурман.</value>
+    <value>&lt;color=brown&gt;КРОНА&lt;/color&gt;: О, ты тоже наблюдал за ##### Я тоже! Вообще-то мы уже ##### ##### чтобы исследовать #####. ##### всё равно, спасибо, Дурман.</value>
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, you observed the comet too? You and me both! We’ve actually already sent a shuttle to go check it out. But thanks anyway, Datura.</key>
-    <value>&lt;color=brown&gt;КРОНА&lt;/color&gt;: О, ты тоже наблюдал за кометой? Я тоже! Вообще-то мы уже послали шаттл, чтобы исследовать её. Но всё равно спасибо, Дурман.</value>
+    <value>&lt;color=brown&gt;КРОНА&lt;/color&gt;: О, ты тоже наблюдал за кометой? Я тоже! Вообще-то мы уже послали шаттл, чтобы исследовать её. Но всё равно, спасибо, Дурман.</value>
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Well, ##### gonna catch up to Yarrow to see if he’s alright. #####! Don’t be a stranger, now!</key>
@@ -1769,7 +1769,7 @@
   </entry>
   <entry>
     <key>BELLS: Now? Uh, bad timing for that, I’m afraid. Pye and her pals are off in the Ember Twin shuttle and, uh, your daughter recently went on her quantum pilgrimage.</key>
-    <value>&lt;color=#ff00ff&gt;БАДАН&lt;/color&gt;: Сейчас? Боюсь, ты не вовремя. Таволга и её приятели улетели на шаттле исследовать комету, а ваша дочь недавно отправилась в Квантовое паломничество.</value>
+    <value>&lt;color=#ff00ff&gt;БАДАН&lt;/color&gt;: Сейчас? Боюсь, ты не вовремя. Таволга и её приятели улетели на шаттле исследовать комету. А ваша дочь недавно отправилась в Квантовое паломничество.</value>
   </entry>
   <entry>
     <key>DATURA: Already?! But... we planned for us to meet at the Gravity Cannon when she returned...</key>
@@ -1785,7 +1785,7 @@
   </entry>
   <entry>
     <key>DATURA: Oh, yes please. Uh... Tell her I hope she has fun, and that I love her, and that she... uh... should really take her time at the sixth location to take it all in... Perhaps mention the shuttle situation, so she knows there’s no need to rush.</key>
-    <value>ДУРМАН: Да, пожалуйста. Передай ей, что я надеюсь, что с ней всё было хорошо, и что я люблю её...</value>
+    <value>ДУРМАН: Да, пожалуйста. Передай ей, что я надеюсь, что у неё всё хорошо, и что я люблю её...</value>
   </entry>
   <entry>
     <key>BELLS: Alright.</key>
@@ -1797,7 +1797,7 @@
   </entry>
   <entry>
     <key>BELLS: Hmmm, she’s teaching at the Brittle Hollow school, yes? So: reasonably quickly. What’s your message?</key>
-    <value>&lt;color=#ff00ff&gt;БАДАН&lt;/color&gt;: Хм, она же преподаёт в школьном районе на Пустотной Сфере, да? Значит, достаточно быстро. Что ты хочешь передать?</value>
+    <value>&lt;color=#ff00ff&gt;БАДАН&lt;/color&gt;: Хм, она же преподаёт в школьном округе на Пустотной Сфере, да? Значит, достаточно быстро. Что ты хочешь передать?</value>
   </entry>
   <entry>
     <key>DATURA: Just tell her... I’m sorry... for... everything. And... we’ll be together again soon.</key>
@@ -1815,7 +1815,7 @@
   <!-- Northern Observatory: Outside: Start -->
   <entry>
     <key>DATURA: Lami! If you’re reading this, then I assume you and your friends have returned to come snooping once again.</key>
-    <value>ДУРМАН: Терновник - отдалённое непритягательное место, но что если кому-то вдруг захочется сунуть нос в моё личное пространство?</value>
+    <value>ДУРМАН: Терновник - отдалённое, непритягательное место. Но что, если кому-то вдруг захочется сунуть нос в моё личное пространство?</value>
   </entry>
   <entry>
     <key>DATURA: Sorry, but you’re out of luck! I now have TWO security measures to prevent you teens from getting in here!</key>
@@ -1823,7 +1823,7 @@
   </entry>
   <entry>
     <key>DATURA: I know we encourage ’being curious’ and all, but this is not acceptable behaviour! So... Ahaha, I’ve always wanted to say this: Get off my lawn!</key>
-    <value>ДУРМАН: Теперь чтобы попасть внутрь, излишне любопытному чужаку нужно будет суметь обойти две меры безопасности. Наконец, я снова смогу спать спокойно.</value>
+    <value>ДУРМАН: Теперь, чтобы попасть внутрь, излишне любопытному чужаку нужно будет суметь обойти две меры безопасности. Наконец, я снова смогу спать спокойно.</value>
   </entry>
   <!-- Northern Observatory: Outside: End -->
   <!-- Northern Observatory: Computer: Start -->
@@ -1859,7 +1859,7 @@
   </entry>
   <entry>
     <key>DATURA: Not that I’m aware of, I’m afraid. But... I was wanting to ask you: What was it like, from your perspective? When the <![CDATA[<color=lightblue>The Collector</color>]]> arrived?</key>
-    <value>ДУРМАН: Боюсь, что нет, насколько мне известно. Но... Я хотел спросить тебя, как это было, с вашей перспективы? Когда он появился?</value>
+    <value>ДУРМАН: Боюсь, что нет, насколько мне известно. Но... Я хотел спросить тебя, как это было с вашей перспективы? Когда он появился?</value>
   </entry>
   <entry>
     <key>FRIEND: Well, I was a young child. I noticed strange feelings spreading in the faces of my elders, as if they had knowledge they wished to hide from me and the others!</key>
@@ -1875,15 +1875,15 @@
   </entry>
   <entry>
     <key>FRIEND: It had began... evaporating and... moving towards us, releasing a deadly substance into this galaxy (like a toxic gas!) as it drifted through it.</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Двигаясь к нам, она начала... испускать смертельное холодное вещество в окружающее пространство. Мы поняли это, наблюдая за планетами и прочими космическими телами мимо которых проходил <![CDATA[<color=lightblue>«Сборщик»</color>]]>.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Двигаясь к нам, она начала... испускать смертельное холодное вещество в окружающее пространство. Мы поняли это, наблюдая за планетами и прочими космическими телами, мимо которых проходил <![CDATA[<color=lightblue>«Сборщик»</color>]]>.</value>
   </entry>
   <entry>
     <key>FRIEND: At the time, my species was pre-interstellar, and, unable to combat this threat, sent out a distress signal, with fragmented hope that someone out there could help!</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: К сожалению, мы не обладали технологиями, способными остановить эту ядовитую планету. Не имея возможности справиться с этой угрозой, нами был послал сигнал бедствия в открытый космос.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: К сожалению, мы не обладали технологиями, способными остановить эту ядовитую планету. Не имея возможности справиться с этой угрозой, нами был послан сигнал бедствия в открытый космос.</value>
   </entry>
   <entry>
     <key>FRIEND: But the planet drew nearer! And threatened to destroy us, and all life in this galaxy.</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Всё что нам оставалось, так это с робкой надеждой надеяться, что кто-то нас услышит и сможет нам помочь.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Всё, что нам оставалось, так это с робкой надеждой надеяться, что кто-то нас услышит и сможет нам помочь.</value>
   </entry>
   <entry>
     <key>DATURA: Ah, and then, their distress signal was heard by (who else but) a wandering Nomai Vessel, correct?</key>
@@ -1899,21 +1899,21 @@
   </entry>
   <entry>
     <key>FRIEND: I see. Anyway, after we were gotten to safety, the substance was discovered to expand when hot, but tightly compact in cold conditions! And was effectively neutralized by water.</key>
-    <value>ДУРМАН: В любом случае, после того, как клан добрался до <![CDATA[<color=lightblue>«Сборщика»</color>]]>, при исследовании, ими было обнаружено, что испускаемое вещество расширяется при горячих температурах, но уплотняется при холодных. И эффективно нейтрализуется водой.</value>
+    <value>ДУРМАН: В любом случае, этот как клан добрался до <![CDATA[<color=lightblue>«Сборщика»</color>]]>. И при исследовании ими было обнаружено, что испускаемое вещество расширяется при горячих температурах, но уплотняется при холодных. И эффективно нейтрализуется водой.</value>
   </entry>
   <entry>
     <key>FRIEND: Then, we waited and watched as several interstellar species, working together, kindly contained <![CDATA[<color=lightblue>The Collector</color>]]> by collecting the strange matter into various water worlds and comets.</key>
-    <value>ДУРМАН: После этого открытия было принято решение собрать данное вещество для его дальнейшей нейтрализации в водоёмах ближайших планет. Образовавшийся излишек было решено поместить в кометы, скорректировав орбиты, с расчётом на их дальнейшее падение на планеты-океаны. Конечно, был риск что какая-то из комет может сойти с предначертанного ею пути. Но всё же лучше так, чем оставлять это опасное вещество в открытом космосе... Прости, пожалуйста, заговорился... Продолжай.</value>
+    <value>ДУРМАН: После этого открытия было принято решение собрать данное вещество для его дальнейшей нейтрализации в водоёмах ближайших планет. Образовавшийся излишек было решено поместить в кометы, скорректировав орбиты с расчётом на их дальнейшее падение на планеты-океаны. Конечно, был риск, что какая-то из комет может сойти с предначертанного ею пути. Но всё же лучше так, чем оставлять это опасное вещество в открытом космосе... Прости, пожалуйста, заговорился... Продолжай.</value>
   </entry>
   <entry>
     <key>FRIEND: Then everyone, including us, all went home. Not a long while after, the Eye started sending out it’s signal. I wonder if it saw-</key>
-    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Ну, затем все разошлись по своим делам. Вскоре после этого, Око начало испускать свой сигнал. Дальнейшую историю ты знаешь.</value>
+    <value>&lt;color=#00ff00&gt;ДРУГ&lt;/color&gt;: Ну, затем все разошлись по своим делам. Вскоре после этого Око начало испускать свой сигнал. Дальнейшую историю ты знаешь.</value>
   </entry>
   <!-- Northern Observatory: Collector: End -->
   <!-- Northern Observatory: Find: Start -->
   <entry>
     <key>DATURA: Okay! Had a call with Solanum. Hope she and Filix are doing alright... So... let’s take a look through this telescope, and see what... this thing... is.</key>
-    <value>ДУРМАН: Связался с Соланум. Надеюсь, у неё с &lt;color=#00ffff&gt;Осмундой&lt;/color&gt; всё в порядке... Итак... мне надо взглянуть в телескоп, чтобы понять, что... это за штука... такая.</value>
+    <value>ДУРМАН: Связался с Соланум. Надеюсь, у неё с &lt;color=#00ffff&gt;Осмундой&lt;/color&gt; всё в порядке... Итак... мне надо взглянуть в телескоп, чтобы понять, что... это за штука... такая...</value>
   </entry>
   <entry>
     <key>DATURA: ...Ha... Glad I have that recording. It’s nice to hear Friend’s voice again.</key>
@@ -1921,7 +1921,7 @@
   </entry>
   <entry>
     <key>DATURA: I remember thinking it was odd that once <![CDATA[<color=lightblue>The Collector</color>]]> was defeated, Friend’s elders decided to return home to their moon instead of leaving with the others.</key>
-    <value>ДУРМАН: Помню, мне из рассказов &lt;color=#00ff00&gt;Друга&lt;/color&gt; и моих родителей показалось странным, что после успеха со <![CDATA[<color=lightblue>«Сборщиком»</color>]]>, оба вида решили дальше идти своими путями, не пытаясь вступить друг с другом в контакт. Мне кажется, что номаи могли бы дать схемы и чертежи космических кораблей и прочих устройств. А вместе с тем обучить менее развитую цивилизацию кораблестроению.</value>
+    <value>ДУРМАН: Помню, мне из рассказов &lt;color=#00ff00&gt;Друга&lt;/color&gt; и моих родителей показалось странным, что после успеха со <![CDATA[<color=lightblue>«Сборщиком»</color>]]> оба вида решили дальше идти своими путями, не пытаясь вступить друг с другом в контакт. Мне кажется, что номаи могли бы дать схемы и чертежи космических кораблей и прочих устройств. А вместе с тем обучить менее развитую цивилизацию кораблестроению.</value>
   </entry>
   <entry>
     <key>DATURA: I think they were given (if they ever did wish to leave) schematics on how to build various kinds of spacecraft and machines, as is customary when encountering a pre-interstellar species.</key>
@@ -1929,19 +1929,19 @@
   </entry>
   <entry>
     <key>DATURA: ...However, I don’t know if launching civilizations several centuries worth of technological innovation forward (before they are ready for it) is a good idea.</key>
-    <value>ДУРМАН: ...Хотя судьба была неблагосклонна и к спасшему их клану номаи. Небольшая ошибка в рассчётах на обратном пути, и вот корабль вынырнул возле большой лавовой планеты... Моим отцу и матери удалось спастись только потому, что в момент прыжка они находились рядом со &lt;color=orange&gt;спасательной капсулой&lt;/color&gt;.</value>
+    <value>ДУРМАН: ...Хотя судьба была неблагосклонна и к спасшему их клану номаи. Небольшая ошибка в расчётах на обратном пути, и вот корабль вынырнул возле большой лавовой планеты... Моим отцу и матери удалось спастись только потому, что в момент прыжка они находились рядом со спасательной капсулой.</value>
   </entry>
   <entry>
     <key>DATURA: The temptation to let the technology consume everything - your world and yourself - is just too great.</key>
-    <value>ДУРМАН: Они часто сокрушались о том, что не подождали кого-либо ещё из членов клана. Хотя... я не могу их в этом винить. В подобных стрессовых ситуациях, не всегда успеваешь задуматься о чём-либо, а руки сами всё делают за тебя. Да и излишнее промедление могло стоить им жизни...</value>
+    <value>ДУРМАН: Они часто сокрушались о том, что не подождали кого-либо ещё из членов клана. Хотя... я не могу их в этом винить. В подобных стрессовых ситуациях не всегда успеваешь задуматься о чём-либо, а руки сами всё делают за тебя. Да и излишнее промедление могло стоить им жизни...</value>
   </entry>
   <entry>
     <key>DATURA: ...Friend’s elders learned this the hard way... it would seem.</key>
-    <value>ДУРМАН: Повезло, что спустя время капсулу заметил другой странствующий корабль... Корабль, который теперь покоится в недрах Чёрного Терновника... Увы, координаты родной звёздной системы расы &lt;color=#00ff00&gt;Друга&lt;/color&gt; канули в небытие. И вся история со <![CDATA[<color=lightblue>«Сборщиком»</color>]]> воспринималась тепепь ни иначе, как древняя легенда. И всё что от неё осталось, - это набросок той самой планеты, сделанный когда-то моим отцом. Благодаря нему, я и смог закончить фреску.</value>
+    <value>ДУРМАН: Повезло, что спустя время капсулу заметил другой странствующий корабль... Корабль, который теперь покоится в недрах Чёрного Терновника... Увы, координаты родной звёздной системы расы &lt;color=#00ff00&gt;Друга&lt;/color&gt; канули в небытие. И вся история со <![CDATA[<color=lightblue>«Сборщиком»</color>]]> воспринималась теперь ни иначе, как древняя легенда. И всё, что от неё осталось - это набросок той самой планеты, сделанный когда-то моим отцом. Благодаря ему я и смог закончить эту фреску.</value>
   </entry>
   <entry>
     <key>DATURA: ...Ah! There it is! Now, to take a picture...</key>
-    <value>ДУРМАН: Но по крайней мере, они выжили и стали членами нового клана. Судьба куда более завидная, чем смерть в лавовом океане. Так что думаю, что у этой истории всё же хороший конец... А вот и заблудший странник! Сейчас я наведу на тебя объектив и удостоверюсь, что...</value>
+    <value>ДУРМАН: Но, по крайней мере, они выжили и стали членами нового клана. Судьба куда более завидная, чем смерть в лавовом океане. Так что думаю, что у этой истории всё же хороший конец... А вот и заблудший странник! Сейчас я наведу на тебя объектив и удостоверюсь, что...</value>
   </entry>
   <entry>
     <key>DATURA: ...Oh no.</key>
@@ -1977,7 +1977,7 @@
   </entry>
   <entry>
     <key>DATURA: Would it... even have changed anything, if I was able to warn them properly? Or would it have only caused panic and distress in their final moments? Maybe it’s for the best I wasn’t able, then.</key>
-    <value>ДУРМАН: Хотя, уже ничего не получится изменить. Слишком поздно... Если бы я смог предупредить их должным образом, изменило бы это... хоть что-то? Или это только вызвало бы панику и отчаяние в их последние минуты? Может, оно и к лучшему, что я не смог.</value>
+    <value>ДУРМАН: Хотя уже ничего не получится изменить. Слишком поздно... Если бы я смог предупредить их должным образом, изменило бы это... хоть что-то? Или это только вызвало бы панику и отчаяние в их последние минуты? Может оно и к лучшему, что я не смог.</value>
   </entry>
   <entry>
     <key>DATURA: Oh... I can just about see it. The comet... ...We’re all about to die...</key>
@@ -1985,15 +1985,15 @@
   </entry>
   <entry>
     <key>DATURA: I promised Filix I would see her again...</key>
-    <value>ДУРМАН: Я обещал &lt;color=#00ffff&gt;Осмунде&lt;/color&gt;, что мы снова увидимся...</value>
+    <value>ДУРМАН: Я обещал &lt;color=#00ffff&gt;Осмунде&lt;/color&gt;, что мы снова увидимся... ...Я соскучился по Соланум.</value>
   </entry>
   <entry>
     <key>DATURA: ...I missed Solanum growing up. ...And for what? When I got to the Vessel, it was wounded, perhaps not beyond repair but...</key>
-    <value>ДУРМАН: ...Я соскучился по Соланум.</value>
+    <value>ДУРМАН: Подумать только, когда я добрался до &lt;color=orange&gt;«Звездолёта»&lt;/color&gt;, тот хоть и был повреждён, но... Хотя какая уже разница...</value>
   </entry>
   <entry>
     <key>DATURA: ...</key>
-    <value>ДУРМАН: Подумать только, когда я добрался до &lt;color=orange&gt;«Звездолёта»&lt;/color&gt;, он хоть и был повреждён, но... Хотя, какая уже разница...</value>
+    <value>ДУРМАН: ...</value>
   </entry>
   <entry>
     <key>DATURA: ...wait. Hold on!</key>
@@ -2019,7 +2019,7 @@
   </entry>
   <entry>
     <key>DATURA: The comet... is here. I tried to get off this planet, to at least be with my family... but the shuttles were already both in use.</key>
-    <value>ДУРМАН: Комета... уже вошла в эту звёздную систему. Я пытался улететь с этой планеты, чтобы хотя бы в последние минуты побыть с семьёй... Но оба шаттла уже были заняты.</value>
+    <value>ДУРМАН: Комета... уже вошла в звёздную систему. Я пытался улететь с этой планеты, чтобы хотя бы в последние минуты побыть с семьёй... Но оба шаттла уже были заняты.</value>
   </entry>
   <entry>
     <key>DATURA: I still can’t see the Quantum Moon... Solanum must still be waiting at the sixth location, like I asked Bells to ask her to do. ...That’s... good.</key>
@@ -2096,7 +2096,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside Home</key>
-    <value>Дом у обрыва</value>
+    <value>Дом на обрыве</value>
   </table_shipLog>
   <table_shipLog>
     <key>Observatory</key>
@@ -2171,8 +2171,8 @@
     <value>Центр связи</value>
   </table_shipLog>
   <table_shipLog>
-    <key>Anglerfish Hunting</key>Охотничья хижина
-    <value>Удильщицкая охота</value>
+    <key>Anglerfish Hunting</key>
+    <value>Охотничья хижина</value>
   </table_shipLog>
   <table_shipLog>
     <key>Hunting Blind</key>
@@ -2232,7 +2232,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Initial CampsiteFeldspar left a recording here saying they explored around and had ’some ideas’ on how to get into places, and offers his help if I want it.</key>
-    <value>Шпат оставил запись о своём исследовании поверхности Терновника. Он уточнил, что ему не удалось попасть в некоторые места, но у него «проклёвывается несколько идей». Так или иначе, подтвердить или опровергнуть их, он так и не смог.</value>
+    <value>Шпат оставил запись о своём исследовании поверхности Терновника. Он уточнил, что ему не удалось попасть в некоторые места, но у него «проклёвывается несколько идей». Так или иначе, подтвердить или опровергнуть их он так и не смог.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Hunting BlindDatura, needing a food supply, considered eating... the Anglerfish.</key>
@@ -2252,7 +2252,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Hunting BlindDatura found the remains of the Nomai of Escape Pod 3, and his clan’s leader, Escall.</key>
-    <value>Дурман нашёл останки номаи из спасательной капсулы 3 и лидера их клана, Эскалла.</value>
+    <value>Дурман нашёл останки номаи из спасательной капсулы 3 и лидера их клана - Эскалла.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherDatura landed on Dark Bramble in a shuttle, which he didn’t know what to do with.</key>
@@ -2264,7 +2264,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherSomeone referred to as ’Friend’ also wanted to destroy their ship. After damaging their ship, its alarm went off too. Datura remembered that he should just stand back and wait until it exploded.</key>
-    <value>Некто по имени Друг, также согласился уничтожить свой корабль. </value>
+    <value>Некто по имени Друг также согласился уничтожить свой корабль.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherI used a switch to activate the crusher.</key>
@@ -2276,7 +2276,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool HouseA structure next to the Study Tower appears to have broken off and fallen into the planet somewhere.</key>
-    <value>Строение рядом с Исследовательская башней, похоже, упало куда-то в недра планеты.</value>
+    <value>Строение рядом с Исследовательской башней, похоже, упало куда-то в недра планеты.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool HouseDatura built a projection pool on an island west of his landing site to be able to talk to his wife and daughter.</key>
@@ -2288,7 +2288,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool HouseDatura asked Bells to tell Solanum there was no need to rush, and to tell Filix that he was sorry and would see her again soon.</key>
-    <value>Дурман попросил Бадана передать Соланум, что ей не стоит торопиться, и передать Осмунде, что он сожалеет обо всём и они скоро снова увидяться.</value>
+    <value>Дурман попросил Бадана передать Соланум, что ей не стоит торопиться, и передать Осмунде, что он сожалеет обо всём, и они скоро снова увидятся.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool HouseIn a damaged stone, Datura called the others to warn them about something. But, they already knew about it.</key>
@@ -2344,7 +2344,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageDatura is pessimistic about the Eye, and believes it will destroy the universe if someone interacts with it.</key>
-    <value>Дурман негативно относился к Оку Вселенной. Из рассказов Друга, он узнал, что оно уничтожит Вселенную, при взаимодействии с кем-либо.</value>
+    <value>Дурман негативно относился к Оку Вселенной. Из рассказов Друга он узнал, что оно уничтожит Вселенную при взаимодействии с кем-либо.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageFriend is optimistic about the Eye, and believes it is the creator of universes.</key>
@@ -2352,19 +2352,19 @@
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageIn Friend’s House, I found a staircase that leads down abruptly to a painting of a terrestrial world, with a blue ringed gas giant in the sky.</key>
-    <value>В доме Друга я нашёл лестницу, ведущую вниз к картине с голубой окольцованной планетой в небе.</value>
+    <value>В доме Друга я нашёл лестницу, ведущую вниз, к картине с голубой окольцованной планетой в небе.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Secret RoomIn Friend’s House, I found a staircase that leads down abruptly to a painting of a terrestrial world, with a blue ringed gas giant in the sky.</key>
-    <value>В доме Друга я нашёл лестницу, ведущую вниз к картине с голубой окольцованной планетой в небе.</value>
+    <value>В доме Друга я нашёл лестницу, ведущую вниз, к картине с голубой окольцованной планетой в небе.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Secret RoomA secret room in Friend’s House contains an image revealing a hidden path behind a jellyfish surrounded by ice.</key>
-    <value>В потайной комнате в доме Друга, мне удалось обнаружить проекцию, которая показывает скрытую тропу, расположенную за вмёрзшей в лёд медузой.</value>
+    <value>В потайной комнате в доме Друга мне удалось обнаружить проекцию, которая показывает скрытую тропу, расположенную за вмёрзшей в лёд медузой.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Secluded StructureA secret room in Friend’s House contains an image revealing a hidden path behind a jellyfish surrounded by ice.</key>
-    <value>В потайной комнате в доме Друга, мне удалось обнаружить проекцию, которая показывает скрытую тропу, расположенную за вмёрзшей в лёд медузой.</value>
+    <value>В потайной комнате в доме Друга мне удалось обнаружить проекцию, которая показывает скрытую тропу, расположенную за вмёрзшей в лёд медузой.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Secret RoomDatura and Friend discussed their theories about the Eye, and suggested that they may both be partially true.</key>
@@ -2396,7 +2396,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureHe was awoken by Friend, with some others having arrived on Dark Bramble.</key>
-    <value>В панике, Дурман спрятался в скрытом старом сгоревшем строении.</value>
+    <value>В панике Дурман спрятался в скрытом старом сгоревшем строении.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureThey separated them from each other, containing Friend by sealing the entrance.</key>
@@ -2416,7 +2416,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeThe Prisoner released the Eye’s signal briefly and was contained in the simulation. He was planned to be released into just the simulation with the others.</key>
-    <value>Узнику на короткое время удалось выпустил сигнал Ока, после чего тот был заперт в хранилище. Друг планировал освободить своего друга, чтобы тот смог присоединиться к остальным умершим.</value>
+    <value>Узнику на короткое время удалось выпустить сигнал Ока, после чего тот был заперт в хранилище. Друг планировал освободить своего друга, чтобы тот смог присоединиться к остальным умершим.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeBy the time the Nomai arrived, Friend’s elders had ’decayed’ into the simulation. Only a small group of the youngest were still alive outside.</key>
