@@ -120,5 +120,19 @@ namespace TranslationForTheOutsider {
             return true;
         }
         // ### End: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/9 ###
+
+        // Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/11
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(NomaiWallText), nameof(NomaiWallText.Show))]
+        public static void NomaiWallText_Show_Postfix(NomaiWallText __instance) {
+            if(!TranslationForTheOutsider.Instance.IsFixIssuesOfTheOutsider) {
+                return;
+            }
+
+            if(__instance.name == "Text_YarrowOtherSide") {
+                __instance.GetComponent<BoxCollider>().enabled = true;
+                TranslationForTheOutsider.Instance.Log($"Fixed the collider of {__instance.name}.");
+            }
+        }
     }
 }
