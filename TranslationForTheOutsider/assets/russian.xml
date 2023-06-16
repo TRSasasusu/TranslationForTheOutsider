@@ -1739,11 +1739,11 @@
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, you observed ##### too? You and me both! We’ve actually already ##### ##### check #####. ##### thanks anyway, Datura.</key>
-    <value>&lt;color=brown&gt;КРОНА&lt;/color&gt;: О, ты тоже наблюдал за ##### Я тоже! Вообще-то мы уже ##### ##### чтобы исследовать #####. ##### всё равно, спасибо, Дурман.</value>
+    <value>&lt;color=brown&gt;КРОНА&lt;/color&gt;: О, ты наблюдал за ##### Я тоже! Вообще-то мы уже ##### ##### чтобы исследовать #####. ##### всё равно, спасибо, Дурман.</value>
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, you observed the comet too? You and me both! We’ve actually already sent a shuttle to go check it out. But thanks anyway, Datura.</key>
-    <value>&lt;color=brown&gt;КРОНА&lt;/color&gt;: О, ты тоже наблюдал за кометой? Я тоже! Вообще-то мы уже послали шаттл, чтобы исследовать её. Но всё равно, спасибо, Дурман.</value>
+    <value>&lt;color=brown&gt;КРОНА&lt;/color&gt;: О, ты наблюдал за кометой? Я тоже! Вообще-то мы уже послали шаттл, чтобы исследовать её. Но всё равно, спасибо, Дурман.</value>
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Well, ##### gonna catch up to Yarrow to see if he’s alright. #####! Don’t be a stranger, now!</key>
@@ -1899,7 +1899,7 @@
   </entry>
   <entry>
     <key>FRIEND: I see. Anyway, after we were gotten to safety, the substance was discovered to expand when hot, but tightly compact in cold conditions! And was effectively neutralized by water.</key>
-    <value>ДУРМАН: В любом случае, этот как клан добрался до <![CDATA[<color=lightblue>«Сборщика»</color>]]>. И при исследовании ими было обнаружено, что испускаемое вещество расширяется при горячих температурах, но уплотняется при холодных. И эффективно нейтрализуется водой.</value>
+    <value>ДУРМАН: В любом случае, этот клан добрался до <![CDATA[<color=lightblue>«Сборщика»</color>]]>. И при исследовании ими было обнаружено, что испускаемое вещество расширяется при горячих температурах, но уплотняется при холодных. И эффективно нейтрализуется водой.</value>
   </entry>
   <entry>
     <key>FRIEND: Then, we waited and watched as several interstellar species, working together, kindly contained <![CDATA[<color=lightblue>The Collector</color>]]> by collecting the strange matter into various water worlds and comets.</key>
