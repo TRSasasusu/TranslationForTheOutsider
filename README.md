@@ -2,6 +2,12 @@
 
 This Outer Wilds MOD is designed as a UNIVERSAL translation addon and some patches for [The Outsider mod](https://outerwildsmods.com/mods/theoutsider/).
 
+## Installation
+
+Requires [The Outsider](https://outerwildsmods.com/mods/theoutsider/) (Of course! This mod is an addon of The Outsider).
+
+Next, install [Translation and Patches for The Outsider](https://outerwildsmods.com/mods/translationfortheoutsider/) by Outer Wilds Mod Manager as in other mods.
+
 TOC  
 * [Translation for The Outsider](#translation-for-the-outsider)
 * [Patches for The Outsider](#patches-for-the-outsider)
@@ -12,12 +18,6 @@ The sample is here: [English Slate](fig/screenshot_slate_english.png) -> [Japane
 
 Now, JA, pt-BR, zh-CN, RU and FR are available;
 **Making other language translation is welcoming!** Please read [Other Languages](#other-languages) for details.
-
-## Installation
-
-Requires [The Outsider](https://outerwildsmods.com/mods/theoutsider/) (Of course! This mod is an addon of The Outsider).
-
-Next, install [Translation for The Outsider](https://outerwildsmods.com/mods/translationfortheoutsider/) by Outer Wilds Mod Manager as in other mods.
 
 ## EN -> JA
 
