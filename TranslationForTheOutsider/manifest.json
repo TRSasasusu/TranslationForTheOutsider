@@ -2,9 +2,9 @@
   "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
   "filename": "TranslationForTheOutsider.dll",
   "author": "orclecle",
-  "name": "Translation for The Outsider",
+  "name": "Translation and Patches for The Outsider",
   "uniqueName": "orclecle.TranslationForTheOutsider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "owmlVersion": "2.9.0",
   "dependencies": [ "SBtT.TheOutsider" ]
 }
