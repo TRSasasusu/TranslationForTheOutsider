@@ -12,6 +12,10 @@ namespace TranslationForTheOutsider {
             ModHelper.Console.WriteLine(text);
         }
 
+        public void Log(string text, MessageType messageType) {
+            ModHelper.Console.WriteLine(text, messageType);
+        }
+
         public bool IsFixIssuesOfTheOutsider => ModHelper.Config.GetSettingsValue<bool>("Fix issues of The Outsider");
 
         private void Awake() {
