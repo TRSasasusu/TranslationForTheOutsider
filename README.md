@@ -6,7 +6,7 @@ This Outer Wilds MOD is designed as a UNIVERSAL translation addon and some patch
 
 Requires [The Outsider](https://outerwildsmods.com/mods/theoutsider/) (Of course! This mod is an addon of The Outsider).
 
-Next, install [Translation and Patches for The Outsider](https://outerwildsmods.com/mods/translationfortheoutsider/) by Outer Wilds Mod Manager as in other mods.
+Next, install [Translation and Patches for The Outsider](https://outerwildsmods.com/mods/translationandpatchesfortheoutsider/) by Outer Wilds Mod Manager as in other mods.
 
 TOC  
 * [Translation for The Outsider](#translation-for-the-outsider)
