@@ -63,3 +63,4 @@ The Outsider mod has some issues, so this addon mod solves them.
 * [Shifted Ship Log after quitting and loading the game (The Outsider's Issue) #8](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/8)
 * [Projection from ATP to DB causes teleportation (The Outsider's Issue) #9](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/9)
 * [Can't read ATP to DB stone from ATP (The Outsider's Issue) #11](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/11)
+* [Save data corruption problem (The Outsider's Issue) #12](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/12)
