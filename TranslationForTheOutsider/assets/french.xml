@@ -72,7 +72,7 @@
   <entry>
     <!-- The translation for "Anglerfish" is "Baudroie" but in the original game they call it "Cœlacanthe" so i will keep the official translation-->
     <key>ScientistAnswerNEW_You know the little Anglerfish in the Museum? It got caught on the landing gear of one of our ships when it was flying close to get a good look at the structures, remember?</key>
-    <value>Tu connais le petit cœlacanthe du musée ? Il s'est coincé dans le train d'atterrissage d'un de nos vaisseau alors qu'il effectuait un survol pour jeter un coup d'œil aux structures, tu te souviens ?</value>
+    <value>Tu connais le petit cœlacanthe du musée ? Il s'est coincé dans le train d'atterrissage d'un de nos vaisseaux alors qu'il effectuait un survol pour jeter un coup d'œil aux structures, tu te souviens ?</value>
   </entry>
   <entry>
     <!-- I'm not sure for this one, may need a bit of rework -->
@@ -166,7 +166,7 @@
   </entry>
   <entry>
     <key>FigureSomethingOutResponseA_Well, once you know what they are... then uh... then you can get in.</key>
-    <value>Eh bien, une fois que vous savez ce qu'elles sont... alors euh... alors vous pouvez entrer.</value>
+    <value>Eh bien, une fois que tu sais ce qu'elles sont... alors euh... alors tu peux entrer.</value>
   </entry>
   <entry>
     <key>FeldsparFigureSomethingOutResponseA_...Right.</key>
@@ -634,7 +634,7 @@
   <!-- Shuttle Crusher: Call to Solanum: Start -->
   <entry>
     <key>DATURA: Hey little one! You’ll be off to the school on Brittle Hollow soon! (With no railings above a black hole.) I imagine you’ll be glad to get away from all this sand, eh?</key>
-    <value>DATURA: Hé, ma petite ! Tu iras bientôt à l'école de Cravité ! (Sans balustrades au dessus d'un trou noir.) J'imagine que tu seras heureux de t'éloigner de tout ce sable, hein ?</value>
+    <value>DATURA: Hé, ma petite ! Tu iras bientôt à l'école de Cravité ! (Sans balustrades au dessus d'un trou noir.) J'imagine que tu seras heureuse de t'éloigner de tout ce sable, hein ?</value>
   </entry>
   <entry>
     <key>SOLANUM: Yeah, but I don’t like that Mom is going to be the teacher!</key>
@@ -891,7 +891,7 @@
   </entry>
   <entry>
     <key>DATURA: Before my clan crashed here, I had read about their species. If we could understand eachother’s languages, I’d love to hear their encounter with &lt;color=lightblue&gt;The Collector&lt;/color&gt; from their perspective.</key>
-    <value>DATURA: Avant que mon clan ne s'écrase ici, j'avais lu des choses sur leur espèce. Si nous pouvions comprendre la langue de l'autre, j'aimerais entendre leur rencontre avec &lt;color=lightblue&gt;Le collectionneur&lt;/color&gt; de leur point de vue.</value>
+    <value>DATURA: Avant que mon clan ne s'écrase ici, j'avais lu des choses sur leur espèce. Si nous pouvions comprendre la langue de l'autre, j'aimerais entendre leur rencontre avec &lt;color=lightblue&gt;Le Collectionneur&lt;/color&gt; de leur point de vue.</value>
   </entry>
   <entry>
     <key>DATURA: If it’s not a touchy subject, of course.</key>
@@ -988,7 +988,7 @@
   </entry>
   <entry>
     <key>DATURA: Hey, don’t walk away! We’ve been stuck here for so long! Filix and I have a child now. This is no place to grow up. We need to change our efforts to getting out of here!</key>
-    <value>DATURA: Hé, ne part pas ! Nous sommes coincés ici depuis si longtemps ! Filix et moi avons un enfant maintenant. Ce n'est pas un endroit pour grandir. Nous devons changer nos efforts pour sortir d'ici !</value>
+    <value>DATURA: Hé, ne pars pas ! Nous sommes coincés ici depuis si longtemps ! Filix et moi avons un enfant maintenant. Ce n'est pas un endroit pour grandir. Nous devons changer nos efforts pour sortir d'ici !</value>
   </entry>
   <entry>
     <key>YARROW: ...We will. Once we’ve found the Eye, we’ll begin constructing a new Vessel. ...Just a little longer.</key>
@@ -1446,7 +1446,7 @@
   </entry>
   <entry>
     <key>FRIEND: The controls raising our Prisoner’s submerged structure out of our Vessel’s water were destroyed, by one of our elders at some point.</key>
-    <value>AMI: Les commandes permettant de sortir de l'eau du Vaisseau la structure immergée de notre Prisonnier ont été détruites par l'un de nos aînés à un moment donné.</value>
+    <value>AMI: Les commandes permettant de sortir de l'eau la structure immergée de notre Prisonnier ont été détruites, par l'un de nos aînés à un moment donné.</value>
   </entry>
   <entry>
     <key>FRIEND: Raising it outside also raises the simulated version of the structure, allowing access to the underground from within the simulation (and letting our Prisoner leave to join the rest of the decayed when freed).</key>
@@ -1528,7 +1528,7 @@
   </entry>
   <entry>
     <key>FRIEND: Datura hypothesized the Eye’s signal bounced around in Dark Bramble before reaching the Nomai - why they warped there instead?</key>
-    <value>AMI: Datura a émis l'hypothèse que le signal de l'Œil a rebondi dans Sompbronces avant d'atteindre les Nomaï - pourquoi s'y sont-ils rendus à la place ?</value>
+    <value>AMI: Datura a émis l'hypothèse que le signal de l'Œil a rebondi dans Sombronces avant d'atteindre les Nomaï - pourquoi s'y sont-ils rendus à la place ?</value>
   </entry>
   <!-- Dream Friend House: Datura and Me: End -->
   <!-- Dream Friend House: Me and Prisoner: Start -->
@@ -1556,7 +1556,7 @@
   </entry>
   <entry>
     <key>DATURA: ...Are you excited?</key>
-    <value>DATURA: ...Est-tu enthousiaste ?</value>
+    <value>DATURA: ...Es-tu enthousiaste ?</value>
   </entry>
   <entry>
     <key>SOLANUM: Well... It’s just... ...Why are you still over there? You found the Vessel. That was your mission, wasn’t it? So, why haven’t you... come back? Do you just... do you just... hate me?</key>
@@ -1608,7 +1608,7 @@
   </entry>
   <entry>
     <key>DATURA: I see. Well, suppose I’ll be waiting for you at the <![CDATA[<color=lightblue>Gravity Cannon</color>]]> when you return, then? You can tell me all about your Quantum Moon trip!</key>
-    <value>DATURA: Je vois. Eh bien, je suppose que je t'attendrais au <![CDATA[<color=lightblue>Canon à gravité</color>]]> quand tu reviendra ? Tu pourras me raconter ton voyage sur la lune quantique !</value>
+    <value>DATURA: Je vois. Eh bien, je suppose que je t'attendrai au <![CDATA[<color=lightblue>Canon à gravité</color>]]> quand tu reviendra ? Tu pourras me raconter ton voyage sur la lune quantique !</value>
   </entry>
   <entry>
     <key>SOLANUM: Uh... Sounds good! Though, I thought you wouldn’t care about the Quantum Moon.</key>
@@ -1850,7 +1850,7 @@
   </entry>
   <entry>
     <key>FRIEND: Then, we waited and watched as several interstellar species, working together, kindly contained <![CDATA[<color=lightblue>The Collector</color>]]> by collecting the strange matter into various water worlds and comets.</key>
-    <value>>AMI: Ensuite, nous avons attendu et regardé plusieurs espèces interstellaires, travaillant ensemble, qui ont gentiment contenu <![CDATA[<color=lightblue>Le Collectionneur</color>]]> en rassemblant les matières étranges dans divers mondes aquatiques et comètes.</value>
+    <value>AMI: Ensuite, nous avons attendu et regardé plusieurs espèces interstellaires, travaillant ensemble, qui ont gentiment contenu <![CDATA[<color=lightblue>Le Collectionneur</color>]]> en rassemblant les matières étranges dans divers mondes aquatiques et comètes.</value>
   </entry>
   <entry>
     <key>FRIEND: Then everyone, including us, all went home. Not a long while after, the Eye started sending out it’s signal. I wonder if it saw-</key>
@@ -1868,7 +1868,7 @@
   </entry>
   <entry>
     <key>DATURA: I remember thinking it was odd that once <![CDATA[<color=lightblue>The Collector</color>]]> was defeated, Friend’s elders decided to return home to their moon instead of leaving with the others.</key>
-    <value>DATURA: Je me souviens avoir pensé qu'il était étrange qu'une fois<![CDATA[<color=lightblue>Le Collectionneur</color>]]> ait été vaincu, les aînés d'Ami ont décidé de rentrer chez eux, sur leur lune, au lieu de partir avec les autres.</value>
+    <value>DATURA: Je me souviens avoir pensé qu'il était étrange qu'une fois <![CDATA[<color=lightblue>Le Collectionneur</color>]]> ait été vaincu, les aînés d'Ami ont décidé de rentrer chez eux, sur leur lune, au lieu de partir avec les autres.</value>
   </entry>
   <entry>
     <key>DATURA: I think they were given (if they ever did wish to leave) schematics on how to build various kinds of spacecraft and machines, as is customary when encountering a pre-interstellar species.</key>
@@ -2207,7 +2207,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherSomeone referred to as ’Friend’ also wanted to destroy their ship. After damaging their ship, its alarm went off too. Datura remembered that he should just stand back and wait until it exploded.</key>
-    <value>Quelqu'un appelé 'Ami' voulait aussi détruire leur vaisseau. Après avoir endommagé leur vaisseau, l'alarme s'est également activée. Datura se rappela qu'elle devait rester à l'écart et attendre que le vaisseau explose.</value>
+    <value>Quelqu'un appelé 'Ami' voulait aussi détruire leur vaisseau. Après avoir endommagé leur vaisseau, l'alarme s'est également activée. Datura se rappela qu'il devait rester à l'écart et attendre que le vaisseau explose.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherI used a switch to activate the crusher.</key>
