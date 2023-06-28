@@ -98,6 +98,10 @@
   <!-- Disc Table: End -->
   <!-- Misc: Start -->
   <entry>
+    <key>Friend</key>
+    <value>“朋友”</value>
+  </entry>
+  <entry>
     <key>SlateScientist5_Were the structures on Dark Bramble always there?</key>
     <value>黑棘星上的建筑一直在那里吗?</value>
   </entry>

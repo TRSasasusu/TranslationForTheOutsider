@@ -130,6 +130,10 @@
   <!-- Disc Table: End -->
   <!-- Misc: Start -->
   <entry>
+    <key>Friend</key>
+    <value>Друг</value>
+  </entry>
+  <entry>
     <key>SlateScientist5_Were the structures on Dark Bramble always there?</key>
     <value>А эти постройки на Чёрном Терновнике... Они всегда были там?</value>
   </entry>

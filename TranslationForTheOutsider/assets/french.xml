@@ -62,6 +62,10 @@
   <!-- Disc Table: End -->
   <!-- Misc: Start -->
   <entry>
+    <key>Friend</key>
+    <value>Ami</value>
+  </entry>
+  <entry>
     <key>SlateScientist5_Were the structures on Dark Bramble always there?</key>
     <value>Les structures autour de Sombronces ont-elles toujours été là ?</value>
   </entry>
