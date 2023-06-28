@@ -40,7 +40,8 @@ Some texts of Feldspar and Gabbro have not been translated yet. (Fixing it is we
 Completed! Thank you, [@Korol2038](https://github.com/Korol2038). (See [#3](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/3))
 
 Corrected by [@Svetaleet](https://github.com/Svetaleet) (See [#4](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/4))
-and [@Danielthas1988](https://github.com/Danielthas1988) (See [#10](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/10))
+, [@Danielthas1988](https://github.com/Danielthas1988) (See [#10](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/10))
+, and [@Siroptas](https://github.com/Siroptas) (See [#14](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/14))
 , thank you.
 
 ## EN -> FR
