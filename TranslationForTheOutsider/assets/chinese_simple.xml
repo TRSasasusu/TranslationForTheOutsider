@@ -23,7 +23,7 @@
   </color_table>
   <color_table>
     <key>Vessel</key>
-    <value>母舰</value>
+    <value>飞船</value>
   </color_table>
   <color_table>
     <key>DATURA</key>
@@ -107,15 +107,15 @@
   </entry>
   <entry>
     <key>ScientistAnswerNEW_Well... yeah.</key>
-    <value>嗯</value>
+    <value>我想是的</value>
   </entry>
   <entry>
     <key>ScientistAnswerNEW_You know the little Anglerfish in the Museum? It got caught on the landing gear of one of our ships when it was flying close to get a good look at the structures, remember?</key>
-    <value>你知道博物馆里的小鮟鱇鱼吗？它被我们的一艘船的起落架卡住了，当时它飞得很近，想看清楚结构，记得吗？</value>
+    <value>你知道博物馆里的小安康鱼吗？当我们的一艘飞船靠近那些建筑想要仔细观察时它卡到了起落架上。你记得吗？</value>
   </entry>
   <entry>
     <key>ScientistAnswerNEW_...I think you need to wake up a bit from your pre-launch campout. Do a couple of jumps, maybe.</key>
-    <value>……我认为你需要从发射前的露营中醒来一点。做几个跳跃，也许。</value>
+    <value>……我认为你需要从发射前的露营中清醒过来。也许做做体操，深呼吸几次会有用。</value>
   </entry>
   <entry>
     <key>FeldsparRecording_Trip 4, entry #... who cares. Crashes: 2. Boring crashes: 0.</key>
@@ -345,30 +345,29 @@
     <key>FigureSomethingOutCancel_Alright. It’s always more fun that way, anyway, so good call.</key>
     <value>这是最正确的选择！并且更有挑战性，不是吗？</value>
   </entry>
-  <!--
   <entry>
     <key>FeldsparFoundSomethingMenu_I found a way to the top of the Study Tower, and...</key>
-    <value>研究塔の最上部へ行く方法を見つけた、そして…</value>
+    <value>我找到了前往研究塔顶层的办法，而且...</value>
   </entry>
   <entry>
     <key>FoundSomethingNew1_... Uhuh. ... Oh. ... Huh?</key>
-    <value>…うんうん。…ああ。…はあ？</value>
+    <value>…嗯。…啊～。…啥？</value>
   </entry>
   <entry>
     <key>FoundSomethingNew1_Wait wait wait. Giant's Deep tore it off the surface, and you rode the tower on over?!</key>
-    <value>待て待て待て。巨人の大海が塔を地表から引きちぎるのに乗じて、そのまま上まで飛び上がっただと？！</value>
+    <value>等等。深巨星的引力把它从地表撕下，然后你就顺着飞上去了？！</value>
   </entry>
   <entry>
     <key>FoundSomethingNew1_Damn. Are you trying to out-Feldspar me? Well done, hatchling, proud of you.</key>
-    <value>くそっ。Feldspar超えを目指そうというのか？よくやった、ひよっ子、お前を誇りに思うよ。</value>
+    <value>淦。你想超越费尔德斯巴吗？干得好，年轻人，我以你为荣。</value>
   </entry>
   <entry>
     <key>FoundSomethingNew1_(Hmm... now what could I do to top that maneuver?)</key>
-    <value>(ううむ…この作戦を上回るにはどうすればいい？)</value>
+    <value>(嗯...怎样才能找出更有挑战性的方法呢？)</value>
   </entry>
   <entry>
     <key>FoundSomethingNew1_(Oh, I know! I could land on that Sun Station thing!)</key>
-    <value>(ああ、そうだ！あの太陽ステーションに着陸してやればいい！)</value>
+    <value>(啊，有了！我要去试着降落在太阳站上！)</value>
   </entry>
   <entry>
     <key>FoundSomethingNew1_(...)</key>
@@ -376,101 +375,100 @@
   </entry>
   <entry>
     <key>FoundSomethingNew1_(Nah, that would be dumb.)</key>
-    <value>(いや、そんな考えをしてしまうのは馬鹿げているな。)</value>
+    <value>(不，这是在太不明智了。)</value>
   </entry>
   <entry>
     <key>FoundSomething1_“The ship is fragile! It can break! You can’t subject it to extreme conditions!” Not like I was trying to land on the Sun Station, now, was I?</key>
-    <value>&lt;i&gt;探査艇は脆い！壊れる！極限状態で使うことはできない！&lt;/i&gt;別に太陽ステーションに着陸しようとしたわけでもないのになあ？</value>
+    <value>&lt;i&gt;飞船很脆弱，那样会坏掉的！不能在极端条件下使用！&lt;/i&gt;这不像我在试图登陆太阳站时该有的样子。</value>
   </entry>
   <entry>
     <key>FeldsparExplore_Your scout tracker will tell you the scout is in two places at once, but I don’t think that’s... wrong, exactly, because space doesn’t work right in here. That seed looks small, see? But inside... Well...</key>
-    <value>探査機追跡機は、探査機が同時に2カ所にあることを示すだろう。だが、それが…厳密に言って間違っているとは思わない。ここでは空間が正しく機能していないからね。あの種は小さく見えるだろう？でも中は…そうだな…。</value>
+    <value>你的宇航服会显示侦察兵同时出现在两个地方。但严格来说这没错。因为空间在这里失去了作用。看到那颗小小的种子了吗？但在那里面...。</value>
   </entry>
   <entry>
     <key>FeldsparExplore_I’ve had a lot of time to think about this, and my theory is that these seeds really hate the fabric of spacetime.</key>
-    <value>そのことを考える時間はたっぷりあった。そしてああいう種は時空構造というものをひどく嫌っているっていう仮説を立てた。</value>
+    <value>我花了很多时间思考这个问题，我的理论是这些种子真的很讨厌时空结构。</value>
   </entry>
   <entry>
     <key>FeldsparExplore_Good luck exploring Dark Bramble!</key>
-    <value>気をつけて闇のイバラを探検するんだ！</value>
+    <value>探索黑棘星时要小心！</value>
   </entry>
   <entry>
     <key>FeldsparCore_If I were you, I’d go take a walk and see where it ends. But, stop before the uh...</key>
-    <value>私だったら、どこまで続いてるのか見に行ってみるけどな。だが、その前に止まって、ああ…。</value>
+    <value>如果是我，我会去顺着走一走，看看它能有多远。但是，记得停在...</value>
   </entry>
   <entry>
     <key>FeldsparCore_...Well, you'll know when to stop.</key>
-    <value>…まあ、止まるべき場所はわかるか。</value>
+    <value>…嘛，你会意识到什么时候该停下的。</value>
   </entry>
   <entry>
     <key>Feldspar5a_My story goes like this. I’d just finished exploring the core of Giant’s Deep, and I wanted to try my hand at Dark Bramble, seeing as no one had ever been inside before.</key>
-    <value>つまりはこういうことだ。巨人の大海の探査を終えて、闇のイバラで腕試ししようと思ったんだ。まだ誰も内部には行ったことがないみたいだったし。</value>
+    <value>我的故事就是这样。我刚刚探索完深巨星的核心，我想尝试一下黑棘星，因为还未有人踏足此处。</value>
   </entry>
   <entry>
     <key>GabbroGabbroMenu_GABBRO I JUST GOT PULLED OFF OF DARK BRAMBLE.</key>
-    <value>&lt;i&gt;Gabbro、私は今、闇のイバラから引っ張られてここに来たんだ！&lt;/i&gt;</value>
+    <value>&lt;i&gt;加布罗，我刚才被深巨星的引力从黑棘星上扯下来了！&lt;/i&gt;</value>
   </entry>
   <entry>
     <key>PulledOffDarkBramble_Hmm? Oh, yeah. Giant's Deep sure earns it's name, huh?</key>
-    <value>んん？ああ、そうだな。巨人の大海は確かにその名に恥じない、ということだな？</value>
+    <value>嗯？哦，挺好。星如其名，不是吗？</value>
   </entry>
   <entry>
     <key>PulledOffDarkBramble_Anyway, here comes the sun.</key>
-    <value>ともかく、太陽も来たようだ。</value>
+    <value>不管怎么说，太阳有要来了。</value>
   </entry>
   <entry>
     <key>PulledOffDarkBramble_See you next loop, time buddy.</key>
-    <value>次のループでまた会おう、相棒。</value>
+    <value>下一个循环见，伙计。</value>
   </entry>
   <entry>
     <key>HowDoYouStayCalm_The sun is exploding right now, so I could ask the same to you... but seriously, I meditate.</key>
-    <value>もう太陽が爆発してるし、同じことをお前にも聞いてみたいところだが…。いや、真面目な話、瞑想するんだよ。</value>
+    <value>太阳已经爆炸了，我想和你说的一样...不过说真的，来冥想吧。</value>
   </entry>
   <entry>
     <key>MeditateMenu_Want me to teach you? It'll be the next loop before you know it. ...Either way.</key>
-    <value>やり方を教えようか？知らない間に次のループになってるぞ。…どのみちな。</value>
+    <value>要我教你吗？不管你能不能学会，下个循环都要来了。...无论哪种方式</value>
   </entry>
   <entry>
     <key>NoMeditate_Ok. Well, here comes the sun.</key>
-    <value>オーケー。さて、太陽がやってきたようだ。</value>
+    <value>オーケー。好吧，太阳又来了。</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_merge_Uh, maybe I'll tell you next loop? Suns going.</key>
-    <value>あー、多分次のループで話すかも？もう太陽はすぐそこだ。</value>
+    <value>啊，也许下个循环在告诉你吧？太阳已经来了。</value>
   </entry>
   <entry>
     <key>WhereToExplore_merge_Here’s something you might like — the sun is about to blow up. I'll talk to you next loop, is that alright?</key>
-    <value>お前が好きそうなことがここにある―太陽がちょうど爆発するところだ。次のループで話そう、いいな？</value>
+    <value>我这有些你感兴趣的事——那就是太阳又要爆炸了。下一个循环我再跟你聊，可以吗？</value>
   </entry>
   <entry>
     <key>ThisPlanet_merge_...Oh, you meant, like, tell you more about it? I gotcha. Well, I'll talk next loop. Sound good?</key>
-    <value>…ああ、なんだ、もっと詳しくということか？わかったよ。じゃあ、次のループで話すから、いいね？</value>
+    <value>...哦，你的意思是，告诉你更多相关信息？我明白了。好吧，下个循环在聊。怎么样？</value>
   </entry>
   <entry>
     <key>GabbrosShip_Well, I'll worry about it another loop.</key>
-    <value>まあ、今度のループで心配することにするよ。</value>
+    <value>好吧，我会担心下一个循环。</value>
   </entry>
   <entry>
     <key>FoundSomethingMenu_Nice, nice. How about you tell me all about it next loop? No need to rush.</key>
-    <value>いいね、いいね。次のループで教えてくれるというのはどうだ？急ぐ必要はないんだから。</value>
+    <value>善。等下一个循环再慢慢跟我讲吧？不用着急的。</value>
   </entry>
   <entry>
     <key>GabbroMain_Hey, it's getting near the end of the loop, huh?</key>
-    <value>おい、そろそろループの終わりが近づいてきたぞ？</value>
+    <value>嗨！又接近循环的终点了</value>
   </entry>
   <entry>
     <key>GabbroMain_If it isn’t my time buddy! Come lower your eyelids to die with the sun with me.</key>
-    <value>私の相棒じゃないか！太陽で死に行くなかでともにまぶたを閉じようじゃないか。</value>
+    <value>这不是我的时间伙伴吗！闭上眼睛和我和太阳一起迎接死亡吧。</value>
   </entry>
   <entry>
     <key>GabbroMain_Heyo, time buddy. It’s a good thing I never get bored of dying by supernova, huh?</key>
-    <value>へいよ、相棒。超新星で死ぬのは飽きないもんだな？</value>
+    <value>嗨哟，伙计。很庆幸我没有对死于超新星感到厌倦。</value>
   </entry>
   <entry>
     <key>GabbroMain_A few loops ago, one of these structures falling from the sky fell on my island. Dying like that was kind of unpleasant.</key>
-    <value>2、3ループ前、空からこの小さな島に構造物の一つが落ちてきた。そんな風に死ぬのは嬉しくない。</value>
+    <value>几个循环前，一个从空中掉下来的建筑掉到了我的小岛上。就那么死去挺没劲的。</value>
   </entry>
-  -->
   <entry>
     <key>Bramble Power Station</key>
     <value>荆棘动力站</value>
