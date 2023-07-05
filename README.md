@@ -33,7 +33,7 @@ Mostly completed based on [TheOutsider_CN](https://github.com/nice2cu1/TheOutsid
 
 For Chinese translation, installing [Outer Wilds Chinese Fix](https://outerwildsmods.com/mods/outerwildschinesefix/) is recommended.
 
-Some texts of Feldspar and Gabbro have not been translated yet. (Fixing it is welcome!)
+Some texts of Feldspar and Gabbro used to be missed, but now they are translated! Thank you, [@solitary-sails](https://github.com/solitary-sails). (See [#15](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/15))
 
 ## EN -> RU
 
@@ -48,7 +48,7 @@ Corrected by [@Svetaleet](https://github.com/Svetaleet) (See [#4](https://github
 
 Completed! Thank you, [@Fighters91](https://github.com/Fighters91). (See [#5](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/5))
 
-Corrected by [@Myalgul](https://github.com/Myalgul). (See [#6](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/6))
+Corrected by [@Myalgul](https://github.com/Myalgul). (See [#6](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/6) and [#13](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/13))
 
 ## Other Languages
 
