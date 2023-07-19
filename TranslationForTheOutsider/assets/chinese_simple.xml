@@ -35,7 +35,7 @@
   </color_table>
   <color_table>
     <key>FRIEND</key>
-    <value>朋友</value>
+    <value>`朋友`</value>
   </color_table>
   <color_table>
     <key>Friend</key>
@@ -501,19 +501,19 @@
   <!-- Secret Poem: Start -->
   <entry>
     <key>FRIEND: Failure of communication,</key>
-    <value>朋友：通信故障，</value>
+    <value>`朋友`：通信故障，</value>
   </entry>
   <entry>
     <key>FRIEND: Made worse by long duration.</key>
-    <value>朋友：因持续时间过长而变得更糟。</value>
+    <value>`朋友`：因持续时间过长而变得更糟。</value>
   </entry>
   <entry>
     <key>FRIEND: In our minds, meaning of words undergo mutation,</key>
-    <value>朋友：在我们的头脑中，单词的意义发生了变化，</value>
+    <value>`朋友`：在我们的头脑中，单词的意义发生了变化，</value>
   </entry>
   <entry>
     <key>FRIEND: Until we live in worlds of fabrication.</key>
-    <value>朋友：直到我们生活在虚构的世界里。</value>
+    <value>`朋友`：直到我们生活在虚构的世界里。</value>
   </entry>
   <!-- Secret Poem: End (You can check hidden meaning of this poem in `darkbundle` file.) -->
   <!-- Bramble Station: Start -->
@@ -957,15 +957,15 @@
   </entry>
   <entry>
     <key>FRIEND: This is home.</key>
-    <value>朋友：这是家。</value>
+    <value>`朋友`：这是家。</value>
   </entry>
   <entry>
     <key>FRIEND: Feeling lost. I did not finish it. This is good enough.</key>
-    <value>朋友：感觉失落。我没有画完。但已经足够好了。</value>
+    <value>`朋友`：感觉失落。我没有画完。但已经足够好了。</value>
   </entry>
   <entry>
     <key>FRIEND: Curious star system here. More curious beings. I wish others were not decayed, and could meet you.</key>
-    <value>朋友：这是奇特的星系，更多奇特的生物。我希望其他人还没腐朽，还能够见到你。</value>
+    <value>`朋友`：这是奇特的星系，更多奇特的生物。我希望其他人还没腐朽，还能够见到你。</value>
   </entry>
   <entry>
     <key>DATURA: This thing we have going is... going quite well, I think!</key>
@@ -981,7 +981,7 @@
   </entry>
   <entry>
     <key>FRIEND: Talking is hard for me same. Not only you learning!</key>
-    <value>朋友：说话对我来说相同难，不止你要学习。</value>
+    <value>`朋友`：说话对我来说相同难，不止你要学习。</value>
   </entry>
   <entry>
     <key>DATURA: Does one have a lot to learn, or does another have a lot to teach?</key>
@@ -989,7 +989,7 @@
   </entry>
   <entry>
     <key>FRIEND: What?</key>
-    <value>朋友：嗯？</value>
+    <value>`朋友`：嗯？</value>
   </entry>
   <!-- Bramble Village: Art House: End -->
   <!-- Bramble Village: Datura House: Start -->
@@ -999,11 +999,11 @@
   </entry>
   <entry>
     <key>FRIEND: Found quantum rock in ice!</key>
-    <value>朋友：我在冰中找到了量子岩石!</value>
+    <value>`朋友`：我在冰中找到了量子岩石!</value>
   </entry>
   <entry>
     <key>FRIEND: For you. From Friend.</key>
-    <value>朋友：这是给你的。</value>
+    <value>`朋友`：这是给你的。</value>
   </entry>
   <entry>
     <key>DATURA: -record this. Hypothesis: I’ll need to listen back on this. So: You’re STILL looking for the Eye?</key>
@@ -1145,35 +1145,35 @@
   <!-- Bramble Village: Friend Eye: Start -->
   <entry>
     <key>FRIEND: The Eye. On first discovery, all was known was it was older than the universe. Similar to Nomai, us curious beings made a big sacrifice to reach it.</key>
-    <value>朋友：眼，在刚发现的时候，大家都只知道它比宇宙还老。和挪麦人一样，我们的好奇心让我们在接近它的时候付出了巨大牺牲。</value>
+    <value>`朋友`：眼，在刚发现的时候，大家都只知道它比宇宙还老。和挪麦人一样，我们的好奇心让我们在接近它的时候付出了巨大牺牲。</value>
   </entry>
   <entry>
     <key>FRIEND: During the journey, a big known theory on our ’Vessel’ (as Datura would say) was the Eye created this universe.</key>
-    <value>朋友：在来的旅途中，飞船上一个广为流传的理论是眼创造了这个宇宙。</value>
+    <value>`朋友`：在来的旅途中，飞船上一个广为流传的理论是眼创造了这个宇宙。</value>
   </entry>
   <entry>
     <key>FRIEND: Suppose this was not the first time. Hypothesis: could the Eye create the universe again every time it dies?</key>
-    <value>朋友：如果这不是眼的第一次出现。假设：当宇宙每次死亡时，眼能重新创造宇宙？</value>
+    <value>`朋友`：如果这不是眼的第一次出现。假设：当宇宙每次死亡时，眼能重新创造宇宙？</value>
   </entry>
   <entry>
     <key>FRIEND: Once we arrived at the Eye... One saw a vision of it destroying the universe after one interacts with it.</key>
-    <value>朋友：我们到达了眼…… 有一个人看到了他与眼互动后摧毁宇宙的景象。</value>
+    <value>`朋友`：我们到达了眼…… 有一个人看到了他与眼互动后摧毁宇宙的景象。</value>
   </entry>
   <entry>
     <key>FRIEND: Most were horrified and devastated - their new purpose became hiding the Eye away to protect our universe.</key>
-    <value>朋友：大多数人都惊恐万分、悲痛欲绝——他们的新目标变成了把眼藏起来，保护我们的宇宙。</value>
+    <value>`朋友`：大多数人都惊恐万分、悲痛欲绝——他们的新目标变成了把眼藏起来，保护我们的宇宙。</value>
   </entry>
   <entry>
     <key>FRIEND: My other friend and I did not believe the Eye was to be feared. We still believe it is a creator. Suppose the vision was misinterpreted, or wrong, or unfinished?</key>
-    <value>朋友：我的其他朋友和我都不相信眼是可怕的。我们仍然相信眼是一个创造者。也许这景象被误解了，或者与错误的，或者景象并未结束呢？</value>
+    <value>`朋友`：我的其他朋友和我都不相信眼是可怕的。我们仍然相信眼是一个创造者。也许这景象被误解了，或者与错误的，或者景象并未结束呢？</value>
   </entry>
   <entry>
     <key>FRIEND: The others had been burnt on the inside, and did not wish to be burnt again, so they ignored us, and told us to move on and stop ’holding onto the past’...</key>
-    <value>朋友：其他人的内心已经被重创，他们不想再被伤害，所以他们无视了我们，并告诉我们继续前进，不要再执着于过去……</value>
+    <value>`朋友`：其他人的内心已经被重创，他们不想再被伤害，所以他们无视了我们，并告诉我们继续前进，不要再执着于过去……</value>
   </entry>
   <entry>
     <key>FRIEND: I know it in my heart: the Eye is good. I believe there is more to its story than they wish to know.</key>
-    <value>朋友：但我心里始终认为：眼是善意的。我相信眼的故事比他们想知道的多得多。</value>
+    <value>`朋友`：但我心里始终认为：眼是善意的。我相信眼的故事比他们想知道的多得多。</value>
   </entry>
   <!-- Bramble Village: Friend Eye: End -->
   <!-- Bramble Village: Both Eye: Start -->
@@ -1187,7 +1187,7 @@
   </entry>
   <entry>
     <key>FRIEND: But one has to wonder how this universe was created then, if the Eye destroyed the previous universe? Perhaps it also created this one?</key>
-    <value>朋友：但是如果它摧毁了之前的宇宙，我们就不得不好奇一下现在的宇宙是如何被创造出来的。或许它也创造了这个宇宙。</value>
+    <value>`朋友`：但是如果它摧毁了之前的宇宙，我们就不得不好奇一下现在的宇宙是如何被创造出来的。或许它也创造了这个宇宙。</value>
   </entry>
   <entry>
     <key>DATURA: Yarrow and the others believe the Eye is quantum, so, if that’s true, I suppose it would be fitting for the Eye to be in a superposition of both good and bad, eh?</key>
@@ -1195,7 +1195,7 @@
   </entry>
   <entry>
     <key>FRIEND: ...but does this not mean that blocking the Eye’s signal is wrong?</key>
-    <value>朋友：但……这是不是意味着屏蔽眼信号不是错误的？</value>
+    <value>`朋友`：但……这是不是意味着屏蔽眼信号不是错误的？</value>
   </entry>
   <entry>
     <key>DATURA: Hmm... that’s difficult to answer. You wouldn’t want the location of the universe reset button being blasted for all to hear, would you?</key>
@@ -1203,7 +1203,7 @@
   </entry>
   <entry>
     <key>FRIEND: Well, we can not keep it locked it away either because we are afraid to die, so-.</key>
-    <value>朋友：嗯，我们也不能因为怕死就把它封锁起来，所以——</value>
+    <value>`朋友`：嗯，我们也不能因为怕死就把它封锁起来，所以——</value>
   </entry>
   <entry>
     <key>DATURA: I’m not afraid to die - death is just extremely uninteresting to me. And this universe isn’t over yet. So, let’s not be afraid to live, now, Friend.</key>
@@ -1321,15 +1321,15 @@
   <!-- Sealed Structure: Inside from Friend: Start -->
   <entry>
     <key>FRIEND: ...Goodbye, friends. ...This will be my home for a little while, it seems. ...Oh, Datura, Datura. Getting yourself into trouble as always! Hahaha.</key>
-    <value>朋友：……再见了，朋友们，一段时间内这儿就是我的家了，似乎……哦，曼陀罗，曼陀罗。又给你自己找麻烦了！哈哈。</value>
+    <value>`朋友`：……再见了，朋友们，一段时间内这儿就是我的家了，似乎……哦，曼陀罗，曼陀罗。又给你自己找麻烦了！哈哈。</value>
   </entry>
   <entry>
     <key>FRIEND: I hope he knows I am not mad at him. My friends are just attempting to appease our decayed elders (who have decided this).</key>
-    <value>朋友：我希望他知道我没有生他的气。我的朋友们只是试图安抚我们腐朽的长辈(他们已经决定了这一点)。</value>
+    <value>`朋友`：我希望他知道我没有生他的气。我的朋友们只是试图安抚我们腐朽的长辈(他们已经决定了这一点)。</value>
   </entry>
   <entry>
     <key>FRIEND: I should get to sleep. They will all be waiting for me. Hypothesis: I will see you again, Datura. Worry not.</key>
-    <value>朋友：我该睡觉了，他们在等我。假设：我们还会再见，曼陀罗。别担心。</value>
+    <value>`朋友`：我该睡觉了，他们在等我。假设：我们还会再见，曼陀罗。别担心。</value>
   </entry>
   <entry>
     <key>...</key>
@@ -1361,209 +1361,209 @@
   <!-- Dream Friend House: Explain Me: Start -->
   <entry>
     <key>FRIEND: You are in my home star system! (A simulation of it.)</key>
-    <value>朋友：你现在在我的故乡星系！（对它的模拟）</value>
+    <value>`朋友`：你现在在我的故乡星系！（对它的模拟）</value>
   </entry>
   <entry>
     <key>FRIEND: I am curious: how are you here? Are you from the outside star system? Or are you from elsewhere, like us?</key>
-    <value>朋友：我很好奇，你怎么来这的？你是从外面那个星系来的吗？还是像我们一样来自别的地方？</value>
+    <value>`朋友`：我很好奇，你怎么来这的？你是从外面那个星系来的吗？还是像我们一样来自别的地方？</value>
   </entry>
   <entry>
     <key>FRIEND: Please make yourself at home! And stay for as long a while as you like. ...I would avoid the others, however.</key>
-    <value>朋友：在这别见外！你喜欢待多久就待多久……不过，我会避开其他人的。</value>
+    <value>`朋友`：在这别见外！你喜欢待多久就待多久……不过，我会避开其他人的。</value>
   </entry>
   <entry>
     <key>FRIEND: This was built for one to be a while, as we searched for a new home. However, over time, more and more of us (our elders) decayed irreversibly into this simulation.</key>
-    <value>朋友：这是为了我们寻找新家的那段时间建造的。不过随着时间的推移，我们中越来越多人（前辈们）无法挽回地陷入了这种模拟。</value>
+    <value>`朋友`：这是为了我们寻找新家的那段时间建造的。不过随着时间的推移，我们中越来越多人（前辈们）无法挽回地陷入了这种模拟。</value>
   </entry>
   <entry>
     <key>FRIEND: There were very few of us left alive outside (mostly the youngest), when the Nomai arrived.</key>
-    <value>朋友：挪麦人到达的时候，模拟外还活着的人已经非常少了（主要是是年轻人）。</value>
+    <value>`朋友`：挪麦人到达的时候，模拟外还活着的人已经非常少了（主要是是年轻人）。</value>
   </entry>
   <entry>
     <key>FRIEND: After, our decayed elders suggested we silently observe the Nomai to ensure the Eye was not found.</key>
-    <value>朋友：之后，腐朽的前辈们提议悄悄观察挪麦人，以防眼被找到。</value>
+    <value>`朋友`：之后，腐朽的前辈们提议悄悄观察挪麦人，以防眼被找到。</value>
   </entry>
   <!-- Dream Friend House: Explain Me: End -->
   <!-- Dream Friend House: Datura and Prisoner: Start -->
   <entry>
     <key>FRIEND: Datura did not like the sound of our Prisoner, seeing how he released the Eye’s signal despite hearing of the vision of the Eye destroying the universe.</key>
-    <value>朋友：曼陀罗了解到幽禁者见到眼摧毁宇宙的影像后还是放出了眼的信号，就对他印象不是太好。</value>
+    <value>`朋友`：曼陀罗了解到幽禁者见到眼摧毁宇宙的影像后还是放出了眼的信号，就对他印象不是太好。</value>
   </entry>
   <entry>
     <key>FRIEND: One thing they have in common (and one I wish they did not) is becoming big fluffy bundles of anger due to the Eye.</key>
-    <value>朋友：他们之间的一个共同点（我希望他们没有的一点）就是他们都因为眼而变得愤愤不平。</value>
+    <value>`朋友`：他们之间的一个共同点（我希望他们没有的一点）就是他们都因为眼而变得愤愤不平。</value>
   </entry>
   <entry>
     <key>FRIEND: Our Prisoner believed with unbreakable confidence that the Eye was pure good. Seeing the others hide it away, he viewed them as fearful, evil, and... idiotic.</key>
-    <value>朋友：我们的幽禁者以毫不动摇的自信相信眼是纯粹的善。看到其他人将它藏起来，他认为他们懦弱、邪恶，并且……愚蠢。</value>
+    <value>`朋友`：我们的幽禁者以毫不动摇的自信相信眼是纯粹的善。看到其他人将它藏起来，他认为他们懦弱、邪恶，并且……愚蠢。</value>
   </entry>
   <entry>
     <key>FRIEND: Him and I told them we were not afraid of the Eye... But I suppose it is easy to call others afraid, and say they are not able to accept the truth, despite you not knowing everything either.</key>
-    <value>朋友：他和我告诉他们我们并不害怕眼……但是我看说别人胆小容易，说他们不能接受现实也容易，尽管你自己也还一无所知。</value>
+    <value>`朋友`：他和我告诉他们我们并不害怕眼……但是我看说别人胆小容易，说他们不能接受现实也容易，尽管你自己也还一无所知。</value>
   </entry>
   <entry>
     <key>FRIEND: Datura did not care much for the Eye. A while away from his clan built up an anger towards them - he had a big falling out with a Nomai... Yarrow, I believe.</key>
-    <value>朋友：曼陀罗不太关心眼的事。与他的族人分隔一段时间助长了他对他们的愤怒——他跟一个挪麦人大吵了一架……亚罗，我记得是。</value>
+    <value>`朋友`：曼陀罗不太关心眼的事。与他的族人分隔一段时间助长了他对他们的愤怒——他跟一个挪麦人大吵了一架……亚罗，我记得是。</value>
   </entry>
   <!-- Dream Friend House: Datura and Prisoner: End -->
   <!-- Dream Friend House: You and Prisoner: Start -->
   <entry>
     <key>FRIEND: A long while ago, the one we call our Prisoner used to be my friend.</key>
-    <value>朋友：很久以前，我们称作幽禁者的这个人，曾经是我的朋友。</value>
+    <value>`朋友`：很久以前，我们称作幽禁者的这个人，曾经是我的朋友。</value>
   </entry>
   <entry>
     <key>FRIEND: He would tell me how he wished to ’set the wrongs of our elders right’ by releasing the Eye’s signal... I didn’t realise he was serious!</key>
-    <value>朋友：他曾经告诉我，他有多么希望通过释放眼信号的方式来纠正前辈们的错误……我没意识到他是认真的！</value>
+    <value>`朋友`：他曾经告诉我，他有多么希望通过释放眼信号的方式来纠正前辈们的错误……我没意识到他是认真的！</value>
   </entry>
   <entry>
     <key>FRIEND: ...I miss him.</key>
-    <value>朋友：……我很想念他。</value>
+    <value>`朋友`：……我很想念他。</value>
   </entry>
   <!-- Dream Friend House: You and Prisoner: End -->
   <!-- Dream Friend House: Explain Datura: Start -->
   <entry>
     <key>FRIEND: Hahaha, you explain him to me! He was a good friend to me, but not always to his clan... or to himself.</key>
-    <value>朋友：哈哈哈，你给我解释一下！他是我的好朋友，但对他的家族来说并不总是（是与不是的叠加态？你懂的。）。也不是对他自己。</value>
+    <value>`朋友`：哈哈哈，你给我解释一下！他是我的好朋友，但对他的家族来说并不总是（是与不是的叠加态？你懂的。）。也不是对他自己。</value>
   </entry>
   <entry>
     <key>FRIEND: Part of me wishes he escaped this star system, but I know... it is improbable.</key>
-    <value>朋友：我希望他已经逃出了这个星系，但我知道……那不可能。</value>
+    <value>`朋友`：我希望他已经逃出了这个星系，但我知道……那不可能。</value>
   </entry>
   <entry>
     <key>FRIEND: A long while has passed since I was with him on Dark Bramble. ...However, this might seem strange: it still feels recent, somehow.</key>
-    <value>朋友：我与他在黑棘星上的日子已经过去了很久……不过，或许有点奇怪：感觉就像还在眼前。</value>
+    <value>`朋友`：我与他在黑棘星上的日子已经过去了很久……不过，或许有点奇怪：感觉就像还在眼前。</value>
   </entry>
   <entry>
     <key>FRIEND: Hypothesis: you can only make so many unique memories here. After a long enough while, the days and months and... thousands of years... all blend together.</key>
-    <value>朋友：假设：你只有在这才能留下这么多独特的回忆。在一段很长的时间之后，日、月……上千年……全都混为一谈了。</value>
+    <value>`朋友`：假设：你只有在这才能留下这么多独特的回忆。在一段很长的时间之后，日、月……上千年……全都混为一谈了。</value>
   </entry>
   <!-- Dream Friend House: Explain Datura: End -->
   <!-- Dream Friend House: You and Me: Start -->
   <entry>
     <key>FRIEND: Hello there! You are a curious being.</key>
-    <value>朋友：哈喽！你真是个奇怪的生物！</value>
+    <value>`朋友`：哈喽！你真是个奇怪的生物！</value>
   </entry>
   <entry>
     <key>FRIEND: It is nice to meet you! A long while has passed since anyone new has come here. I am glad that translator device of yours made it over!</key>
-    <value>朋友：很高兴见到你！距离上一次有新人来已经过去很久了。我很高兴你的翻译器在这里还能用!</value>
+    <value>`朋友`：很高兴见到你！距离上一次有新人来已经过去很久了。我很高兴你的翻译器在这里还能用!</value>
   </entry>
   <entry>
     <key>FRIEND: The simulation is strange with what it decides to bring over. Perhaps all my Nomai writing made the simulation recognise the device?</key>
-    <value>朋友：这个模拟站能够带来外界物品的设定是存在问题的。也许因为我会挪麦文字的原因让模拟程序识别到了这个翻译器？</value>
+    <value>`朋友`：这个模拟站能够带来外界物品的设定是存在问题的。也许因为我会挪麦文字的原因让模拟程序识别到了这个翻译器？</value>
   </entry>
   <!-- Dream Friend House: You and Me: End -->
   <!-- Dream Friend House: Explain Prisoner: Start -->
   <entry>
     <key>FRIEND: A friend of mine let out the Eye’s signal, and was decayed and imprisoned in this simulation.</key>
-    <value>朋友：我的一个朋友放出了眼的信号，被监禁在这个模拟世界里。</value>
+    <value>`朋友`：我的一个朋友放出了眼的信号，被监禁在这个模拟世界里。</value>
   </entry>
   <entry>
     <key>FRIEND: A long while passed and, when the Nomai arrived, all of our elders had decayed into this simulation, with just the youngest still left alive outside.</key>
-    <value>朋友：已经过去了很久，挪麦人到达的时候所有的前辈们都已经死亡进入了模拟，只有最年轻的那些的还活在外界。</value>
+    <value>`朋友`：已经过去了很久，挪麦人到达的时候所有的前辈们都已经死亡进入了模拟，只有最年轻的那些的还活在外界。</value>
   </entry>
   <entry>
     <key>FRIEND: Hearing of the Nomai’s arrival, our decayed elders... burned the remaining archived codes for our Prisoner’s vault.</key>
-    <value>朋友：听到挪麦人到达的消息时，那些死去的前辈们……烧毁了档案室中存放的幽禁者牢笼的密码。</value>
+    <value>`朋友`：听到挪麦人到达的消息时，那些死去的前辈们……烧毁了档案室中存放的幽禁者牢笼的密码。</value>
   </entry>
   <entry>
     <key>FRIEND: I planned to free him! And the others outside wanted to help! We are not all monsters, I hope you can believe. But... we discovered there was nothing we could do now.</key>
-    <value>朋友：我曾想把他救出来！并且外界活着的人也愿意助我一臂之力！我们不都是怪物，希望你能相信我。但是……我们发现已经无能为力了。</value>
+    <value>`朋友`：我曾想把他救出来！并且外界活着的人也愿意助我一臂之力！我们不都是怪物，希望你能相信我。但是……我们发现已经无能为力了。</value>
   </entry>
   <entry>
     <key>FRIEND: The controls raising our Prisoner’s submerged structure out of our Vessel’s water were destroyed, by one of our elders at some point.</key>
-    <value>朋友：将幽禁者所在的沉没的构筑物从水下升起的控制装置不知何时被我们的一位前辈破坏了。</value>
+    <value>`朋友`：将幽禁者所在的沉没的构筑物从水下升起的控制装置不知何时被我们的一位前辈破坏了。</value>
   </entry>
   <entry>
     <key>FRIEND: Raising it outside also raises the simulated version of the structure, allowing access to the underground from within the simulation (and letting our Prisoner leave to join the rest of the decayed when freed).</key>
-    <value>朋友：从外界将它升起也会同时将模拟世界中的构筑物升起，这样就能从模拟中进入地下了（也能让我们的幽禁者得救后跟其他人团聚了）。</value>
+    <value>`朋友`：从外界将它升起也会同时将模拟世界中的构筑物升起，这样就能从模拟中进入地下了（也能让我们的幽禁者得救后跟其他人团聚了）。</value>
   </entry>
   <entry>
     <key>FRIEND: So, even if we freed him from his Vault, he would still be trapped underground. ...And so... I never saw him again.</key>
-    <value>朋友：所以，即使我们将他从储藏库里救出来，他还是会被困在地下……就这样……我再也没有见过他了。</value>
+    <value>`朋友`：所以，即使我们将他从储藏库里救出来，他还是会被困在地下……就这样……我再也没有见过他了。</value>
   </entry>
   <entry>
     <key>FRIEND: I try not to think about what he has gone through. ...This is not easy for me to say, but I hope he has... I hope he is no longer alive. The alternative seems much worse.</key>
-    <value>朋友：我试着不去想他经历了什么……这样说并不轻松，但是我希望他已……我希望他已经不在人世了。要不然糟糕得多。</value>
+    <value>`朋友`：我试着不去想他经历了什么……这样说并不轻松，但是我希望他已……我希望他已经不在人世了。要不然糟糕得多。</value>
   </entry>
   <!-- Dream Friend House: Explain Prisoner: End -->
   <!-- Dream Friend House: You and Datura: Start -->
   <entry>
     <key>FRIEND: ...Datura. We met for similar but opposite reasons.</key>
-    <value>朋友：……曼陀罗，我们的相遇是由于相似也相反的原因。</value>
+    <value>`朋友`：……曼陀罗，我们的相遇是由于相似也相反的原因。</value>
   </entry>
   <entry>
     <key>FRIEND: After my other friend was imprisoned, I felt very burnt inside... and I ran. Fortunately, Datura was quite welcoming!</key>
-    <value>朋友：我的朋友被囚禁后，我内心非常煎熬……所以我离开了。幸运的是，曼陀罗相当好客！</value>
+    <value>`朋友`：我的朋友被囚禁后，我内心非常煎熬……所以我离开了。幸运的是，曼陀罗相当好客！</value>
   </entry>
   <entry>
     <key>FRIEND: Sometimes, I wish we had ran away. Us together into the galaxy! But... it was only a thought.</key>
-    <value>朋友：有时候，我真希望我们已经逃走了。我们一起进入银河系！但是……这只是一个幻想。</value>
+    <value>`朋友`：有时候，我真希望我们已经逃走了。我们一起进入银河系！但是……这只是一个幻想。</value>
   </entry>
   <entry>
     <key>FRIEND: Our opposing views on the Eye was surprisingly not an issue between us. (Hypothesis: Datura’s true issues were with something else?)</key>
-    <value>朋友：令人意外的是，我们对于眼的对立观点并没有在我们之间引起争论。（假设：曼陀罗真正的争论点在别的事上？）</value>
+    <value>`朋友`：令人意外的是，我们对于眼的对立观点并没有在我们之间引起争论。（假设：曼陀罗真正的争论点在别的事上？）</value>
   </entry>
   <entry>
     <key>FRIEND: He was, however, quite disappointed to hear our Vessel was not able to travel intergalactically. (Not the escape pod he was hoping for!)</key>
-    <value>朋友：不过，他听到我们的飞船不能星际间旅行的时候还挺失望的。（不是他希望的逃生舱！）</value>
+    <value>`朋友`：不过，他听到我们的飞船不能星际间旅行的时候还挺失望的。（不是他希望的逃生舱！）</value>
   </entry>
   <!-- Dream Friend House: You and Datura: End -->
   <!-- Dream Friend House: Explain You: Start -->
   <entry>
     <key>FRIEND: Hello there! My name is Friend. ...That is what Datura called me before I understood his language.</key>
-    <value>朋友：你好呀！我的名字是“朋友” 。 在我理解曼陀罗的语言前，他就是这么叫我的。</value>
+    <value>`朋友`：你好呀！我的名字是“朋友” 。 在我理解曼陀罗的语言前，他就是这么叫我的。</value>
   </entry>
   <entry>
     <key>FRIEND: When Datura explained to me what ’friend’ meant and asked for my ’real’ name, I told him ’Friend’ was fine. My old name never fit me anyway, I felt.</key>
-    <value>朋友：曼陀罗向我解释了‘朋友’的真实意思，问我的真实姓名时，我告诉他‘朋友’就很好。原来的名字从来就不适合我。</value>
+    <value>`朋友`：曼陀罗向我解释了‘朋友’的真实意思，问我的真实姓名时，我告诉他‘朋友’就很好。原来的名字从来就不适合我。</value>
   </entry>
   <entry>
     <key>FRIEND: We travelled here in search of the Eye of the universe and... I wish we never discovered it. The Eye has only burnt us...</key>
-    <value>朋友：我们为了寻找眼旅行到这里……但我真希望从来没有发现它。眼只是要将我们付之一炬……</value>
+    <value>`朋友`：我们为了寻找眼旅行到这里……但我真希望从来没有发现它。眼只是要将我们付之一炬……</value>
   </entry>
   <entry>
     <key>FRIEND: This simulation is now our home. We are all spooky ghosts! My elders decayed willingly, but the youngest died mysteriously, and simultaneously.</key>
-    <value>朋友：这个模拟世界现在就是我们的家。我们都是幽灵！我的族人们心甘情愿地腐烂了。</value>
+    <value>`朋友`：这个模拟世界现在就是我们的家。我们都是幽灵！我的族人们心甘情愿地腐烂了。</value>
   </entry>
   <entry>
     <key>FRIEND: I wish I could understand your language! What happened? Did something happen to the Nomai too?</key>
-    <value>朋友：真希望我能懂你的语言！外面发生什么了？挪麦人怎么样了？</value>
+    <value>`朋友`：真希望我能懂你的语言！外面发生什么了？挪麦人怎么样了？</value>
   </entry>
   <!-- Dream Friend House: Explain You: End -->
   <!-- Dream Friend House: Datura and Me: Start -->
   <entry>
     <key>FRIEND: Have you been exploring our structures on the surface of Dark Bramble?</key>
-    <value>朋友：你探索过我们在黑棘星表面的建筑了吗？</value>
+    <value>`朋友`：你探索过我们在黑棘星表面的建筑了吗？</value>
   </entry>
   <entry>
     <key>FRIEND: Have you found Datura? Or... his body? When he wasn’t searching around inside Dark Bramble, he was usually in his Study Tower or Observatory (I helped build).</key>
-    <value>朋友：你找到曼陀罗了吗？或者……他的尸体？他不在黑棘星内部探索的时候，一般会在他的研究塔或者天文台（我帮助建造的）里。</value>
+    <value>`朋友`：你找到曼陀罗了吗？或者……他的尸体？他不在黑棘星内部探索的时候，一般会在他的研究塔或者天文台（我帮助建造的）里。</value>
   </entry>
   <entry>
     <key>FRIEND: Oh, it has a security measure, I remember that! An overly curious young Nomai occasionally visited him. (I wonder why Solanum never visited?)</key>
-    <value>朋友：哦，天文是有安全措施的，我记得！一个过于好奇的年轻挪麦人会去拜访他。（我想知道为什么所莱内姆从来没有来过？）</value>
+    <value>`朋友`：哦，天文是有安全措施的，我记得！一个过于好奇的年轻挪麦人会去拜访他。（我想知道为什么所莱内姆从来没有来过？）</value>
   </entry>
   <entry>
     <key>FRIEND: Anyway, he used my quantum shard gift to effect the Observatory’s door, so to enter, you must not be looking at the door.</key>
-    <value>朋友：不管怎么说，他用我的量子碎片礼物影响了天文台的大门，所以要进去，你就不能盯着大门看。</value>
+    <value>`朋友`：不管怎么说，他用我的量子碎片礼物影响了天文台的大门，所以要进去，你就不能盯着大门看。</value>
   </entry>
   <entry>
     <key>FRIEND: The planet used to be whole! Can you imagine? On our Vessel, we did not notice it broke until a while after it had!</key>
-    <value>朋友：这颗行星过去是完整的！你能想象吗？在飞船上，它裂开以后一段时间我们才发现。</value>
+    <value>`朋友`：这颗行星过去是完整的！你能想象吗？在飞船上，它裂开以后一段时间我们才发现。</value>
   </entry>
   <entry>
     <key>FRIEND: Datura hypothesized the Eye’s signal bounced around in Dark Bramble before reaching the Nomai - why they warped there instead?</key>
-    <value>朋友：曼陀罗假设，眼的信号在到达挪麦人之前在黑棘星内部反射过——不然他们怎么会跃迁到那儿？</value>
+    <value>`朋友`：曼陀罗假设，眼的信号在到达挪麦人之前在黑棘星内部反射过——不然他们怎么会跃迁到那儿？</value>
   </entry>
   <!-- Dream Friend House: Datura and Me: End -->
   <!-- Dream Friend House: Me and Prisoner: Start -->
   <entry>
     <key>FRIEND: I feel like I should be more excited - you might be able to free my friend!</key>
-    <value>朋友：我觉得我应该更兴奋--你也许能放了我的朋友！</value>
+    <value>`朋友`：我觉得我应该更兴奋--你也许能放了我的朋友！</value>
   </entry>
   <entry>
     <key>FRIEND: But, in one way or another, I know he is no longer with us...</key>
-    <value>朋友：但是，无论如何，我知道他已经离开我们了……</value>
+    <value>`朋友`：但是，无论如何，我知道他已经离开我们了……</value>
   </entry>
   <!-- Dream Friend House: Me and Prisoner: End -->
   <!-- Projection Pool House: Solanum Stone: Start -->
@@ -1811,7 +1811,7 @@
   <!-- Northern Observatory: Collector: Start -->
   <entry>
     <key>FRIEND: Is this your newest painting? Pretty! This is <![CDATA[<color=lightblue>The Collector</color>]]>, is it not?</key>
-    <value>朋友：这是你的最新大作吗？真漂亮！这是 <![CDATA[<color=lightblue>收集者</color>]]>，对吧？</value>
+    <value>`朋友`：这是你的最新大作吗？真漂亮！这是 <![CDATA[<color=lightblue>收集者</color>]]>，对吧？</value>
   </entry>
   <entry>
     <key>DATURA: Yes, indeed it is! I was hoping you would recognise it.</key>
@@ -1819,7 +1819,7 @@
   </entry>
   <entry>
     <key>FRIEND: How do you know of it? That is quite curious!</key>
-    <value>朋友：你怎么知道的？真是稀奇了！</value>
+    <value>`朋友`：你怎么知道的？真是稀奇了！</value>
   </entry>
   <entry>
     <key>DATURA: Well, it was big intergalactic news. Bramble planets (like this one) are somewhat known, but this was a mysterious threat magnitudes larger, that many desired to know the cause of, to prevent potential future tragedies.</key>
@@ -1827,7 +1827,7 @@
   </entry>
   <entry>
     <key>FRIEND: I see. Was it ever discovered where <![CDATA[<color=lightblue>The Collector</color>]]> came from or how it formed, then?</key>
-    <value>朋友：我明白了。那么<![CDATA[<color=lightblue>收集者</color>]]>的来源或形成方式发现了吗？</value>
+    <value>`朋友`：我明白了。那么<![CDATA[<color=lightblue>收集者</color>]]>的来源或形成方式发现了吗？</value>
   </entry>
   <entry>
     <key>DATURA: Not that I’m aware of, I’m afraid. But... I was wanting to ask you: What was it like, from your perspective? When the <![CDATA[<color=lightblue>The Collector</color>]]> arrived?</key>
@@ -1835,7 +1835,7 @@
   </entry>
   <entry>
     <key>FRIEND: Well, I was a young child. I noticed strange feelings spreading in the faces of my elders, as if they had knowledge they wished to hide from me and the others!</key>
-    <value>朋友：我当时是个小孩。我注意到一种奇怪的氛围在前辈们的脸上蔓延。就好像他们知道了什么事儿，想瞒着我和其他人。</value>
+    <value>`朋友`：我当时是个小孩。我注意到一种奇怪的氛围在前辈们的脸上蔓延。就好像他们知道了什么事儿，想瞒着我和其他人。</value>
   </entry>
   <entry>
     <key>DATURA: Some things never change, I suppose. Uh, sorry, please continue.</key>
@@ -1843,19 +1843,19 @@
   </entry>
   <entry>
     <key>FRIEND: Hahaha. So, my other friend got his parent to explain: There was a planet on the other side of the galaxy! A bad planet.</key>
-    <value>朋友：哈哈哈。所以我其他的朋友让他父母做出了解释：星系的那一边有一颗行星，一颗很坏的行星。</value>
+    <value>`朋友`：哈哈哈。所以我其他的朋友让他父母做出了解释：星系的那一边有一颗行星，一颗很坏的行星。</value>
   </entry>
   <entry>
     <key>FRIEND: It had began... evaporating and... moving towards us, releasing a deadly substance into this galaxy (like a toxic gas!) as it drifted through it.</key>
-    <value>朋友：它开始蒸发并且……朝我们移动，移动过程中向星系间放出了一种有毒的物质（类似一种毒气！）。</value>
+    <value>`朋友`：它开始蒸发并且……朝我们移动，移动过程中向星系间放出了一种有毒的物质（类似一种毒气！）。</value>
   </entry>
   <entry>
     <key>FRIEND: At the time, my species was pre-interstellar, and, unable to combat this threat, sent out a distress signal, with fragmented hope that someone out there could help!</key>
-    <value>朋友：当时，我的种族还未能星际航行，无法对抗这种威胁，发出了求救信号，希望外面有人能帮忙！</value>
+    <value>`朋友`：当时，我的种族还未能星际航行，无法对抗这种威胁，发出了求救信号，希望外面有人能帮忙！</value>
   </entry>
   <entry>
     <key>FRIEND: But the planet drew nearer! And threatened to destroy us, and all life in this galaxy.</key>
-    <value>朋友：但是那颗行星更加靠近了！这种威胁之下，我们和星系中的所有生命都要遭到毁灭。</value>
+    <value>`朋友`：但是那颗行星更加靠近了！这种威胁之下，我们和星系中的所有生命都要遭到毁灭。</value>
   </entry>
   <entry>
     <key>DATURA: Ah, and then, their distress signal was heard by (who else but) a wandering Nomai Vessel, correct?</key>
@@ -1863,7 +1863,7 @@
   </entry>
   <entry>
     <key>FRIEND: What? I did not know that!</key>
-    <value>朋友：什么？我不知道这回事！</value>
+    <value>`朋友`：什么？我不知道这回事！</value>
   </entry>
   <entry>
     <key>DATURA: Ha, that’s likely because, <![CDATA[<i>]]>unlike my clan<![CDATA[</i>]]>, this clan actually sent out a message inviting others to come and help, before warping over alongside them.</key>
@@ -1871,15 +1871,15 @@
   </entry>
   <entry>
     <key>FRIEND: I see. Anyway, after we were gotten to safety, the substance was discovered to expand when hot, but tightly compact in cold conditions! And was effectively neutralized by water.</key>
-    <value>朋友：我明白了。无论如何，我们到达安全地带后，发现这种物质遇热膨胀，但是寒冷条件下会紧密压缩，并且能被水有效地中和。</value>
+    <value>`朋友`：我明白了。无论如何，我们到达安全地带后，发现这种物质遇热膨胀，但是寒冷条件下会紧密压缩，并且能被水有效地中和。</value>
   </entry>
   <entry>
     <key>FRIEND: Then, we waited and watched as several interstellar species, working together, kindly contained <![CDATA[<color=lightblue>The Collector</color>]]> by collecting the strange matter into various water worlds and comets.</key>
-    <value>朋友：然后，我们等待和观察了几个星际物种，共同努力，通过将奇怪的物质收集到不同的水世界和彗星中，友好地遏制了<![CDATA[<color=lightblue>收集者</color>]]>。</value>
+    <value>`朋友`：然后，我们等待和观察了几个星际物种，共同努力，通过将奇怪的物质收集到不同的水世界和彗星中，友好地遏制了<![CDATA[<color=lightblue>收集者</color>]]>。</value>
   </entry>
   <entry>
     <key>FRIEND: Then everyone, including us, all went home. Not a long while after, the Eye started sending out it’s signal. I wonder if it saw-</key>
-    <value>朋友：然后所有人，包括我们，各回各家。不久后眼就开始发出信号，我想知道它是不是看到了——</value>
+    <value>`朋友`：然后所有人，包括我们，各回各家。不久后眼就开始发出信号，我想知道它是不是看到了——</value>
   </entry>
   <!-- Northern Observatory: Collector: End -->
   <!-- Northern Observatory: Find: Start -->
