@@ -973,7 +973,7 @@
   </entry>
   <entry>
     <key>DATURA: I teach Friend the Nomai language so we can talk to each other, and they teach me art, as it appears to be very important to their species.</key>
-    <value>曼陀罗：我教会了朋友挪麦语言，这样我们就能交流了。他教了我艺术，这对他们物种来说非常重要。</value>
+    <value>曼陀罗：我教会了“朋友”挪麦语言，这样我们就能交流了。他教了我艺术，这对他们物种来说非常重要。</value>
   </entry>
   <entry>
     <key>DATURA: Though, judging by my painting here, I have a lot to learn!</key>
@@ -1097,7 +1097,7 @@
   <!-- Bramble Village: Friend House: Start -->
   <entry>
     <key>Friend's House</key>
-    <value>朋友的家</value>
+    <value>“朋友”的家</value>
   </entry>
   <entry>
     <key>DATURA: Here’s a... little model of Dark Bramble, I made for you (if you want it). From Datura.</key>
@@ -1207,7 +1207,7 @@
   </entry>
   <entry>
     <key>DATURA: I’m not afraid to die - death is just extremely uninteresting to me. And this universe isn’t over yet. So, let’s not be afraid to live, now, Friend.</key>
-    <value>曼陀罗：我不是怕死——死亡对我来说不过是极致的无趣，而且这个宇宙还没玩完呢。所以此时此刻，让我们不要惧怕活着，朋友。</value>
+    <value>曼陀罗：我不是怕死——死亡对我来说不过是极致的无趣，而且这个宇宙还没玩完呢。所以此时此刻，让我们不要惧怕活着，“朋友”。</value>
   </entry>
   <!-- Bramble Village: Both Eye: End -->
   <!-- Sealed Structure: Outside: Start -->
@@ -1515,7 +1515,7 @@
   </entry>
   <entry>
     <key>FRIEND: When Datura explained to me what ’friend’ meant and asked for my ’real’ name, I told him ’Friend’ was fine. My old name never fit me anyway, I felt.</key>
-    <value>`朋友`：曼陀罗向我解释了‘朋友’的真实意思，问我的真实姓名时，我告诉他‘朋友’就很好。原来的名字从来就不适合我。</value>
+    <value>`朋友`：曼陀罗向我解释了‘朋友’的真实意思，问我的真实姓名时，我告诉他‘`朋友`’就很好。原来的名字从来就不适合我。</value>
   </entry>
   <entry>
     <key>FRIEND: We travelled here in search of the Eye of the universe and... I wish we never discovered it. The Eye has only burnt us...</key>
@@ -1649,7 +1649,7 @@
   </entry>
   <entry>
     <key>DATURA: See you- Friend is their name and they’re not imaginary! ...See you then, darling. Love you!</key>
-    <value>曼陀罗：回见——朋友是他的名字，他不是想象的！……到时候见，亲爱的，爱你！</value>
+    <value>曼陀罗：回见——“朋友”是他的名字，他不是想象的！……到时候见，亲爱的，爱你！</value>
   </entry>
   <entry>
     <key>SOLANUM: ...Love you too, Dad.</key>
@@ -2019,7 +2019,7 @@
   </entry>
   <entry>
     <key>DATURA: ...Why can’t I do anything right?! I broke my promise with Filix; I messed it up with Friend; and maybe, if I had just gotten along with Yarrow, it might not have all ended like this...</key>
-    <value>曼陀罗：……为什么我什么都做不好？我打破了对费利克斯的承诺，搞砸了和朋友的关系。或许，如果我能跟亚罗好好相处，可能不会是这样的结局……</value>
+    <value>曼陀罗：……为什么我什么都做不好？我打破了对费利克斯的承诺，搞砸了和“朋友”的关系。或许，如果我能跟亚罗好好相处，可能不会是这样的结局……</value>
   </entry>
   <entry>
     <key>DATURA: And, now... Solanum... I’ve failed you... I’ve failed... everyone.</key>
