@@ -111,11 +111,11 @@
   </entry>
   <entry>
     <key>ScientistAnswerNEW_You know the little Anglerfish in the Museum? It got caught on the landing gear of one of our ships when it was flying close to get a good look at the structures, remember?</key>
-    <value>你知道博物馆里的小安康鱼吗？当我们的一艘飞船靠近那些建筑想要仔细观察时，它卡到了起落架上。你记得吗？</value>
+    <value>你知道博物馆里的小安康鱼吗？当我们的一艘飞船靠近一些建筑，想要仔细观察时，它卡到了起落架上，还记得吗？</value>
   </entry>
   <entry>
     <key>ScientistAnswerNEW_...I think you need to wake up a bit from your pre-launch campout. Do a couple of jumps, maybe.</key>
-    <value>……我认为你需要从发射前的露营中清醒过来。也许做做体操，深呼吸几次会有用。</value>
+    <value>……我认为你需要从发射前的露营状态中清醒过来。也许活动几下会有用。</value>
   </entry>
   <entry>
     <key>FeldsparRecording_Trip 4, entry #... who cares. Crashes: 2. Boring crashes: 0.</key>
@@ -127,7 +127,7 @@
   </entry>
   <entry>
     <key>FeldsparRecording_One looks Nomaian but the other one I’ve got no clue.</key>
-    <value>一个看起像是挪麦人的，另一个毫无头绪。</value>
+    <value>一个看起像是挪麦人的，另一个我毫无头绪。</value>
   </entry>
   <entry>
     <key>FeldsparRecording_I had a wander around, using these walkways. It’s quite peaceful, ignoring the Dark Bramble-y-ness of it all.</key>
@@ -135,7 +135,7 @@
   </entry>
   <entry>
     <key>FeldsparRecording_Some places I couldn’t get into - I have some ideas, so if anyone is listening to this and wants some help, come chat with me.</key>
-    <value>有一些我不能进入的地方———不过我有个想法，如果有人听到这段录音并需要帮助，请找我聊聊。</value>
+    <value>有些地方我无法进入———不过我有一些想法。如果有人听到这段录音并需要帮助，请找我聊聊。</value>
   </entry>
   <entry>
     <key>FeldsparRecording_...After I return, that is. Well, unless you’re as mad as I am, and want to come find me inside Dark Bramble!</key>
@@ -147,7 +147,7 @@
   </entry>
   <entry>
     <key>FeldsparFeldspar1_Hey, can I ask you something real quick?</key>
-    <value>嘿，我能快速地问你点事吗？</value>
+    <value>嘿，我能简短地问你点事吗？</value>
   </entry>
   <entry>
     <key>FeldsparSkip_Oh, uh... okay. No time for grand heroic tales, huh?</key>
@@ -411,7 +411,7 @@
   </entry>
   <entry>
     <key>PulledOffDarkBramble_Hmm? Oh, yeah. Giant's Deep sure earns it's name, huh?</key>
-    <value>嗯？哦，挺好。星如其名，不是吗？</value>
+    <value>嗯？哦，挺好。深巨星星如其名，不是吗？</value>
   </entry>
   <entry>
     <key>PulledOffDarkBramble_Anyway, here comes the sun.</key>
@@ -435,7 +435,7 @@
   </entry>
   <entry>
     <key>WhatAreYouDoing_merge_Uh, maybe I'll tell you next loop? Suns going.</key>
-    <value>啊，也许下个循环在告诉你吧？太阳已经来了。</value>
+    <value>啊，也许下个循环再告诉你吧？太阳已经来了。</value>
   </entry>
   <entry>
     <key>WhereToExplore_merge_Here’s something you might like — the sun is about to blow up. I'll talk to you next loop, is that alright?</key>
@@ -447,7 +447,7 @@
   </entry>
   <entry>
     <key>GabbrosShip_Well, I'll worry about it another loop.</key>
-    <value>好吧，我会担心下一个循环。</value>
+    <value>好吧，我担心下一个循环要来了。</value>
   </entry>
   <entry>
     <key>FoundSomethingMenu_Nice, nice. How about you tell me all about it next loop? No need to rush.</key>
@@ -607,11 +607,11 @@
   </entry>
   <entry>
     <key>DATURA: I used this smashy smashy device on the shuttle: which dented it, and set off the shuttle’s alarm, which was, well, alarming.</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：我用这台粉碎机砸了飞船：它砸出了凹痕，触发了警报。那声音，真警吓。</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：我用这台粉碎机砸了飞船：它被砸出了凹痕，触发了警报。那声音真吓人。</value>
   </entry>
   <entry>
     <key>DATURA: And the warp core fell out, so I went over to grab it - might be useful, I thought. But after returning to the shelter here to use the device a second time, the shuttle blew up!</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：跃迁核心掉了出来，所以我赶紧把它捡了起来——也许有用。但是当我拿着它回来，正想再砸一次的时候，飞船居然爆炸了！</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：接着跃迁核心掉了出来，我赶紧过去把它捡了起来——也许还有用。但当我回到摧毁装置操纵间，正想再砸一次的时候，飞船居然爆炸了！</value>
   </entry>
   <entry>
     <key>DATURA: Mission accomplished. But also wow, I almost died! I should be more careful...</key>
@@ -619,11 +619,11 @@
   </entry>
   <entry>
     <key>DATURA: Update... again: I’ve set up a Projection Pool on the ice island west from here, so I can talk to Filix and my daughter.</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：再次更新：我在这以西的冰岛上搭了一个投影池，这样就能跟<![CDATA[<color=cyan>费利克斯</color>]]>和我的女儿说话了。</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：再次更新：我在这以西的冰岛上搭了一个投影池，这样就能跟<![CDATA[<color=cyan>费利克斯</color>]]>还有我的女儿说话了。</value>
   </entry>
   <entry>
     <key>DATURA: ...But instead, Bells and Pye called, informing me the <![CDATA[<color=lightblue>Gravity Cannons</color>]]> were improved a bit since I left - they, too, realised the issue of my shuttle being stuck here.</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：……但是却是<![CDATA[<color=magenta>⻉尔斯</color>]]>和派伊先给我打电话，告诉我自我走后<![CDATA[<color=lightblue>重力炮</color>]]>又改进了一些，他们发现我的航天飞机被困在这里。</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：……但是却是<![CDATA[<color=magenta>⻉尔斯</color>]]>和派伊先给我打电话，告诉我自我走后<![CDATA[<color=lightblue>重力炮</color>]]>又改进了一些，他们发现我的航天飞机被困在了这里。</value>
   </entry>
   <entry>
     <key>DATURA: They told me that they were trying to recall it from the <![CDATA[<color=lightblue>Gravity Cannon</color>]]>, but the switch they had added wasn’t working for some reason, and told me to check if there was something up with my shuttle... Hahaha... Uh... Whoops...</key>
@@ -653,7 +653,7 @@
   </entry>
   <entry>
     <key>DATURA: Friend was a bit confused why I wasn't using the device again, but I assured them I knew what I was doing. We waited... and waited... then, bang! Their ship exploded too. Then they understood.</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：<![CDATA[<color=lime>朋友</color>]]>疑惑我为什么不再砸一下，但我向他保证我知道我在做什么。我们等了等，砰！他的飞船也爆炸了，他恍然大悟。</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：<![CDATA[<color=lime>朋友</color>]]>疑惑我为什么不再砸一下，但我向他保证我知道我在做什么。于是我们等了等，砰！他的飞船也爆炸了，他恍然大悟。</value>
   </entry>
   <entry>
     <key>DATURA: Friend used to go off to their clan occasionally. Perhaps building a house here made it so they don't need to? Anyway, I'm glad you're here, Friend.</key>
@@ -679,11 +679,11 @@
   </entry>
   <entry>
     <key>DATURA: Oh, uh. Right. Well, let’s see... Filix detected a signal on the Vessel - a signal from something older than the universe. Spooky. And we can’t find the signal anymore, so... I mean that’s it really.</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：好吧，是时候告诉你了。<![CDATA[<color=cyan>费利克斯</color>]]>在<![CDATA[<color=lightblue>母舰</color>]]>上探测到一个比宇宙还古老的信号，更加诡异的是，在这之后我们再也找不到这个信号了</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：好吧，是时候告诉你了。<![CDATA[<color=cyan>费利克斯</color>]]>在<![CDATA[<color=lightblue>飞船</color>]]>上探测到一个比宇宙还古老的信号，更加诡异的是，在这之后我们再也找不到这个信号了</value>
   </entry>
   <entry>
     <key>SOLANUM: The Vessel. That was the other thing! What happened to the Vessel?</key>
-    <value><![CDATA[<color=orange>所莱内姆</color>]]>：<![CDATA[<color=lightblue>母舰</color>]]>？对了，还有这个！<![CDATA[<color=lightblue>母舰</color>]]>发生什么了？</value>
+    <value><![CDATA[<color=orange>所莱内姆</color>]]>：<![CDATA[<color=lightblue>飞船</color>]]>？对了，还有这个！<![CDATA[<color=lightblue>飞船</color>]]>发生什么了？</value>
   </entry>
   <entry>
     <key>DATURA: Oh... Darling, that’s... not a happy story. Another time, maybe.</key>
@@ -699,11 +699,11 @@
   </entry>
   <entry>
     <key>DATURA: So! I suppose I’ll tell it from my perspective. Ahem! I was once a crew member of: the Vessel - a moon-sized space ship capable of warping anywhere.</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：我会从我的角度来讲。我曾经是<![CDATA[<color=lightblue>母舰</color>]]>上的一员——<![CDATA[<color=lightblue>母舰</color>]]>是一艘具备跃迁能力的月球大小的宇宙飞船。</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：我会从我的角度来讲。我曾经是<![CDATA[<color=lightblue>飞船</color>]]>上的一员——<![CDATA[<color=lightblue>飞船</color>]]>是一艘具备跃迁能力的月球大小的宇宙飞船。</value>
   </entry>
   <entry>
     <key>DATURA: I was reading in the library, when suddenly we warp! But, on our arrival there was a horrible screeching sound! We had crashed. I try to look for your mother, but I am forced onto an Escape Pod.</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：<![CDATA[<color=lightblue>母舰</color>]]>跃迁的时我还在图书馆看书，可是，一到那儿就听到了一阵刺耳的巨响！我们坠毁了。我试着寻找你的母亲，可是没办法，我只能钻进一个逃生舱。</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：<![CDATA[<color=lightblue>飞船</color>]]>跃迁的时候我还在图书馆看书，可是，一到那儿就听到了一阵刺耳的巨响！我们坠毁了。我设法寻找你的母亲，可是没办法，我被迫钻进一个逃生舱。</value>
   </entry>
   <entry>
     <key>DATURA: I landed on Ember Twin, and Filix landed on Brittle Hollow. Both groups had to rebuild to survive.</key>
@@ -711,7 +711,7 @@
   </entry>
   <entry>
     <key>DATURA: Many years passed until finally, a shuttle was sent from Brittle Hollow, and we were reunited. Us on Ember Twin were then told why we crashed, and about the Eye. After that, the... failed efforts to find the Eye began.</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：许多年过去了，直到<![CDATA[<color=lightblue>碎空星</color>]]>的飞船抵达<![CDATA[<color=lightblue>余烬双星</color>]]>后，我们才得以重聚。背阴城的人们才得知了<![CDATA[<color=lightblue>母舰</color>]]>的坠毁原因以及关于<![CDATA[<color=lightblue>眼</color>]]>的事。在那之后，寻找<![CDATA[<color=lightblue>眼</color>]]>的失败的探索开始了……</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：许多年过去了，直到<![CDATA[<color=lightblue>碎空星</color>]]>的飞船抵达<![CDATA[<color=lightblue>余烬双星</color>]]>后，我们才得以重聚。背阴城的人们才得知了<![CDATA[<color=lightblue>飞船</color>]]>的坠毁原因以及关于<![CDATA[<color=lightblue>眼</color>]]>的事。在那之后，寻找<![CDATA[<color=lightblue>眼</color>]]>的失败的探索开始了……</value>
   </entry>
   <entry>
     <key>SOLANUM: Did everyone get to an escape pod?!</key>
@@ -751,7 +751,7 @@
   </entry>
   <entry>
     <key>SOLANUM: Dad told me about how everyone died on the Vessel.</key>
-    <value><![CDATA[<color=orange>所莱内姆</color>]]>：爸爸告诉了我<![CDATA[<color=lightblue>母舰</color>]]>上的人都怎么死的</value>
+    <value><![CDATA[<color=orange>所莱内姆</color>]]>：爸爸告诉了我<![CDATA[<color=lightblue>飞船</color>]]>上的人都怎么死的</value>
   </entry>
   <entry>
     <key>DATURA: Solanum! I did not say that!</key>
@@ -841,11 +841,11 @@
   </entry>
   <entry>
     <key>DATURA: So I tell him, and he was actually quite interested - enthused even. I argued we should use this knowledge to reach the Vessel, which he surprisingly agreed with. This conversation was going suspiciously well.</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：所以我告诉了他，他很感兴趣，甚至很热情。我申明要利用这项知识回到<![CDATA[<color=lightblue>母舰</color>]]>，他出人意料地同意了。这次对话可疑地顺利。</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：然后我就告诉了他，他很感兴趣，甚至很热情。我申明要利用这个知识回到<![CDATA[<color=lightblue>飞船</color>]]>，他出人意料地很赞成。这次对话顺利的令人可疑。</value>
   </entry>
   <entry>
     <key>DATURA: However, then he explained to me some Supernova-Time-Travel-complete nonsense plan he and Ramie were considering, which required an advanced warp core (which the Vessel has).</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：不过，之后他跟我说了他和瑞米想出来的什么超新星-时间-旅行-纯扯淡计划需要一个高级跃迁核心。（<![CDATA[<color=lightblue>母舰</color>]]>上有）</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：不过，之后他跟我说了他和瑞米想出来的什么超新星-时间-旅行-纯扯淡计划需要一个高级跃迁核心。（<![CDATA[<color=lightblue>飞船</color>]]>上有）</value>
   </entry>
   <entry>
     <key>DATURA: The conversation went downhill rather quickly from there... After arguing a while, he ended the call.</key>
@@ -853,7 +853,7 @@
   </entry>
   <entry>
     <key>DATURA: ...Yarrow, I promise: One day, we’ll have a decent conversation. Or at least a neutral one.</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：……<![CDATA[<color=yellow>亚罗</color>]]>，我保证，总有一天我们会有一场像样的对话。或者至少一场中立的对话。</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：……<![CDATA[<color=yellow>亚罗</color>]]>，我保证，总有一天我们会有一场像样的对话。或者至少一场不带倾向性的对话。</value>
   </entry>
   <entry>
     <key>DATURA: Update: Filix sweetly called to inform me: Melorae and Coleus also figured out: the whole blindness thing from the Ember Twin fossil, and she thought this knowledge would help me out. Aww. Thanks, dear.</key>
@@ -885,7 +885,7 @@
   <!-- Study Tower: Spherical Region: Start -->
   <entry>
     <key>DATURA: After crashing on Ember Twin, I saw... something strange up in space. I kept it to myself as no-one else seemed to notice it. Too distracted on, uh, surviving, I suppose.</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：坠落在<![CDATA[<color=lightblue>余烬双星</color>]]>后，我看到……太空中有个奇怪的东西。其他人好像都没注意到，所以我也缄口不言。防止打扰我们，呃，求生，我想。</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：坠落在<![CDATA[<color=lightblue>余烬双星</color>]]>后，我看到……太空中有个奇怪的东西。其他人好像都没注意到，所以我也缄口不言。他们都太专心于生存了，呃，我想。</value>
   </entry>
   <entry>
     <key>DATURA: I’ve been attempting to locate what I saw. And hey, if I locate the Eye, then we can all return to our living quarters prematurely!</key>
@@ -919,7 +919,7 @@
   </entry>
   <entry>
     <key>DATURA: Before my clan crashed here, I had read about their species. If we could understand eachother’s languages, I’d love to hear their encounter with &lt;color=lightblue&gt;The Collector&lt;/color&gt; from their perspective.</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：我的家族坠落在这儿之前，我曾看到过他们的种族的资料。要是我们能理解彼此的语言，我真想从他们的视角听听他们和<![CDATA[<color=lightblue>收集者</color>]]>的遭遇</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：我的家族坠落在这儿之前，我曾看到过他们种族的资料。要是我们能理解彼此的语言，我真想从他们的视角听听他们和<![CDATA[<color=lightblue>收集者</color>]]>的遭遇</value>
   </entry>
   <entry>
     <key>DATURA: If it’s not a touchy subject, of course.</key>
@@ -961,11 +961,11 @@
   </entry>
   <entry>
     <key>FRIEND: Feeling lost. I did not finish it. This is good enough.</key>
-    <value><![CDATA[<color=lime>朋友</color>]]>：感觉失落。我没有画完。但已经足够好了。</value>
+    <value><![CDATA[<color=lime>朋友</color>]]>：感觉失落。我没有画完。虽然已经足够好了。</value>
   </entry>
   <entry>
     <key>FRIEND: Curious star system here. More curious beings. I wish others were not decayed, and could meet you.</key>
-    <value><![CDATA[<color=lime>朋友</color>]]>：这是奇特的星系，更多奇特的生物。我希望族群里其他人还没腐朽，还能够见见你。</value>
+    <value><![CDATA[<color=lime>朋友</color>]]>：这真是奇特的星系，还有更多奇特的生物。我希望族群里其他人还没腐朽，这样的话大家还能够见见你。</value>
   </entry>
   <entry>
     <key>DATURA: This thing we have going is... going quite well, I think!</key>
@@ -977,7 +977,7 @@
   </entry>
   <entry>
     <key>DATURA: Though, judging by my painting here, I have a lot to learn!</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：虽然就我的画作而言，我要学的还有很多！</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：不过就我现在的画作而言，我要学的还有很多！</value>
   </entry>
   <entry>
     <key>FRIEND: Talking is hard for me same. Not only you learning!</key>
@@ -1015,7 +1015,7 @@
   </entry>
   <entry>
     <key>DATURA: Hey, don’t walk away! We’ve been stuck here for so long! Filix and I have a child now. This is no place to grow up. We need to change our efforts to getting out of here!</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：嘿，别走！我们已经被困在这里这么久了！<![CDATA[<color=cyan>费利克斯</color>]]>和我现在也有了一个孩子，这里不是给孩子成长的地方。我们得把目标转变为离开这里！</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：嘿，别走开！我们已经被困在这里这么久了！<![CDATA[<color=cyan>费利克斯</color>]]>和我现在也有了一个孩子，这里不是给孩子成长的地方。我们得把目标转变为离开这里！</value>
   </entry>
   <entry>
     <key>YARROW: ...We will. Once we’ve found the Eye, we’ll begin constructing a new Vessel. ...Just a little longer.</key>
@@ -1035,11 +1035,11 @@
   </entry>
   <entry>
     <key>DATURA: ...Right. I understand. ...Well, I’ll figure a way out of here myself, then. I suppose I’ll... find the old Vessel.</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：好吧……我明白了…… 那么，我会自己找到离开的办法。我会……去找<![CDATA[<color=lightblue>母舰</color>]]>。</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：好吧……我明白了…… 那么，我会自己找到离开的办法。我会……去找<![CDATA[<color=lightblue>飞船</color>]]>。</value>
   </entry>
   <entry>
     <key>YARROW: ...How do you plan to do that? It’s... in Dark Bramble.</key>
-    <value><![CDATA[<color=yellow>亚罗</color>]]>： 你打算怎么做？<![CDATA[<color=lightblue>母舰</color>]]>……在<![CDATA[<color=lightblue>黑棘星</color>]]>内部。</value>
+    <value><![CDATA[<color=yellow>亚罗</color>]]>： 你打算怎么做？<![CDATA[<color=lightblue>飞船</color>]]>……在<![CDATA[<color=lightblue>黑棘星</color>]]>内部。</value>
   </entry>
   <entry>
     <key>DATURA: Then I... will go to Dark Bramble.</key>
@@ -1083,7 +1083,7 @@
   </entry>
   <entry>
     <key>DATURA: It’ll be alright. Come here. ...Here’s how it’ll go: I’ll set up a base on the planet, I’ll search for the Vessel, and once I’ve found it, I’ll come back.</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：会没事的。来吧……这是我的计划：我会在这个星球上建立一个基地，然后去寻找<![CDATA[<color=lightblue>母舰</color>]]>，一旦找到它，我就会回来。</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：会没事的。来吧……这是我的计划：我会在这个星球上建立一个基地，然后去寻找<![CDATA[<color=lightblue>飞船</color>]]>，一旦找到它，我就会回来。</value>
   </entry>
   <entry>
     <key>FILIX: ...Promise you will come back?</key>
@@ -1135,7 +1135,7 @@
   </entry>
   <entry>
     <key>DATURA: ...that brief signal he released. Filix heard it. Escall ordered the warp and now... we’re all trapped here, because of him. ...Good intentions aren’t good enough.</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：……他释放出的短暂信号被<![CDATA[<color=cyan>费利克斯</color>]]>接收到了。艾斯克尔下令跃迁，结果现在…… 我们都因为他而被困在这里…… 只能说他的好想法还是不够好。</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：……他释放出的短暂信号被<![CDATA[<color=cyan>费利克斯</color>]]>接收到了。艾斯克尔下令跃迁，结果现在…… 我们都因为他而被困在这里…… 只能说他的好想法还是不够明智。</value>
   </entry>
   <entry>
     <key>DATURA: Sometimes... I wish I could be like Friend and... Yarrow, and just be able to see the Eye how they see it... Why am I the only one not interested in it? Is there... something wrong with me?</key>
@@ -1221,7 +1221,7 @@
   </entry>
   <entry>
     <key>DATURA: ...I shouldn’t have come here. This is your secret room and I should’ve respected that. ...Friend? Are you... there? ...At least knock on the door so I know!</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：……我不该来这儿，这是你的秘密空间而我本该尊重这一点的…… <![CDATA[<color=lime>朋友</color>]]>？你在吗？……至少敲敲门让我知道！</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：……我不该来这儿，这是你的私人空间而我本该尊重这一点的…… <![CDATA[<color=lime>朋友</color>]]>？你在吗？……至少敲敲门让我知道！</value>
   </entry>
   <entry>
     <key>DATURA: ...? Nothing... Maybe they’re asleep. (...Sheesh, look at this metal door and cage... They really don’t want me getting in there again, huh.)</key>
@@ -1299,7 +1299,7 @@
   </entry>
   <entry>
     <key>DATURA: ...A... while later... Friend wakes me up. ...I hugged them tightly, wanting to tell them I’m sorry... but looking over, I see: Friend’s ’still alive’ friends (whatever they meant by that).</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：……过了一会，<![CDATA[<color=lime>朋友</color>]]>叫醒了我……我紧紧地抱住了他，想告诉他我很抱歉……但回头一看，我看见<![CDATA[<color=lime>朋友</color>]]>的那些“还活着”的朋友们（不管他们是什么意思）。</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：……过了一会，<![CDATA[<color=lime>朋友</color>]]>叫醒了我……我紧紧地抱住了他，想告诉他我很抱歉……但回头一看，我看见<![CDATA[<color=lime>朋友</color>]]>的那些“还活着”的朋友们（不管“还活着”是什么意思）。</value>
   </entry>
   <entry>
     <key>DATURA: I’m just... worried I did something really bad. ...I didn’t intend to... I hope I can tell Friend-</key>
@@ -1399,7 +1399,7 @@
   </entry>
   <entry>
     <key>FRIEND: Him and I told them we were not afraid of the Eye... But I suppose it is easy to call others afraid, and say they are not able to accept the truth, despite you not knowing everything either.</key>
-    <value><![CDATA[<color=lime>朋友</color>]]>：他和我告诉其他族人我们并不害怕<![CDATA[<color=lightblue>眼</color>]]>……然而我认为嘴上说说别人担惊受怕，不能接受现实这很容易，但事实上你自己也并不清楚事情的全貌。</value>
+    <value><![CDATA[<color=lime>朋友</color>]]>：他和我告诉其他族人我们并不该害怕<![CDATA[<color=lightblue>眼</color>]]>……把别人称作担惊受怕、不接受现实，这大概是很容易的。哪怕你自己也不清楚事情的全貌</value>
   </entry>
   <entry>
     <key>FRIEND: Datura did not care much for the Eye. A while away from his clan built up an anger towards them - he had a big falling out with a Nomai... Yarrow, I believe.</key>
@@ -1423,7 +1423,7 @@
   <!-- Dream Friend House: Explain Datura: Start -->
   <entry>
     <key>FRIEND: Hahaha, you explain him to me! He was a good friend to me, but not always to his clan... or to himself.</key>
-    <value><![CDATA[<color=lime>朋友</color>]]>：哈哈哈，你来给我解释一下！他是我的好朋友，但对他的族人来说并不总是一个好伙伴……甚至对他自己也不是。</value>
+    <value><![CDATA[<color=lime>朋友</color>]]>：哈哈哈，你来给我解释一下他吧！他是我的好朋友，但对他的族人来说并不总是一个好伙伴……甚至对他自己也不是。</value>
   </entry>
   <entry>
     <key>FRIEND: Part of me wishes he escaped this star system, but I know... it is improbable.</key>
@@ -1459,7 +1459,7 @@
   </entry>
   <entry>
     <key>FRIEND: A long while passed and, when the Nomai arrived, all of our elders had decayed into this simulation, with just the youngest still left alive outside.</key>
-    <value><![CDATA[<color=lime>朋友</color>]]>：已经过去了很久，挪麦人到达的时候，所有的长辈们都已经死亡进入了虚拟世界，只有最年轻的那些的还活在外界。</value>
+    <value><![CDATA[<color=lime>朋友</color>]]>：已经过去了很久，挪麦人到达的时候，所有的长辈们都已经死亡并进入了虚拟世界，只有最年轻的那些的还活在外界。</value>
   </entry>
   <entry>
     <key>FRIEND: Hearing of the Nomai’s arrival, our decayed elders... burned the remaining archived codes for our Prisoner’s vault.</key>
@@ -1479,7 +1479,7 @@
   </entry>
   <entry>
     <key>FRIEND: So, even if we freed him from his Vault, he would still be trapped underground. ...And so... I never saw him again.</key>
-    <value><![CDATA[<color=lime>朋友</color>]]>：所以，即使我们将他从牢笼里救出来，他还是会被困在地下……就这样……我再也没有见过他了。</value>
+    <value><![CDATA[<color=lime>朋友</color>]]>：就这样，即使我们将他从牢笼里救出来，他还是会被困在地下……所以……我再也没有见过他了。</value>
   </entry>
   <entry>
     <key>FRIEND: I try not to think about what he has gone through. ...This is not easy for me to say, but I hope he has... I hope he is no longer alive. The alternative seems much worse.</key>
@@ -1671,7 +1671,7 @@
   </entry>
   <entry>
     <key>YARROW: Oh... #####. Hypothesis: Our failure with the Sun Station ##### you here to ridicule me.</key>
-    <value><![CDATA[<color=yellow>亚罗</color>]]>： 哦…… #####。假设：你是因为#####的失败来嘲笑我的。</value>
+    <value><![CDATA[<color=yellow>亚罗</color>]]>： 哦…… #####。假设：你#####因为太阳站的失败来嘲笑我的。</value>
   </entry>
   <entry>
     <key>YARROW: Oh... hello. Hypothesis: Our failure with the Sun Station brought you here to ridicule me.</key>
@@ -1679,11 +1679,11 @@
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Uh... Hypothesis: ##### would be beneficial to you both if neither of you called each other anymore.</key>
-    <value><![CDATA[<color=brown>斯拜尔</color>]]>: 呃……假设：如果你们不再互相#####，对你们双方都有好处。</value>
+    <value><![CDATA[<color=brown>斯拜尔</color>]]>: 呃……假设：如果你们不再互相联系，#####你们双方都好。</value>
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Uh... Hypothesis: it would be beneficial to you both if neither of you called each other anymore.</key>
-    <value><![CDATA[<color=brown>斯拜尔</color>]]>: 呃……假设：如果你们不再互相打电话，对你们双方都有好处。</value>
+    <value><![CDATA[<color=brown>斯拜尔</color>]]>: 呃……假设：如果你们不再互相联系，对你们双方都好。</value>
   </entry>
   <entry>
     <key>DATURA: #####... Yarrow, are you alright? Yarrow? ##### wait!</key>
@@ -1695,7 +1695,7 @@
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, see you later, Yarrow! ##### worry, we’ll figure it out! I believe in us! ...So, Datura, what ##### intent of your call?</key>
-    <value><![CDATA[<color=brown>斯拜尔</color>]]>: 回头见，<![CDATA[<color=yellow>亚罗</color>]]>！别担心，#####想到办法的！我相信我们！ 所以，<![CDATA[<color=lightblue>达图拉</color>]]>, 你找我们#####？</value>
+    <value><![CDATA[<color=brown>斯拜尔</color>]]>: 回头见，<![CDATA[<color=yellow>亚罗</color>]]>！#####担心，我们想到办法的！我相信我们！ ……所以，<![CDATA[<color=lightblue>达图拉</color>]]>, 你#####我们有什么事来着？</value>
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, see you later, Yarrow! Don’t worry, we’ll figure it out! I believe in us! ...So, Datura, what is the true intent of your call?</key>
@@ -1703,15 +1703,15 @@
   </entry>
   <entry>
     <key>DATURA: Uh, th-there’s #####! And it’s #####-!</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：呃，有#####！而且它#####！</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：呃，有个#####来了！而且它#####！</value>
   </entry>
   <entry>
     <key>DATURA: Uh, th-there’s a comet coming! And it’s filled with-!</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：呃，有个彗星来到太阳系了！而且它充满了-!</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：呃，有个彗星来了！而且它充满了-!</value>
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, you observed ##### too? You and me both! We’ve actually already ##### ##### check #####. ##### thanks anyway, Datura.</key>
-    <value><![CDATA[<color=brown>斯拜尔</color>]]>: 你也观测到了彗星？其实我们#####探查#####。不过还是#####，<![CDATA[<color=lightblue>达图拉</color>]]>。</value>
+    <value><![CDATA[<color=brown>斯拜尔</color>]]>: 你也观测到了#####？其实我们#####探查#####。#####还是谢谢你，<![CDATA[<color=lightblue>达图拉</color>]]>。</value>
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, you observed the comet too? You and me both! We’ve actually already sent a shuttle to go check it out. But thanks anyway, Datura.</key>
@@ -1719,7 +1719,7 @@
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Well, ##### gonna catch up to Yarrow to see if he’s alright. #####! Don’t be a stranger, now!</key>
-    <value><![CDATA[<color=brown>斯拜尔</color>]]>: 好了，我得去#####<![CDATA[<color=yellow>亚罗</color>]]>#####，确保他没事。#####！别再像个陌生人了！</value>
+    <value><![CDATA[<color=brown>斯拜尔</color>]]>: 好了，#####得去看看<![CDATA[<color=yellow>亚罗</color>]]>的情况，确保他没事。#####！别再像个陌生人了！</value>
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Well, I’m gonna catch up to Yarrow to see if he’s alright. See ya around! Don’t be a stranger, now!</key>
@@ -1753,7 +1753,7 @@
   </entry>
   <entry>
     <key>BELLS: Hey, if you want, I can relay a message for you when she arrives at the north pole. First-timers are supposed to call me before going to the sixth location; once they go, we lose communications.</key>
-    <value><![CDATA[<color=magenta>贝尔斯</color>]]>：嘿，如果你希望的话，她到北极时我可以帮你转达信息给她。第一次去的人应该在去第六个位置之前给我打电话；一旦他们去了，我们就失去了联系。</value>
+    <value><![CDATA[<color=magenta>贝尔斯</color>]]>：嘿，如果你希望的话，她到北极时我可以帮你转达信息给她。第一次去的人应该在去第六个位置之前联系我；一旦他们去了那，我们就失去了联系。</value>
   </entry>
   <entry>
     <key>DATURA: Oh, yes please. Uh... Tell her I hope she has fun, and that I love her, and that she... uh... should really take her time at the sixth location to take it all in... Perhaps mention the shuttle situation, so she knows there’s no need to rush.</key>
@@ -1961,7 +1961,7 @@
   </entry>
   <entry>
     <key>DATURA: ...I missed Solanum growing up. ...And for what? When I got to the Vessel, it was wounded, perhaps not beyond repair but...</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：……我没能看着<![CDATA[<color=orange>所莱内姆</color>]]>长大。……这又是为了什么？当我找到母舰的时候，它已经受损，或许还能修好但……</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：……我没能看着<![CDATA[<color=orange>所莱内姆</color>]]>长大。……这又是为了什么？当我找到<![CDATA[<color=lightblue>飞船</color>]]>的时候，它已经受损，或许还能修好但……</value>
   </entry>
   <entry>
     <key>DATURA: ...</key>
@@ -2027,7 +2027,7 @@
   </entry>
   <entry>
     <key>DATURA: Solanum... If there’s a chance you are reading this: get the Warp Core from Ash Twin, go to the Vessel and leave this place!</key>
-    <value><![CDATA[<color=lightblue>达图拉</color>]]>：<![CDATA[<color=orange>所莱内姆</color>]]>……如果你还有机会读到这个：拿到灰烬双星的跃迁核心，前往<![CDATA[<color=lightblue>碎空星</color>]]>然后离开这个地方！</value>
+    <value><![CDATA[<color=lightblue>达图拉</color>]]>：<![CDATA[<color=orange>所莱内姆</color>]]>……如果你还有机会读到这个：拿到灰烬双星的跃迁核心，前往<![CDATA[<color=lightblue>飞船</color>]]>然后离开这个地方！</value>
   </entry>
   <entry>
     <key>DATURA: ...I’m sorry! I never wanted to leave you alone like this!</key>
@@ -2272,7 +2272,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool HouseDatura and Solanum planned to meet after he had finished something, and after she had returned from the Quantum Moon.</key>
-    <value>达图拉和所莱内姆计划在他完成一些事情后，在她从量子卫星回来后见面。</value>
+    <value>达图拉和所莱内姆约定，在达图拉完成一些事情后，与从量子卫星回来的所莱内姆见面。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Study TowerA Nomai named Datura discovered a spherical region in space where the stars flickered occasionally.</key>
@@ -2280,7 +2280,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Study TowerUpon meeting a being from another species, Datura helped build them a house at the South Pole.</key>
-    <value>在遇到另一个种族的生物后，达图拉帮助他们在南极建造了一座房子。</value>
+    <value>在遇到另一个种族的生物后，达图拉帮助他在南极建造了一座房子。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Study TowerDatura discovered something that disturbed him, but he had to go his Observatory to confirm it.</key>
@@ -2312,7 +2312,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageDatura argued at Yarrow that they should be finding a way to leave this star system. Datura, promising Filix he would return, left to Dark Bramble to find the Vessel.</key>
-    <value>达图拉对亚罗争辩他们应该想办法离开这个星系。达图拉向费利克斯保证他一定会回来后，就动身前往黑棘星寻找飞船。</value>
+    <value>达图拉与亚罗争辩他们应该想办法离开这个星系。达图拉向费利克斯保证他一定会回来后，就动身前往黑棘星寻找飞船。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageDatura is pessimistic about the Eye, and believes it will destroy the universe if someone interacts with it.</key>
