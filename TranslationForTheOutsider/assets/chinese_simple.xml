@@ -471,7 +471,7 @@
   </entry>
   <entry>
     <key>Bramble Power Station</key>
-    <value>荆棘动力站</value>
+    <value>荆棘发电站</value>
   </entry>
   <entry>
     <key>Northern Observatory</key>
@@ -1423,7 +1423,7 @@
   <!-- Dream Friend House: Explain Datura: Start -->
   <entry>
     <key>FRIEND: Hahaha, you explain him to me! He was a good friend to me, but not always to his clan... or to himself.</key>
-    <value><![CDATA[<color=lime>朋友</color>]]>：哈哈哈，你来给我解释一下他吧！他是我的好朋友，但对他的族人来说并不总是一个好伙伴……甚至对他自己也不是。</value>
+    <value><![CDATA[<color=lime>朋友</color>]]>：哈哈哈，也许你比我更懂他！他是我的好朋友，但对他的族人来说并不总是一个好伙伴……甚至对他自己也不是。</value>
   </entry>
   <entry>
     <key>FRIEND: Part of me wishes he escaped this star system, but I know... it is improbable.</key>
@@ -2428,6 +2428,6 @@
   </table_shipLog>
   <table_shipLog>
     <key>Eye of the UniverseIf you are reading this, I assume you have gotten inside the Northern Observatory and have seen the new ending at the Eye. Thank you so much for playing The Outsider! I hope you enjoyed it!</key>
-    <value>如果你正在阅读这段话，我想你已经进入了北方天文台，并在眼看到了新的结局。非常感谢你游玩The Outsider！我希望你喜欢它！</value>
+    <value>如果你正在阅读这段话，我想你已经进入了北部天文台，并在眼看到了新的结局。非常感谢你游玩The Outsider！我希望你喜欢它！</value>
   </table_shipLog>
 </TranslationTable_XML>
