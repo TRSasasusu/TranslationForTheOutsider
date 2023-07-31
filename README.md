@@ -29,11 +29,20 @@ Completed! Thank you, [@MGSchultz-13](https://github.com/MGSchultz-13). (See [#1
 
 ## EN -> zh-CN
 
-Mostly completed based on [TheOutsider_CN](https://github.com/nice2cu1/TheOutsider_CN)! Thank you, [@nice2cu1](https://github.com/nice2cu1). (See [TheOutsider_CN#1](https://github.com/nice2cu1/TheOutsider_CN/issues/1))
+English:
+
+Originally translated by [nice2cu1](https://github.com/nice2cu1) in [TheOutsider_CN](https://github.com/nice2cu1/TheOutsider_CN).Thank you, [@nice2cu1](https://github.com/nice2cu1)! (See [TheOutsider_CN#1](https://github.com/nice2cu1/TheOutsider_CN/issues/1))
+
+Based on previous efforts, now re-translated by [Iridium](https://space.bilibili.com/7834690),  Lionkin Park,  QiYun,  [solitary-sails](https://github.com/solitary-sails),  Vessel107.
 
 For Chinese translation, installing [Outer Wilds Chinese Fix](https://outerwildsmods.com/mods/outerwildschinesefix/) is recommended.
 
-Some texts of Feldspar and Gabbro used to be missed, but now they are translated! Thank you, [@solitary-sails](https://github.com/solitary-sails). (See [#15](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/15))
+中文:
+
+使用中文翻译时，建议一并安装[Outer Wilds Chinese Fix](https://outerwildsmods.com/mods/outerwildschinesefix/)这个Mod来解决缺字问题。
+
+原本由[nice2cu1](https://github.com/nice2cu1)在他的[TheOutsider_CN](https://github.com/nice2cu1/TheOutsider_CN)中完成翻译。后由[四十瓶盖](https://space.bilibili.com/7834690), Lionkin Park, 栖云, [solitary-sails](https://github.com/solitary-sails), Vessel107对翻译进行重置。
+
 
 ## EN -> RU
 
