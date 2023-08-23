@@ -31,7 +31,7 @@ Completed! Thank you, [@MGSchultz-13](https://github.com/MGSchultz-13). (See [#1
 
 English:
 
-Originally translated by [nice2cu1](https://github.com/nice2cu1) in [TheOutsider_CN](https://github.com/nice2cu1/TheOutsider_CN).Thank you, [@nice2cu1](https://github.com/nice2cu1)! (See [TheOutsider_CN#1](https://github.com/nice2cu1/TheOutsider_CN/issues/1))
+Originally translated by [nice2cu1](https://github.com/nice2cu1) in [TheOutsider_CN](https://github.com/nice2cu1/TheOutsider_CN). Thank you, [@nice2cu1](https://github.com/nice2cu1)! (See [TheOutsider_CN#1](https://github.com/nice2cu1/TheOutsider_CN/issues/1))
 
 Based on previous efforts, now re-translated by [Iridium](https://space.bilibili.com/7834690),  Lionkin Park,  QiYun,  [solitary-sails](https://github.com/solitary-sails),  Vessel107.
 
@@ -74,3 +74,4 @@ The Outsider mod has some issues, so this addon mod solves them.
 * [Projection from ATP to DB causes teleportation (The Outsider's Issue) #9](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/9)
 * [Can't read ATP to DB stone from ATP (The Outsider's Issue) #11](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/11)
 * [Save data corruption problem (The Outsider's Issue) #12](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/12)
+* [The shiplog is bugged, only a title: PLANET NAME is appeared #20](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/20)
