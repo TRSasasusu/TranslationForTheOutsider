@@ -267,5 +267,28 @@ namespace TranslationForTheOutsider {
         }
 
         // ### End: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/12 ###
+
+        // ### Start: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/20 ###
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(ShipLogManager), nameof(ShipLogManager.Awake))]
+        [HarmonyAfter(new string[] { "SBtT.TheOutsider" })]
+        public static void ShipLogManager_Awake_Prefix_Issue20(ShipLogManager __instance) {
+            var removedIndicesList = new List<int>();
+            for(var i = 1; i < __instance._shipLogLibrary.entryData.Length; ++i) {
+                for(var j = 0; j < i; ++j) {
+                    if (__instance._shipLogLibrary.entryData[i].id == __instance._shipLogLibrary.entryData[j].id) {
+                        TranslationForTheOutsider.Instance.Log($"duplicated entry: {__instance._shipLogLibrary.entryData[i].id} is found. it is removed");
+                        removedIndicesList.Add(i);
+                    }
+                }
+            }
+
+            if (removedIndicesList.Count > 0) {
+                __instance._shipLogLibrary.entryData = __instance._shipLogLibrary.entryData.Select((x, index) => new { x, index })
+                                                                                           .Where(x => !removedIndicesList.Contains(x.index))
+                                                                                           .Select(x => x.x).ToArray();
+            }
+        }
+        // ### End: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/20 ###
     }
 }
