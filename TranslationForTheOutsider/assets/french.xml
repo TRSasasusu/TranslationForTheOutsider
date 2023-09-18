@@ -1690,7 +1690,7 @@
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, you observed ##### too? You and me both! We’ve actually already ##### ##### check #####. ##### thanks anyway, Datura.</key>
-    <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, tu as aussi observé ##### ? Toi et moi, tous les deux ! En fait, nous avons déjà ##### ##### vérifier. ##### merci quand même, Datura.</value>
+    <value>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, tu as aussi observé ##### ? Toi et moi, tous les deux ! En fait, nous avons déjà vérifié ##### #####. ##### merci quand même, Datura.</value>
   </entry>
   <entry>
     <key>&lt;color=brown&gt;SPIRE&lt;/color&gt;: Oh, you observed the comet too? You and me both! We’ve actually already sent a shuttle to go check it out. But thanks anyway, Datura.</key>
@@ -1724,11 +1724,11 @@
   </entry>
   <entry>
     <key>DATURA: Already?! But... we planned for us to meet at the Gravity Cannon when she returned...</key>
-    <value>DATURA: Déjà ? ! Mais... nous avions prévu de nous retrouver au Canon à Gravité à son retour...</value>
+    <value>DATURA: Déjà ? ! Mais... nous avions prévu de nous retrouver au Canon gravitationnel à son retour...</value>
   </entry>
   <entry>
     <key>BELLS: Aww. Well, she did seem very eager to go as soon as possible; she even attempted to leave before she had visited the Tower of Quantum Knowledge! Perhaps she was eager to reunite?</key>
-    <value>BELLS: Aww. Et bien, elle semblait vouloir y aller le plus rapidement possible. Elle a même tenté de partir avant d'avoir visité la Tour de la connaissance quantique ! Peut-être avait-elle hâte de te retrouver ?</value>
+    <value>BELLS: Aww. Et bien, elle semblait vouloir y aller le plus rapidement possible. Elle a même tenté de partir avant d'avoir visité la Tour du savoir quantique ! Peut-être avait-elle hâte de te retrouver ?</value>
   </entry>
   <entry>
     <key>BELLS: Hey, if you want, I can relay a message for you when she arrives at the north pole. First-timers are supposed to call me before going to the sixth location; once they go, we lose communications.</key>
