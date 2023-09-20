@@ -301,7 +301,7 @@ namespace TranslationForTheOutsider {
             boxCollider.center = new Vector3(-22.9023f, -48.9804f, -75.8466f);
             boxCollider.size = new Vector3(95.8044f, 76.6496f, 67.5408f);
 
-            TranslationForTheOutsider.Instance.Log("box collider of statue island is fixed");
+            //TranslationForTheOutsider.Instance.Log("box collider of statue island is fixed");
         }
 
         // ### End: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/17 ###
