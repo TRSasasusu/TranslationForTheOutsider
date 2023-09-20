@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using UnityEngine;
 using NewHorizons.External;
+using IEnumerator = System.Collections.IEnumerator;
 
 namespace TranslationForTheOutsider {
     [HarmonyPatch]
@@ -23,6 +24,13 @@ namespace TranslationForTheOutsider {
                 if(loadScene == OWScene.SolarSystem || loadScene == OWScene.EyeOfTheUniverse) {
                     NewHorizonsData.Load();
                     AddNewlyRevealedFactIDsFromBaseGameSaveFile();
+                }
+                if(loadScene == OWScene.SolarSystem) {
+                    if(_tuneStatureIslandColliderCoroutine != null) {
+                        TranslationForTheOutsider.Instance.StopCoroutine(_tuneStatureIslandColliderCoroutine);
+                        _tuneStatureIslandColliderCoroutine = null;
+                    }
+                    _tuneStatureIslandColliderCoroutine = TranslationForTheOutsider.Instance.StartCoroutine(TuneStatureIslandCollider());
                 }
             };
 
@@ -267,6 +275,36 @@ namespace TranslationForTheOutsider {
         }
 
         // ### End: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/12 ###
+
+        // ### Start: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/17 ###
+        const string STATUE_ISLAND_BEACH_PATH = "StatueIsland_Body/Sector_StatueIsland/Geometry_StatueIsland/OtherComponentsGroup/ControlledByProxy_StatueIsland/Terrain_GD_StatueIsland_v2/LandingBeach_Floor";
+        const string STATUE_ISLAND_KINEMATIC_COLLIDER = "StatueIsland_Body/KinematicColliders_StatueIsland";
+        static Coroutine _tuneStatureIslandColliderCoroutine = null;
+
+        static IEnumerator TuneStatureIslandCollider() {
+            if(!TranslationForTheOutsider.Instance.IsFixIssuesOfTheOutsider) {
+                yield break;
+            }
+
+            GameObject kinematicCollidersStatueIsland = null;
+            while (true) {
+                kinematicCollidersStatueIsland = GameObject.Find(STATUE_ISLAND_KINEMATIC_COLLIDER);
+                if(kinematicCollidersStatueIsland) {
+                    break;
+                }
+                yield return null;
+            }
+
+            // kinematicCollidersStatueIsland has three box colliders, so we have to get the appropriate one.
+            var boxCollider = kinematicCollidersStatueIsland.GetComponents<BoxCollider>().First(x => Mathf.Abs(x.center.x - (-22.9023f)) < 0.1f);
+
+            boxCollider.center = new Vector3(-22.9023f, -48.9804f, -75.8466f);
+            boxCollider.size = new Vector3(95.8044f, 76.6496f, 67.5408f);
+
+            TranslationForTheOutsider.Instance.Log("box collider of statue island is fixed");
+        }
+
+        // ### End: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/17 ###
 
         // ### Start: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/20 ###
         [HarmonyPrefix]
