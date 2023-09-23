@@ -31,6 +31,11 @@ namespace TranslationForTheOutsider {
                         _tuneStatureIslandColliderCoroutine = null;
                     }
                     _tuneStatureIslandColliderCoroutine = TranslationForTheOutsider.Instance.StartCoroutine(TuneStatureIslandCollider());
+                    if(_fixEndlessCanyonElevatorCoroutine != null) {
+                        TranslationForTheOutsider.Instance.StopCoroutine(_fixEndlessCanyonElevatorCoroutine);
+                        _fixEndlessCanyonElevatorCoroutine = null;
+                    }
+                    _fixEndlessCanyonElevatorCoroutine = TranslationForTheOutsider.Instance.StartCoroutine(FixEndlessCanyonElevator());
                 }
             };
 
@@ -328,5 +333,93 @@ namespace TranslationForTheOutsider {
             }
         }
         // ### End: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/20 ###
+
+        const string ENDLESS_CANYON_ELEVATOR_UPPER_DESTINATION_PATH = "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_3/Interactibles_DreamZone_3/Elevator_Raft/ElevatorDestinations/UpperDestination";
+        const string ENDLESS_CANYON_ELEVATOR_CAGE_ELEVATOR_PATH = "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_3/Interactibles_DreamZone_3/Elevator_Raft/Prefab_IP_DW_CageElevator";
+        const string FRIEND_ELEVATOR_CAGE_PATH = "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_3/Outsider Dream Root/SectorDB_FriendHouseInSim/Friends Dream House/GhostElevator/Elevator_Raft(Clone)/ElevatorDestinations/UpperDestination/Cage_Body";
+        static Coroutine _fixEndlessCanyonElevatorCoroutine = null;
+
+        static IEnumerator FixEndlessCanyonElevator() {
+            if(!TranslationForTheOutsider.Instance.IsFixIssuesOfTheOutsider) {
+                yield break;
+            }
+
+            GameObject upperDestinationOfEndlessCanyonElevator = null;
+            while(true) {
+                upperDestinationOfEndlessCanyonElevator = GameObject.Find(ENDLESS_CANYON_ELEVATOR_UPPER_DESTINATION_PATH);
+                if(upperDestinationOfEndlessCanyonElevator) {
+                    break;
+                }
+                yield return null;
+            }
+
+            GameObject friendElevatorCage = null;
+            while(true) {
+                friendElevatorCage = GameObject.Find(FRIEND_ELEVATOR_CAGE_PATH);
+                if(friendElevatorCage) {
+                    break;
+                }
+                yield return null;
+            }
+
+            var clonedCage = GameObject.Instantiate(friendElevatorCage);
+            clonedCage.transform.parent = upperDestinationOfEndlessCanyonElevator.transform;
+            var clonedCageKinematicRigidbody = clonedCage.GetComponent<KinematicRigidbody>();
+            if(clonedCageKinematicRigidbody) {
+                clonedCageKinematicRigidbody.enabled = false;
+            }
+            clonedCage.transform.localPosition = Vector3.zero;
+            clonedCage.transform.localRotation = Quaternion.identity;
+            TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixing: transform fix end");
+
+            var cageElevatorOfEndlessCanyonElevator = GameObject.Find(ENDLESS_CANYON_ELEVATOR_CAGE_ELEVATOR_PATH).GetComponent<CageElevator>();
+            TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixing: finding cageelevator end");
+            var eclipseElevatorControllerOfEndlessCanyonElevator = clonedCage.transform.Find("Prop_IP_EclipseInterfaceElevator").GetComponent<EclipseElevatorController>();
+            TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixing: finding eclipse elevator controller end");
+            cageElevatorOfEndlessCanyonElevator._ghostInterface = eclipseElevatorControllerOfEndlessCanyonElevator;
+            TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixing: setting ghost interface end");
+            eclipseElevatorControllerOfEndlessCanyonElevator.OnActivate += cageElevatorOfEndlessCanyonElevator.OnSwitchLevel;
+            TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixing: setting on activate end");
+            eclipseElevatorControllerOfEndlessCanyonElevator.OnDownSelected += cageElevatorOfEndlessCanyonElevator.GoDown;
+            TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixing: setting go down end");
+            eclipseElevatorControllerOfEndlessCanyonElevator.OnUpSelected += cageElevatorOfEndlessCanyonElevator.GoUp;
+            TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixing: setting go up end");
+
+            var clonedCageOWRigidbody = clonedCage.GetComponent<OWRigidbody>();
+            clonedCageOWRigidbody._origParent = cageElevatorOfEndlessCanyonElevator.transform;
+            clonedCageOWRigidbody._origParentBody = friendElevatorCage.GetComponent<OWRigidbody>()._origParentBody;
+            TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixing: setting orig parents end");
+
+            eclipseElevatorControllerOfEndlessCanyonElevator._lightSensors[0].GetComponent<SingleLightSensor>().enabled = true;
+            eclipseElevatorControllerOfEndlessCanyonElevator._lightSensors[0].GetComponent<SphereShape>().enabled = true;
+            eclipseElevatorControllerOfEndlessCanyonElevator._lightSensors[1].GetComponent<SingleLightSensor>().enabled = true;
+            eclipseElevatorControllerOfEndlessCanyonElevator._lightSensors[1].GetComponent<SphereShape>().enabled = true;
+            TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixing: enabled some components of light sensors end");
+
+            cageElevatorOfEndlessCanyonElevator._doorAnimatorLeft = clonedCage.transform.Find("Structure_IP_Elevator_v2/elevator_door01").GetComponent<TransformAnimator>();
+            cageElevatorOfEndlessCanyonElevator._doorAnimatorRight = clonedCage.transform.Find("Structure_IP_Elevator_v2/elevator_door02").GetComponent<TransformAnimator>();
+            cageElevatorOfEndlessCanyonElevator._killTriggerUpper = clonedCage.transform.Find("KillTrigger_Upper").GetComponent<OWTriggerVolume>(); // _killTriggerLower is already correct.
+            cageElevatorOfEndlessCanyonElevator._killTriggerUpper.OnEntry += cageElevatorOfEndlessCanyonElevator.OnEnterKillTrigger;
+            cageElevatorOfEndlessCanyonElevator._killTriggerUpper.OnExit += cageElevatorOfEndlessCanyonElevator.OnExitKillTrigger;
+            TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixing: setting killtriggerupper functions end");
+            cageElevatorOfEndlessCanyonElevator._loopingAudio = clonedCage.transform.Find("Audio/Audio_Loop_Rattle").GetComponent<OWAudioSource>();
+            cageElevatorOfEndlessCanyonElevator._oneShotAudio = clonedCage.transform.Find("Audio/Audio_OneShot").GetComponent<OWAudioSource>();
+            cageElevatorOfEndlessCanyonElevator._platformBody = clonedCage.GetComponent<OWRigidbody>();
+
+            var owFlameControllerOfEndlessCanyonElevator = cageElevatorOfEndlessCanyonElevator.GetComponent<OWFlameController>();
+            TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixing: getting ow flame controller end");
+            owFlameControllerOfEndlessCanyonElevator._flameRenderers = new OWEmissiveRenderer[] { clonedCage.transform.Find("Prop_IP_Candle_Hanging/Candle_Hanging_Flame").GetComponent<OWEmissiveRenderer>() };
+            TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixing: setting flame renderers end");
+            owFlameControllerOfEndlessCanyonElevator._lights = new OWLight2[] { clonedCage.transform.Find("PointLight_Candle_Large").GetComponent<OWLight2>() };
+            TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixing: setting lights end");
+            owFlameControllerOfEndlessCanyonElevator._renderers = new OWEmissiveRenderer[] {
+                clonedCage.transform.Find("Prop_IP_Candle_Hanging/Candle_Hanging_Wax").GetComponent<OWEmissiveRenderer>(),
+                clonedCage.transform.Find("Prop_IP_Candle_Hanging/Candle_Hanging_Wick").GetComponent<OWEmissiveRenderer>(),
+                clonedCage.transform.Find("Prop_IP_Lantern_Hanging").GetComponent<OWEmissiveRenderer>(),
+            };
+            TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixing: setting renderers end");
+
+            TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixed");
+        }
     }
 }
