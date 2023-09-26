@@ -541,7 +541,7 @@
   </entry>
   <entry>
     <key>DATURA: Ahhh, this planet reminds me of one I went to with Filix. Gusty Gardens... Oh yeah, and Cosmic Cove! And...! Those... Those were good times.</key>
-    <value>DATURA:あぁ、この惑星はかつてFilixと行ったところを思い出させる。ウィンドガーデン…。そうそう、星の入りえも！それから…！ あの頃は…あの頃は良い時代だった。</value>
+    <value>DATURA:あぁ、この惑星はかつてFilixと行ったところを思い出させる。ウィンドガーデン…。そうそう、星の入り江も！それから…！ あの頃は…あの頃は良い時代だった。</value>
   </entry>
   <entry>
     <key>DATURA: But here I am on Dark Bramble! ...alone. ...Ugh, I have to focus. I’m on a mission!</key>
@@ -643,7 +643,7 @@
   </entry>
   <entry>
     <key>DATURA: Oh, uh. Right. Well, let’s see... Filix detected a signal on the Vessel - a signal from something older than the universe. Spooky. And we can’t find the signal anymore, so... I mean that’s it really.</key>
-    <value>DATURA:あ、あー。そうだな、ふむ…。Filixは`船`である信号を検知した―その信号は宇宙よりも古いというものだった。気味が悪いものだ。そして、その信号はもう見つかっていない。だから、…つまり、本当にそれだけなんだ。</value>
+    <value>DATURA:あ、あー。そうだな、ふむ…。Filixは`船`である信号を検知した―その信号は宇宙よりも古いというものだった。気味が悪い。そして、その信号はもう見つかっていない。だから、…つまり、本当にそれだけなんだ。</value>
   </entry>
   <entry>
     <key>SOLANUM: The Vessel. That was the other thing! What happened to the Vessel?</key>
@@ -659,7 +659,7 @@
   </entry>
   <entry>
     <key>DATURA: You’re curious, are you? Well, alright. But don’t tell your mother I didn’t warn you.</key>
-    <value>DATURA:興味津々、かぁ。まあ、いいか。でも、お母さんには内緒にしておくように。</value>
+    <value>DATURA:興味津々、かぁ。まあいいか。でも、お母さんには内緒にしておくように。</value>
   </entry>
   <entry>
     <key>DATURA: So! I suppose I’ll tell it from my perspective. Ahem! I was once a crew member of: the Vessel - a moon-sized space ship capable of warping anywhere.</key>
@@ -1189,7 +1189,7 @@
   </entry>
   <entry>
     <key>DATURA: ...? Nothing... Maybe they’re asleep. (...Sheesh, look at this metal door and cage... They really don’t want me getting in there again, huh.)</key>
-    <value>DATURA:…？何も聞こえない…。眠っているのかもしれない。(…くそ、この鉄のような扉にオリを見ろよ…。やつらは俺に二度と入ってほしくないということかよ。)</value>
+    <value>DATURA:…？何も聞こえない…。眠っているのかもしれない。(…くそ、この金属製の扉にオリを見ろよ…。やつらは俺に二度と入ってほしくないということかよ。)</value>
   </entry>
   <entry>
     <key>DATURA: (Well, I can’t chop my way in... Unless... Ow! Stupid metal... Uh, I need like a... like an explosion or something to blast this stupid door down.)</key>
@@ -1227,7 +1227,7 @@
   </entry>
   <entry>
     <key>DATURA: But... I picked up a weird lantern-resembling object from the ground before... tripping on the metal ledge there... and I suppose I got knocked unconscious?</key>
-    <value>DATURA:でも…ランタンのようなものを拾ったあと、そこの鉄製の出っ張りにつまづいて…おそらく俺は意識を失ったのか？</value>
+    <value>DATURA:でも…ランタンのようなものを拾ったあと、そこの金属製の出っ張りにつまづいて…おそらく俺は意識を失ったのか？</value>
   </entry>
   <entry>
     <key>DATURA: I woke up (or started dreaming?) almost immediately in... Friend’s house. ...but it wasn’t Friend’s house. It was a... copy... on some other planet, with a ringed planet in the sunsetting sky.</key>
@@ -2028,7 +2028,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Green Fire</key>
-    <value>みどり色の炎</value>
+    <value>緑色の炎</value>
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside Home</key>
@@ -2320,11 +2320,11 @@
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureI found the remains of Friend... holding an artifact next to a green fire.</key>
-    <value>Friendの遺体を見つけた…。みどり色の火のそばで遺物を持っていた。</value>
+    <value>Friendの遺体を見つけた…。緑色の火のそばで遺物を持っていた。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureDatura was curious what Friend was hiding from him and sneaked here. He found an artifact and green fire, tripped and knocked himself out, awaking on what appeared to be a different planet.</key>
-    <value>DaturaはFriendが何を隠しているのか気になり、ここに忍び込んだ。彼は遺物とみどり色の火を見つけ、つまずいて気を失うと、別の惑星のような場所で目覚めた。</value>
+    <value>DaturaはFriendが何を隠しているのか気になり、ここに忍び込んだ。彼は遺物と緑色の火を見つけ、つまずいて気を失うと、別の惑星のような場所で目覚めた。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Inside the StructureDatura came across Friend’s elders, and accidentally rang an alarm bell which woke one up.</key>
@@ -2340,7 +2340,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeI found... the remains of Friend, holding an artifact next to a green fire.</key>
-    <value>Friendの遺体を見つけた…。みどり色の火のそばで遺物を持っていた。</value>
+    <value>Friendの遺体を見つけた…。緑色の火のそばで遺物を持っていた。</value>
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeI met Friend! They had to communicate using the Nomai language, as I can’t translate theirs.</key>
