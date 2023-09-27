@@ -442,5 +442,24 @@ namespace TranslationForTheOutsider {
             TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixed");
         }
         // ### End: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/22 ###
+
+        // ### Start: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/24 ###
+        const string FRIEND_HEAD_PATH = "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_3/Outsider Dream Root/SectorDB_FriendHouseInSim/ConversationPivot/Character_Friend/StrangerInhabitant_Friend/Ghostbird_IP_ANIM(Clone)/Ghostbird_Skin_01:Ghostbird_Rig_V01:Base/Ghostbird_Skin_01:Ghostbird_Rig_V01:Root/Ghostbird_Skin_01:Ghostbird_Rig_V01:Spine01/Ghostbird_Skin_01:Ghostbird_Rig_V01:Spine02/Ghostbird_Skin_01:Ghostbird_Rig_V01:Spine03/Ghostbird_Skin_01:Ghostbird_Rig_V01:Spine04/Ghostbird_Skin_01:Ghostbird_Rig_V01:Neck01/Ghostbird_Skin_01:Ghostbird_Rig_V01:Neck02/Ghostbird_Skin_01:Ghostbird_Rig_V01:Head";
+
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(BadMarshmallowCan), nameof(BadMarshmallowCan.OnEatMarshmallow))]
+        public static void BadMarshmallowCan_OnEatMarshmallow_Postfix(BadMarshmallowCan __instance) {
+            if(!TranslationForTheOutsider.Instance.IsFixIssuesOfTheOutsider) {
+                return;
+            }
+
+            if(__instance._bigHeadModeEnabled) {
+                var friendHead = GameObject.Find(FRIEND_HEAD_PATH);
+                friendHead.transform.localScale = new Vector3(2.5f, 2.5f, 2.5f);
+
+                TranslationForTheOutsider.Instance.Log("Friend has a big head");
+            }
+        }
+        // ### End: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/24 ###
     }
 }
