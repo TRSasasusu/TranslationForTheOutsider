@@ -765,7 +765,7 @@
   </entry>
   <entry>
     <key>Anglerfish Hunting Blind\\n(See, Cycad? I can make puns too!)</key>
-    <value>安康鱼狩猎小屋(Anglerfish Hunting Blind)\\n(看，塞卡？我也会双关！)</value>
+    <value>安康鱼狩猎小屋(Anglerfish Hunting Blind)\\N(看，塞卡？我也会双关！)</value>
   </entry>
   <!-- Anglerfish Hunting Blind: Outside: End -->
   <!-- Anglerfish Hunting Blind: 1st Wall: Start -->
@@ -1801,11 +1801,11 @@
   <!-- Northern Observatory: Computer: Start -->
   <entry>
     <key><![CDATA[<color=orange>DETECTED SPACECRAFT:</color>]]>\\nNomai Shuttle <![CDATA[<color=red>(Destroyed)</color>]]>\\nFriend’s Ship <![CDATA[<color=red>(Destroyed)</color>]]></key>
-    <value><![CDATA[<color=orange>探测到的飞船：</color>]]>\\n挪麦航天飞机 <![CDATA[<color=red>(彻底损毁)</color>]]>\\n<![CDATA[<color=lightblue>碎空星</color>]]>的飞船 <![CDATA[<color=red>(彻底损毁)</color>]]></value>
+    <value><![CDATA[<color=orange>探测到的飞船：</color>]]>\\N挪麦航天飞机 <![CDATA[<color=red>(彻底损毁)</color>]]>\\N<![CDATA[<color=lightblue>碎空星</color>]]>的飞船 <![CDATA[<color=red>(彻底损毁)</color>]]></value>
   </entry>
   <entry>
     <key><![CDATA[<color=orange>SPACECRAFT COUNT:</color>]]> 2\\nDoor is unlocked.</key>
-    <value><![CDATA[<color=orange>飞船计数：</color>]]> 2\\n门已解锁。</value>
+    <value><![CDATA[<color=orange>飞船计数：</color>]]> 2\\N门已解锁。</value>
   </entry>
   <!-- Northern Observatory: Computer: End -->
   <!-- Northern Observatory: Collector: Start -->
