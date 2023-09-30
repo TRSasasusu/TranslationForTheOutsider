@@ -583,7 +583,7 @@
   </entry>
   <entry>
     <key>DATURA: Update... again: I’ve set up a Projection Pool on the ice island west from here, so I can talk to Filix and my daughter.</key>
-    <value>DATURA:最新情報…再び:ここから西にある氷の島にプロジェクションプールを設置し、Filixやむすめと話せるようにした。</value>
+    <value>DATURA:最新情報…再び:ここから西にある氷の島にプロジェクションプールを設置し、Filixや娘と話せるようにした。&lt;i&gt;&lt;/i&gt;</value>
   </entry>
   <entry>
     <key>DATURA: ...But instead, Bells and Pye called, informing me the <![CDATA[<color=lightblue>Gravity Cannons</color>]]> were improved a bit since I left - they, too, realised the issue of my shuttle being stuck here.</key>
@@ -627,7 +627,7 @@
   <!-- Shuttle Crusher: Call to Solanum: Start -->
   <entry>
     <key>DATURA: Hey little one! You’ll be off to the school on Brittle Hollow soon! (With no railings above a black hole.) I imagine you’ll be glad to get away from all this sand, eh?</key>
-    <value>DATURA:もしもし、俺の可愛いむすめよ！もうすぐ脆い空洞の学校へ移動する頃か！(ブラックホールの上に手すりがないけど。)砂だらけのところから離れられるのは嬉しいだろうね？</value>
+    <value>DATURA:もしもし、俺の可愛い娘よ！もうすぐ脆い空洞の学校へ移動する頃か！(ブラックホールの上に手すりがないけど。)砂だらけのところから離れられるのは嬉しいだろうね？&lt;i&gt;&lt;/i&gt;</value>
   </entry>
   <entry>
     <key>SOLANUM: Yeah, but I don’t like that Mom is going to be the teacher!</key>
@@ -651,7 +651,7 @@
   </entry>
   <entry>
     <key>DATURA: Oh... Darling, that’s... not a happy story. Another time, maybe.</key>
-    <value>DATURA:あぁ…可愛いむすめよ、それは…幸せなお話ではないよ。また、今度にしようか。</value>
+    <value>DATURA:あぁ…可愛い娘よ、それは…幸せなお話ではないよ。また、今度にしようか。&lt;i&gt;&lt;/i&gt;</value>
   </entry>
   <entry>
     <key>SOLANUM: Aw! But I’m curious!</key>
@@ -843,7 +843,7 @@
   </entry>
   <entry>
     <key>DATURA: ...I should call my daughter...</key>
-    <value>DATURA:…むすめに通話するべきだな…。</value>
+    <value>DATURA:…娘に通話するべきだな…。&lt;i&gt;&lt;/i&gt;</value>
   </entry>
   <!-- Study Tower: Disturbing: End -->
   <!-- Study Tower: Spherical Region: Start -->
@@ -1035,7 +1035,7 @@
   </entry>
   <entry>
     <key>FILIX: I... can’t. I’m needed with search projects, Privet is my apprentice now, I’m a teacher at the new School District... and what about Solanum - our daughter? You can’t expect me to do all this alone...</key>
-    <value>FILIX:私には…できないわ。私は探索プロジェクトで必要とされてるし、Privetも今や私の弟子であり、私は新しい学区の教師にもなった…。それにSolanumは―私たちのむすめはどうするの？私独りで全部できると思わないでよ…。</value>
+    <value>FILIX:私には…できないわ。私は探索プロジェクトで必要とされてるし、Privetも今や私の弟子であり、私は新しい学区の教師にもなった…。それにSolanumは―私たちの娘はどうするの？私独りで全部できると思わないでよ…。&lt;i&gt;&lt;/i&gt;</value>
   </entry>
   <entry>
     <key>DATURA: You can. I believe in you! And... I need you to believe in me, too. Please. I’ll... make one of those projection pools! It’ll be like I’m still here!</key>
@@ -1553,7 +1553,7 @@
   </entry>
   <entry>
     <key>DATURA: ...Darling. No, of course not. ...It’s not you... It’s... the other Nomai. We don’t really get along well and... I’m... I’m afraid of them... and the things they’ll say to (and about) me when I return.</key>
-    <value>DATURA:あぁ、可愛いむすめよ、違う、決してそんなことはない。…Solanumではなく、そう、他のNomaiだ。俺たちはあまりうまくやれてなくて…俺は…彼らが怖いんだ。俺が帰ったら何を言われるか…。</value>
+    <value>DATURA:あぁ、可愛い娘よ、違う、決してそんなことはない。…Solanumではなく、そう、他のNomaiだ。俺たちはあまりうまくやれてなくて…俺は…彼らが怖いんだ。俺が帰ったら何を言われるか…。&lt;i&gt;&lt;/i&gt;</value>
   </entry>
   <entry>
     <key>SOLANUM: ...They’re not monsters, Dad. Are you sure it’s ’the other Nomai’ you are afraid of? Or... is it just me, Filix and Yarrow you’re worried about?</key>
@@ -1613,7 +1613,7 @@
   </entry>
   <entry>
     <key>DATURA: See you- Friend is their name and they’re not imaginary! ...See you then, darling. Love you!</key>
-    <value>DATURA:それじゃ―Friendはその名前も存在も空想じゃない！…それじゃあね、俺の可愛いむすめよ。愛してるよ！</value>
+    <value>DATURA:それじゃ―Friendはその名前も存在も空想じゃない！…それじゃあね、俺の可愛い娘よ。愛してるよ！&lt;i&gt;&lt;/i&gt;</value>
   </entry>
   <entry>
     <key>SOLANUM: ...Love you too, Dad.</key>
@@ -1705,7 +1705,7 @@
   </entry>
   <entry>
     <key>BELLS: Now? Uh, bad timing for that, I’m afraid. Pye and her pals are off in the Ember Twin shuttle and, uh, your daughter recently went on her quantum pilgrimage.</key>
-    <value>BELLS:今？あー、残念だがタイミングが悪いな。Pyeとその友だちは燃え盛る双子星のシャトルで出かけたし、それに、君のむすめはついさっき量子の巡礼に出かけたところだ。</value>
+    <value>BELLS:今？あー、残念だがタイミングが悪いな。Pyeとその友だちは燃え盛る双子星のシャトルで出かけたし、それに、君の娘はついさっき量子の巡礼に出かけたところだ。&lt;i&gt;&lt;/i&gt;</value>
   </entry>
   <entry>
     <key>DATURA: Already?! But... we planned for us to meet at the Gravity Cannon when she returned...</key>
@@ -2208,7 +2208,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherIn a recording, Datura told his daughter Solanum about the Vessel crash.</key>
-    <value>DaturaがむすめのSolanumに船の墜落のことを話している記録が残されていた。</value>
+    <value>Daturaが娘のSolanumに船の墜落のことを話している記録が残されていた。&lt;i&gt;&lt;/i&gt;</value>
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool HouseA structure next to the Study Tower appears to have broken off and fallen into the planet somewhere.</key>
@@ -2216,7 +2216,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool HouseDatura built a projection pool on an island west of his landing site to be able to talk to his wife and daughter.</key>
-    <value>Daturaはパートナーやむすめと話ができるよう、着陸地点の西にある島にプロジェクションプールを作った。</value>
+    <value>Daturaはパートナーや娘と話ができるよう、着陸地点の西にある島にプロジェクションプールを作った。&lt;i&gt;&lt;/i&gt;</value>
   </table_shipLog>
   <table_shipLog>
     <key>Projection Pool HouseDatura tried to leave Dark Bramble, but both shuttles were in use at that time.</key>

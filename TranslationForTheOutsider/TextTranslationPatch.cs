@@ -18,6 +18,8 @@ namespace TranslationForTheOutsider {
         static Dictionary<string, string> _disc_table;
         static string _bramble_power_station;
         static bool _english;
+        static Font _japanese_dynamic_font;
+        static Font _japanese_font;
 
         [HarmonyPostfix]
         [HarmonyPatch(typeof(TextTranslation), nameof(TextTranslation.SetLanguage))]
@@ -27,11 +29,29 @@ namespace TranslationForTheOutsider {
             _disc_table = null;
             _bramble_power_station = null;
             _english = false;
+            _japanese_dynamic_font = null;
+            _japanese_font = null;
 
             if(lang == TextTranslation.Language.ENGLISH) {
                 TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"the language is English, so not translated.");
                 _english = true;
                 return;
+            }
+            if(lang == TextTranslation.Language.JAPANESE) {
+                _japanese_dynamic_font = TextTranslation.GetFont(true);
+                if(_japanese_dynamic_font == null) {
+                    TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"failed to get japanese dynamic font.");
+                }
+                else {
+                    TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"get japanese dynamic font.");
+                }
+                _japanese_font = TextTranslation.GetFont(false);
+                if(_japanese_font == null) {
+                    TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"failed to get japanese font.");
+                }
+                else {
+                    TranslationForTheOutsider.Instance.ModHelper.Console.WriteLine($"get japanese font.");
+                }
             }
 
             var path = TranslationForTheOutsider.Instance.ModHelper.Manifest.ModFolderPath + $"assets/{lang.GetName().ToLower()}.xml";
@@ -210,6 +230,65 @@ namespace TranslationForTheOutsider {
                 __result = _bramble_power_station;
             }
         }
+
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(ShipLogFactListItem), nameof(ShipLogFactListItem.DisplayText))]
+        public static void ShipLogFactListItem_DisplayText_Posfix(ShipLogFactListItem __instance) {
+            if(_japanese_dynamic_font == null) {
+                return;
+            }
+
+            TranslationForTheOutsider.Instance.Log($"ship log text: {__instance._text.text}");
+        }
+
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(ShipLogFactListItem), nameof(ShipLogFactListItem.UpdateTextReveal))]
+        public static void ShipLogFactListItem_UpdateTextReveal_Postfix(ShipLogFactListItem __instance) {
+            if(_japanese_dynamic_font == null || _japanese_font == null) {
+                return;
+            }
+
+            if(__instance._text.text.Contains("<i>")) {
+                __instance._text.font = _japanese_dynamic_font;
+                //TranslationForTheOutsider.Instance.Log($"font is changed to dynamic font in: {__instance._text.text}");
+            }
+            else {
+                __instance._text.font = _japanese_font;
+            }
+            //TranslationForTheOutsider.Instance.Log($"ship log text in update text reveal: {__instance._text.text}");
+        }
+
+        //// this code change the font of titles of each card in ship log
+        //[HarmonyPrefix]
+        //[HarmonyPatch(typeof(FontAndLanguageController), nameof(FontAndLanguageController.InitializeFont))]
+        //public static void FontAndLanguageController_InitializeFont_Postfix(FontAndLanguageController __instance) {
+        //    if(__instance.name != "ShipLogFontAndLanguageController") {
+        //        return;
+        //    }
+        //    if(_japanese_dynamic_font == null) {
+        //        TranslationForTheOutsider.Instance.Log("oh, null.");
+        //        return;
+        //    }
+        //    if(__instance._textContainerList.Count < 2) {
+        //        TranslationForTheOutsider.Instance.Log("count of text container is less than 2.");
+        //        return;
+        //    }
+
+        //    int countOfConvertedToDynamic = 0;
+        //    for(int i = 90; i < __instance._textContainerList.Count; ++i) {
+        //        var container = __instance._textContainerList[i];
+        //        container.originalFont = _japanese_dynamic_font;
+        //        __instance._textContainerList[i] = container;
+        //        ++countOfConvertedToDynamic;
+        //    }
+
+        //    TranslationForTheOutsider.Instance.Log($"set dynamic font in japanese {countOfConvertedToDynamic} ship log.");
+
+        //    //var textItemList = __instance._textItemList[0];
+        //    //__instance._textContainerList.Add(new FontAndLanguageController.TextContainer {
+        //    //    textElement = 
+        //    //})
+        //}
 
 
         public static string ReadAndRemoveByteOrderMarkFromPath(string path) {
