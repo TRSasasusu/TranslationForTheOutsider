@@ -48,7 +48,7 @@ For Chinese translation, installing [Outer Wilds Chinese Fix](https://outerwilds
 
 Completed! Thank you, [@Korol2038](https://github.com/Korol2038). (See [#3](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/3))
 
-Corrected by [@Svetaleet](https://github.com/Svetaleet) (See [#4](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/4))
+Corrected by [@Svetaleet](https://github.com/Svetaleet) (See [#4](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/4) and [#23](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/23))
 , [@Danielthas1988](https://github.com/Danielthas1988) (See [#10](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/10))
 , and [@Siroptas](https://github.com/Siroptas) (See [#14](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/14))
 , thank you.
@@ -57,7 +57,9 @@ Corrected by [@Svetaleet](https://github.com/Svetaleet) (See [#4](https://github
 
 Completed! Thank you, [@Fighters91](https://github.com/Fighters91). (See [#5](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/5))
 
-Corrected by [@Myalgul](https://github.com/Myalgul). (See [#6](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/6) and [#13](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/13))
+Corrected by [@Myalgul](https://github.com/Myalgul) (See [#6](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/6) and [#13](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/13))
+, and [@Chaxiraxi](https://github.com/Chaxiraxi) (See [#21](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/21))
+, thank you.
 
 ## Other Languages
 
@@ -75,3 +77,6 @@ The Outsider mod has some issues, so this addon mod solves them.
 * [Can't read ATP to DB stone from ATP (The Outsider's Issue) #11](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/11)
 * [Save data corruption problem (The Outsider's Issue) #12](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/12)
 * [The shiplog is bugged, only a title: PLANET NAME is appeared #20](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/20)
+* [Initial Campsite is floating in the air after pulling to Giant's Deep (The Outsider's Issue) #17](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/17)
+* [Fix disappearance of the elevator in Endless Canyon #22](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/22)
+* [Friend should have a big head if the bad marshmallow is eaten #24](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/24)
