@@ -232,16 +232,6 @@ namespace TranslationForTheOutsider {
         }
 
         [HarmonyPostfix]
-        [HarmonyPatch(typeof(ShipLogFactListItem), nameof(ShipLogFactListItem.DisplayText))]
-        public static void ShipLogFactListItem_DisplayText_Posfix(ShipLogFactListItem __instance) {
-            if(_japanese_dynamic_font == null) {
-                return;
-            }
-
-            TranslationForTheOutsider.Instance.Log($"ship log text: {__instance._text.text}");
-        }
-
-        [HarmonyPostfix]
         [HarmonyPatch(typeof(ShipLogFactListItem), nameof(ShipLogFactListItem.UpdateTextReveal))]
         public static void ShipLogFactListItem_UpdateTextReveal_Postfix(ShipLogFactListItem __instance) {
             if(_japanese_dynamic_font == null || _japanese_font == null) {

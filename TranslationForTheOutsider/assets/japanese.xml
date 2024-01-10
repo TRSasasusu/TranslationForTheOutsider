@@ -66,6 +66,10 @@
   <!-- Disc Table: End -->
   <!-- Misc: Start -->
   <entry>
+    <key>WARNING: New Horizons Mod should be disabled when playing The Outsider!!</key>
+    <value>注意:The OutsiderをプレイするときはNew Horizons MODを無効化してください！！</value>
+  </entry>
+  <entry>
     <key>SlateScientist5_Were the structures on Dark Bramble always there?</key>
     <value>闇のイバラの構造物は以前からずっとあったのか？</value>
   </entry>
