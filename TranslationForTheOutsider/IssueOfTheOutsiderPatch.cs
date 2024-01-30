@@ -435,13 +435,16 @@ namespace TranslationForTheOutsider {
 
             clonedCageKinematicRigidbody.enabled = false;
             //TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixing: disabling cloned cage kinematicrigidbody end");
-            //clonedCageOWRigidbody._suspended = true;
+            clonedCageOWRigidbody._suspended = true;
             clonedCageOWRigidbody._suspensionBody = friendElevatorCage.GetComponent<OWRigidbody>()._suspensionBody;
             //TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixing: setting cloned cage owrigidbody suspension settings end");
 
-            clonedCageOWRigidbody._suspended = false;
-            clonedCageOWRigidbody.Suspend();
-            //clonedCageOWRigidbody._childColliders = clonedCage.transform.Find("Structure_IP_Elevator_v2").GetComponentsInChildren<>
+            //clonedCageOWRigidbody._suspended = false;
+            //clonedCageOWRigidbody.Suspend();
+            clonedCageOWRigidbody._childColliders = clonedCage.transform.Find("Structure_IP_Elevator_v2").GetComponentsInChildren<Collider>();
+            foreach(var child in clonedCageOWRigidbody._childColliders) {
+                child.GetComponent<OWCollider>().ListenForParentBodySuspension();
+            }
 
             TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixed");
         }
