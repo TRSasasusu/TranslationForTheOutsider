@@ -39,21 +39,6 @@ namespace TranslationForTheOutsider {
                 }
             };
 
-            //var outsiderHarmony = new Harmony("SBtT.TheOutsider");
-            //if(outsiderHarmony != null) {
-            //    var method = typeof(RingWorldController).GetMethod("OnExitDreamWorld");
-            //    var patches = Harmony.GetPatchInfo(method);
-            //    if(patches == null) {
-            //        TranslationForTheOutsider.Instance.Log("The Outsider's OnExitDreamWorld patches are not existed.");
-            //        return;
-            //    }
-            //    foreach(var patch in patches.Prefixes) {
-            //        TranslationForTheOutsider.Instance.Log($"patch method: {patch.PatchMethod}");
-            //    }
-            //    outsiderHarmony.Unpatch(method, HarmonyPatchType.Prefix);
-            //    TranslationForTheOutsider.Instance.Log("The Outsider's OnExitDreamWorld prefix is removed.");
-            //}
-
             TranslationForTheOutsider.Instance.Log($"{nameof(IssueOfTheOutsiderPatch)} is initialized.");
         }
 
@@ -450,9 +435,13 @@ namespace TranslationForTheOutsider {
 
             clonedCageKinematicRigidbody.enabled = false;
             //TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixing: disabling cloned cage kinematicrigidbody end");
-            clonedCageOWRigidbody._suspended = true;
+            //clonedCageOWRigidbody._suspended = true;
             clonedCageOWRigidbody._suspensionBody = friendElevatorCage.GetComponent<OWRigidbody>()._suspensionBody;
             //TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixing: setting cloned cage owrigidbody suspension settings end");
+
+            clonedCageOWRigidbody._suspended = false;
+            clonedCageOWRigidbody.Suspend();
+            //clonedCageOWRigidbody._childColliders = clonedCage.transform.Find("Structure_IP_Elevator_v2").GetComponentsInChildren<>
 
             TranslationForTheOutsider.Instance.Log("elevator of endless canyon is fixed");
         }
