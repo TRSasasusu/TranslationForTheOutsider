@@ -39,6 +39,21 @@ namespace TranslationForTheOutsider {
                 }
             };
 
+            //var outsiderHarmony = new Harmony("SBtT.TheOutsider");
+            //if(outsiderHarmony != null) {
+            //    var method = typeof(RingWorldController).GetMethod("OnExitDreamWorld");
+            //    var patches = Harmony.GetPatchInfo(method);
+            //    if(patches == null) {
+            //        TranslationForTheOutsider.Instance.Log("The Outsider's OnExitDreamWorld patches are not existed.");
+            //        return;
+            //    }
+            //    foreach(var patch in patches.Prefixes) {
+            //        TranslationForTheOutsider.Instance.Log($"patch method: {patch.PatchMethod}");
+            //    }
+            //    outsiderHarmony.Unpatch(method, HarmonyPatchType.Prefix);
+            //    TranslationForTheOutsider.Instance.Log("The Outsider's OnExitDreamWorld prefix is removed.");
+            //}
+
             TranslationForTheOutsider.Instance.Log($"{nameof(IssueOfTheOutsiderPatch)} is initialized.");
         }
 
@@ -461,5 +476,25 @@ namespace TranslationForTheOutsider {
             }
         }
         // ### End: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/24 ###
+
+        // ### Start: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/28 ###
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(RingWorldController), nameof(RingWorldController.OnExitDreamWorld))]
+        [HarmonyBefore(new string[] {"SBtT.TheOutsider"})]
+        public static bool RingWorldController_OnExitDreamWorld_Prefix(RingWorldController __instance) {
+            var dreamworldController = Locator.GetDreamWorldController();
+            if(dreamworldController._planetBody.gameObject != Locator._ringWorld.gameObject) {
+                //TranslationForTheOutsider.Instance.Log("is NOT ring world");
+                return false;
+            }
+            //TranslationForTheOutsider.Instance.Log("is ring world");
+
+            for(int i = 0; i < __instance._enterOnWakeVolumes.Length; ++i) {
+                __instance._enterOnWakeVolumes[i].AddObjectToVolume(Locator.GetPlayerDetector());
+                __instance._enterOnWakeVolumes[i].AddObjectToVolume(Locator.GetPlayerCameraDetector());
+            }
+            return false;
+        }
+        // ### End: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/28 ###
     }
 }
