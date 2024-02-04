@@ -517,7 +517,7 @@ namespace TranslationForTheOutsider {
                 }
             }
 
-            TranslationForTheOutsider.Instance.Log("before pulling");
+            //TranslationForTheOutsider.Instance.Log("before pulling");
             while(true) {
                 yield return null;
                 var dist = (giantsDeep.transform.position - darkBramble.transform.position).magnitude;
@@ -526,11 +526,11 @@ namespace TranslationForTheOutsider {
                 }
             }
 
-            TranslationForTheOutsider.Instance.Log("start pulling");
+            //TranslationForTheOutsider.Instance.Log("start pulling");
             if(SleepingAtDBFire()) {
                 yield break;
             }
-            TranslationForTheOutsider.Instance.Log("start tuning gravity");
+            //TranslationForTheOutsider.Instance.Log("start tuning gravity");
 
             // See https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/blob/1e30bffea6ed17b7d801267707099e95ea2e4482/TheOutsider/OuterWildsHandling/GiantsDeepGravityEffects.cs#L141-L169
             var gravity = GameObject.Find("Sector_DreamWorld/Volumes_DreamWorld/DreamWorldVolume").GetComponent<DirectionalForceVolume>();
@@ -554,7 +554,7 @@ namespace TranslationForTheOutsider {
         [HarmonyPatch(typeof(OWAudioSource), nameof(OWAudioSource.PlayOneShot), new[] {typeof(AudioClip)})]
         public static bool OWAudioSource_PlayOneShot_Prefix(OWAudioSource __instance) {
             if(__instance.name == "SOUND_CREAK_0" && __instance.transform.parent && __instance.transform.parent.parent && __instance.transform.parent.parent.name == "Outsider Dream Root" && !SleepingAtDBFire()) {
-                TranslationForTheOutsider.Instance.Log("avoid playoneshot");
+                //TranslationForTheOutsider.Instance.Log("avoid playoneshot");
                 return false;
             }
             return true;
@@ -563,7 +563,7 @@ namespace TranslationForTheOutsider {
         [HarmonyPatch(typeof(OWAudioSource), nameof(OWAudioSource.Play), new Type[] {})]
         public static bool OWAudioSource_Play_Prefix(OWAudioSource __instance) {
             if(__instance.name == "SOUND_CREAK_0" && __instance.transform.parent && __instance.transform.parent.parent && __instance.transform.parent.parent.name == "Outsider Dream Root" && !SleepingAtDBFire()) {
-                TranslationForTheOutsider.Instance.Log("avoid play");
+                //TranslationForTheOutsider.Instance.Log("avoid play");
                 return false;
             }
             return true;
