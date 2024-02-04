@@ -81,3 +81,4 @@ The Outsider mod has some issues, so this addon mod solves them.
 * [Fix disappearance of the elevator in Endless Canyon #22](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/22)
 * [Friend should have a big head if the bad marshmallow is eaten #24](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/24)
 * [Waking up in the Stranger causes no oxygen and probabilistic death (The Outsider's Issue) #28](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/28)
+* [Sun is still killing me even though I'm on the Stranger #29](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/29)
