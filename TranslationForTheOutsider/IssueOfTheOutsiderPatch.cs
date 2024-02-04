@@ -31,11 +31,18 @@ namespace TranslationForTheOutsider {
                         _tuneStatureIslandColliderCoroutine = null;
                     }
                     _tuneStatureIslandColliderCoroutine = TranslationForTheOutsider.Instance.StartCoroutine(TuneStatureIslandCollider());
+
                     if(_fixEndlessCanyonElevatorCoroutine != null) {
                         TranslationForTheOutsider.Instance.StopCoroutine(_fixEndlessCanyonElevatorCoroutine);
                         _fixEndlessCanyonElevatorCoroutine = null;
                     }
                     _fixEndlessCanyonElevatorCoroutine = TranslationForTheOutsider.Instance.StartCoroutine(FixEndlessCanyonElevator());
+
+                    if(_fixDreamGravityinatorCoroutine != null) {
+                        TranslationForTheOutsider.Instance.StopCoroutine(_fixDreamGravityinatorCoroutine);
+                        _fixDreamGravityinatorCoroutine = null;
+                    }
+                    _fixDreamGravityinatorCoroutine = TranslationForTheOutsider.Instance.StartCoroutine(FixDreamGravityinator());
                 }
             };
 
@@ -488,5 +495,88 @@ namespace TranslationForTheOutsider {
             return false;
         }
         // ### End: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/28 ###
+
+        // ### Start: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/29 ###
+        static bool SleepingAtDBFire() => Locator.GetDreamWorldController().IsPlayerSleepingAtLocation((DreamArrivalPoint.Location)450); // See https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/blob/1e30bffea6ed17b7d801267707099e95ea2e4482/TheOutsider/OutsiderHandling/OutsiderConstants.cs#L6 and https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/blob/1e30bffea6ed17b7d801267707099e95ea2e4482/TheOutsider/OuterWildsHandling/OWPatches.cs#L478
+        static Coroutine _fixDreamGravityinatorCoroutine = null;
+        static IEnumerator FixDreamGravityinator() {
+            AstroObject darkBramble;
+            while(true) {
+                yield return null;
+                darkBramble = Locator._darkBramble;
+                if(darkBramble) {
+                    break;
+                }
+            }
+            AstroObject giantsDeep;
+            while(true) {
+                yield return null;
+                giantsDeep = Locator._giantsDeep;
+                if(giantsDeep) {
+                    break;
+                }
+            }
+
+            TranslationForTheOutsider.Instance.Log("before pulling");
+            while(true) {
+                yield return null;
+                var dist = (giantsDeep.transform.position - darkBramble.transform.position).magnitude;
+                if(dist < 4250f) { // See https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/blob/1e30bffea6ed17b7d801267707099e95ea2e4482/TheOutsider/OuterWildsHandling/GiantsDeepGravityEffects.cs#L26
+                    break;
+                }
+            }
+
+            TranslationForTheOutsider.Instance.Log("start pulling");
+            if(SleepingAtDBFire()) {
+                yield break;
+            }
+            TranslationForTheOutsider.Instance.Log("start tuning gravity");
+
+            // See https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/blob/1e30bffea6ed17b7d801267707099e95ea2e4482/TheOutsider/OuterWildsHandling/GiantsDeepGravityEffects.cs#L141-L169
+            var gravity = GameObject.Find("Sector_DreamWorld/Volumes_DreamWorld/DreamWorldVolume").GetComponent<DirectionalForceVolume>();
+            var defaultValue = gravity._fieldMagnitude;
+            var time = 0f;
+            while(time < 20 + 30 + 30) {
+                yield return null;
+                if(!gravity) {
+                    break;
+                }
+                gravity._fieldMagnitude = defaultValue;
+                gravity._affectsAlignment = true;
+                time += Time.deltaTime;
+            }
+        }
+
+        //[HarmonyPrefix]
+        //[HarmonyPatch(typeof(SunController), nameof(SunController.OnTriggerSupernova))]
+        //public static void SunController_OnTriggerSupernova_Prefix() 
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(OWAudioSource), nameof(OWAudioSource.PlayOneShot), new[] {typeof(AudioClip)})]
+        public static bool OWAudioSource_PlayOneShot_Prefix(OWAudioSource __instance) {
+            if(__instance.name == "SOUND_CREAK_0" && __instance.transform.parent && __instance.transform.parent.parent && __instance.transform.parent.parent.name == "Outsider Dream Root" && !SleepingAtDBFire()) {
+                TranslationForTheOutsider.Instance.Log("avoid playoneshot");
+                return false;
+            }
+            return true;
+        }
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(OWAudioSource), nameof(OWAudioSource.Play), new Type[] {})]
+        public static bool OWAudioSource_Play_Prefix(OWAudioSource __instance) {
+            if(__instance.name == "SOUND_CREAK_0" && __instance.transform.parent && __instance.transform.parent.parent && __instance.transform.parent.parent.name == "Outsider Dream Root" && !SleepingAtDBFire()) {
+                TranslationForTheOutsider.Instance.Log("avoid play");
+                return false;
+            }
+            return true;
+        }
+
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(DreamExplosionController), nameof(DreamExplosionController.FixedUpdate))]
+        public static bool DreamExplosionController_FixedUpdate_Prefix(DreamExplosionController __instance) {
+            if (__instance.transform.parent && __instance.transform.parent.parent && __instance.transform.parent.parent.parent && __instance.transform.parent.parent.parent.name == "Friends Dream House" && !SleepingAtDBFire()) {
+                return false;
+            }
+            return true;
+        }
+        // ### End: Deal with https://github.com/TRSasasusu/TranslationForTheOutsider/issues/29 ###
     }
 }
