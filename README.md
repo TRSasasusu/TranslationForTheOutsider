@@ -48,7 +48,7 @@ For Chinese translation, installing [Outer Wilds Chinese Fix](https://outerwilds
 
 Completed! Thank you, [@Korol2038](https://github.com/Korol2038). (See [#3](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/3))
 
-Corrected by [@Svetaleet](https://github.com/Svetaleet) (See [#4](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/4) and [#23](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/23))
+Corrected by [@Svetaleet](https://github.com/Svetaleet) (See [#4](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/4), [#23](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/23), and [#31](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/31))
 , [@Danielthas1988](https://github.com/Danielthas1988) (See [#10](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/10))
 , and [@Siroptas](https://github.com/Siroptas) (See [#14](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/14))
 , thank you.
