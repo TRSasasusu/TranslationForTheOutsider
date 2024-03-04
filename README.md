@@ -16,7 +16,7 @@ TOC
 
 The sample is here: [English Slate](fig/screenshot_slate_english.png) -> [Japanese Slate](fig/screenshot_slate_japanese.png) (this is a SPOILER, so I don't display these images directly ;;) )
 
-Now, JA, pt-BR, zh-CN, RU, FR, and DE are available;
+Now, JA, pt-BR, zh-CN, RU, FR, DE and IT are available;
 **Making other language translation is welcoming!** Please read [Other Languages](#other-languages) for details.
 
 ## EN -> JA
@@ -64,6 +64,10 @@ Corrected by [@Myalgul](https://github.com/Myalgul) (See [#6](https://github.com
 ## EN -> DE
 
 Completed! Thank you, [@Derko8](https://github.com/Derko8). (See [#32](https://github.com/TRSasasusu/TranslationForTheOutsider/pull/32))
+
+## EN -> IT
+
+Completed! Thank you, [@NerYtheLonesomeHearthian](https://github.com/NerYtheLonesomeHearthian). (See [#33](https://github.com/TRSasasusu/TranslationForTheOutsider/issues/33))
 
 ## Other Languages
 
