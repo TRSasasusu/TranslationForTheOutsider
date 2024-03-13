@@ -15,7 +15,7 @@
   <ItemGroup>
     <PackageReference Include="OWML" Version="2.9.0" />
     <PackageReference Include="OuterWildsGameLibs" Version="1.1.14.768" />
-	  <Reference Include="libs/TheOutsider.dll" />
+    <Reference Include="libs/TheOutsider.dll" />
   </ItemGroup>
   <ItemGroup>
     <None Include="default-config.json">
@@ -53,7 +53,7 @@
     <None Update="assets\spanish_la.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-	  <None Update="assets\TheOutsiderLogo.png">
+    <None Update="assets\TheOutsiderLogo.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
