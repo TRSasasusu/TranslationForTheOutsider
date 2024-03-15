@@ -1,4 +1,7 @@
-# Translation and Patches for The Outsider
+**This mod is now deprecated and archived because it is already integrated into [The Outsider](https://outerwildsmods.com/mods/theoutsider/) itself! (See https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/pull/13)**
+Therefore, if you have an issue or new translations, please directly go to [The Outsider GitHub repository](https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider). I or other contributors would respond you.
+
+# Translation and Patches for The Outsider (ARCHIVED)
 
 This Outer Wilds MOD is designed as a UNIVERSAL translation addon and some patches for [The Outsider mod](https://outerwildsmods.com/mods/theoutsider/).
 
